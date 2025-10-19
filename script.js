@@ -35,7 +35,7 @@ const articlesContainer = document.getElementById('articlesContainer');
 const loadingMessage = document.getElementById('loadingMessage');
 const searchInput = document.getElementById('searchInput');
 const refreshBtn = document.getElementById('refreshBtn');
-const totalCountEl = document.getElementById('totalCount');
+const totalCountEl = document.getElementById('totalCount'); // may be null in simplified UI
 // add-feed UI removed from HTML; dynamic management remains via code/config
 const clearKnownBtn = document.getElementById('clearKnownBtn');
 const proxySelect = document.getElementById('proxySelect');
@@ -188,8 +188,9 @@ async function fetchWithTimeout(resource, { timeout = 8000 } = {}){
 }
 
 async function fetchAllFeeds(){
-  loadingMessage.style.display = 'block';
-  loadingMessage.textContent = 'Ładowanie kanałów...';
+  // show spinner while loading; loadingMessage may be absent in simplified UI
+  showSpinner();
+  if(loadingMessage){ loadingMessage.style.display = 'block'; loadingMessage.textContent = 'Ładowanie kanałów...'; }
   const entries = Object.entries(FEEDS);
   const failed = [];
   // diagnostics removed: we only update loadingMessage for errors
@@ -253,14 +254,14 @@ async function fetchAllFeeds(){
 
   if(failed.length){
     const failedNames = failed.map(f => `${f.name} (${f.reason})`).join(', ');
-    loadingMessage.style.display = 'block';
-    loadingMessage.textContent = 'Niektóre kanały nie odpowiedziały: ' + failedNames + '. Sprawdź konsolę (Ctrl+Shift+I) lub popraw URL.';
+    console.warn('Niektóre kanały nie odpowiedziały: ' + failedNames + '. Sprawdź konsolę (Ctrl+Shift+I) lub popraw URL.');
     console.warn('Szczegóły nieudanych feedów:', failed);
-  }else{
-    loadingMessage.style.display = 'none';
   }
 
   populateSourceSelect();
+  // hide loading UI
+  if(loadingMessage) loadingMessage.style.display = 'none';
+  hideSpinner();
   // no 'all' checkbox anymore; the multi-select will be populated
   const total = allArticles.length;
   console.info(`Suma sparsowanych artykułów: ${total}`);
@@ -272,16 +273,13 @@ async function fetchAllFeeds(){
 // UI handlers
 // add-feed handler removed (UI removed). To add feeds, modify the FEEDS constant or use localStorage directly.
 
-clearKnownBtn.addEventListener('click', () => {
-  knownGood = {};
-  localStorage.removeItem(KNOWN_GOOD_KEY);
-  alert('Wyczyszczono cache znanych URL-e.');
-});
+// clearKnownBtn removed from UI — keep function reachable from console if needed
+window.clearKnownCache = function(){ knownGood = {}; localStorage.removeItem(KNOWN_GOOD_KEY); console.info('Wyczyszczono cache znanych URL-e (z konsoli).'); };
 
 // pagination-aware render wrapper
 const originalRenderArticles = renderArticles;
 window.renderArticles = function(list){
-  totalCountEl.textContent = list ? list.length : 0;
+  if(totalCountEl) totalCountEl.textContent = list ? list.length : 0;
   const totalPages = Math.max(1, Math.ceil((list ? list.length : 0) / pageSize));
   if(currentPage > totalPages) currentPage = totalPages;
   const start = (currentPage - 1) * pageSize;
@@ -325,16 +323,8 @@ function setupInfiniteObserver(){
   infiniteObserver.observe(infiniteSentinel);
 }
 
-// Hook toggle control
-if(infiniteToggle){
-  infiniteToggle.checked = true;
-  infiniteToggle.addEventListener('change', () => {
-    infiniteScrollEnabled = !!infiniteToggle.checked;
-    const hint = document.getElementById('infiniteHint');
-    if(hint) hint.textContent = `Infinite scroll: ${infiniteScrollEnabled ? 'włączony' : 'wyłączony'}`;
-    if(infiniteScrollEnabled){ setupInfiniteObserver(); } else { if(infiniteObserver) infiniteObserver.disconnect(); }
-  });
-}
+// Infinite scroll always enabled in simplified UI
+infiniteScrollEnabled = true;
 
 // create observer after DOMContentLoaded / initial render
 window.addEventListener('load', () => {
@@ -475,21 +465,14 @@ function escapeHtml(s){
 
 // Events
 searchInput.addEventListener('input', () => applyFilters());
-refreshBtn.addEventListener('click', async () => { resetPagination(); loadingMessage.style.display='block'; loadingMessage.textContent='Odświeżanie...'; await fetchAllFeeds(); });
+if(refreshBtn){
+  refreshBtn.addEventListener('click', async () => { resetPagination(); showSpinner(); if(loadingMessage){ loadingMessage.style.display='block'; loadingMessage.textContent='Odświeżanie...'; } await fetchAllFeeds(); hideSpinner(); });
+}
 
 // Start
 window.addEventListener('DOMContentLoaded', async () => {
   try{
-    // if local proxy selected, do a quick ping to see if it's up
-    if(proxySelect && proxySelect.value === 'local'){
-      try{
-        const ping = await fetchWithTimeout('http://localhost:3000/proxy?url=' + encodeURIComponent('https://example.com'), { timeout: 2000 });
-        if(!ping.ok) throw new Error('proxy ping failed');
-      }catch(e){
-        loadingMessage.textContent = 'Lokalne proxy nie odpowiada — wybierz Publicne proxy lub uruchom proxy.js';
-        console.warn('Local proxy ping failed:', e && e.message);
-      }
-    }
+    // proxy selection removed from UI; always use public proxies list
     // Try loading cached articles.json for instant display (generated by server or CI)
     try{
       const cached = await fetch('articles.json', { cache: 'no-store' });
@@ -523,7 +506,8 @@ window.addEventListener('DOMContentLoaded', async () => {
     }
   }catch(err){
     console.error('Init error', err);
-    loadingMessage.textContent = 'Błąd podczas ładowania (sprawdź konsolę).';
+    if(loadingMessage) loadingMessage.textContent = 'Błąd podczas ładowania (sprawdź konsolę).';
+    hideSpinner();
   }
 });
 

@@ -14,51 +14,30 @@
 
   <main>
     <section class="controls">
-  <input id="searchInput" type="search" placeholder="Szukaj (tytuł)..." />
-        <div id="sourceSelectContainer" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
-          <div style="display:flex;flex-direction:column;gap:6px">
-            <label style="font-weight:600">Wszystkie źródła</label>
-            <div class="source-dropdown">
-              <div id="sourceDropdown" class="source-dropdown-label" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
-                <span id="sourceDropdownLabel">Wszystkie źródła</span>
-                <span style="margin-left:8px;color:#6b7280">▾</span>
-              </div>
-              <div id="sourcePanel" class="source-panel" style="display:none">
-                <div id="sourcePanelList"></div>
-                <div class="source-panel-controls">
-                  <button id="selectAllBtn" type="button">Zaznacz wszystkie</button>
-                  <button id="clearAllBtn" type="button" class="secondary">Wyczyść</button>
-                </div>
+      <input id="searchInput" type="search" placeholder="Szukaj (tytuł)..." />
+      <div id="sourceSelectContainer" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+        <div style="display:flex;flex-direction:column;gap:6px">
+          <label style="font-weight:600">Wszystkie źródła</label>
+          <div class="source-dropdown">
+            <div id="sourceDropdown" class="source-dropdown-label" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
+              <span id="sourceDropdownLabel">Wszystkie źródła</span>
+              <span style="margin-left:8px;color:#6b7280">▾</span>
+            </div>
+            <div id="sourcePanel" class="source-panel" style="display:none">
+              <div id="sourcePanelList"></div>
+              <div class="source-panel-controls">
+                <button id="selectAllBtn" type="button">Zaznacz wszystkie</button>
+                <button id="clearAllBtn" type="button" class="secondary">Wyczyść</button>
               </div>
             </div>
           </div>
         </div>
-    <button id="refreshBtn">Odśwież</button>
-      <div style="display:flex;gap:8px;align-items:center">
-        <span id="totalCount" style="font-weight:700;">0</span>
-        <span style="color:#6b7280;font-size:13px">artykułów</span>
       </div>
-    </section>
-
-    <section class="controls" style="margin-top:8px">
-      <button id="clearKnownBtn" title="Wyczyść zapamiętane działające URL-e">Wyczyść cache URL</button>
-      <select id="proxySelect" title="Wybierz proxy CORS">
-        <option value="public" selected>Publiczne proxy</option>
-       
-      </select>
     </section>
 
      <!-- lokalne proxy usunięte z UI; używamy publicznych proxy przez default -->
 
-    <div id="paginationControls" style="max-width:1100px;margin:8px auto;display:flex;gap:12px;align-items:center;padding:0 16px">
-      <div id="pageStatus" style="color:#6b7280;font-size:13px">Strona 1</div>
-      <label style="margin-left:auto;display:flex;align-items:center;gap:8px;color:#6b7280;font-size:13px">
-        <input id="infiniteToggle" type="checkbox" checked />
-        <span id="infiniteHint">Infinite scroll: włączony</span>
-      </label>
-    </div>
-
-    <div id="loadingMessage" class="loading">Ładowanie...</div>
+    <!-- pagination and manual loading controls removed; infinite scroll is always on -->
     <section id="articlesContainer" class="news-grid" aria-live="polite"></section>
     <!-- sentinel for intersection observer to trigger loading more -->
     <div id="infiniteSentinel" style="height:1px"></div>
