@@ -24,8 +24,22 @@ jobs:
           node-version: '18'
       - name: Install
         run: npm ci
-      - name: Run prefetch
-        run: npm run prefetch
+      - name: Run prefetch (with debug)
+        run: |
+          echo "Node version:" && node -v
+          echo "NPM version:" && npm -v
+          echo "Workspace:" && pwd && ls -la
+          echo "Running prefetch..."
+          # run the script directly to get raw output
+          node scripts/prefetch.js
+          rc=$?
+          if [ $rc -ne 0 ]; then
+            echo "prefetch exited with code $rc"
+            echo "--- current dir listing ---" && ls -la
+            echo "--- tail of possible logs ---"
+            test -f npm-debug.log && tail -n +1 npm-debug.log || true
+            exit $rc
+          fi
       - name: Commit and push articles.json to main (for Pages)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
