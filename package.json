@@ -5,13 +5,15 @@
   "main": "proxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "proxy": "node proxy.js"
+    "proxy": "node proxy.js",
+    "prefetch": "node scripts/prefetch.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.2",
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.7.0",
+    "fast-xml-parser": "^4.2.4"
   }
 }

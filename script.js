@@ -48,12 +48,9 @@ if(proxySelect){
   proxyInstructions.textContent = proxySelect.value === 'local' ? 'Wybrano lokalne proxy (localhost:3000)' : 'Używane są publiczne proxy.';
 }
 
-// diagnostics visibility preference
-const DIAG_PREF_KEY = 'diagVisible';
-let diagVisible = localStorage.getItem(DIAG_PREF_KEY) === '1';
+// diagnostics UI removed for production
 
 // pagination UI elements (may be null during tests)
-const showMoreBtn = document.getElementById('showMoreBtn');
 const pageStatus = document.getElementById('pageStatus');
 
 let allArticles = [];
@@ -75,6 +72,11 @@ let sessionCache = JSON.parse(sessionStorage.getItem(SESSION_CACHE_KEY) || '{}')
 let pageSize = 20;
 let currentPage = 1;
 let currentFiltered = [];
+let infiniteScrollEnabled = true;
+let infiniteObserver = null;
+const infiniteToggle = document.getElementById('infiniteToggle');
+const infiniteSentinel = document.getElementById('infiniteSentinel');
+const spinner = document.getElementById('spinner');
 
 function safeText(node){
   return node ? node.textContent.trim() : '';
@@ -186,26 +188,8 @@ async function fetchAllFeeds(){
   loadingMessage.textContent = 'Ładowanie kanałów...';
   const entries = Object.entries(FEEDS);
   const failed = [];
-  // create or reset diagnostics panel
-  let diag = document.getElementById('feedDiagnostics');
-  if(!diag){
-    diag = document.createElement('div');
-    diag.id = 'feedDiagnostics';
-    diag.style.maxWidth = '1100px';
-    diag.style.margin = '8px auto';
-    diag.style.padding = '8px 16px';
-    diag.style.fontSize = '13px';
-    diag.style.color = '#333';
-    diag.style.background = 'rgba(255,255,255,0.9)';
-    diag.style.border = '1px solid #eee';
-    diag.style.borderRadius = '8px';
-    const parent = loadingMessage.parentNode;
-    parent.insertBefore(diag, loadingMessage.nextSibling);
-  }
-  diag.innerHTML = '<strong>Diagnostyka kanałów:</strong><ul id="diagList" style="margin:6px 0 0 16px;padding:0"></ul>';
-  const diagList = diag.querySelector('#diagList');
-  // apply saved visibility preference
-  diag.style.display = diagVisible ? 'block' : 'none';
+  // diagnostics removed: we only update loadingMessage for errors
+  const diagList = null;
 
   // Process feeds sequentially (avoid big parallel bursts that cause proxy failures)
   const results = [];
@@ -241,16 +225,16 @@ async function fetchAllFeeds(){
           try{
             const docTmp = new DOMParser().parseFromString(text, 'text/xml');
             const nodeCount = (docTmp.querySelectorAll && docTmp.querySelectorAll('item, entry')) ? docTmp.querySelectorAll('item, entry').length : 0;
-            const snippet = text.slice(0, 800).replace(/</g,'&lt;').replace(/>/g,'&gt;');
-            diagList.insertAdjacentHTML('beforeend', `<li style="margin-bottom:6px">${name}: <strong>OK</strong> (plik ${text.length}b) — użyto: ${url} — wykryto node item/entry: ${nodeCount}<br><details style="margin-top:6px"><summary style="cursor:pointer">Pokaż fragment XML (${Math.min(800, text.length)}b)</summary><pre style="white-space:pre-wrap;max-height:180px;overflow:auto;padding:8px;background:#fff;border-radius:6px;border:1px solid #eee">${snippet}</pre></details></li>`);
+            // diagnostics removed: keep console info minimal
+            console.debug(`${name}: OK — użyto ${url} — wykryto node item/entry: ${nodeCount}`);
           }catch(e){
-            diagList.insertAdjacentHTML('beforeend', `<li style="margin-bottom:6px">${name}: <strong>OK</strong> (plik ${text.length}b) — użyto: ${url} — nie udało się sparsować podglądu: ${e.message}</li>`);
+            console.debug(`${name}: OK, ale nie udało się sparsować podglądu: ${e.message}`);
           }
           knownGood[name] = url;
           localStorage.setItem(KNOWN_GOOD_KEY, JSON.stringify(knownGood));
           break;
         } else {
-          diagList.insertAdjacentHTML('beforeend', `<li style="margin-bottom:6px">${name}: nie-XML przy ${url}</li>`);
+          console.debug(`${name}: odpowiedź nie wygląda jak XML przy ${url}`);
         }
       }catch(e){
         // Log each proxy error only once to reduce console spam
@@ -258,7 +242,7 @@ async function fetchAllFeeds(){
           console.warn('Proxy failed for', url, e.message);
           loggedProxyErrors.add(e.message);
         }
-        diagList.insertAdjacentHTML('beforeend', `<li style="margin-bottom:6px">${name}: błąd przy ${url} — ${e.message}</li>`);
+  console.debug(`${name}: błąd przy ${url} — ${e.message}`);
         // try next candidate
       }
     }
@@ -268,7 +252,7 @@ async function fetchAllFeeds(){
       continue;
     }
     const parsed = parseFeedXml(xml, name);
-    diagList.insertAdjacentHTML('beforeend', `<li style="margin-bottom:6px;color:#006400">${name}: sparsowano ${parsed.length} elementów</li>`);
+    console.debug(`${name}: sparsowano ${parsed.length} elementów`);
     results.push(parsed);
   }
   allArticles = results.flat().sort((a,b) => {
@@ -288,13 +272,8 @@ async function fetchAllFeeds(){
 
   populateSourceSelect();
   // no 'all' checkbox anymore; the multi-select will be populated
-  // diagnostics: total parsed
   const total = allArticles.length;
-  diagList.insertAdjacentHTML('beforeend', `<li style="margin-top:8px;font-weight:600">Suma sparsowanych artykułów: ${total}</li>`);
-  if(total > 0){
-    const sample = allArticles.slice(0,5).map(a => a.title).filter(Boolean);
-    diagList.insertAdjacentHTML('beforeend', `<li>Przykłady: <ul style="margin:4px 0 0 16px">${sample.map(s=>`<li>${s}</li>`).join('')}</ul></li>`);
-  }
+  console.info(`Suma sparsowanych artykułów: ${total}`);
   // set current filtered to full list and render
   currentFiltered = allArticles.slice();
   renderArticles(currentFiltered);
@@ -336,17 +315,57 @@ window.renderArticles = function(list){
     articlesContainer.appendChild(fragment);
   }
   if(pageStatus) pageStatus.textContent = `Strona ${currentPage} / ${totalPages}`;
-  if(showMoreBtn) showMoreBtn.style.display = (currentPage >= totalPages) ? 'none' : 'inline-block';
 };
 
-// Show more handler
-if(showMoreBtn){
-  showMoreBtn.addEventListener('click', () => {
-    currentPage += 1;
-    // render next page and append
-    renderArticles(currentFiltered);
+function showSpinner(){ if(spinner) spinner.style.display = 'block'; }
+function hideSpinner(){ if(spinner) spinner.style.display = 'none'; }
+
+function setupInfiniteObserver(){
+  if(!infiniteSentinel || !('IntersectionObserver' in window)) return;
+  // disconnect existing
+  if(infiniteObserver){ infiniteObserver.disconnect(); infiniteObserver = null; }
+  infiniteObserver = new IntersectionObserver((entries) => {
+    entries.forEach(ent => {
+      if(!ent.isIntersecting) return;
+      if(!infiniteScrollEnabled) return;
+      // determine if there is another page
+      const totalPages = Math.max(1, Math.ceil((currentFiltered ? currentFiltered.length : 0) / pageSize));
+      if(currentPage >= totalPages) return;
+      // show spinner briefly and load next page
+      showSpinner();
+      // small delay to allow spinner to render
+      setTimeout(() => {
+        currentPage += 1;
+        renderArticles(currentFiltered);
+        hideSpinner();
+      }, 200);
+    });
+  }, { root: null, rootMargin: '300px', threshold: 0 });
+  infiniteObserver.observe(infiniteSentinel);
+}
+
+// Hook toggle control
+if(infiniteToggle){
+  infiniteToggle.checked = true;
+  infiniteToggle.addEventListener('change', () => {
+    infiniteScrollEnabled = !!infiniteToggle.checked;
+    const hint = document.getElementById('infiniteHint');
+    if(hint) hint.textContent = `Infinite scroll: ${infiniteScrollEnabled ? 'włączony' : 'wyłączony'}`;
+    if(infiniteScrollEnabled){ setupInfiniteObserver(); } else { if(infiniteObserver) infiniteObserver.disconnect(); }
   });
 }
+
+// create observer after DOMContentLoaded / initial render
+window.addEventListener('load', () => {
+  // small timeout to ensure articles are rendered
+  setTimeout(() => {
+    setupInfiniteObserver();
+  }, 300);
+});
+
+// 'Pokaż więcej' button removed from UI; infinite scroll and pageStatus handle pagination
+
+// old scroll-based infinite loader removed in favour of IntersectionObserver
 
 function resetPagination(){
   currentPage = 1;
@@ -396,18 +415,7 @@ function populateSourceSelect(){
 }
 
 // diagnostics toggle: hide by default (toggle button wiring)
-const toggleDiagBtn = document.getElementById('toggleDiagBtn');
-if(toggleDiagBtn){
-  // set initial label according to saved preference
-  toggleDiagBtn.textContent = diagVisible ? 'Ukryj diagnostykę' : 'Pokaż diagnostykę';
-  toggleDiagBtn.addEventListener('click', () => {
-    diagVisible = !diagVisible;
-    const diag = document.getElementById('feedDiagnostics');
-    if(diag) diag.style.display = diagVisible ? 'block' : 'none';
-    toggleDiagBtn.textContent = diagVisible ? 'Ukryj diagnostykę' : 'Pokaż diagnostykę';
-    localStorage.setItem(DIAG_PREF_KEY, diagVisible ? '1' : '0');
-  });
-}
+// diagnostic toggle removed from UI
 
 function createCard(a){
   const card = document.createElement('article');
@@ -500,7 +508,20 @@ window.addEventListener('DOMContentLoaded', async () => {
         console.warn('Local proxy ping failed:', e && e.message);
       }
     }
-    await fetchAllFeeds();
+    // Try loading cached articles.json for instant display (generated by server or CI)
+    try{
+      const cached = await fetch('articles.json', { cache: 'no-store' });
+      if(cached.ok){
+        const data = await cached.json();
+        if(Array.isArray(data) && data.length){
+          allArticles = data.slice();
+          currentFiltered = allArticles.slice();
+          renderArticles(currentFiltered);
+        }
+      }
+    }catch(e){ /* ignore cached load errors */ }
+    // Refresh feeds in background to update session cache / client view
+    fetchAllFeeds();
   }catch(err){
     console.error('Init error', err);
     loadingMessage.textContent = 'Błąd podczas ładowania (sprawdź konsolę).';

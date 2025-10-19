@@ -52,6 +52,9 @@ body{
   background:var(--card); border-radius:10px; box-shadow:0 6px 18px rgba(16,24,40,0.06);
   overflow:hidden; display:flex; flex-direction:column; min-height:160px;
 }
+/* show hand cursor over article cards to indicate clickability */
+.card{ cursor: pointer }
+.card:focus{ outline:2px solid rgba(10,102,194,0.2); outline-offset:2px }
 .card-inner{display:flex; gap:12px; padding:14px; align-items:flex-start}
 .card img{width:130px;height:90px;object-fit:cover;border-radius:6px;background:#eee}
 .card-content{flex:1;display:flex;flex-direction:column}
