@@ -76,7 +76,8 @@ function extractItemsFromParsed(parsed){
   // sort
   results.sort((a,b) => new Date(b.pubDate || 0) - new Date(a.pubDate || 0));
   try{
-    fs.writeFileSync(outFile, JSON.stringify(results, null, 2), 'utf8');
+    const payload = { generatedAt: new Date().toISOString(), items: results };
+    fs.writeFileSync(outFile, JSON.stringify(payload, null, 2), 'utf8');
     console.log('Wrote', outFile, 'items:', results.length);
   }catch(e){
     console.error('Write failed', e && e.message);

@@ -512,16 +512,28 @@ window.addEventListener('DOMContentLoaded', async () => {
     try{
       const cached = await fetch('articles.json', { cache: 'no-store' });
       if(cached.ok){
-        const data = await cached.json();
-        if(Array.isArray(data) && data.length){
-          allArticles = data.slice();
+        const payload = await cached.json();
+        const items = payload && payload.items ? payload.items : (Array.isArray(payload) ? payload : []);
+        const gen = payload && payload.generatedAt ? new Date(payload.generatedAt) : null;
+        const now = new Date();
+  const TTL_MIN = 5; // minutes
+        if(items && items.length){
+          allArticles = items.slice();
           currentFiltered = allArticles.slice();
           renderArticles(currentFiltered);
         }
+        // If cache is stale, refresh in background; otherwise skip heavy fetches for now
+        if(!gen || ((now - gen) / 60000) > TTL_MIN){
+          // refresh in background
+          fetchAllFeeds();
+        } else {
+          console.info('Using cached articles.json (fresh). Skipping full refresh.');
+        }
       }
-    }catch(e){ /* ignore cached load errors */ }
-    // Refresh feeds in background to update session cache / client view
-    fetchAllFeeds();
+    }catch(e){
+      console.warn('Failed to load cached articles.json', e && e.message);
+      try{ fetchAllFeeds(); }catch(e2){}
+    }
   }catch(err){
     console.error('Init error', err);
     loadingMessage.textContent = 'Błąd podczas ładowania (sprawdź konsolę).';

@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   workflow_dispatch: {}
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: '*/5 * * * *' # every 5 minutes
 
 jobs:
   prefetch:
