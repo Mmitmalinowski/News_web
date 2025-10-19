@@ -7,11 +7,17 @@ on:
   schedule:
     - cron: '*/5 * * * *' # every 5 minutes
 
+permissions:
+  contents: write
+
 jobs:
   prefetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -29,6 +35,8 @@ jobs:
           git add articles.json || true
           if ! git diff --staged --quiet; then
             git commit -m "chore: update articles.json (prefetch)"
+            # ensure remote uses token for auth in case default credentials are not persisted
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
             git push origin HEAD:main
           else
             echo "No changes to articles.json"
