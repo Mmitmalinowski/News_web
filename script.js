@@ -167,7 +167,8 @@ async function fetchFeed(url){
       sessionStorage.setItem(SESSION_CACHE_KEY, JSON.stringify(sessionCache));
       return text;
     }catch(err){
-      console.warn('Proxy fetch failed:', proxy, err && err.message);
+      // Demote per-proxy fetch failures to debug to avoid spamming consoles when public proxies misbehave
+      console.debug('Proxy fetch failed:', proxy, err && err.message);
     }
   }
   throw new Error('Wszystkie proxy nie powiodły się');
@@ -230,7 +231,8 @@ async function fetchAllFeeds(){
       }catch(e){
         // Log each proxy error only once to reduce console spam
         if(!loggedProxyErrors.has(e.message)){
-          console.warn('Proxy failed for', url, e.message);
+          // Keep as debug to reduce console noise; aggregated warning will be shown later if all candidates fail
+          console.debug('Proxy failed for', url, e.message);
           loggedProxyErrors.add(e.message);
         }
   console.debug(`${name}: błąd przy ${url} — ${e.message}`);
@@ -351,35 +353,51 @@ function populateSourceSelect(){
   const sources = [...new Set(allArticles.map(a => a.source))].sort();
 
   if(panelList){
+    // Render a two-column checkbox grid for better UX (clickable labels, nicer styling)
     panelList.innerHTML = '';
+    const grid = document.createElement('div');
+    grid.className = 'source-grid';
     sources.forEach(s => {
       const id = 'chk_' + s.replace(/[^a-z0-9]/gi,'_');
-      const wrapper = document.createElement('label');
-      wrapper.style.display = 'flex'; wrapper.style.alignItems = 'center'; wrapper.style.gap = '8px';
+      const item = document.createElement('label');
+      item.className = 'source-grid-item';
+      item.htmlFor = id;
       const cb = document.createElement('input'); cb.type = 'checkbox'; cb.value = s; cb.id = id; cb.checked = true;
       cb.addEventListener('change', () => { updateDropdownLabel(); applyFilters(); });
       const span = document.createElement('span'); span.textContent = s;
-      wrapper.appendChild(cb); wrapper.appendChild(span);
-      panelList.appendChild(wrapper);
+      item.appendChild(cb); item.appendChild(span);
+      grid.appendChild(item);
     });
+    panelList.appendChild(grid);
   }
 
   function updateDropdownLabel(){
     if(!panelList) return;
-    const checked = Array.from(panelList.querySelectorAll('input[type=checkbox]:checked')).map(c => c.value);
+    // support both select-based panel and legacy checkboxes
+    const sel = panelList.querySelector('select');
+    let checked = [];
+    if(sel){ checked = Array.from(sel.selectedOptions).map(o => o.value); }
+    else { checked = Array.from(panelList.querySelectorAll('input[type=checkbox]:checked')).map(c => c.value); }
     label.textContent = checked.length === sources.length ? 'Wszystkie źródła' : (checked.length === 0 ? 'Brak zaznaczonych' : `${checked.length} zazn.`);
   }
 
-  // dropdown toggle
-  const panel = document.getElementById('sourcePanel');
-  if(dropdown && panel){
-    dropdown.addEventListener('click', (e) => { e.stopPropagation(); panel.style.display = panel.style.display === 'block' ? 'none' : 'block'; updateDropdownLabel(); });
-    panel.addEventListener('click', (e) => e.stopPropagation());
-    document.addEventListener('click', () => { if(panel) panel.style.display = 'none'; });
-  }
+  // expose for external callers (global toggle handler)
+  try{ window.updateDropdownLabel = updateDropdownLabel; }catch(e){}
 
-  if(selectAllBtn && panelList){ selectAllBtn.addEventListener('click', () => { panelList.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=true); updateDropdownLabel(); applyFilters(); }); }
-  if(clearAllBtn && panelList){ clearAllBtn.addEventListener('click', () => { panelList.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false); updateDropdownLabel(); applyFilters(); }); }
+  // dropdown toggle wiring is handled once globally (see below) — keep populate idempotent
+
+  if(selectAllBtn && panelList){ selectAllBtn.addEventListener('click', () => {
+    const sel = panelList.querySelector('select');
+    if(sel){ Array.from(sel.options).forEach(o=>o.selected=true); }
+    else { panelList.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=true); }
+    updateDropdownLabel(); applyFilters();
+  }); }
+  if(clearAllBtn && panelList){ clearAllBtn.addEventListener('click', () => {
+    const sel = panelList.querySelector('select');
+    if(sel){ Array.from(sel.options).forEach(o=>o.selected=false); }
+    else { panelList.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false); }
+    updateDropdownLabel(); applyFilters();
+  }); }
 
   // initial label
   setTimeout(() => { if(typeof updateDropdownLabel === 'function') updateDropdownLabel(); }, 0);
@@ -408,11 +426,7 @@ function createCard(a){
   const decodedPlain = decodeHtmlEntities(plain);
   ex.textContent = decodedPlain.length > 200 ? decodedPlain.slice(0,200) + '…' : decodedPlain;
 
-  const readMore = document.createElement('a'); readMore.className = 'read-more';
-  readMore.href = a.link; readMore.target = '_blank'; readMore.rel = 'noopener';
-  readMore.textContent = 'Czytaj';
-
-  content.appendChild(h); content.appendChild(meta); content.appendChild(ex); content.appendChild(readMore);
+  content.appendChild(h); content.appendChild(meta); content.appendChild(ex);
   inner.appendChild(img); inner.appendChild(content);
   card.appendChild(inner);
 
@@ -491,6 +505,8 @@ window.addEventListener('DOMContentLoaded', async () => {
           allArticles = items.slice();
           currentFiltered = allArticles.slice();
           renderArticles(currentFiltered);
+          // populate the sources dropdown/panel immediately so the UI shows available sources
+          try{ populateSourceSelect(); }catch(e){ console.debug('populateSourceSelect error', e && e.message); }
         }
         // If cache is stale, refresh in background; otherwise skip heavy fetches for now
         if(!gen || ((now - gen) / 60000) > TTL_MIN){
@@ -510,5 +526,19 @@ window.addEventListener('DOMContentLoaded', async () => {
     hideSpinner();
   }
 });
+
+    // Attach a single global handler to toggle the source panel. This avoids lost bindings when the panel is re-rendered.
+    document.addEventListener('DOMContentLoaded', () => {
+      const dropdown = document.getElementById('sourceDropdown');
+      const panel = document.getElementById('sourcePanel');
+      if(!dropdown || !panel) return;
+      // Make sure we don't attach multiple listeners
+      dropdown.addEventListener('click', (e) => { e.stopPropagation(); panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
+        // update label when opened
+        const lbl = document.getElementById('sourceDropdownLabel'); if(lbl && typeof window.updateDropdownLabel === 'function') try{ window.updateDropdownLabel(); }catch(e){}
+      });
+      panel.addEventListener('click', (e) => e.stopPropagation());
+      document.addEventListener('click', () => { if(panel) panel.style.display = 'none'; });
+    });
 
 // ...existing code...

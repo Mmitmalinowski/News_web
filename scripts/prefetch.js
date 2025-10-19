@@ -2,6 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const fetch = require('node-fetch');
 const { XMLParser } = require('fast-xml-parser');
+const he = require('he');
+const iconv = require('iconv-lite');
 
 // Minimal list of FEEDS - keep in sync with client FEEDS or import from a JSON if you prefer
 const FEEDS = {
@@ -31,7 +33,27 @@ async function fetchText(url){
   try{
     const res = await fetch(url, { timeout: 15000 });
     if(!res.ok) throw new Error('HTTP ' + res.status);
-    return await res.text();
+    // read as buffer so we can detect/handle charset
+    const buffer = await res.arrayBuffer();
+    const buf = Buffer.from(buffer);
+    // try to get charset from content-type header
+    const ct = res.headers.get('content-type') || '';
+    let m = /charset=([^;]+)/i.exec(ct);
+    let encoding = m ? m[1].toLowerCase().trim() : null;
+    let text;
+    if(!encoding){
+      // try to detect from XML prolog: <?xml version="1.0" encoding="windows-1250"?>
+      const start = buf.slice(0, 512).toString('ascii');
+      const pm = /encoding=[\"']?([^\"'>\s]+)[\"']?/i.exec(start);
+      if(pm) encoding = pm[1].toLowerCase();
+    }
+    try{
+      text = encoding ? iconv.decode(buf, encoding) : buf.toString('utf8');
+    }catch(e){
+      // fallback
+      text = buf.toString('utf8');
+    }
+    return text;
   }catch(e){
     console.warn('fetch failed', url, e && e.message);
     return null;
@@ -62,12 +84,18 @@ function extractItemsFromParsed(parsed){
     try{ parsed = parser.parse(text); }catch(e){ console.warn('parse error', name, e && e.message); continue; }
     const items = extractItemsFromParsed(parsed);
     items.forEach(it => {
-      const title = it.title && (typeof it.title === 'string' ? it.title : it.title['#text'] || it.title['@_text']) || '';
+      // extract raw values (some feeds use objects, some strings)
+      const rawTitle = it.title && (typeof it.title === 'string' ? it.title : it.title['#text'] || it.title['@_text']) || '';
       let link = it.link && (typeof it.link === 'string' ? it.link : it.link['@_href'] || (it.link && it.link['#text'])) || '';
       if(!link && it.guid) link = (typeof it.guid === 'string' ? it.guid : (it.guid['#text'] || ''));
-      const description = (it.description && (typeof it.description === 'string' ? it.description : it.description['#text'])) || (it.summary && it.summary['#text']) || '';
+      const rawDescription = (it.description && (typeof it.description === 'string' ? it.description : it.description['#text'])) || (it.summary && it.summary['#text']) || '';
       const pubDate = it.pubDate || it.published || it.updated || '';
       const image = (it.enclosure && it.enclosure['@_url']) || '';
+
+      // decode HTML entities in title and description
+      const title = rawTitle ? he.decode(rawTitle) : '';
+      const description = rawDescription ? he.decode(rawDescription) : '';
+
       if(title && link){
         results.push({ title, link, description, pubDate, imageUrl: image, source: name });
       }

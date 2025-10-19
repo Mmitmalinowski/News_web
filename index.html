@@ -8,41 +8,49 @@
 </head>
 <body>
   <header class="site-header">
-    <h1>NewsHub</h1>
-    <p>Najświeższe artykuły ze świata</p>
+    <div class="site-header-inner">
+      <h1>NewsHub</h1>
+      <p>Najświeższe artykuły ze świata</p>
+    </div>
   </header>
 
   <main>
-    <section class="controls">
-      <input id="searchInput" type="search" placeholder="Szukaj (tytuł)..." />
-      <div id="sourceSelectContainer" style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
-        <div style="display:flex;flex-direction:column;gap:6px">
-          <label style="font-weight:600">Wszystkie źródła</label>
-          <div class="source-dropdown">
-            <div id="sourceDropdown" class="source-dropdown-label" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
-              <span id="sourceDropdownLabel">Wszystkie źródła</span>
-              <span style="margin-left:8px;color:#6b7280">▾</span>
-            </div>
-            <div id="sourcePanel" class="source-panel" style="display:none">
-              <div id="sourcePanelList"></div>
-              <div class="source-panel-controls">
-                <button id="selectAllBtn" type="button">Zaznacz wszystkie</button>
-                <button id="clearAllBtn" type="button" class="secondary">Wyczyść</button>
+    <div class="layout">
+      <aside class="sidebar">
+        <section class="controls">
+          <!-- Search on top of the sidebar -->
+          <div style="width:100%">
+            <input id="searchInput" type="search" placeholder="Szukaj..." />
+          </div>
+          <!-- Sources panel below search (no separate header) -->
+          <div id="sourceSelectContainer" style="width:100%;margin-top:12px">
+            <div class="source-dropdown">
+              <div id="sourceDropdown" class="source-dropdown-label" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                <span id="sourceDropdownLabel">Wszystkie źródła</span>
+                <span style="margin-left:8px;color:#6b7280">▾</span>
+              </div>
+              <div id="sourcePanel" class="source-panel" style="display:none">
+                <div id="sourcePanelList"></div>
+                <div class="source-panel-controls">
+                  <button id="selectAllBtn" type="button">Zaznacz wszystkie</button>
+                  <button id="clearAllBtn" type="button" class="secondary">Wyczyść</button>
+                </div>
               </div>
             </div>
           </div>
+        </section>
+      </aside>
+
+      <div class="main-content">
+        <!-- lokalne proxy usunięte z UI; używamy publicznych proxy przez default -->
+        <!-- pagination and manual loading controls removed; infinite scroll is always on -->
+        <section id="articlesContainer" class="news-grid" aria-live="polite"></section>
+        <!-- sentinel for intersection observer to trigger loading more -->
+        <div id="infiniteSentinel" style="height:1px"></div>
+        <div id="spinner" style="display:none;margin:8px auto;text-align:center">
+          <div style="display:inline-block;width:36px;height:36px;border:4px solid #e6eefc;border-top-color:#0a66c2;border-radius:50%;animation:spin 1s linear infinite"></div>
         </div>
       </div>
-    </section>
-
-     <!-- lokalne proxy usunięte z UI; używamy publicznych proxy przez default -->
-
-    <!-- pagination and manual loading controls removed; infinite scroll is always on -->
-    <section id="articlesContainer" class="news-grid" aria-live="polite"></section>
-    <!-- sentinel for intersection observer to trigger loading more -->
-    <div id="infiniteSentinel" style="height:1px"></div>
-    <div id="spinner" style="display:none;max-width:1100px;margin:8px auto;text-align:center">
-      <div style="display:inline-block;width:36px;height:36px;border:4px solid #e6eefc;border-top-color:#0a66c2;border-radius:50%;animation:spin 1s linear infinite"></div>
     </div>
   </main>
 
