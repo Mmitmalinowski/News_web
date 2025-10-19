@@ -43,12 +43,12 @@
     <section class="controls" style="margin-top:8px">
       <button id="clearKnownBtn" title="Wyczyść zapamiętane działające URL-e">Wyczyść cache URL</button>
       <select id="proxySelect" title="Wybierz proxy CORS">
-        <option value="public">Publiczne proxy</option>
-        <option value="local">Lokalne proxy (http://localhost:3000/proxy?url=)</option>
+        <option value="public" selected>Publiczne proxy</option>
+       
       </select>
     </section>
 
-    <div id="proxyInstructions" style="max-width:1100px;margin:6px auto;padding:8px 16px;color:#374151;font-size:13px">Jeśli chcesz stabilności, uruchom lokalny proxy Node na porcie 3000 (instrukcja dostępna po kliknięciu przycisku 'Wyczyść cache URL').</div>
+     <!-- lokalne proxy usunięte z UI; używamy publicznych proxy przez default -->
 
     <div id="paginationControls" style="max-width:1100px;margin:8px auto;display:flex;gap:12px;align-items:center;padding:0 16px">
       <div id="pageStatus" style="color:#6b7280;font-size:13px">Strona 1</div>

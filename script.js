@@ -39,14 +39,6 @@ const totalCountEl = document.getElementById('totalCount');
 // add-feed UI removed from HTML; dynamic management remains via code/config
 const clearKnownBtn = document.getElementById('clearKnownBtn');
 const proxySelect = document.getElementById('proxySelect');
-const proxyInstructions = document.getElementById('proxyInstructions');
-// persist proxy choice
-const PROXY_PREF_KEY = 'proxyPref';
-const savedProxy = localStorage.getItem(PROXY_PREF_KEY) || 'local';
-if(proxySelect){
-  proxySelect.value = savedProxy;
-  proxyInstructions.textContent = proxySelect.value === 'local' ? 'Wybrano lokalne proxy (localhost:3000)' : 'Używane są publiczne proxy.';
-}
 
 // diagnostics UI removed for production
 
@@ -107,7 +99,7 @@ function parseFeedXml(xmlText, sourceName){
   const items = doc.querySelectorAll('item, entry');
   const list = [];
   items.forEach(it => {
-    const title = safeText(it.querySelector('title'));
+  let title = safeText(it.querySelector('title'));
     let link = safeText(it.querySelector('link'));
     if(!link){
       const alt = it.querySelector('link[rel="alternate"]');
@@ -125,14 +117,26 @@ function parseFeedXml(xmlText, sourceName){
       const urlMatch = descText.match(/https?:\/\/[\w\-\.\/?=&%#~+]+/i);
       if(urlMatch) link = urlMatch[0];
     }
-    const description = safeText(it.querySelector('description')) || safeText(it.querySelector('summary')) || '';
+  let description = safeText(it.querySelector('description')) || safeText(it.querySelector('summary')) || '';
     const pubDate = safeText(it.querySelector('pubDate')) || safeText(it.querySelector('published')) || safeText(it.querySelector('updated')) || '';
     const imageUrl = extractImageFromItem(it) || '';
     if(title && link){
+      // decode HTML entities just in case feed uses numeric/entity encoding
+      try{ title = decodeHtmlEntities(title); }catch(e){}
+      try{ description = decodeHtmlEntities(description); }catch(e){}
       list.push({ title, link, description, pubDate, imageUrl, source: sourceName });
     }
   });
   return list;
+}
+
+// Decode HTML entities (e.g. numeric &#x119; -> ę). Uses browser parsing which safely handles entities.
+function decodeHtmlEntities(str){
+  if(!str) return '';
+  // Use DOM to decode entities. Textarea is widely supported.
+  const txt = document.createElement('textarea');
+  txt.innerHTML = str;
+  return txt.value;
 }
 
 async function fetchFeed(url){
@@ -202,22 +206,8 @@ async function fetchAllFeeds(){
     (Array.isArray(urls) ? urls : [urls]).forEach(u => { if(!candidates.includes(u)) candidates.push(u); });
     for(const url of candidates){
       try{
-        // use local proxy directly when selected (avoid double-proxying)
-        let text = null;
-        if(proxySelect && proxySelect.value === 'local'){
-          const proxyUrl = 'http://localhost:3000/proxy?url=' + encodeURIComponent(url);
-          if(sessionCache[proxyUrl]){
-            text = sessionCache[proxyUrl];
-          } else {
-            const res = await fetchWithTimeout(proxyUrl, { timeout: 8000 });
-            if(!res.ok) throw new Error('Fetch error: ' + res.status);
-            text = await res.text();
-            sessionCache[proxyUrl] = text;
-            sessionStorage.setItem(SESSION_CACHE_KEY, JSON.stringify(sessionCache));
-          }
-        } else {
-          text = await fetchFeed(url);
-        }
+        // Use public proxies via fetchFeed
+        let text = await fetchFeed(url);
         // quick check for XML-like response
         if(text && text.indexOf('<') !== -1){
           usedUrl = url;
@@ -285,16 +275,7 @@ async function fetchAllFeeds(){
 clearKnownBtn.addEventListener('click', () => {
   knownGood = {};
   localStorage.removeItem(KNOWN_GOOD_KEY);
-  alert('Wyczyszczono cache znanych URL-e. Jeśli chcesz, uruchom lokalny proxy i wybierz go w menu.');
-});
-
-proxySelect.addEventListener('change', () => {
-  if(proxySelect.value === 'local'){
-    proxyInstructions.textContent = 'Wybrałeś lokalne proxy: upewnij się, że uruchomiłeś proxy na http://localhost:3000/proxy?url=';
-  }else{
-    proxyInstructions.textContent = 'Używane są publiczne proxy. Mogą być niestabilne.';
-  }
-  localStorage.setItem(PROXY_PREF_KEY, proxySelect.value);
+  alert('Wyczyszczono cache znanych URL-e.');
 });
 
 // pagination-aware render wrapper
@@ -429,12 +410,13 @@ function createCard(a){
   img.alt = a.source || '';
 
   const content = document.createElement('div'); content.className = 'card-content';
-  const h = document.createElement('h3'); h.className = 'card-title'; h.textContent = a.title;
+  const h = document.createElement('h3'); h.className = 'card-title'; h.textContent = decodeHtmlEntities(a.title);
   const meta = document.createElement('div'); meta.className = 'card-meta';
   meta.textContent = `${a.source} • ${a.pubDate ? new Date(a.pubDate).toLocaleString() : ''}`;
   const ex = document.createElement('p'); ex.className = 'card-excerpt';
   const plain = a.description ? a.description.replace(/<\/?[^>]+(>|$)/g, "") : '';
-  ex.textContent = plain.length > 200 ? plain.slice(0,200) + '…' : plain;
+  const decodedPlain = decodeHtmlEntities(plain);
+  ex.textContent = decodedPlain.length > 200 ? decodedPlain.slice(0,200) + '…' : decodedPlain;
 
   const readMore = document.createElement('a'); readMore.className = 'read-more';
   readMore.href = a.link; readMore.target = '_blank'; readMore.rel = 'noopener';
@@ -511,13 +493,18 @@ window.addEventListener('DOMContentLoaded', async () => {
     // Try loading cached articles.json for instant display (generated by server or CI)
     try{
       const cached = await fetch('articles.json', { cache: 'no-store' });
-      if(cached.ok){
+        if(cached.ok){
         const payload = await cached.json();
         const items = payload && payload.items ? payload.items : (Array.isArray(payload) ? payload : []);
         const gen = payload && payload.generatedAt ? new Date(payload.generatedAt) : null;
         const now = new Date();
   const TTL_MIN = 5; // minutes
         if(items && items.length){
+          // Ensure any HTML entities in pre-generated JSON are decoded so titles/descriptions display/search correctly
+          items.forEach(it => {
+            try{ if(it.title) it.title = decodeHtmlEntities(it.title); }catch(e){}
+            try{ if(it.description) it.description = decodeHtmlEntities(it.description); }catch(e){}
+          });
           allArticles = items.slice();
           currentFiltered = allArticles.slice();
           renderArticles(currentFiltered);
