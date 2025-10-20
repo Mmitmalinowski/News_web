@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2025-10-20T14:27:50.225Z",
+  "generatedAt": "2025-10-20T14:45:05.565Z",
   "items": [
+    {
+      "title": "Dlaczego zmiana czasu to dobry moment na porządki w życiu prywatnym i zawodowym?",
+      "link": "https://kobieta.rp.pl/styl-zycia/art43204431-dlaczego-zmiana-czasu-to-dobry-moment-na-porzadki-w-zyciu-prywatnym-i-zawodowym",
+      "description": "Przy okazji zmiany czasu warto pomyśleć przede wszystkim o tym, aby nie mieć poczucia jego marnowania. We współczesnych organizacjach człowiek jest zmuszony do handlowania swoim czasem i energią – mówi dr Agnieszka Kowalczewska, psycholog komunikacji.",
+      "pubDate": "Mon, 20 Oct 2025 16:41:14 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/079ede18db03e76b6d30534e86cbcb09/?t=crop:3000:1311:nowe:0:1.2280633644979,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "PGZ podpisuje umowy inwestycyjne na 3 mld zł",
+      "link": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art43204951-pgz-podpisuje-umowy-inwestycyjne-na-3-mld-zl",
+      "description": "Cztery spółki wchodzące w skład Polskiej Grupy Zbrojeniowej otrzymają 3 mld zł z Funduszu Inwestycji Kapitałowych. Te środki mają być przeznaczone na zwiększenie zdolności produkcyjnych m.in. w Jelczu i Tarnowie. Rząd obiecał je w ubiegłym roku.",
+      "pubDate": "Mon, 20 Oct 2025 16:34:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/0998d7442a2d3b43a1f7cade4ff37cbb/?t=crop:5751:2513:nowe:0:268.1681759379,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pizza Hut to close 68 UK restaurants with the loss of 1,210 jobs",
+      "link": "https://www.bbc.com/news/articles/c07mk59pzkpo?at_medium=RSS&at_campaign=rss",
+      "description": "The move will lead to more than 1,200 redundancies, but 64 other restaurants will be saved.",
+      "pubDate": "Mon, 20 Oct 2025 14:33:16 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Ministers to respond to Commons urgent questions on China spy case and Maccabi Tel Aviv fans ban – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education",
+      "description": "<p>Home Office minister to respond to UQ from Chris Philp about the China spy case before question on Maccabi Tel Aviv fans</p><p>There will be two urgent questions in the Commons this afternoon, followed by a statement. Here is the running order.</p><p><em>3.30pm:</em> A Home Office minister will respond to a UQ from Chris Philp, the shadow home secretary, about the China spy case.</p><p>The family of Virginia Giuffre, whose life was destroyed, are angry and aghast. The public across these isles are angry and aghast and they both deserve to know that some MPs share their outrage.</p><p>So I won’t sit silent. If an act of parliament is required to strip the likes of Peter Mandelson and Prince Andrew of their titles then there can be no justification from this Labour government as to why that is not immediately happening.</p><p>Public funds, police protection and royal privilege have long buffered Prince Andrew from the consequences of his actions. And we’ve paid for all this.</p><p>I will support any efforts to hold royals to the same standards and laws as everyone else – parliament must have the power to remove privileges from abusers of position.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:29:48 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "AWS fell on its face, knocking many apps, websites and games offline",
+      "link": "https://www.engadget.com/big-tech/aws-fell-on-its-face-knocking-many-apps-websites-and-games-offline-142935040.html?src=rss",
+      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running.</p>\n<p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\"><ins>AWS service health page</ins></a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<span id=\"end-legacy-contents\"></span><p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em><ins>CNN</ins></em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\"><ins>estimated</ins></a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/aws-fell-on-its-face-knocking-many-apps-websites-and-games-offline-142935040.html?src=rss",
+      "pubDate": "Mon, 20 Oct 2025 14:29:35 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Amazon Web Services outage shows internet users ‘at mercy’ of too few providers, experts warn",
+      "link": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
+      "description": "<p>Crash that hit apps and websites around world demonstrates ‘urgent need for diversification in cloud computing’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/20/china-economic-growth-gdp-low-house-prices-fall-stock-markets-ftse-business-live-news\">Business live – latest updates</a></p></li></ul><p>Experts have warned of the perils of relying on a small number of companies for operating the global internet after a glitch at Amazon’s cloud computing service brought down apps and websites around the world.</p><p>The affected platforms include Snapchat, Roblox, Signal and Duolingo as well as a host of Amazon-owned operations including its main retail site and the Ring doorbell company.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:29:06 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Europejski Bank Centralny zmienia zdanie. Rosyjskie aktywa dla Ukrainy?",
+      "link": "https://www.rp.pl/finanse/art43204971-europejski-bank-centralny-zmienia-zdanie-rosyjskie-aktywa-dla-ukrainy",
+      "description": "Pęka kolejna unijna instytucja. Po raz pierwszy Europejski Bank Centralny poparł wykorzystanie zamrożonych rezerw rosyjskich na pomoc Ukrainie.",
+      "pubDate": "Mon, 20 Oct 2025 16:29:02 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/cc68ee19065c13df394792228215103e/?t=crop:5250:3256:nowe:0:246,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wielka przebudowa Luwru coraz bliżej. Wybrano pięć projektów przebudowy muzeum",
+      "link": "https://sukces.rp.pl/architektura/art43204941-wielka-przebudowa-luwru-coraz-blizej-wybrano-piec-projektow-przebudowy-muzeum",
+      "description": "W konkursie na wielki remont muzeum w Luwrze spłynęło ponad sto propozycji z całego świata. Jury wyłoniło pięć najlepszych koncepcji. Na początku przyszłego roku poznamy tę, która ostatecznie zostanie zrealizowana.",
+      "pubDate": "Mon, 20 Oct 2025 16:28:48 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/1ccfdcc157ecfcdffad37ab95f7f8e99/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Typhoo tea owner buys SlimFast UK and Europe in £20m deal",
+      "link": "https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal",
+      "description": "<p>Supreme acquires business, which faces pressure from growth of weight loss drugs, from Irish firm Glanbia</p><p>The owner of Typhoo tea has snapped up SlimFast’s UK and European business in a £20.1m deal as it seeks to expand in the weight management market despite fierce competition from GLP-1 weight loss jabs.</p><p>The Irish nutrition and food company Glanbia has sold the low-calorie meal replacement shakes business to the British company Supreme after putting it up for sale earlier this year. Sales at the European operations have dropped, weighing on stronger trading in the US.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:28:10 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pizza Hut to close 68 restaurants after UK owner falls into administration",
+      "link": "https://www.theguardian.com/business/2025/oct/20/pizza-hut-to-close-68-restaurants-after-uk-owner-falls-into-administration",
+      "description": "<p>DC London Pie appoints administrators as Yum! Brands says it has bought UK operation in pre-pack deal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/20/china-economic-growth-gdp-low-house-prices-fall-stock-markets-ftse-business-live-news\">Business live – latest updates</a></p></li></ul><p>Pizza Hut is to shut 68 of its restaurants after the company behind its UK venues fell into administration.</p><p>DC London Pie has not disclosed how many workers will be affected by the closures but it appointed administrators from FTI on Monday.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/pizza-hut-to-close-68-restaurants-after-uk-owner-falls-into-administration\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:27:29 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Sprzedaż iPhone’a 17 niespodziewanie bije rekordy. Apple chce zwiększyć produkcję",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43205131-sprzedaz-iphone-a-17-niespodziewanie-bije-rekordy-apple-chce-zwiekszyc-produkcje",
+      "description": "Wbrew obawom analityków nowy iPhone 17 zanotował imponujący start, podbijając kluczowe rynki: Chiny i USA. Najnowszy smartfon Apple, w ciągu pierwszych 10 dni od premiery, przewyższył wyniki poprzedniej generacji o 14 proc.",
+      "pubDate": "Mon, 20 Oct 2025 16:25:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/7e6ba21539240de063ef22a1f55a78d2/?t=crop:4000:1749:nowe:0:459,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Son of ex-England footballer Stuart Pearce dies in tractor crash",
       "link": "https://www.bbc.com/news/articles/cly949187xeo?at_medium=RSS&at_campaign=rss",
@@ -26,20 +114,20 @@
       "source": "Wired"
     },
     {
-      "title": "Pizza Hut to close 68 UK restaurants with the loss of 1,210 jobs",
-      "link": "https://www.bbc.com/news/articles/c07mk59pzkpo?at_medium=RSS&at_campaign=rss",
-      "description": "The move will lead to more than 1,200 redundancies, but 64 other restaurants will be saved.",
-      "pubDate": "Mon, 20 Oct 2025 14:21:38 GMT",
+      "title": "Colombia recalls ambassador to United States amid diplomatic spat",
+      "link": "https://www.aljazeera.com/news/2025/10/20/colombia-recalls-ambassador-to-united-states-amid-diplomatic-spat?traffic_source=rss",
+      "description": "Colombia announced the move after US President Donald Trump called President Gustavo Petro an 'illegal drug leader'.",
+      "pubDate": "Mon, 20 Oct 2025 14:22:37 +0000",
       "imageUrl": "",
-      "source": "BBC News"
+      "source": "Al Jazeera"
     },
     {
-      "title": "Spektakularna eksplozja na Morzu Czarnym. Zniszczyli tajemniczą broń Rosjan",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/spektakularna-eksplozja-na-morzu-czarnym-zniszczyli-tajemnicza-bron-rosjan/",
-      "description": "Ukraińska Marynarka Wojenna zniszczyła rosyjskiego drona morskiego, który zbliżył się do ukraińskiego wybrzeża. Z opublikowanego nagrania wynika, że może być to nowa, wcześniej nieujawniana konstrukcja. Zagadką jest również to, w jaki sposób Ukraińcom udało się doprowadzić do jego spektakularnego zniszczenia.",
-      "pubDate": "Mon, 20 Oct 2025 16:17:00 +0200",
+      "title": "Gaza ceasefire live: Hamas says it will hand over another hostage body",
+      "link": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
+      "description": "<p>Group says it will release body on Monday evening as delay in returning hostage remains causes outrage in Israel and strains ceasefire</p><p>The Guardian’s global affairs correspondent, <a href=\"https://www.theguardian.com/profile/roth-andrew\">Andrew Roth</a>, has written <a href=\"https://www.theguardian.com/news/ng-interactive/2025/oct/19/the-enormous-conflict-of-interest-at-centre-of-jared-kushners-gaza-ceasefire-deal\">an interesting profile</a> on <strong>Jared Kushner</strong> in which he explores his central role in the ceasefire negotiations and his extensive business dealings in the Middle East. Here is a snippet:</p><p><em>The soft-spoken heir to his father’s real estate empire has quietly become a key conduit for Trump’s outreach to the Middle East, leveraging his Rolodex of leaders in the region and positioning himself to win a lucrative windfall if the goal of redeveloping Gaza ever comes to fruition.</em></p><p><em>It has been a notable return to the political fold after Kushner and his wife, Ivanka Trump, effectively swore off politics after the January 6 riots at the US Capitol that followed Trump’s loss in the 2020 elections.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:17:44 GMT",
       "imageUrl": "",
-      "source": "Polsat News"
+      "source": "The Guardian"
     },
     {
       "title": "Specjaliści bardziej niż menedżerowie odczuli pogorszenie na rynku pracy",
@@ -50,28 +138,20 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Ministers to respond to Commons urgent questions on China spy case and Maccabi Tel Aviv fans ban – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education",
-      "description": "<p>Home Office minister to respond to UQ from Chris Philp about the China spy case before question on Maccabi Tel Aviv fans</p><p>There will be two urgent questions in the Commons this afternoon, followed by a statement. Here is the running order.</p><p><em>3.30pm:</em> A Home Office minister will respond to a UQ from Chris Philp, the shadow home secretary, about the China spy case.</p><p>The family of Virginia Giuffre, whose life was destroyed, are angry and aghast. The public across these isles are angry and aghast and they both deserve to know that some MPs share their outrage.</p><p>So I won’t sit silent. If an act of parliament is required to strip the likes of Peter Mandelson and Prince Andrew of their titles then there can be no justification from this Labour government as to why that is not immediately happening.</p><p>Public funds, police protection and royal privilege have long buffered Prince Andrew from the consequences of his actions. And we’ve paid for all this.</p><p>I will support any efforts to hold royals to the same standards and laws as everyone else – parliament must have the power to remove privileges from abusers of position.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:14:11 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
+      "title": "Prezydent Nawrocki w ciepłych słowach o Hołowni. \"Z całą pewnością byłby lepszym kandydatem\"",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32338718,prezydent-nawrocki-w-cieplych-slowach-o-holowni-z-cala-pewnoscia.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/fa/d7/1e/z32338938IHG,Karol-Nawrocki--Zdjecie-archiwalne.jpg' align='left' hspace='4' vspace='2'>Z szeregów Polski 2050 płyną głosy, że marszałek Sejmu Szymon Hołownia chętnie objąłby funkcję ambasadora w Stanach Zjednoczonych. Zgodę musiałby wydać nie tylko szef MSZ Radosław Sikorski, ale i prezydent Karol Nawrocki. Jak na taki scenariusz zareagowała głowa państwa?",
+      "pubDate": "Mon, 20 Oct 2025 14:14:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/fa/d7/1e/z32338938IHG,Karol-Nawrocki--Zdjecie-archiwalne.jpg",
+      "source": "Gazeta.pl"
     },
     {
-      "title": "Zelenskyy says he would join Trump-Putin summit in Hungary if invited – Europe live",
+      "title": "Zelenskyy says he would join Trump-Putin summit in Hungary if invited – as it happened",
       "link": "https://www.theguardian.com/world/live/2025/oct/20/zelenskyy-trump-putin-russia-ukraine-war-eu-france-latest-news-updates",
-      "description": "<p>Ukrainian president criticises choice of Budapest as location for meeting as Trump suggests Kyiv must cede land to end war</p><p>An investigation into the <strong>Lisbon funicular crash</strong> will publish its first report today into the causes of the derailment, which killed 16 people in early September.</p><p>Portugal’s air and rail accident investigations bureau (GPIAAF) had previously found that a cable linking two cabins disconnected shortly before the September 3 crash, in a note published three days after the tragedy.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/zelenskyy-trump-putin-russia-ukraine-war-eu-france-latest-news-updates\">Continue reading...</a>",
+      "description": "<p>Ukrainian president criticises choice of Budapest as location for meeting as Trump suggests Kyiv must cede land to end war. This live blog is now closed</p><p>An investigation into the <strong>Lisbon funicular crash</strong> will publish its first report today into the causes of the derailment, which killed 16 people in early September.</p><p>Portugal’s air and rail accident investigations bureau (GPIAAF) had previously found that a cable linking two cabins disconnected shortly before the September 3 crash, in a note published three days after the tragedy.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/zelenskyy-trump-putin-russia-ukraine-war-eu-france-latest-news-updates\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 14:13:42 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Izraelska firma szuka sprawców napadu w Luwrze. \"Nadzwyczajna sytuacja\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/izraelska-firma-szuka-sprawcow-napadu-w-luwrze-nadzwyczajna-sytuacja/",
-      "description": "Jak informuje agencja AFP, sprawców kradzieży w paryskim Luwrze szuka izraelska firma wywiadowcza. Przedstawiciele muzeum, z którego w niedzielę skradziono francuskie klejnoty koronne, poprosili Izrael o wsparcie w odzyskaniu cennej biżuterii.",
-      "pubDate": "Mon, 20 Oct 2025 16:11:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "‘Conquer, crush, win’: Israel’s Ben-Gvir calls for return to war in Gaza",
@@ -80,14 +160,6 @@
       "pubDate": "Mon, 20 Oct 2025 14:10:29 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Gaza ceasefire live: Hamas says it will hand over another hostage body",
-      "link": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
-      "description": "<p>Group says it will release body on Monday evening as delay in returning hostage remains causes outrage in Israel and strains ceasefire</p><p>The Guardian’s global affairs correspondent, <a href=\"https://www.theguardian.com/profile/roth-andrew\">Andrew Roth</a>, has written <a href=\"https://www.theguardian.com/news/ng-interactive/2025/oct/19/the-enormous-conflict-of-interest-at-centre-of-jared-kushners-gaza-ceasefire-deal\">an interesting profile</a> on <strong>Jared Kushner</strong> in which he explores his central role in the ceasefire negotiations and his extensive business dealings in the Middle East. Here is a snippet:</p><p><em>The soft-spoken heir to his father’s real estate empire has quietly become a key conduit for Trump’s outreach to the Middle East, leveraging his Rolodex of leaders in the region and positioning himself to win a lucrative windfall if the goal of redeveloping Gaza ever comes to fruition.</em></p><p><em>It has been a notable return to the political fold after Kushner and his wife, Ivanka Trump, effectively swore off politics after the January 6 riots at the US Capitol that followed Trump’s loss in the 2020 elections.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:08:38 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Pogoda dzieli Polskę na pół. IMGW ostrzega, ale nadchodzi poprawa",
@@ -146,14 +218,6 @@
       "source": "Wired"
     },
     {
-      "title": "Awaryjne lądowanie Boeinga w USA. Napotkał na \"tajemniczy obiekt\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/awaryjne-ladowanie-boeinga-w-usa-napotkal-na-tajemniczy-obiekt/",
-      "description": "Obrażeń ręki doznał w czwartek pilot samolotu linii United Airlines po pęknięciu przedniej szyby w kokpicie. Maszyna została zmuszona do awaryjnego lądowania w Salt Lake City w stanie Utah. Choć okoliczności zdarzenia nadal są wyjaśniane, pod uwagę brany jest scenariusz, zgodnie z którym Boeing napotkał na swojej drodze kosmiczny odpadek.",
-      "pubDate": "Mon, 20 Oct 2025 15:53:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Why Trump is seeking to remove aluminium from vaccines?",
       "link": "https://www.aljazeera.com/news/2025/10/20/why-trump-is-seeking-to-remove-aluminium-from-vaccines?traffic_source=rss",
       "description": "Aluminium has been proven to be safe, removing it could reduce immunity and increase disease risk, experts say.",
@@ -178,28 +242,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Miał bezprawnie kontrolować obcokrajowców. Zarzuty dla członka Ruchu Obrony Granic",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/mial-bezprawnie-kontrolowac-obcokrajowcow-zarzuty-dla-czlonka-ruchu-obrony-granic/",
-      "description": "Zarzuty przywłaszczenia funkcji publicznej usłyszał 44-letni członek Ruchu Obrony Granic - poinformowała Prokuratura Okręgowa w Gorzowie Wielkopolskim. Chodzi o sytuację z 4 czerwca bieżącego roku, kiedy na moście granicznym w Słubicach miał on bezprawnie skontrolować dwóch obcokrajowców, wywołując w tych osobach przeświadczenie, że mają do czynienia z przedstawicielem służb.",
-      "pubDate": "Mon, 20 Oct 2025 15:43:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Nowe stacje w Open FM. Współpraca z Grupą ZPR Media",
       "link": "https://www.wirtualnemedia.pl/nowe-stacje-w-open-fm-wspolpraca-z-grupa-zpr-media,7212910994942912a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/3f1f37b0-9de1-4da4-a488-45357fd353b3\" width=\"308\" /> Cztery nowe stacje należące do Grupy ZPR Media pojawiły się w ofercie Open FM (Grupa WP). Użytkownicy platformy zyskali możliwość słuchania za jej pośrednictwem Radia Eska, Eska2, Eska Rock oraz Radia VOX FM. ",
       "pubDate": "Mon, 20 Oct 2025 15:20:00 +0200",
       "imageUrl": "",
       "source": "Wirtualne Media"
-    },
-    {
-      "title": "Najbardziej nietypowe rekordy Guinnessa. W niektóre ciężko uwierzyć",
-      "link": "https://www.polsatnews.pl/ciekawostki/2025-10-20/najbardziej-nietypowe-rekordy-guinnessa-w-niektore-ciezko-uwierzyc/",
-      "description": "Księga Rekordów Guinnessa fascynuje ludzi na całym świecie. To nie tylko spektakularne osiągnięcia sportowe czy technologiczne, ale też najbardziej zaskakujące i czasem wręcz zabawne dokonania. Wiele z nich pokazuje, jak różnorodne mogą być ludzkie pomysły.",
-      "pubDate": "Mon, 20 Oct 2025 15:15:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Arsenal vs Atletico Madrid: UEFA Champions League – teams, start, lineups",
@@ -210,28 +258,12 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Son of former England footballer Stuart Pearce dies in tractor crash in Cotswolds",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/20/son-of-former-england-footballer-stuart-pearce-harley-pearce-dies-in-tractor-crash-in-cotswolds",
-      "description": "<p>Harley Pearce, 21, who worked in farming and was described as a ‘cherished son and devoted brother’, died at scene in Witcombe</p><p>The son of former England football player Stuart Pearce has been named as the victim of a fatal tractor crash in the Cotswolds.</p><p>Harley Pearce, 21, died at the scene of the collision on Old Birdlip Hill, A417, in Witcombe, near Gloucester, on 16 October, Gloucestershire police said.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/20/son-of-former-england-footballer-stuart-pearce-harley-pearce-dies-in-tractor-crash-in-cotswolds\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 13:13:33 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Rekordowy wzrost CO2 w atmosferze. Trzy wskaźniki, które niepokoją ekspertów",
       "link": "https://klimat.rp.pl/emisje/art43196921-rekordowy-wzrost-co2-w-atmosferze-trzy-wskazniki-ktore-niepokoja-ekspertow",
       "description": "Światowa Organizacja Meteorologiczna (WMO) poinformowała, że ​​wzrost poziomu CO2 w atmosferze w latach 2023–2024 był największym rocznym skokiem od rozpoczęcia pomiarów w 1957 roku.",
       "pubDate": "Mon, 20 Oct 2025 15:10:57 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/bb1438d9e2cd62bbece645d06a6dbc22/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Papież spotkał się z ofiarami nadużyć księży. \"Istotny moment dialogu\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/papiez-spotkal-sie-z-ofiarami-naduzyc-ksiezy-istotny-moment-dialogu/",
-      "description": "Leon XIV po raz pierwszy spotkał się z ofiarami nadużyć seksualnych ze strony katolickich księży. W poniedziałek papież rozmawiał z delegacją międzynarodowej koalicji pod nazwą Ending Clergy Abuse. Uczestnicy spotkania określili je jako istotny moment dialogu Watykanu z pokrzywdzonymi.",
-      "pubDate": "Mon, 20 Oct 2025 15:10:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Moskwa reaguje na słowa Trumpa. \"Spójność naszego stanowiska pozostaje niezmienna\"",
@@ -264,14 +296,6 @@
       "pubDate": "Mon, 20 Oct 2025 12:57:56 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Honorowe obywatelstwo dla Donalda Trumpa? Chce tego polityk AfD",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/honorowe-obywatelstwo-dla-donalda-trumpa-chce-tego-polityk-afd/",
-      "description": "Członek niemieckiego ugrupowania AfD Thomas Stephan zaproponował przyznanie Donaldowi Trumpowi honorowego obywatelstwa powiatu Bad Duerkheim. Powodem ma być zaangażowanie amerykańskiego prezydenta w działania na rzecz zakończenia działań zbrojnych w Strefie Gazy. Nie bez znaczenia są również niemieckie korzenie polityka.",
-      "pubDate": "Mon, 20 Oct 2025 14:56:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Polskie firmy technologiczne coraz odważniej patrzą na Dubaj",
@@ -333,17 +357,9 @@
       "title": "Tunezja w turystycznej ofensywie: silne odbicie i ambitne cele na 2025 rok",
       "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43204521-tunezja-w-turystycznej-ofensywie-silne-odbicie-i-ambitne-cele-na-2025-rok",
       "description": "Tunezyjska turystyka przeżywa dynamiczne ożywienie – rok 2025 przynosi dwucyfrowe wzrosty w kluczowych wskaźnikach, a kraj ponownie umacnia swoją pozycję jako jeden z liderów turystyki w regionie Maghrebu.",
-      "pubDate": "Mon, 20 Oct 2025 14:44:55 +0200",
+      "pubDate": "Mon, 20 Oct 2025 14:44:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/b11af2c178c6aa86cedc8c49775777c1/?t=crop:2000:874:nowe:0:234.07692307692,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dlaczego Trump i Putin mają spotkać się w Budapeszcie? Kreml odpowiada",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/kreml-putin-i-trump-maja-dobre-relacje-z-orbanem-dlatego-spotkaja-sie-w-budapeszcie/",
-      "description": "- Premier Węgier Viktor Orban ma ciepłe relacje z Donaldem Trumpem i konstruktywne relacje z Władimirem Putinem - przekazał rzecznik Kremla Dmitrij Pieskow zapytany o to, dlaczego kolejny szczyt ws. porozumienia pokojowego między Rosją a Ukrainą ma się odbyć w Budapeszcie.",
-      "pubDate": "Mon, 20 Oct 2025 14:43:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Video: What we know about the Hong Kong cargo plane crash",
@@ -386,14 +402,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "\"Dobrze się stało\". Karol Nawrocki zabrał głos w sprawie Wołodymyra Żurawlowa",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/dobrze-sie-stalo-karol-nawrocki-zabral-glos-w-sprawie-wolodymyra-zurawlowa/",
-      "description": "- Nie można karać za to obywatela Ukrainy, że w czasie gdy jego państwo jest demolowane przez Władimira Putina, angażuje się w tego typu działania - powiedział Karol Nawrocki, komentując sprawę Wołodymyra Żurawlowa, podejrzanego o wysadzenie Nord Stream. Prezydent ocenił, że dobrze się stało, że mężczyzna nie został wydany stronie niemieckiej, bo tam mógłby nie czekać go sprawiedliwy proces.",
-      "pubDate": "Mon, 20 Oct 2025 14:32:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Trump says Gaza ceasefire stands as Israel unleashes “massive” strikes",
       "link": "https://www.aljazeera.com/video/newsfeed/2025/10/20/trump-says-gaza-ceasefire-stands-as-israel-unleashes-massive-strikes?traffic_source=rss",
       "description": "Israel has breached the Gaza ceasefire dozens of times in 24-hours, killing Palestinians and sowing fear.",
@@ -426,14 +434,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Stanowisko strzeleckie w miejscu lądowania Trumpa. Trwają poszukiwania",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/stanowisko-strzeleckie-obok-lotniska-gdzie-mial-ladowac-trump-trwaja-poszukiwania/",
-      "description": "Agenci Secret Service odkryli stanowisko strzeleckie nieopodal lotniska w Palm Beach, którego częstym gościem jest Donald Trump. Służby odkryły coś, co wyglądało jak podwyższona ambona myśliwska, z której byłoby widać wyjście Air Force One - przekazał Fox News dyrektor FBI Kash Patel.",
-      "pubDate": "Mon, 20 Oct 2025 14:20:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "The new Apple TV and Peacock streaming bundle is officially available",
       "link": "https://www.engadget.com/entertainment/tv-movies/the-new-apple-tv-and-peacock-streaming-bundle-is-officially-available-170403587.html?src=rss",
       "description": "<p>There's yet another streaming bundle in town, and it will be ideal for fans of <em>Ted Lasso</em> and <em>The Office</em>. Apple and NBC have <a data-i13n=\"elm:affiliate_link;sellerN:Apple;elmt:;cpos:1;pos:1\" href=\"https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&siteId=us-engadget&pageId=1p-autolink&contentUuid=e57ba9f0-f4a8-43cb-94e6-d49b44d47b7f&featureId=text-link&merchantName=Apple&linkText=teamed+up&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vbmV3c3Jvb20vMjAyNS8xMC9hcHBsZS1hbmQtbmJjdW5pdmVyc2FsLWludHJvZHVjZS10aGUtYXBwbGUtdHYtYW5kLXBlYWNvY2stYnVuZGxlLyIsImNvbnRlbnRVdWlkIjoiZTU3YmE5ZjAtZjRhOC00M2NiLTk0ZTYtZDQ5YjQ0ZDQ3YjdmIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vbmV3c3Jvb20vMjAyNS8xMC9hcHBsZS1hbmQtbmJjdW5pdmVyc2FsLWludHJvZHVjZS10aGUtYXBwbGUtdHYtYW5kLXBlYWNvY2stYnVuZGxlLyJ9&signature=AQAAAa562fukMVKHgz3hUiCVzKDjBHkR_LgHBfRkCnLC352q&gcReferrer=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2F2025%2F10%2Fapple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle%2F\" class=\"rapid-with-clickid\" data-original-link=\"https://www.apple.com/newsroom/2025/10/apple-and-nbcuniversal-introduce-the-apple-tv-and-peacock-bundle/\">teamed up</a> to provide both of their streaming services together in a bundle starting at $15 per month. The new <a data-i13n=\"elm:affiliate_link;sellerN:Peacock TV;elmt:;cpos:2;pos:1\" href=\"https://shopping.yahoo.com/rdlw?merchantId=cbef8901-c2f3-4af7-b1b7-e2c3afcffd7a&siteId=us-engadget&pageId=1p-autolink&contentUuid=e57ba9f0-f4a8-43cb-94e6-d49b44d47b7f&featureId=text-link&merchantName=Peacock+TV&linkText=Apple+TV+%2B+Peacock+bundle&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5wZWFjb2NrdHYuY29tL2J1bmRsZS9hcHBsZS10diIsImNvbnRlbnRVdWlkIjoiZTU3YmE5ZjAtZjRhOC00M2NiLTk0ZTYtZDQ5YjQ0ZDQ3YjdmIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5wZWFjb2NrdHYuY29tL2J1bmRsZS9hcHBsZS10diJ9&signature=AQAAARnB4vapYQ78IdPxdKRRpEqAXSrZsqFJWYdd7eMMeLqA&gcReferrer=https%3A%2F%2Fwww.peacocktv.com%2Fbundle%2Fapple-tv\" class=\"rapid-with-clickid\" data-original-link=\"https://www.peacocktv.com/bundle/apple-tv\">Apple TV + Peacock bundle</a> is officially available now for $15 monthly for the ad-supported tier.</p> \n<p>This is a mighty fine deal, given that Apple TV recently changed both its <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.engadget.com/entertainment/streaming/apple-tv-is-now-just-apple-tv-200644609.html\">name</a> and <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.engadget.com/entertainment/tv-movies/apple-tv-subscriptions-just-rose-to-13-a-month-150516370.html\">price</a>. The platform costs $13 per month now on its own. Peacock starts at $11 per month. In other words, this is a discount of around $9 each month. In this economy, we'll take any savings we can get.</p> <span id=\"end-legacy-contents\"></span> \n<p> <core-commerce id=\"a7175737134e46319a381c426a2da866\" data-type=\"product-list\" data-original-url=\"https://www.peacocktv.com/bundle/apple-tv\"></core-commerce></p> \n<p>As mentioned previously, the only caveat is that the base tier includes ads. The subscription shoots up to $20 per month for an ad-free version. However, a standalone subscription to ad-free Peacock is $17 on its own. Additionally, Apple One subscribers will get a 35 percent discount on Peacock Premium Plus plans. It's always nice when two lonely corporations find friendship, isn't it?</p> \n<p>For the uninitiated, Apple TV is the company's big-wig streaming platform. It's primarily known for sci-fi like <em>Severance</em>, <em>For All Mankind</em> and the upcoming <em>Pluribus</em>. The platform is also host to plenty of comedy, like <em>The Studio</em>, <em>Shrinking</em> and <em>Ted Lasso</em>.</p> \n<p>Peacock is NBC's streaming service. It streams old-school network programming like <em>The Office</em>, <em>Grimm</em> and <em>Superstore</em>. The service features a stable of original programming like <em>Poker Face</em>, <em>Twisted Metal</em> and the <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.engadget.com/mrs-davis-review-damon-lindelof-nun-vs-ai-peacock-150006136.html\">underrated <em>Mrs. Davis</em></a>. The platform also recently premiered a little show called <em>The Paper</em>, which is a spinoff of <em>The Office</em>. Against all odds, this is actually a great little sitcom and a worthy successor to the original.</p> \n<div id=\"af1d55db2d724522bfb9fc4efdc9a752\"> <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/c5v4LJJkvUU?si=g2iLjbOw3pA-RzDe\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe> \n</div>This article originally appeared on Engadget at https://www.engadget.com/entertainment/tv-movies/the-new-apple-tv-and-peacock-streaming-bundle-is-officially-available-170403587.html?src=rss",
@@ -450,28 +450,12 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Zwrot pieniędzy dla klientów Empiku. Zapadła decyzja",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/zwrot-pieniedzy-dla-klientow-empiku-zapadla-decyzja/",
-      "description": "Klientom Empik, którzy zrobili zakupy na stronie empik.com w latach 2022-2024, a ich zamówienia zostały anulowane po przyjęciu do realizacji, spółka zaproponuje trzy opcje rekompensaty do wyboru przez konsumenta - informuje Urząd Ochrony Konkurencji i Konsumenta. To efekt ujawnienia nieprawidłowości w realizacji zamówień, które w ocenie UOKiK mogły wprowadzać klientów w błąd.",
-      "pubDate": "Mon, 20 Oct 2025 14:14:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Fundacja Rydzyka z rekordowym wsparciem. Dzięki podatkom rośnie w siłę",
       "link": "https://wiadomosci.gazeta.pl/polska/7,198072,32338017,fundacja-rydzyka-z-rekordowym-wsparciem-dzieki-podatkom-rosnie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/36/d7/1e/z32338230IHG,Tadeusz-Rydzyk.jpg' align='left' hspace='4' vspace='2'>Ministerstwo Finansów opublikowało dane dotyczące 1,5 proc. podatku dochodowego przekazywanego przez podatników organizacjom pożytku publicznego (OPP). Jak się okazało, fundacja Tadeusza Rydzyka otrzymała ogromne wsparcie z tego tytułu w zeszłym roku. O jakiej kwocie mowa?",
       "pubDate": "Mon, 20 Oct 2025 12:12:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/36/d7/1e/z32338230IHG,Tadeusz-Rydzyk.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "\"Poważne naruszenie suwerenności\". Napięcia między Chinami i Australią",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/powazne-naruszenie-suwerennosci-napiecia-miedzy-chinami-i-australia/",
-      "description": "Australijski samolot wojskowy naruszył przestrzeń powietrzną nad Wyspami Paracelskimi - podała agencja Reutera, powołując się na komunikat chińskiej armii. Pekin wezwał Canberrę do natychmiastowego przerwania prowokacyjnych naruszeń. Z kolei australijski rząd zarzucił Chińczykom wykonanie przez ich myśliwiec niebezpiecznego manewru w pobliżu maszyny patrolującej.",
-      "pubDate": "Mon, 20 Oct 2025 14:11:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "'We have failed' says minister as France reels from Louvre heist",
@@ -498,14 +482,6 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Fundacja Rydzyka bije rekordy. Zarabia więcej niż przed laty",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/fundacja-rydzyka-bije-rekordy-zarabia-wiecej-niz-przed-laty/",
-      "description": "Fundacja Nasza Przyszłość, której przewodniczącym rady jest ojciec Tadeusz Rydzyk, w ciągu dwóch ostatnich lat podwoiła swoje przychody. Jak wynika z raportu opublikowanego przez Ministerstwo Finansów, organizacja może pochwalić się budżetem większym m.in. od Polskiej Akcji Humanitarnej czy Fundacji Anny Dymnej Mimo Wszystko.",
-      "pubDate": "Mon, 20 Oct 2025 14:03:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Trump set to meet Australian PM Anthony Albanese: What is on agenda?",
       "link": "https://www.aljazeera.com/news/2025/10/20/trump-set-to-meet-australian-pm-anthony-albanese-what-is-on-agenda?traffic_source=rss",
       "description": "Trump and Albanese are likely to discuss critical minerals, tariffs, AUKUS and defence cooperation in their meeting.",
@@ -522,14 +498,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Tragedia w Kołobrzegu. 1,5-roczne dziecko nie żyje",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/tragedia-w-kolobrzegu-15-roczne-dziecko-nie-zyje/",
-      "description": "Do tragicznego zdarzenia doszło w punkcie dziennej opieki w Kołobrzegu. Nie żyje 1,5-roczne dziecko, u którego doszło do zatrzymania krążenia. Jego życia nie udało się uratować mimo interwencji zespołu ratowniczego.",
-      "pubDate": "Mon, 20 Oct 2025 14:02:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Beats Powerbeats Fit review: Déjà vu, in a good way",
       "link": "https://www.engadget.com/audio/headphones/beats-powerbeats-fit-review-deja-vu-in-a-good-way-120058332.html?src=rss",
       "description": "<p>Beats devices have been the more colorful, full-of-personality complements to Apple’s clean-and-minimal gear ever since Apple bought the company back in 2014. Beats earbuds and speakers are the more flexible alternatives to things like AirPods and HomePods, and the new <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.engadget.com/audio/headphones/beats-announces-the-powerbeats-fit-a-slightly-updated-successor-to-the-beats-fit-pro-140000905.html\">Beats Powerbeats Fit</a> keep that tradition alive. Some six months after the <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.engadget.com/audio/headphones/beats-powerbeats-pro-2-review-apples-first-earbuds-with-heart-rate-tracking-150026710.html\">Powerbeats Pro 2</a> debuted earlier this year, Beats now has an updated version of the Fit Pro to offer folks looking for many of the conveniences of an Apple device in something with slightly more character and versatility. Rather than reinventing the wheel, Beats made small changes on the Powerbeats Fit that ultimately make for a more polished version of its predecessor.</p> \n<h2 id=\"jump-link-whats-new\">What’s new</h2> \n<p>If you’re familiar with the <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.engadget.com/beats-fit-pro-review-140004462.html\">Beats Fit Pro</a>, you’ll be familiar with the Powerbeats Fit. Beats kept much of what worked with its previous $200 earbuds here (including the price), making very minor changes to improve the comfort and the overall design. The new buds have 20 percent more flexible wingtips and the charging case is 17 percent more compact than that of the Beats Fit Pro. More on the wingtips in a moment, but first I have to commend Beats for making the charging case feel ever so slightly more premium this time around — and since it’s smaller than before, it’s less cumbersome to tuck in your back pocket. The buds also fit snugly into the charging case with a satisfying <em>snap</em> every time; they always align properly to recharge, something I cannot say about past pairs of the AirPods Pro I’ve owned.</p> <span id=\"end-legacy-contents\"></span> \n<p> <core-commerce id=\"361222c39aa54b1ea2e4e44ced20bbbb\" data-type=\"product-list\" data-original-url=\"https://www.amazon.com/Beats-Powerbeats-Wireless-Noise-Cancelling-Compatible/dp/B0FPGQZTFB/?th=1\"></core-commerce></p> \n<p>When it comes to the wingtips on the Powerbeats Fit, they appear to be a hair shorter than those on the Beats Fit Pro, and certainly more malleable. I felt the biggest difference in flexibility at the base of the wingtip where it meets the earbud — those on the Powerbeats Fit have a bit more give than those on its predecessor. These small changes make it easy to pop the Powerbeats Fit into your ears and really not fuss with the wingtips at all. They’re present just to provide a more secure fit during intense workouts, and they do just that.</p> \n<p>I wore them during strength training, 5K runs and leisurely walks and I didn’t have to adjust them at all once I popped them in. When Beats announced these new buds, the company claimed its design tweaks would also make the Powerbeats Fit more comfortable to wear all day long, not just during workouts. I’ll admit that I didn’t find the previous Beats Fit Pro uncomfortable to wear when not at the gym or on the trail. Yes, the Powerbeats Fit are marginally more comfortable now and the wingtips are more supple, but the change is subtle. If you jibe with the wingtip design to begin with, you’ll safely be able to use the Powerbeats Fit as daily drivers in addition to workout companions.</p> \n<p>Notably, the Powerbeats Fit come with one extra pair of eartips in the box (four instead of the previous three), so once you find the eartips that are your best fit, you’ll be off to the races. There are also two new bold colors to choose from, orange and pink, in addition to gray and black.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/7c269cf0-ab64-11f0-ac9b-105ce8eedd80\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/7c269cf0-ab64-11f0-ac9b-105ce8eedd80\" style=\"height:1555px;width:2400px;\" alt=\"Beats Powerbeats Fit\" data-uuid=\"90e37f81-5892-3e6a-86c1-57421cccb9d0\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Valentina Palladino for Engadget \n </div> \n</figure> \n<h2 id=\"jump-link-whats-the-same\">What’s the same</h2> \n<p>Thankfully, Beats didn’t mess with all of the good things about the Fit Pro when developing the Powerbeats Fit. The new buds have an IPX4 water resistance rating, which isn’t the highest level of protection out there, but more than enough to withstand your sweatiest training sessions. Onboard controls in the form of physical buttons remain the same, although I didn’t accidentally trigger the buttons on the Powerbeats Fit nearly as much as I did with the Fit Pro. That might be because all the small changes Beats made in the design paid off — I didn’t fuss with the new buds in my ears as much as before, therefore I didn’t accidentally press the buttons as much.</p> \n<p>The Powerbeats Fit also have Apple’s H1 chip inside, which enables features like hands-free Siri, automatic switching between devices, Adaptive EQ, Audio Sharing and Personalized Spatial Audio with dynamic head tracking. Transparency mode returns here as well, and it remains one of the standout features of any Apple-associated wireless earbuds. And if you do decide to wear the Powerbeats Fit all day long, you’ll likely make even more use of transparency mode as you need to jump in and out of conversations happening around you. In addition, you can keep track of the new earbuds in Apple’s Find My app.</p> \n<p>Beats didn’t bill any improvements in sound quality on the Powerbeats Fit, and after listening to them alongside the Beats Fit Pro, I can say they sound almost identical. While listening to some tracks with the Powerbeats Fit, I noticed an almost imperceptible increase in the clarity of vocals, but that’s about it. Bass remains punchy and strong, and the buds get decently loud.</p> \n<p>Active noise cancellation (ANC) is also the same on the new buds: strong enough to block out ambient noise around you and people’s voices. While running outside, I still heard the loudest disturbances like passing trucks and oddly sonorous cackling of nearby wildlife, but that’s arguably for the best. If you’re exercising outside, be it in a park or on city streets, you should be at least somewhat aware of your surroundings.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/9f4e3f30-ab64-11f0-b6bf-d85a4fe142eb\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/9f4e3f30-ab64-11f0-b6bf-d85a4fe142eb\" style=\"height:1568px;width:2400px;\" alt=\"Beats Powerbeats Fit\" data-uuid=\"d4961546-abcd-36e4-999d-1cdac62443a7\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Valentina Palladino for Engadget \n </div> \n</figure> \n<p>Battery life is consistent here as well, with Beats promising up to seven hours on a single charge (or six with ANC turned on) and up to 30 hours total when employing the Powerbeats Fit charging case. Anecdotally, after a week of using the Powerbeats Fit for an average of one hour each day, the charging case still had 75 percent battery left. If you’re using these all day, every day, you’ll obviously need to power it up more frequently. But if these are primarily your workout companions, you could get a week or two before needing to plug them in.</p> \n<h2 id=\"jump-link-wrap-up\">Wrap-up</h2> \n<p>The <a data-i13n=\"elm:affiliate_link;sellerN:Amazon;elmt:;cpos:4;pos:1\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&itemId=amazon_B0FPGQZTFB&siteId=us-engadget&pageId=1p-autolink&contentUuid=5c4eb8c8-5ae6-4965-bdfd-f3a38fb19c20&featureId=text-link&merchantName=Amazon&linkText=Powerbeats+Fit&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0JlYXRzLVBvd2VyYmVhdHMtV2lyZWxlc3MtTm9pc2UtQ2FuY2VsbGluZy1Db21wYXRpYmxlL2RwL0IwRlBHUVpURkIvP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6IjVjNGViOGM4LTVhZTYtNDk2NS1iZGZkLWYzYTM4ZmIxOWMyMCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9CZWF0cy1Qb3dlcmJlYXRzLVdpcmVsZXNzLU5vaXNlLUNhbmNlbGxpbmctQ29tcGF0aWJsZS9kcC9CMEZQR1FaVEZCLyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&signature=AQAAAWPmi0UxrZy9m0mmIy-zJSTgoDms3mYqay5LsFaoGqJP&gcReferrer=https%3A%2F%2Fwww.amazon.com%2FBeats-Powerbeats-Wireless-Noise-Cancelling-Compatible%2Fdp%2FB0FPGQZTFB%2F\" class=\"rapid-with-clickid\" data-original-link=\"https://www.amazon.com/Beats-Powerbeats-Wireless-Noise-Cancelling-Compatible/dp/B0FPGQZTFB/?th=1\">Powerbeats Fit</a> are a fitting update to the Beats Fit Pro. The latter was one of the best devices in the Beats lineup to begin with, and the latest model only improves upon the winning formula. They offer a solid balance of a comfortable, secure design, good sound quality and ANC and handy additional features at a decent price. The latter is arguably just as important as the buds’ ability to withstand a sweaty training session: folks looking for many of the conveniences found in AirPods will find them here in an alternative design, and in a pair of buds that also works just as well with Android devices. If you’re willing to pay more, you could shell out $250 for either the <a data-i13n=\"elm:affiliate_link;sellerN:Amazon;elmt:;cpos:5;pos:1\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&itemId=amazon_B0DT2LTRL7&siteId=us-engadget&pageId=1p-autolink&contentUuid=5c4eb8c8-5ae6-4965-bdfd-f3a38fb19c20&featureId=text-link&merchantName=Amazon&linkText=Powerbeats+Pro+2&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0JlYXRzLVBvd2VyYmVhdHMtV2lyZWxlc3MtQmx1ZXRvb3RoLUVhcmJ1ZHMvZHAvQjBEVDJMVFJMNy8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNWM0ZWI4YzgtNWFlNi00OTY1LWJkZmQtZjNhMzhmYjE5YzIwIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0JlYXRzLVBvd2VyYmVhdHMtV2lyZWxlc3MtQmx1ZXRvb3RoLUVhcmJ1ZHMvZHAvQjBEVDJMVFJMNy8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&signature=AQAAAXyR5xLdU8Ai3CKnl10ld8qARdEMKwNDOiT20LXXc7Ry&gcReferrer=https%3A%2F%2Fwww.amazon.com%2FBeats-Powerbeats-Wireless-Bluetooth-Earbuds%2Fdp%2FB0DT2LTRL7%2F\" class=\"rapid-with-clickid\" data-original-link=\"https://www.amazon.com/Beats-Powerbeats-Wireless-Bluetooth-Earbuds/dp/B0DT2LTRL7/?th=1\">Powerbeats Pro 2</a> to get that full over-ear hook style, or <a data-i13n=\"elm:affiliate_link;sellerN:Amazon;elmt:;cpos:6;pos:1\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&itemId=amazon_B0FQFB8FMG&siteId=us-engadget&pageId=1p-autolink&contentUuid=5c4eb8c8-5ae6-4965-bdfd-f3a38fb19c20&featureId=text-link&merchantName=Amazon&linkText=AirPods+Pro+3&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUNhbmNlbGxhdGlvbi1UcmFuc2xhdGlvbi1IZWFkcGhvbmVzLUhpZ2gtRmlkZWxpdHkvZHAvQjBGUUZCOEZNRy8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNWM0ZWI4YzgtNWFlNi00OTY1LWJkZmQtZjNhMzhmYjE5YzIwIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0FwcGxlLUNhbmNlbGxhdGlvbi1UcmFuc2xhdGlvbi1IZWFkcGhvbmVzLUhpZ2gtRmlkZWxpdHkvZHAvQjBGUUZCOEZNRy8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&signature=AQAAAe14ml4rOWYsTO3t_LyoSF9f7jKlcD2y0qab0sJgb2rG&gcReferrer=https%3A%2F%2Fwww.amazon.com%2FApple-Cancellation-Translation-Headphones-High-Fidelity%2Fdp%2FB0FQFB8FMG%2F\" class=\"rapid-with-clickid\" data-original-link=\"https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/\">AirPods Pro 3</a> — both of which have built-in heart rate tracking But that feature in particular will be more of a nice-to-have than a necessity for most.</p>This article originally appeared on Engadget at https://www.engadget.com/audio/headphones/beats-powerbeats-fit-review-deja-vu-in-a-good-way-120058332.html?src=rss",
@@ -542,14 +510,6 @@
       "link": "https://www.theguardian.com/us-news/2025/oct/20/florida-everglades-project-tom-van-lent",
       "description": "<p>A legal saga stemming from a water quality project saw Tom Van Lent briefly jailed in a case brought by allies of DeSantis</p><p>An environmental scientist briefly jailed in what he called a “political prosecution” brought by allies of Florida’s rightwing Republican governor, Ron DeSantis, now alleges new evidence shows his jail sentence stemmed from fraudulent allegations.</p><p>Tom Van Lent’s claim represents the latest twist in a <a href=\"https://newrepublic.com/article/182364/everglades-scientist-trial-ron-desantis-florida\">three-year legal saga</a> ignited by a disagreement over a proposed restoration project that aimed to address Florida’s recurrent red tides and toxic algal blooms by helping restore the environment of the vast Everglades wetlands.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/florida-everglades-project-tom-van-lent\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 12:00:41 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Experts hail ‘remarkable’ success of electronic implant in restoring sight",
-      "link": "https://www.theguardian.com/science/2025/oct/20/experts-hail-remarkable-success-of-electronic-implant-in-restoring-sight",
-      "description": "<p>Sight of 84% of people with form of age-related macular degeneration restored after being fitted with device</p><p>An electronic eye implant half the thickness of a human hair has helped people with incurable sight loss to see again, opening up a potential “new era” in tackling blindness.</p><p>Doctors who implanted the sim card-shaped prosthetic devices say they have helped many of the 38 elderly patients in the trial regain their ability to read letters, numbers and words.</p> <a href=\"https://www.theguardian.com/science/2025/oct/20/experts-hail-remarkable-success-of-electronic-implant-in-restoring-sight\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 12:00:40 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
@@ -618,14 +578,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Naukowcy alarmują. Składnik z ryb i wołowiny może zwiększać ryzyko depresji",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/naukowcy-alarmuja-skladnik-z-ryb-i-wolowiny-moze-zwiekszac-ryzyko-depresji/",
-      "description": "W ostatnich latach coraz więcej badań wskazuje, że to, co się je, może mieć znaczący wpływ nie tylko na ciało, ale i na psychikę. Naukowcy zaczęli zwracać uwagę na związek między mikrobiotą jelitową a nastrojem człowieka. Jednym z nowych kierunków badań jest rola aminokwasów, w tym proliny, która naturalnie występuje w wielu produktach pochodzenia zwierzęcego.",
-      "pubDate": "Mon, 20 Oct 2025 13:38:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Watch: BBC shows the steps jewel thieves took to break in through Louvre window",
       "link": "https://www.bbc.com/news/videos/cwyp1pn7k4eo?at_medium=RSS&at_campaign=rss",
       "description": "The BBC's Hugh Schofield is outside the museum in Paris where the \"extraordinary, daring and brazen\" robbery took place.",
@@ -666,52 +618,12 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "BGK kredytuje kolejny afrykański rząd",
-      "link": "https://www.rp.pl/banki/art43203841-bgk-kredytuje-kolejny-afrykanski-rzad",
-      "description": "Kredyt BGK na budowę linii kolejowej w Tanzanii ma przyciągnąć do tego kraju polskich eksporterów.",
-      "pubDate": "Mon, 20 Oct 2025 13:33:02 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/5693f1d236a6bf88ab4a33be27869385/?t=crop:4032:2500:nowe:0:262,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dziennikarze Polsat News nominowani do nagrody BohaterONy im. Powstańców Warszawskich",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/dziennikarze-polsat-news-nominowani-do-nagrody-bohaterony-im-powstancow-warszawskich/",
-      "description": "Reporterzy Polsat News - Magdalena Mioduska i Stanisław Wryk - zostali nominowani w kategorii dziennikarz do nagrody BohaterONy im. Powstańców Warszawskich. Walczą również o Złoty BohaterON Publiczności. Głos na naszych dziennikarzy można oddać do 31 października.",
-      "pubDate": "Mon, 20 Oct 2025 13:30:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Wszedł do szpitala z trzema nożami, szukał lekarki. Mężczyzna w rękach policji",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/wszedl-do-szpitala-z-trzema-nozami-szukal-lekarki-mezczyzna-w-rekach-policji/",
-      "description": "Małopolscy policjanci zatrzymali 42-latka, który pojawił się w jednym z krakowskich szpitali z trzema nożami. Na miejscu rozpytywał on o 29-letnią lekarkę, której wcześniej był pacjentem. Kobieta od kilkunastu tygodni była przez niego nękana mailami.",
-      "pubDate": "Mon, 20 Oct 2025 13:28:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Tyle PiS ma wydać na konwencję w Katowicach. Opublikowano program. \"Były przepychanki\"",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32338033,tyle-pis-ma-wydac-na-konwencje-w-katowicach-opublikowano-program.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/27/d7/1e/z32338215IHG,Jaroslaw-Kaczynski.jpg' align='left' hspace='4' vspace='2'>Około miliona złotych ma kosztować konwencja programowa Prawa i Sprawiedliwości - podaje \"Newsweek\". Na stronie partii jest już dostępna agenda wydarzenia. W ramach dwudniowej konwencji w Katowicach ma odbyć się ok. 100 paneli z 500 uczestnikami.",
       "pubDate": "Mon, 20 Oct 2025 11:27:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/27/d7/1e/z32338215IHG,Jaroslaw-Kaczynski.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Jest decyzja w sprawie gazu z Rosji. Unia mówi mu: „żegnaj na zawsze\"",
-      "link": "https://energia.rp.pl/gaz/art43203831-jest-decyzja-w-sprawie-gazu-z-rosji-unia-mowi-mu-zegnaj-na-zawsze",
-      "description": "Unia wprowadza całkowity zakaz importu rosyjskiego gazu gazociągami i jako LNG.  Nie było innego sposobu, by wymusić na dwóch prorosyjskich rządach znalezienie dostawców gazu spoza Rosji. Usunięta została też ostatnia przeszkoda do przyjęcia 19. pakietu sankcji - sprzeciw Austrii.",
-      "pubDate": "Mon, 20 Oct 2025 13:26:31 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/f6b2f1e5d5fba2cfc76db0b0bbff8a3c/?t=crop:4420:1931:nowe:0:35.788990825688,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Prezydent o przyszłości Szymona Hołowni. \"Z pewnością byłby lepszym kandydatem\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/prezydent-o-przyszlosci-szymona-holowni-z-pewnoscia-bylby-lepszym-kandydatem/",
-      "description": "Z pewnością marszałek Szymon Hołownia były lepszym kandydatem na ambasadora USA, niż obecnym ambasadorem jest pan Klich - powiedział prezydent Karol Nawrocki, pytany o tę kwestię przez dziennikarzy. Według doniesień medialnych marszałek Sejmu ma starać się o posadę w placówce dyplomatycznej w Stanach Zjednoczonych.",
-      "pubDate": "Mon, 20 Oct 2025 13:26:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Cofną zmiany, które uderzają w nauczycieli? Ważna zapowiedź MEN",
@@ -722,14 +634,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Michał Szczerba o przedwyborczych postulatach KO: Były konkrety, ale rzeczywistość je zweryfikowała",
-      "link": "https://www.rp.pl/polityka/art43203541-michal-szczerba-o-przedwyborczych-postulatach-ko-byly-konkrety-ale-rzeczywistosc-je-zweryfikowala",
-      "description": "Jaką ocenę należy wystawić rządowi Donalda Tuska? Co z przedwyborczymi obietnicami Koalicji Obywatelskiej m.in. w sprawie kwoty wolnej od podatku czy związków partnerskich? Czy koalicja poprze starania Szymona Hołowni o funkcję ambasadora RP w USA? Czy politycy Polski 2050 będą mogli startować z list KO? M.in. na te pytania Jacka Nizinkiewicza odpowiadał europoseł KO Michał Szczerba.",
-      "pubDate": "Mon, 20 Oct 2025 13:23:22 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/e4dd41273549532f819dcdb423ae2248/?t=crop:1920:839:nowe:0:1.6551724137931,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Prezydent Ukrainy jest gotów na rozmowy w Budapeszcie, ale nie wierzy Orbanowi",
       "link": "https://wiadomosci.dziennik.pl/swiat/artykuly/10517862,prezydent-ukrainy-jest-gotow-na-rozmowy-w-budapeszcie-ale-nie-wierzy.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/X67ktkuTURBXy81OWJlYTUzYi05ODAzLTQ5NmUtOTdhZC0zOTc0ODQyMGM5MWEuanBlZ5GTBc0BHcyg\" align=\"right\" />Prezydent Ukrainy Wołodymyr Zełenski jest gotów udać się do Budapesztu w związku ze spotkaniem prezydenta USA Donalda Trumpa z przywódcą Rosji Władimirem Putinem, jednak ocenił, że Węgry nie są dobrym miejscem do rozmów o pokoju w jego kraju.",
@@ -738,28 +642,12 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Prof. Ryszard Legutko: KO ma w sondażach 30 proc.? To ludzie, którzy wierzą w Donalda Tuska jak muzułmanie w Mahometa",
-      "link": "https://www.rp.pl/polityka/art43203961-prof-ryszard-legutko-ko-ma-w-sondazach-30-proc-to-ludzie-ktorzy-wierza-w-donalda-tuska-jak-muzulmanie-w-mahometa",
-      "description": "Zwolennicy Koalicji Obywatelskiej to „ludzie, którzy wierzą w Donalda Tuska, jak muzułmanie w swojego Mahometa i równie fanatycznie nienawidzą PiS-u” – stwierdził prof. Ryszard Legutko, były europoseł Prawa i Sprawiedliwości, komentując sondaże partyjne, w których KO uzyskuje ok. 30 proc. wskazań.",
-      "pubDate": "Mon, 20 Oct 2025 13:17:36 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/ab85a749c99e97fe0219c3764b566304/?t=crop:6000:2623:nowe:0:689,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Weather tracker: Eight dead as Tropical Storm Fengshen hits Philippines",
       "link": "https://www.theguardian.com/environment/2025/oct/20/weather-tracker-dead-as-tropical-storm-fengshen-hits-philippines",
       "description": "<p>Tens of thousands evacuated amid significant damage from intense rainfall and storm surge</p><p>Eight people have died and 27,000 have been evacuated after Tropical Storm Fengshen hit the Philippines during the weekend. Fengshen made landfall from the western Pacific Ocean near the municipality of Gubat on the southern tip of the island of Luzon, and while it remains on the weaker side in terms of sustained winds, the intense rainfall and a storm surge have caused significant damage across the region.</p><p>Anticipated waves of 2 metres (6ft) led the Philippines weather bureau, Pagasa, to issue a risk warning of moderate coastal flooding for the region. Twenty-seven thousand people were evacuated from the Albay province because of these warnings and moved to a safer area further inland. Despite the precautionary measures, five people died when a tree fell on to a house near Pitogo on Sunday morning.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/20/weather-tracker-dead-as-tropical-storm-fengshen-hits-philippines\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 11:16:16 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "„Rzeczpospolita” udostępnia artykuły w wersji audio. Nowa funkcja w serwisie rp.pl",
-      "link": "https://www.rp.pl/media/art43204061-rzeczpospolita-udostepnia-artykuly-w-wersji-audio-nowa-funkcja-w-serwisie-rp-pl",
-      "description": "Serwis rp.pl wprowadza nową funkcjonalność, która pozwala czytelnikom odsłuchiwać artykuły „Rzeczpospolitej” w wersji audio. Technologia Text-to-Speech, wykorzystująca zaawansowane rozwiązania sztucznej inteligencji, została udostępniona w pierwszej kolejności czytelnikom, a teraz też słuchaczom weekendowego magazynu „Plus Minus”. Biblioteka artykułów dostępnych w wersji audio będzie systematycznie poszerzana.",
-      "pubDate": "Mon, 20 Oct 2025 13:15:40 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/132d45b74ed85efd50e681d67924e792/?t=crop:2237:978:nowe:0:140,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Zelenskyy eyes invite to Trump-Putin talks in Budapest",
@@ -859,7 +747,7 @@
     },
     {
       "title": "Tulicki, Adamczyk i Karnowski zapowiadają swój kanał. Wiadomo, kiedy ruszy",
-      "link": "https://www.wirtualnemedia.pl/michal-adamczyk-michal-karnowski-youtube-kanal-tak-nowy-program,7212878010088416a",
+      "link": "https://www.wirtualnemedia.pl/tulicki-adamczyk-i-karnowski-zapowiadaja-swoj-kanal-wiadomo-kiedy-ruszy,7212878010088416a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b61da845-07ab-423a-a830-43361a81295b\" width=\"308\" /> Kanał TAK! na YouTube zacznie działać 2 listopada – zapowiedzieli tworzący go Marcin Tulicki, Michał Adamczyk i Michał Karnowski. Poprzednio wszyscy byli związani z telewizją wPolsce24. ",
       "pubDate": "Mon, 20 Oct 2025 12:49:44 +0200",
       "imageUrl": "",
@@ -922,28 +810,12 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Hiszpania: Zakaz adopcji czarnych kotów. W tle \"złowrogie obrzędy\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/hiszpania-zakaz-adopcji-czarnych-kotow-w-tle-zlowrogie-obrzedy/",
-      "description": "Całkowity zakaz adopcji wyłącznie czarnych kotów wprowadziły władze katalońskiego miasta Terrassa. Staramy się zapobiegać adopcjom podejmowanym pod wpływem mody lub impulsu - twierdzi wiceprezydent Terrasssy Noel Duque. Decyzja jest związana z nadchodzącym świętem.",
-      "pubDate": "Mon, 20 Oct 2025 12:27:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Zelensky ready to join Trump-Putin talks after 'frank' White House meeting",
       "link": "https://www.bbc.com/news/articles/c93dl93v581o?at_medium=RSS&at_campaign=rss",
       "description": "The US and Russian presidents announced on Thursday that they planned to meet in Budapest.",
       "pubDate": "Mon, 20 Oct 2025 10:27:00 GMT",
       "imageUrl": "",
       "source": "BBC News"
-    },
-    {
-      "title": "Samochód nauki jazdy zmiażdżony przez ciężarówkę. Tragiczny wypadek na dawnej S3",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/samochod-nauki-jazdy-zmiazdzony-przez-ciezarowke-tragiczny-wypadek-na-dawnej-s3/",
-      "description": "Do tragicznego wypadku doszło na trasie między Babigoszczą a Przybiernowem w województwie zachodniopomorskim. Samochód nauki jazdy zderzył się tam z ciężarówką, dachował, a następnie został ponownie uderzony przez tira. Na miejscu pracują służby, które zajmują się ustalaniem okoliczności zdarzenia oraz pomocą poszkodowanym.",
-      "pubDate": "Mon, 20 Oct 2025 12:23:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Wipler o podobieństwach między Nawrockim a Konfederacją. \"Jest zbieżność estetyczna\"",
@@ -1050,22 +922,6 @@
       "source": "BBC News"
     },
     {
-      "title": "\"Ponieśliśmy porażkę\". Gorzkie słowa ministra po napadzie na Luwr",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/ponieslismy-porazke-gorzkie-slowa-ministra-po-napadzie-na-luwr/",
-      "description": "Pewne jest, że ponieśliśmy porażkę - napisał minister sprawiedliwości Francji Gerard Darmanin. Zapewnił jednak, że policja zatrzyma sprawców kradzieży biżuterii z Luwru. Tymczasem - jak informuje reporter Polsat News Andrzej Wyrwiński - najczęściej odwiedzane muzeum we Francji w poniedziałek pozostanie zamknięte.",
-      "pubDate": "Mon, 20 Oct 2025 11:46:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "\"Nie wspierajmy\". Żurek apeluje do Polaków po głośnych słowach Bąkiewicza",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/nie-wspierajmy-zurek-apeluje-do-polakow-po-glosnych-slowach-bakiewicza/",
-      "description": "- Jego wystąpienia postrzegam bardzo negatywnie i apeluję do wszystkich, którzy to oglądają: nie wspierajmy tego typu zachowań, bo to wywołuje później różnego rodzaju czyny, które bardzo źle się mogą skończyć - powiedział Waldemar Żurek. Odniósł się on do zachowania Roberta Bąkiewicza, który 11 października mówił o wyrywaniu chwastów z polskiej ziemi i zrzucaniu napalmu.",
-      "pubDate": "Mon, 20 Oct 2025 11:45:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Oto sposób na to, by uniknąć przeziębienia w sezonie grypowym. Warto robić ten jeden rozgrzewający napar",
       "link": "https://kobieta.dziennik.pl/porady/artykuly/10511941,oto-sposob-na-to-by-uniknac-przeziebienia-w-sezonie-grypowym-warto-r.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/ffPktkuTURBXy8wMGQ4YzdmMy03YmRiLTQzMDQtYjI0YS1jZTJjZDllNGQ1ZmIuanBlZ5GTBc0BHcyg\" align=\"right\" />Żurawina słusznie zyskała miano jednego z najbardziej wartościowych owoców, zwłaszcza w kontekście zwiększania odporności. Stanowi prawdziwą \"bombę witaminową\", która skutecznie zapobiega przeziębieniom, grypie oraz infekcjom górnych dróg oddechowych.",
@@ -1146,14 +1002,6 @@
       "source": "Wirtualne Media"
     },
     {
-      "title": "Groźby europosłanki wobec Zełenskiego. Pojawiła się na spotkaniu w Moskwie",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/grozby-europoslanki-wobec-zelenskiego-pojawila-sie-na-spotkaniu-w-moskwie/",
-      "description": "Jeśli ośmieli się przyjść do mojego parlamentu, połamię mu nogi! Niech nie ośmiela się wygłaszać przemówienia w moim parlamencie - brzmiał przekaz rumuńskiej europosłanki Diany Sosoacy podczas spotkania w Moskwie z członkami międzynarodowego stowarzyszenia Przyjaciele Rosji. Jak wynika z jej oświadczenia, mówiła też o mniejszości rumuńskiej na Ukrainie, a rząd w Kijowie nazwała reżimem.",
-      "pubDate": "Mon, 20 Oct 2025 11:09:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Two killed as cargo plane skids off Hong Kong runway",
       "link": "https://www.aljazeera.com/news/2025/10/20/two-killed-as-cargo-plane-skids-off-hong-kong-runway?traffic_source=rss",
       "description": "The accident is one of the deadliest at Hong Kong International Airport since the hub opened in 1998.",
@@ -1168,14 +1016,6 @@
       "pubDate": "Mon, 20 Oct 2025 09:07:26 GMT",
       "imageUrl": "",
       "source": "BBC News"
-    },
-    {
-      "title": "Tempo wzrostu wynagrodzeń wyhamowało. GUS podał najnowsze dane",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/tempo-wzrostu-wynagrodzen-wyhamowalo-gus-podal-najnowsze-dane/",
-      "description": "8750 zł brutto wyniosło przeciętne wynagrodzenie w sektorze przedsiębiorstw w drugim kwartale 2025 roku - wynika z najnowszych danych GUS. Oznacza to, że tempo wzrostu płac w Polsce wyhamowało, co jest zgodne z oczekiwaniami ekonomistów.",
-      "pubDate": "Mon, 20 Oct 2025 11:07:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Chancellor says Brexit deal caused long-term damage to economy",
@@ -1266,14 +1106,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Globalna awaria internetu. Amazon opublikował komunikaty",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/globalna-awaria-internetu-popularne-aplikacje-nie-dzialaja/",
-      "description": "Z powodu awarii systemu Amazon Web Services, jednego z największych na świecie dostawców usług w chmurze, nie działa wiele stron internetowych i aplikacji. The Independent powołujący się na serwis DownDetector informuje o szeregu błędów w systemie AWS. Amazon informuje, że prace nad awarią doprowadziły już do poprawy sytuacji.",
-      "pubDate": "Mon, 20 Oct 2025 10:46:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Louvre heist puts pressure on French government over museum security",
       "link": "https://www.theguardian.com/world/2025/oct/20/louvre-heist-pressure-french-government-museum-security-paris",
       "description": "<p>Justice minister says ‘we have failed’ after thieves take seven minutes to steal priceless jewels from museum</p><ul><li><p><a href=\"http://theguardian.com/world/live/2025/oct/20/zelenskyy-trump-putin-russia-ukraine-war-eu-france-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>The French government is under increasing pressure over museum security as police continue to search for thieves who took <a href=\"https://www.theguardian.com/world/2025/oct/19/louvre-closed-after-robbery-french-culture-minister-says\">seven minutes to steal priceless jewels</a> from the Louvre, the world’s most-visited museum.</p><p>“What is certain is that we have failed, since people were able to park a furniture hoist in the middle of Paris, get people up it in several minutes to grab priceless jewels, and give France a terrible image,” the justice minister, Gérald Darmanin, told France Inter radio on Monday.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/louvre-heist-pressure-french-government-museum-security-paris\">Continue reading...</a>",
@@ -1312,22 +1144,6 @@
       "pubDate": "2025-10-20T08:26:45.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Rekordowy sum w Zalewie Rybnickim. Polscy wędkarze pochwalili się okazem",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/rekordowy-sum-w-zalewie-rybnickim-polscy-wedkarze-pochwalili-sie-okazem/",
-      "description": "Podczas zawodów w rybnickim zalewie, polscy wędkarze wyciągnęli rekordowego suma o długości aż 292 cm. To nowy rekord Polski i świata - poprzedni rekordzista mierzył siedem centymetrów mniej.",
-      "pubDate": "Mon, 20 Oct 2025 10:26:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "\"Wolę pusty kościół, niż pełen diabłów\". Ksiądz o \"żenującej hipokryzji\" wiernych",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/wole-pusty-kosciol-niz-pelen-diablow-ksiadz-o-zenujacej-hipokryzji-wiernych/",
-      "description": "Wolę pusty kościół, niż pełen diabłów - napisał ks. Dariusz Wachowiak, popularny w sieci duchowny z Wielkopolski. Ksiądz wyliczył, ile osób w jego parafii uczęszcza na msze święte oraz zwrócił uwagę na żenującą hipokryzję osób, które uznają się za wierzących i domagają się sakramentów.",
-      "pubDate": "Mon, 20 Oct 2025 10:23:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Hong Kong: two killed after cargo plane veers off runway into sea while landing",
@@ -1378,14 +1194,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Nowa praca Andrzeja Dudy. Były prezydent w znanej polskiej firmie",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/nowa-praca-andrzeja-dudy-byly-prezydent-w-znanej-polskiej-firmie/",
-      "description": "Andrzej Duda ma nową pracę. Chodzi o stworzenie całego intuicyjnego ekosystemu finansowego - opisuje swoje zadania były prezydent, który zasiądzie w radzie nadzorczej jednej z rodzimych spółek fintechowych. Plany na życie po prezydenturze sięgają jednak dalej, także do polityki.",
-      "pubDate": "Mon, 20 Oct 2025 09:59:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Tusk zabrał głos ws. próby podpalenia siedziby PO. Wymienił m.in. Kaczyńskiego",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32337518,tusk-zabral-glos-ws-proby-podpalenia-siedziby-po-wymienil.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/b4/d6/1e/z32334516IHG,Donald-Tusk.jpg' align='left' hspace='4' vspace='2'>Bąkiewicz i Kaczyński muszą być zadowoleni. W ten sposób premier Donald Tusk nawiązał w mediach społecznościowych do zatrzymania mężczyzny podejrzewanego o próbę podpalenia siedziby Platformy Obywatelskiej.",
@@ -1418,14 +1226,6 @@
       "source": "Wirtualne Media"
     },
     {
-      "title": "Powstanie partia prezydencka Karola Nawrockiego? Polacy są jednomyślni",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/powstanie-partia-prezydencka-karola-nawrockiego-polacy-sa-jednomyslni/",
-      "description": "Większość Polaków nie chciałaby powstania partii pod patronatem Karola Nawrockiego - wynika z najnowszego sondażu przeprowadzonego przez IBRiS. Pomysł ten zyskał dezaprobatę 45 proc. badanych. Najwięcej z nich to sympatycy obozu rządzącego. - Gdyby miała powstać partia prezydenta, to oczywiście zaszkodziłoby to PiS i Konfederacji - powiedział na antenie Polsat News politolog Szymon Ossowski.",
-      "pubDate": "Mon, 20 Oct 2025 09:53:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Andrzej Duda wchodzi do biznesu. Nadzoruje spółkę technologiczną",
       "link": "https://www.wirtualnemedia.pl/andrzej-duda-wchodzi-do-biznesu-nadzoruje-spolke-technologiczna,7212833961864128a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/abc863f0-6a64-41ad-8a09-40e519dcc873\" width=\"308\" /> Były prezydent Andrzej Duda został członkiem rady nadzorczej firmy ZEN.com z sektora technologii finansowej – podał \"Puls Biznesu\". Były prezydent nie wykluczył pojawienia się w radach nadzorczych innych instytucji. – Nie będę walczył, by zostać premierem – zadeklarował. ",
@@ -1448,14 +1248,6 @@
       "pubDate": "2025-10-20T07:30:00.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Dron wymusił zamknięcie lotniska w Hiszpanii. Samoloty zostały przekierowane",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/dron-wymusil-zamkniecie-lotniska-samoloty-zostaly-przekierowane/",
-      "description": "W niedzielę z powodu zauważenia drona, na 35 minut zamknięte zostało lotnisko na Majorce. To trzeci największy port lotniczy w Hiszpanii. Według informacji podanych przez Diario de Mallorca, osiem lotów zostało przekierowanych.",
-      "pubDate": "Mon, 20 Oct 2025 09:23:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Leki i wizyta u specjalisty. \"Rz\" o kulisach odebrania Cenckiewiczowi dostępu do tajemnic",
@@ -1498,14 +1290,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "\"W żadnej z naszych stolic\". Litewski minister wskazał miejsce dla Putina w Europie",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/w-zadnej-z-naszych-stolic-litewski-minister-wskazal-miejsce-dla-putina-w-europie/",
-      "description": "- Jedyne miejsce dla Putina w Europie znajduje się w Hadze przed trybunałem, a nie w żadnej z naszych stolic – powiedział szef MSZ Litwy Kestutis Budrys przed spotkaniem ministrów spraw zagranicznych UE w Luksemburgu. Tym samym nawiązał do planowanych w Budapeszcie rozmów prezydentów Donalda Trumpa i Władimira Putina.",
-      "pubDate": "Mon, 20 Oct 2025 09:02:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Zmiana czasu z letniego na zimowy w 2025 roku. To już w październiku! Kiedy dokładnie? A kiedy nastąpi ostatnia zmiana czasu? Oto data!",
       "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/10491659,zmiana-czasu-z-letniego-na-zimowy-w-2025-roku-to-juz-w-pazdzierniku-kiedy-dokladnie-a-kiedy-nastapi-ostatnia-zmiana-czasu-oto-data.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/a_nktkuTURBXy81ZmJmMTBmMy1hNTNmLTQzZGQtODIyYS0xYjA2NmNmODdmNTguanBlZ5GTBc0BHcyg\" align=\"right\" />Kiedy zmiana czasu na zimowy w 2025 roku? A kiedy po raz ostatni zmienimy czas? Przez długi czas trwały rozmowy na ten temat, a teraz projekt zaczyna się konkretyzować. Istnieje szansa, że niedługo po raz ostatni przestawimy zegary. Kiedy to może nastąpić i jakie będą konsekwencje przejścia na stały czas letni? Oto szczegóły.",
@@ -1536,14 +1320,6 @@
       "pubDate": "Mon, 20 Oct 2025 06:53:18 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "\"Bezczelność wobec Polski\". Były kanclerz Niemiec zeznawał w sprawie Nord Stream",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/bezczelnosc-wobec-polski-byly-kanclerz-niemiec-w-ogniu-krytki/",
-      "description": "Bezczelność wobec Polski - tak dziennik Frankfurter Allgemeine określił zeznania byłego kanclerza Niemiec Gerharda Schrödera przed komisją śledczą parlamentu Meklemburgii-Pomorza Przedniego. Polityk, który na emeryturze związał z rosyjskim przemysłem naftowym, odpowiadał na pytania związane z budową gazociągu Nord Stream.",
-      "pubDate": "Mon, 20 Oct 2025 08:50:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Wlej dwie łyżki i postaw na szafce w łazience. Przepiękny zapach rozniesie się po całym pomieszczeniu",
@@ -1584,22 +1360,6 @@
       "pubDate": "Mon, 20 Oct 2025 06:20:02 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Nadchodzą zmiany w PO. Marcin Kierwiński mówi o \"żalu\" i \"nostalgii\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/nadchodza-zmiany-w-po-marcin-kierwinski-mowi-o-zalu-i-nostalgii/",
-      "description": "- Trochę żal, natomiast nie ma, co mówić, taka jest dynamika sceny politycznej - powiedział w Graffiti szef MSWiA Marcin Kierwiński, pytany o nadchodzący kongres KO, podczas, którego mają zostać ogłoszone decyzje dotyczące ugrupowania. - Będzie zmiana szyldu, będzie zmiana nazwy - mówił odnosząc się do połączenia swojej partii z Inicjatywą Polską i Nowoczesną.",
-      "pubDate": "Mon, 20 Oct 2025 08:20:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Nie żyje Andrzej Kołakowski. Znany poeta i pieśniarz miał 61 lat",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/nie-zyje-andrzej-kolakowski-znany-poeta-i-piesniarz-mial-61-lat/",
-      "description": "W wieku 61 lat zmarł znany poeta, pieśniarz i działacz opozycji antykomunistycznej Andrzej Kołakowski. Był zawsze tam, gdzie trzeba – wierny zasadom, z Polską w sercu - napisał o nim prezydent Karol Nawrocki.",
-      "pubDate": "Mon, 20 Oct 2025 08:12:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Odkryj swoją szafę na nowo! Ten prosty trik z wieszakami, odmieni Twoje życie",
@@ -1672,14 +1432,6 @@
       "pubDate": "2025-10-20T05:29:00.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Monday briefing: ‘New levels of misery’ for Ukraine’s soldiers as diplomatic wrangling drags on",
-      "link": "https://www.theguardian.com/world/2025/oct/20/monday-briefing-new-levels-of-misery-for-ukraines-soldiers-as-diplomatic-wrangling-drags-on",
-      "description": "<p>In today’s newsletter: Trump’s stance on the war continues to oscillate while Zelenskyy’s infantry face gruelling stints at the ‘zero line’ amid increasingly lethal Russian attacks</p><p></p><p>Good morning. It looked, for a moment, as if Donald Trump had finally taken a clear side in the war between Russia and Ukraine: with hints that he might be ready to provide Tomahawk missiles, and a vaunted White House meeting with Volodymyr Zelenskyy, some observers thought he was on the brink of rowing in behind Ukraine in a decisive way.</p><p>Then he got on the phone with Vladimir Putin, and agreed to a face-to-face meeting within the next two weeks. And, after the White House meeting on Friday, Trump <a href=\"https://www.theguardian.com/world/2025/oct/17/trump-putin-phone-call-sinks-kyiv-ukraine-hopes-for-us-tomahawk-missiles\">downplayed the idea that the missiles would be provided</a>. <a href=\"https://www.ft.com/content/7960c6aa-dbfa-4a55-91e8-ae44601842ec\">Later reports</a> suggested that the meeting was a “shouting match” in which Trump echoed Russian talking points and added: “If [Putin] wants it, he will destroy you.”</p><p><em><strong>Israel-Gaza war </strong></em>| Israel <a href=\"https://www.theguardian.com/world/2025/oct/19/israel-identifies-body-of-11th-hostage-from-gaza-amid-ceasefire-tensions\">launched waves of lethal airstrikes on Sunday</a> and cut off all aid into Gaza “until further notice” after a reported attack by Hamas, in escalations that marked the most serious threat so far to the increasingly fragile ceasefire. Israel later said that it had “begun the renewed enforcement of the ceasefire”.</p><p><em><strong>Royals </strong></em>| The Metropolitan police <a href=\"https://www.theguardian.com/uk-news/2025/oct/19/met-prince-andrew-police-bodyguard-information-virginia-giuffre\">are looking into claims</a> that Prince Andrew asked his taxpayer-funded close protection officer to uncover information about Virginia Giuffre hours before the emergence of a bombshell picture of them together. The news follows Friday’s announcement that Andrew had relinquished his royal titles.</p><p><em><strong>China-UK relations </strong></em>| Approving a Chinese super-embassy in east London could be unlawful if ministers gave Beijing assurances about the project in advance, <a href=\"https://www.theguardian.com/world/2025/oct/19/chinese-embassy-approval-could-be-unlawful-if-uk-ministers-gave-advance-assurances\">a top planning lawyer has concluded</a>. The news came as the government denied any political interference in the decision to drop charges against two men accused of spying for China.</p><p><em><strong>France </strong></em>| <a href=\"https://www.theguardian.com/world/2025/oct/19/louvre-closed-after-robbery-french-culture-minister-says\">French police are hunting four thieves</a> who carried out a highly professional daylight robbery on the Louvre, breaking into one of the museum’s most ornate rooms and escaping with eight pieces of “priceless” historic jewellery, including a necklace given by Napoleon to his wife.</p><p><em><strong>Reform UK </strong></em>| The leader of Reform UK’s flagship local authority has told councillors that <a href=\"https://www.theguardian.com/politics/2025/oct/19/reform-kent-council-leader-launched-hunt-for-cowards-who-leaked-recorded-meeting\">she has launched a hunt for the “cowards”</a> who leaked a recorded meeting in which she said those who disagreed with decisions would have to “fucking suck it up”. Bitter divisions among Reform members of Kent county council were laid bare at the weekend by the Guardian.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/monday-briefing-new-levels-of-misery-for-ukraines-soldiers-as-diplomatic-wrangling-drags-on\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 05:24:17 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Dramat na lotnisku w Hongkongu. Samolot wyjechał z pasa i wpadł do morza",
@@ -1770,28 +1522,12 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Incydent przed biurem Platformy Obywatelskiej. Sprawca zatrzymany",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/atak-na-biuro-platformy-obywatelskiej-sprawca-zatrzymany/",
-      "description": "Funkcjonariusze zatrzymali dzisiaj rano sprawcę gróźb karalnych oraz próby podpalenia budynku przy ulicy Wiejskiej 12A w Warszawie - poinformowała w poniedziałek warszawska policja. Mężczyzna to 44-letni Krzysztof B., który w maju został zatrzymany ws. gróźb karalnych na portalu X wobec premiera. Do sprawy odniósł się Donald Tusk.",
-      "pubDate": "Mon, 20 Oct 2025 06:55:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Max Verstappen wins F1 US Grand Prix; cuts Piastri standings lead",
       "link": "https://www.aljazeera.com/sports/2025/10/20/max-verstappen-wins-f1-us-grand-prix-cuts-piastri-standings-lead?traffic_source=rss",
       "description": "Verstappen's wire-to-wire victory in Austin narrows the drivers' championship gap to 40 points behind Oscar Piastri.",
       "pubDate": "Mon, 20 Oct 2025 04:46:20 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Marcin Kierwiński w programie \"Graffiti\" [OGLĄDAJ]",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/minister-marcin-kierwinski-w-programie-graffiti-ogladaj-od-godz-740/",
-      "description": "Gościem Marcina Fijołka w poniedziałkowym wydaniu programy Graffiti będzie minister spraw wewnętrznych i administracji Marcin Kierwiński. Transmisja na antenach Polsatu, Polsat News i Wydarzeniach 24 oraz na portalach polsatnews.pl i Interia od godz. 7:40.",
-      "pubDate": "Mon, 20 Oct 2025 06:35:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Kto z wydawców naprawdę rządzi w internecie? Dziś premiera naszego Wirtualnego Wskaźnika Wpływu",
@@ -1840,38 +1576,6 @@
       "pubDate": "Mon, 20 Oct 2025 04:01:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/38/d6/1e/z32336952IHG,Jacek-Zakowski.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "W Chinach samolot wypadł z pasa startowego i wpadł do morza. Są ofiary",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/w-chinach-samolot-wypadl-z-pasa-startowego-i-wpadl-do-morza-sa-ofiary/",
-      "description": "Tragedia podczas lądowania samolotu transportowego z Dubaju do Hongkongu. Maszyna wypadła z pasa startowego i zderzyła się z pojazdem patrolowym pracowników lotniska. Zarówno auto, jak i samolot wpadły do morza. W wypadku zginęło dwóch pracowników portu lotniczego. Załodze samolotu udało się uciec.",
-      "pubDate": "Mon, 20 Oct 2025 05:57:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "\"Nigdy o tym nie rozmawialiśmy\". Kulisy spotkania Trump-Zełenski",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/nigdy-o-tym-nie-rozmawialismy-kulisy-spotkania-trump-zelenski/",
-      "description": "- Nie, nigdy o tym nie rozmawialiśmy - powiedział Donald Trump, pytany przez dziennikarzy o doniesienia Financial Times, według którego prezydent USA miał nakłaniać Wołodymyra Zełenskiego do oddania całego Donbasu. Przywódca Stanów Zjednoczonych stwierdził, że Ukraina i Rosja powinny natychmiast zatrzymać się na liniach frontu, wrócić do domu i przestać zabijać ludzi.",
-      "pubDate": "Mon, 20 Oct 2025 05:51:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "UK military to get powers to shoot down drones near bases",
-      "link": "https://www.bbc.com/news/articles/ce8zyyl81m3o?at_medium=RSS&at_campaign=rss",
-      "description": "Plans to allow troops to take faster action come after sightings at four airbases last year.",
-      "pubDate": "Mon, 20 Oct 2025 03:30:45 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
-      "title": "Bolivia elects centre-right Rodrigo Paz as president",
-      "link": "https://www.aljazeera.com/news/2025/10/20/bolivia-elects-centre-right-rodrigo-paz-as-president?traffic_source=rss",
-      "description": "Paz, the son of a former president, promises 'capitalism for all' as election ends 20 years of socialist government.",
-      "pubDate": "Mon, 20 Oct 2025 03:02:57 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
     },
     {
       "title": "Wojna Rosji z Ukrainą. Dzień 1335",
@@ -1970,28 +1674,12 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Wyniki Lotto na 19 października 2025. Sprawdź, czy wygrałeś",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/wyniki-lotto-na-19-pazdziernika-2025-sprawdz-czy-wygrales/",
-      "description": "W niedzielę, 19 października 2025 roku, odbyły się losowania gier liczbowych prowadzonych przez Totalizator Sportowy. Które liczby okazały się szczęśliwe? Podajemy wyniki losowania: Ekstra Pensja, Ekstra Premia, Kaskada, Mini Lotto, Multi Multi.",
-      "pubDate": "Sun, 19 Oct 2025 22:43:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Czy Ukraina jest w stanie wygrać wojnę z Rosją? Polacy wypowiedzieli się w sondażu",
       "link": "https://wiadomosci.gazeta.pl/swiat/7,198077,32336999,czy-ukraina-jest-w-stanie-wygrac-wojne-z-rosja-polacy-wypowiedzieli.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/af/d6/1e/z32337071IHG,Wojna-w-Ukrainie---zdjecie-ilustracyjne.jpg' align='left' hspace='4' vspace='2'>Polacy są sceptycznie nastawieni do scenariusza, w którym to Ukraina wygrywa wojnę z Rosją - wynika z najnowszego sondażu United Surveys dla Wirtualnej Polski. Grupa ankietowanych, która wskazała, że Kijów nie zwycięży, jest dwa razy większa niż ta, która wierzy w triumf Ukraińców.",
       "pubDate": "Sun, 19 Oct 2025 20:32:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/af/d6/1e/z32337071IHG,Wojna-w-Ukrainie---zdjecie-ilustracyjne.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Szwedzki minister wskazał drogę do utrzymania pokoju. Mówi o \"trybie wojennym\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/szwedzki-minister-wskazal-droge-do-utrzymania-pokoju-mowi-o-trybie-wojennym/",
-      "description": "- Musimy przejść w tryb wojenny, aby zdecydowanie powstrzymać Rosję i utrzymać pokój - oświadczył szwedzki minister obrony Pal Johnson. W obliczu rosnącego zagrożenia ze strony Kremla polityk wezwał również do podjęcia nowych kroków wojskowych celem zapobieżenia rosyjskiej eskalacji. - Moskwa nieustannie wystawia na próbę naszą jedność i determinację. Ale Putinowi się to nie uda - zapewnił.",
-      "pubDate": "Sun, 19 Oct 2025 22:28:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "China claims the NSA conducted cyberattacks on its national time center",
@@ -2002,14 +1690,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Prezydent Francji zabrał głos po napadzie na Luwr. Padły deklaracje",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/prezydent-francji-zabral-glos-po-napadzie-na-luwr-padly-deklaracje/",
-      "description": "Prezydent Francji Emmanuel Macron zapewnił w mediach, że skradzione z Luwru klejnoty zostaną odzyskane. - Sprawcy zostaną postawieni przed sądem - dodał. Jak wynika z medialnych doniesień złodzieje udawali robotników, a do napadu wykorzystali podnośnik. Zdaniem prezydenta to atak na dziedzictwo.",
-      "pubDate": "Sun, 19 Oct 2025 22:13:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Kobieta z Lubelszczyzny zniknęła bez śladu. Po 20 latach odnaleziono ją we Włoszech",
       "link": "https://wiadomosci.gazeta.pl/polska/7,198072,32337026,kobieta-z-lubelszczyzny-zniknela-bez-sladu-po-20-latach-odnaleziono.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/8d/d6/1e/z32337037IHG,Ekstradycja-61-letniej-Polki.jpg' align='left' hspace='4' vspace='2'>Po 20 latach w ręce polskiego wymiaru sprawiedliwości wpadła 61-letnia kobieta skazana za liczne oszustwa. O szczegółach zatrzymania poinformowali lubelscy funkcjonariusze.",
@@ -2018,28 +1698,12 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Trump znów wykorzystał AI. Na nowym nagraniu bombarduje protestujących",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/trump-znow-wykorzystal-ai-nowe-nagranie-uderza-w-oponentow/",
-      "description": "Donald Trump w odrzutowcu, który bombarduje protestujących przeciwko jego polityce brązową cieczą. Takie sceny widać na najnowszym nagraniu opublikowanym w mediach społecznościowych prezydenta USA. Wideo wygenerowane przez sztuczną inteligencję jest kolejnym pojawiającym się w socialach amerykańskiego przywódcy. Jakiś czas temu Trump zaskoczył bowiem wizualizacją życia w odbudowanej Strefie Gazy.",
-      "pubDate": "Sun, 19 Oct 2025 21:44:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "This is how the new ranching system will work in Cult of the Lamb: Woolhaven",
       "link": "https://www.engadget.com/this-is-how-the-new-ranching-system-will-work-in-cult-of-the-lamb-woolhaven-194324041.html?src=rss",
       "description": "<div><div style=\"left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;\"><iframe src=\"https://www.youtube.com/embed/JziX-60OyCc?rel=0\" style=\"top:0;left:0;width:100%;height:100%;position:absolute;border:0;\" allowfullscreen=\"\" scrolling=\"no\"></iframe></div></div><p>We still have a few months to wait before the next <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/gaming/cult-of-the-lambs-next-dlc-is-woolhaven-out-in-early-2026-225129643.html\" data-i13n=\"cpos:1;pos:1\"><em>Cult of the Lamb</em> DLC, <em>Woolhaven,</em></a> arrives, but the Massive Monster team just shared a closer look at one of the new experiences the expansion will bring and, oh boy, I cannot wait to play this. In addition to adding a new mountain area with two new dungeons, <em>Woolhaven</em> will introduce ranching, so you can raise animals — the regular, <em>non</em>-anthropomorphic kind — to keep as pets, shear for wool or slaughter for meat (you know, if you have no heart).</p><p>Based on the overview video, we'll get to raise cows(ish), goats and sheep as well as some more unexpected critters like crabs, snails, spiders and turtles. I, personally, am very excited about the snails. You'll be able to form bonds with and name the animals, and you'll have to tend to their wellbeing, feeding them healthy foods and cleaning them. Followers will also be able to bond with the animals and have their own pets. As wholesome as that all sounds, this is <em>Cult of the Lamb</em> we're talking about, so I'm already bracing myself for the inevitable heartbreak of when some unruly follower kills my favorite animals at some point. The video notes that you'll have to keep them safe from predators.</p><p><em>Woolhaven</em> will be a paid expansion, but we don't know yet how much it will cost or when exactly it drops. The team has <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/gaming/cult-of-the-lambs-next-dlc-is-woolhaven-out-in-early-2026-225129643.html\" data-i13n=\"cpos:2;pos:1\">so far only said early 2026</a>. </p><p></p>This article originally appeared on Engadget at https://www.engadget.com/this-is-how-the-new-ranching-system-will-work-in-cult-of-the-lamb-woolhaven-194324041.html?src=rss",
       "pubDate": "Sun, 19 Oct 2025 19:43:24 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "\"Na dwa fronty\". Kulisy legalizacji obcokrajowców w Polsce",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/na-dwa-fronty-kulisy-legalizacji-obcokrajowcow-w-polsce/",
-      "description": "Odsłaniamy tajniki legalizacji pobytu obcokrajowców w Polsce. Reporterka programu Polsat News Ujawnia Monika Gawrońska rozmawiała z osobami, dla których załatwianie wiz, kart pobytów dla cudzoziemców ze Wschodu czy północnej Afryki to sposób na dochodowy biznes. I to mimo jawnych powiązań z prawicową sceną polityczną. Bo tam gdzie pojawiają się pieniądze - często zaciera się granica poglądów.",
-      "pubDate": "Sun, 19 Oct 2025 21:25:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Mexico is considering slapping an eight percent tax on violent video games",
@@ -2058,28 +1722,12 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Donald Tusk na czele \"nowej formacji\". Europoseł ujawnił pierwsze szczegóły",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/donald-tusk-na-czele-nowej-formacji-europosel-zdradza-szczegoly/",
-      "description": "- Będziemy mieć posiedzenie Rady Krajowej PO i tam podejmiemy te kluczowe decyzje, które doprowadzą nas do nowego projektu, nowej formacji politycznej - mówił w Gościu Wydarzeń europoseł KO Michał Szczerba, pytany o zbliżającą się konwencję zjednoczeniową PO z jej partnerami. - Nowi ludzie w polityce znajdą miejsce w nowej formacji Donalda Tuska - zapewnił.",
-      "pubDate": "Sun, 19 Oct 2025 20:17:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Trump calls Colombia president ‘illegal drug dealer’ as US says it hit another ship",
       "link": "https://www.theguardian.com/us-news/2025/oct/19/trump-colombia-gustavo-petro",
       "description": "<p>Trump vows to cut US funding as Pete Hegseth says US hit Colombian rebel group vessel and ‘three terrorists killed’</p><p>Donald Trump on Sunday accused Colombia’s president, Gustavo Petro, of being an “illegal drug dealer” and threatened to immediately cut US funding to the country, as a Republican senator said the US would soon announce “major tariffs” on the country.</p><p>It comes after the US defense secretary confirmed in a social media post an attack on a vessel associated with a Colombian leftist rebel group. Pete Hegseth said “three terrorists were killed” in the operation, which was “conducted in international waters”.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/19/trump-colombia-gustavo-petro\">Continue reading...</a>",
       "pubDate": "Sun, 19 Oct 2025 18:16:07 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Trump wezwał do zaakceptowania warunków Putina. Media ujawniają kulisy negocjacji",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/trump-wezwal-do-zaakceptowania-warunkow-putina-media-ujawniaja-kulisy-negocjacji/",
-      "description": "Podczas piątkowego spotkania w Białym Domu prezydent USA Donald Trump wezwał Wołodymyra Zełenskiego do zaakceptowania rosyjskich warunków pokojowych - podaje Financial Times. W przypadku odmowy Zełenskiego, Putin miałby całkowicie zniszczyć Ukrainę.",
-      "pubDate": "Sun, 19 Oct 2025 20:14:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Skandal w Wielkiej Brytanii. Policja bada sensacyjne doniesienia ws. brata króla",
@@ -2130,44 +1778,12 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Pracownica banku oszukiwała klientów. 61-latka odnaleziona po 20 latach",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/pracownica-banku-oszukiwala-klientow-61-latka-odnaleziona-po-20-latach/",
-      "description": "61-latka z Lublina przez ponad dwie dekady była poszukiwana międzynarodowym listem gończym za oszustwa finansowe. Kobieta, która podczas pracy w banku łącznie wyłudziła od klientów blisko 100 tysięcy złotych, została namierzona przez lubelskich policjantów we Włoszech.",
-      "pubDate": "Sun, 19 Oct 2025 19:07:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Ustawa o statusie osoby najbliższej. Co zrobi Nawrocki? Płyną już sygnały z pałacu",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32336803,ustawa-o-statusie-osoby-najblizszej-co-zrobi-nawrocki-plyna.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/da/d6/1e/z32336858IHG,Karol-Nawrocki.jpg' align='left' hspace='4' vspace='2'>Komentarze współpracowników prezydenta sugerują, że Karol Nawrocki nie podpisze ustawy o statusie osoby najbliższej w takim kształcie, w jakim przedstawiły ją w piątek Nowa Lewica i PSL. \"Prezydent nie zgodzi się, żeby poprzez nowe rozwiązania budować alternatywę dla małżeństwa\" - przekazał w niedzielę szef gabinetu prezydenta Paweł Szefernaker.",
       "pubDate": "Sun, 19 Oct 2025 16:53:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/da/d6/1e/z32336858IHG,Karol-Nawrocki.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Seria ataków Izraela na cele w Strefie Gazy. \"Rażące naruszenie porozumienia\"",
-      "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32336869,seria-atakow-izraela-na-cele-w-strefie-gazy-razace-naruszenie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/e8/d6/1e/z32336872IHG,Strefa-Gazy--19-pazdziernika.jpg' align='left' hspace='4' vspace='2'>Izrael przekazał w niedzielę po południu, że rozpoczął serię ataków na \"cele terrorystyczne Hamasu\" w Strefie Gazy. Jak twierdzą Siły Obronne Izraela, wcześniej doszło do \"rażącego naruszenia porozumienia o zawieszeniu broni\".",
-      "pubDate": "Sun, 19 Oct 2025 16:42:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/e8/d6/1e/z32336872IHG,Strefa-Gazy--19-pazdziernika.jpg",
-      "source": "Gazeta.pl"
-    },
-    {
-      "title": "Koniec rozejmu w Strefie Gazy? Izrael wznawia ataki",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/koniec-rozejmu-w-strefie-gazy-izrael-wznawia-ataki/",
-      "description": "Izraelskie wojsko przekazało, że rozpoczęło kolejną falę ataków na cele Hamasu w południowej części Strefy Gazy. Wcześniej Izraelczycy oskarżyli palestyńskich bojowników o łamanie porozumienia ws. zawieszenia broni, które obowiązuje od 10 października. Po godz. 20 czasu polskiego izraelska armia poinformowała, że wraca do respektowania warunków porozumienia.",
-      "pubDate": "Sun, 19 Oct 2025 18:10:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Polacy zapytani o szanse Ukrainy w wojnie z Rosją. Ponad połowa zgodna",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/polacy-traca-wiare-w-zwyciestwo-ukrainy-sa-wyniki-nowego-sondazu/",
-      "description": "Ponad połowa ankietowanych Polaków nie wierzy w zwycięstwo Ukrainy w wojnie z Rosją - wynika z nowego sondażu IBRiS dla Wirtualnej Polski. Najbardziej sceptyczni są wyborcy PiS oraz Konfederacji. Porażkę wojsk Władimira Putina w trwającym od 2022 roku konflikcie zbrojnym przewiduje zaś ok. 30 proc. ankietowanych.",
-      "pubDate": "Sun, 19 Oct 2025 17:03:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "11 Best Housewarming Gifts We Can't Stop Using (2025): Coasters, Blenders, Sheets",
@@ -2178,28 +1794,12 @@
       "source": "Wired"
     },
     {
-      "title": "Nowe informacje ze Strefy Gazy. Izrael grzmi. \"Na każdy atak odpowiemy siłą\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/nowe-informacje-ze-strefy-gazy-na-kazdy-atak-odpowiemy-sila/",
-      "description": "Izrael przypuścił serię ataków na Strefę Gazy w odpowiedzi na, jak twierdzi, naruszenie przez Hamas porozumienia o zawieszeniu broni. W wyniku nalotów i ostrzału z czołgów w enklawie zginąć miało co najmniej 11 osób. Strona izraelska nie wyklucza ponadto kolejnych działań, o ile palestyńska organizacja nie wywiąże się ze swoich zobowiązań. Zgodę na wznowienie walk rozważa prezydent USA.",
-      "pubDate": "Sun, 19 Oct 2025 16:46:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Story of Indigenous activist’s murder takes top prize at London film festival",
       "link": "https://www.theguardian.com/film/2025/oct/19/story-of-indigenous-activists-takes-top-prize-at-london-film-festival",
       "description": "<p>Jury says documentary about killing of Argentinian campaigner Javier Chocobar brings ‘a measure of the justice’ denied by the courts</p><p>A documentary about the murder of the Indigenous activist Javier Chocobar has taken the top prize at the London film festival, with the jury calling it “a measure of the justice” that has long been denied by the courts.</p><p>The Argentine film-maker Lucrecia Martel’s first documentary, Landmarks, won the best film award in the festival’s official competition, it was announced on Sunday.</p> <a href=\"https://www.theguardian.com/film/2025/oct/19/story-of-indigenous-activists-takes-top-prize-at-london-film-festival\">Continue reading...</a>",
       "pubDate": "Sun, 19 Oct 2025 13:52:48 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Papież ogłosił nazwiska nowych świętych. \"Sami stali się pochodniami\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/papiez-oglosil-nazwiska-nowych-swietych-sami-stali-sie-pochodniami/",
-      "description": "Leon XIV ogłosił nazwiska siedmiorga nowych świętych Kościoła katolickiego. Podczas niedzielnej mszy w Watykanie, papież poinformował o kanonizacji błogosławionych z czterech kontynentów. Jak stwierdził, są to osoby, które podtrzymywały płonącą pochodnię wiary.",
-      "pubDate": "Sun, 19 Oct 2025 15:50:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Jona Microbiome Test Review: Microbiome Decoder for Health Conditions",
@@ -2822,14 +2422,6 @@
       "link": "https://www.engadget.com/meta-is-shutting-down-its-desktop-messenger-app-202539375.html?src=rss",
       "description": "<p></p><p>Meta is shutting down its Messenger app for macOS and Windows and pushing users to the web. Meta confirmed over email to Engadget that the app will be fully shutdown on December 15, after which the easiest ways to access Messenger chats when you're not on your phone will be the Facebook app on Windows, or the Facebook and Messenger websites.</p><p>The company hasn't provided an explanation for why it's abandoning its desktop Messenger apps, but <a>Meta's support article</a> does say that users will receive a notification informing them of the shutdown, and will be blocked from accessing the app after December 15. </p><p>In order for your chats to be saved going forward, the company says you'll have to turn on secure storage and add a pin code to your account. To make sure your chats will be archived:</p><ol><li><p>Click on the <strong>gear icon</strong> above your profile picture.</p></li><li><p>Click on <strong>Privacy & Safety</strong>, and then <strong>End-to-end encrypted chats</strong>.</p></li><li><p>Click on <strong>Message storage</strong>, and then make sure <strong>Turn on secure storage</strong> is toggled on.</p></li></ol><p>Meta officially <a>cut Messenger out of Facebook</a> in 2014 to create a focused messaging experience separate from the tangle of features the social media platform offered at the time. The company later tried to <a>connect Messenger and Instagram Direct Messaging</a> into one communication platform, but <a>backed away</a> from the idea in 2023. Rather than Meta’s interest in messaging suddenly waning, abandoning the desktop apps likely reflects the fact that most people prefer to use the company’s mobile apps or websites.<br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/meta-is-shutting-down-its-desktop-messenger-app-202539375.html?src=rss",
       "pubDate": "Thu, 16 Oct 2025 20:25:39 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
-    },
-    {
-      "title": "Google's Ask Photos feature isn't available in Texas and Illinois",
-      "link": "https://www.engadget.com/ai/googles-ask-photos-feature-isnt-available-in-texas-and-illinois-200536477.html?src=rss",
-      "description": "<p>One of Google's Gemini-powered photo features is MIA in Texas and Illinois. The company confirmed to Engadget that Ask Photos is currently unavailable in the two states. It didn't say why. Google Photos' Conversational Editing is reportedly missing in those states, too.</p>\n<p>\"The ability to ask Photos to edit your images is not available to users in Texas and Illinois at this time,\" Google's statement to Engadget reads. \"We are working to determine how to make Ask Photos available to more users.\"</p>\n<span id=\"end-legacy-contents\"></span><p>As for why that is, we don't have confirmation. But the <em>Houston Chronicle</em>, which first <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1\" class=\"no-affiliate-link\" href=\"https://www.houstonchronicle.com/business/article/pixel-10-ask-photos-texas-illinois-21101011.php\">reported</a> the news, pointed to a pair of lawsuit settlements as a likely culprit. In 2022, Google <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.engadget.com/google-photos-bipa-lawsuit-settlement-161237789.html\">settled an Illinois class action suit</a> over Google Photos data privacy concerns for $200 million. Earlier this year, it <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1\" class=\"no-affiliate-link\" href=\"https://www.npr.org/2025/05/09/g-s1-65656/google-texas-settlement-user-data-collection\">settled</a> one with Texas for $1.4 billion over collecting user data without permission.</p>\n<p>The common theme in both settlements was biometric data collection. Lo and behold, both of the missing AI features require \"face grouping\" to be turned on. That Google Photos feature uses automated facial recognition to cluster pictures of the same person.</p>\n<p>The tricky part comes when state laws require informed consent for data collection. <em>9to5Google</em> <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1\" class=\"no-affiliate-link\" href=\"https://9to5google.com/2025/10/16/google-confirms-ask-photos-isnt-available-in-some-states/\">notes</a> that only the photographer — and not the many subjects of their pictures — have typically agreed to Google's terms and conditions. That creates a head-spinning legal conundrum that could have easily led Google to play it safe.</p>\n<p>Ask Google Photos lets you <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.engadget.com/ask-google-photos-to-get-help-making-sense-of-your-gallery-170734062.html\">type or speak queries about your picture library</a>. For example, you could say, \"What are all the cities I visited last year?\" or \"Show me the best photo from each national park I've visited.\" Meanwhile, Conversational Editing lets you tweak images using natural language. It <a data-i13n=\"cpos:6;pos:1\" href=\"https://www.engadget.com/ai/all-the-new-ai-features-coming-to-the-pixel-10-phones-160017270.html\">launched with the Pixel 10 series</a> in August and <a data-i13n=\"cpos:7;pos:1\" href=\"https://www.engadget.com/ai/google-photos-conversational-editing-is-rolling-out-to-android-users-170057906.html\">expanded to other Android phones</a> in September.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/googles-ask-photos-feature-isnt-available-in-texas-and-illinois-200536477.html?src=rss",
-      "pubDate": "Thu, 16 Oct 2025 20:05:36 +0000",
       "imageUrl": "",
       "source": "Engadget"
     },
