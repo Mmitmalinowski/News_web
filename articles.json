@@ -1,13 +1,133 @@
 {
-  "generatedAt": "2025-10-20T14:54:51.294Z",
+  "generatedAt": "2025-10-20T15:17:31.186Z",
   "items": [
     {
-      "title": "Tulicki, Adamczyk i Karnowski zapowiadają swój kanał. Wiadomo, kiedy ruszy",
-      "link": "https://www.wirtualnemedia.pl/tulicki-adamczyk-i-karnowski-zapowiadaja-swoj-kanal-wiadomo-kiedy-ruszy,7212878010088416a",
-      "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/b61da845-07ab-423a-a830-43361a81295b\" width=\"308\" /> Kanał TAK! na YouTube zacznie działać 2 listopada – zapowiedzieli tworzący go Marcin Tulicki, Michał Adamczyk i Michał Karnowski. Poprzednio wszyscy byli związani z telewizją wPolsce24. ",
-      "pubDate": "Mon, 20 Oct 2025 16:48:17 +0200",
+      "title": "King meets 'hero' survivors of synagogue attack",
+      "link": "https://www.bbc.com/news/articles/ckgzrd3x1pro?at_medium=RSS&at_campaign=rss",
+      "description": "The King expressed his \"sadness\" after what he described as a \"terrible thing to come out of the blue\".",
+      "pubDate": "Mon, 20 Oct 2025 15:14:08 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pogoda gwałtownie się zmieni. Przed nami ochłodzenie i opady deszczu",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/pogoda-gwaltownie-sie-zmieni-przed-nami-ochlodzenie-i-opady-deszczu/",
+      "description": "Przed nami gwałtowne zmiany w pogodzie. Choć pierwsza część tygodnia będzie słoneczna, to kolejne dni będą obfitować w deszcz. Na południu kraju oraz w górach mogą wystąpić opady śniegu lub śniegu z deszczem, co może okazać się wyzwaniem szczególnie dla kierowców. Synoptycy wskazują jednak, że pod koniec tygodnia sytuacja zacznie się odwracać wraz z napływem wyżu.",
+      "pubDate": "Mon, 20 Oct 2025 17:12:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "13 Best White Elephant Gifts (2025): Coffee Pot Mug, Legos, Sushi Magnets, and More",
+      "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2025/",
+      "description": "Bring the gift everyone will want to win from this year's holiday party, from a bathrobe for a bottle of wine to magnets they'll wish they could eat.",
+      "pubDate": "Mon, 20 Oct 2025 15:09:00 +0000",
+      "imageUrl": "",
+      "source": "Wired"
+    },
+    {
+      "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and Fortnite. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.</p>\n<p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<span id=\"end-legacy-contents\"></span><p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "pubDate": "Mon, 20 Oct 2025 15:02:49 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Protective immune cells in breastfeeding women identified as guard against breast cancer, new research finds",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/21/protective-immune-cells-breastfeeding-guard-against-cancer",
+      "description": "<p>Patients who had more cells had better outcomes, particularly for aggressive types such as triple-negative breast cancer</p><p>In the 18th century, physicians noticed nuns had some of the <a href=\"https://www.theguardian.com/science/2008/oct/06/cancer.women\">highest rates of breast cancer.</a> It was one of the earliest clues that led scientists to suspect that child-bearing and breastfeeding could protect against the disease.</p><p>Modern data has confirmed the centuries-old observation but the biological reasons behind it have remained unclear. Explanations have often focused on pregnancy-related hormonal changes, but research <a href=\"https://www.nature.com/articles/s41586-025-09713-5\">published Tuesday in Nature</a> has found breastfeeding provides long-lasting immune protection.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/protective-immune-cells-breastfeeding-guard-against-cancer\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 15:00:17 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Muslim women do not need saving, says female leader of mosque at centre of charity run row",
+      "link": "https://www.theguardian.com/news/2025/oct/20/muslim-women-do-not-need-saving-says-female-leader-of-mosque-over-charity-run-row",
+      "description": "<p>East London Mosque received hateful emails after event for men, boys, and under-12 girls only – but organisers say women’s race was undersubscribed</p><p>A female leader at a British mosque accused of excluding women from a charity run has said women in the community have a voice and do not “need saving” by critics who lack an understanding of Muslim values.</p><p>East London Mosque, in Tower Hamlets, found itself at the centre of a media firestorm and received dozens of hate mail messages after staging the Muslim Charity Run, open to “men, boys of all ages and girls under 12”. The communities secretary, <a href=\"https://viewer.gutools.co.uk/uk-news/2025/oct/14/steve-reed-muslim-charity-run-london-excluded-women\">Steve Reed, later said he was “horrified”</a>.</p> <a href=\"https://www.theguardian.com/news/2025/oct/20/muslim-women-do-not-need-saving-says-female-leader-of-mosque-over-charity-run-row\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 15:00:16 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Minister responds to Commons urgent question on China spy case – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education",
+      "description": "<p>Home Office minister responds to UQ from Chris Philp about the China spy case before question on Maccabi Tel Aviv fans</p><p>There will be two urgent questions in the Commons this afternoon, followed by a statement. Here is the running order.</p><p><em>3.30pm:</em> A Home Office minister will respond to a UQ from Chris Philp, the shadow home secretary, about the China spy case.</p><p>The family of Virginia Giuffre, whose life was destroyed, are angry and aghast. The public across these isles are angry and aghast and they both deserve to know that some MPs share their outrage.</p><p>So I won’t sit silent. If an act of parliament is required to strip the likes of Peter Mandelson and Prince Andrew of their titles then there can be no justification from this Labour government as to why that is not immediately happening.</p><p>Public funds, police protection and royal privilege have long buffered Prince Andrew from the consequences of his actions. And we’ve paid for all this.</p><p>I will support any efforts to hold royals to the same standards and laws as everyone else – parliament must have the power to remove privileges from abusers of position.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 15:00:15 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Zełenski będzie rozmawiał z Trumpem i Putinem? \"Nie oddamy zwycięstwa Rosjanom\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/zelenski-bedzie-rozmawial-z-trumpem-i-putinem-nie-oddamy-zwyciestwa-rosjanom/",
+      "description": "Zdaniem prezydenta Ukrainy Wołodymyra Zełenskiego, jego udział w ewentualnych rozmowach z Donaldem Trumpem i Władimirem Putinem w Budapeszcie jest możliwy, choć nie jest to najlepsze miejsce na negocjacje pokojowe. - Nie oddamy zwycięstwa Rosjanom - zapewnił Zełenski.",
+      "pubDate": "Mon, 20 Oct 2025 17:00:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Wojna tuż za granicą, a politycy się kłócą. Spory ucichły tylko na dwa dni",
+      "link": "https://www.rp.pl/kraj/art43204901-wojna-tuz-za-granica-a-politycy-sie-kloca-spory-ucichly-tylko-na-dwa-dni",
+      "description": "W najnowszym odcinku Marzena Tabor-Olszewska rozmawia z Arturem Bartkiewiczem, szefem wydawców rp.pl, o bezpieczeństwie Polski w obliczu rosyjskiej agresji i kondycji polskiej sceny politycznej.",
+      "pubDate": "Mon, 20 Oct 2025 17:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/17ee441f410d0ae0b433f56ca37ff710/podcast-rzecz-w-tym-wojna-tuz-za-granica-a-politycy-sie-kloca-spory-ucichly-tylko-na-dwa-dni?t=crop:1921:840:nowe:0:121,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "SlimFast’s European arm sold after struggling to compete with weight loss drugs",
+      "link": "https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal",
+      "description": "<p>Typhoo tea owner Supreme acquires business from Irish nutrition and food firm Glanbia for £20m</p><p>The owner of Typhoo tea has snapped up SlimFast’s UK and European business in a £20.1m deal as it seeks to expand in the weight management market despite fierce competition from GLP-1 weight loss jabs.</p><p>The Irish nutrition and food company Glanbia has sold the low-calorie meal replacement shakes business to the British company Supreme after putting it up for sale earlier this year. Sales at the European operations have dropped, weighing on stronger trading in the US.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:58:45 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "‘It hasn’t inspired’: turnout concerns grow close to Ireland’s presidential election",
+      "link": "https://www.theguardian.com/world/2025/oct/20/turnout-concerns-ireland-presidential-election-spoilt-ballots",
+      "description": "<p>High rate of spoilt ballots also probable as poll shows 49% of voters do not feel represented by either candidate</p><p>With four days until <a href=\"https://www.theguardian.com/world/ireland\">Ireland</a>’s presidential election there are growing fears that a lacklustre campaign will prompt many people to spoil their vote or boycott the ballot.</p><p>Opinion polls give Catherine Connolly, an independent leftwing candidate, a wide lead over Heather Humphreys, who represents the ruling centre-right establishment. However, they also show frustration and disillusionment over the campaign.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/turnout-concerns-ireland-presidential-election-spoilt-ballots\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:58:23 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Son of former England footballer Stuart Pearce dies in tractor crash in Cotswolds",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/20/son-of-former-england-footballer-stuart-pearce-harley-pearce-dies-in-tractor-crash-in-cotswolds",
+      "description": "<p>Harley Pearce, 21, who worked in farming and was described as a ‘cherished son and devoted brother’, died at scene in Witcombe</p><p>The son of the former England footballer Stuart Pearce has been named as the victim of a fatal tractor crash in the Cotswolds.</p><p>Harley Pearce, 21, died at the scene of the collision on 16 October on the A417 at Old Birdlip Hill, in Witcombe, near Gloucester, Gloucestershire police said.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/20/son-of-former-england-footballer-stuart-pearce-harley-pearce-dies-in-tractor-crash-in-cotswolds\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:54:40 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Tulicki, Adamczyk i Karnowski zapowiadają swój kanał. Znamy datę startu",
+      "link": "https://www.wirtualnemedia.pl/tulicki-adamczyk-i-karnowski-zapowiadaja-swoj-kanal-znamy-date-startu,7212940535876544a",
+      "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/a29ce4c4-640f-4c47-9c24-7c7fb8304dd0\" width=\"308\" /> Kanał TAK! na YouTube zacznie działać 2 listopada – zapowiedzieli tworzący go Marcin Tulicki, Michał Adamczyk i Michał Karnowski. Poprzednio wszyscy byli związani z telewizją wPolsce24. ",
+      "pubDate": "Mon, 20 Oct 2025 16:54:00 +0200",
       "imageUrl": "",
       "source": "Wirtualne Media"
+    },
+    {
+      "title": "EU moves to ban Russian energy imports by 2028",
+      "link": "https://www.aljazeera.com/news/2025/10/20/eu-moves-to-ban-russian-energy-imports-by-2028?traffic_source=rss",
+      "description": "A draft regulation approved by European Union energy ministers would phase out Russian import contracts by January 2028.",
+      "pubDate": "Mon, 20 Oct 2025 14:50:36 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘I wanted to do something more meaningful’: the Chinese nationals fighting for Ukraine",
+      "link": "https://www.theguardian.com/world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine",
+      "description": "<p>Volunteers defy their government and public opinion in China to risk their lives for an adversary of Beijing’s main geopolitical partner</p><p>In a war that has been characterised by merciless attacks on civilians, one of the worst took place on 8 July 2024. Russia missile strikes <a href=\"https://ukraine.ohchr.org/sites/default/files/2024-08/Ukraine%20-%20protection%20of%20civilians%20in%20armed%20conflict%20%28July%202024%29_ENG.pdf\">killed at least 43 people</a> in cities across Ukraine in one of the deadliest days of the war last year. One of the most shocking blows was to the <a href=\"https://www.theguardian.com/world/article/2024/jul/08/ukraine-horror-russian-bombing-kyiv-childrens-hospital\">Okhmatdyt children’s hospital in central Kyiv</a>, which reduced the country’s largest paediatric clinic to rubble.</p><p>Tim, 43, was delivering aid on the outskirts of Kyiv when he heard a missile fly overhead. A short while later, he saw the news on his phone that the children’s hospital had been hit. Along with a British friend, the Chinese national, who asked to be referred to by just his English name, rushed to the scene to help with the recovery efforts. “Seeing the severed limbs, some of them belonging to children, I started crying,” the father-of-two said, tears in his eyes at the memory. “I thought about the kind of anger that Chinese people have. Once it’s ignited … It’s intense. I decided to join the army.”</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:50:30 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Gaza ceasefire live: Hamas says it will hand over another hostage body as tensions over truce continue",
+      "link": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
+      "description": "<p>Group says it will release body on Monday evening as delay in returning hostage remains causes outrage in Israel</p><p>The Guardian’s global affairs correspondent, <a href=\"https://www.theguardian.com/profile/roth-andrew\">Andrew Roth</a>, has written <a href=\"https://www.theguardian.com/news/ng-interactive/2025/oct/19/the-enormous-conflict-of-interest-at-centre-of-jared-kushners-gaza-ceasefire-deal\">an interesting profile</a> on <strong>Jared Kushner</strong> in which he explores his central role in the ceasefire negotiations and his extensive business dealings in the Middle East. Here is a snippet:</p><p><em>The soft-spoken heir to his father’s real estate empire has quietly become a key conduit for Trump’s outreach to the Middle East, leveraging his Rolodex of leaders in the region and positioning himself to win a lucrative windfall if the goal of redeveloping Gaza ever comes to fruition.</em></p><p><em>It has been a notable return to the political fold after Kushner and his wife, Ivanka Trump, effectively swore off politics after the January 6 riots at the US Capitol that followed Trump’s loss in the 2020 elections.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 14:45:55 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
     },
     {
       "title": "Pizza Hut to close 68 UK restaurants with the loss of 1,210 jobs",
@@ -18,20 +138,20 @@
       "source": "BBC News"
     },
     {
+      "title": "How five days of sumo 'charmed' Britain",
+      "link": "https://www.bbc.com/sport/articles/cy7egpe5jg1o?at_medium=RSS&at_campaign=rss",
+      "description": "How sumo fever took over Kensington as the Grand Sumo Tournament came to the UK for the first time in more than three decades. ",
+      "pubDate": "Mon, 20 Oct 2025 14:45:06 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
       "title": "Dlaczego zmiana czasu to dobry moment na porządki w życiu prywatnym i zawodowym?",
       "link": "https://kobieta.rp.pl/styl-zycia/art43204431-dlaczego-zmiana-czasu-to-dobry-moment-na-porzadki-w-zyciu-prywatnym-i-zawodowym",
       "description": "Przy okazji zmiany czasu warto pomyśleć przede wszystkim o tym, aby nie mieć poczucia jego marnowania. We współczesnych organizacjach człowiek jest zmuszony do handlowania swoim czasem i energią – mówi dr Agnieszka Kowalczewska, psycholog komunikacji.",
       "pubDate": "Mon, 20 Oct 2025 16:41:14 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/079ede18db03e76b6d30534e86cbcb09/?t=crop:3000:1311:nowe:0:1.2280633644979,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "King meets 'hero' survivors of synagogue attack",
-      "link": "https://www.bbc.com/news/articles/ckgzrd3x1pro?at_medium=RSS&at_campaign=rss",
-      "description": "The King expressed his \"sadness\" after what he described as a \"terrible thing to come out of the blue\".",
-      "pubDate": "Mon, 20 Oct 2025 14:36:57 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "Argentina formalizes $20bn currency swap deal with US",
@@ -58,22 +178,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Ministers to responds Commons urgent questions on China spy case and Maccabi Tel Aviv fans ban – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education",
-      "description": "<p>Home Office minister responds to UQ from Chris Philp about the China spy case before question on Maccabi Tel Aviv fans</p><p>There will be two urgent questions in the Commons this afternoon, followed by a statement. Here is the running order.</p><p><em>3.30pm:</em> A Home Office minister will respond to a UQ from Chris Philp, the shadow home secretary, about the China spy case.</p><p>The family of Virginia Giuffre, whose life was destroyed, are angry and aghast. The public across these isles are angry and aghast and they both deserve to know that some MPs share their outrage.</p><p>So I won’t sit silent. If an act of parliament is required to strip the likes of Peter Mandelson and Prince Andrew of their titles then there can be no justification from this Labour government as to why that is not immediately happening.</p><p>Public funds, police protection and royal privilege have long buffered Prince Andrew from the consequences of his actions. And we’ve paid for all this.</p><p>I will support any efforts to hold royals to the same standards and laws as everyone else – parliament must have the power to remove privileges from abusers of position.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:31:49 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "AWS fell on its face, knocking many apps, websites and games offline",
-      "link": "https://www.engadget.com/big-tech/aws-fell-on-its-face-knocking-many-apps-websites-and-games-offline-142935040.html?src=rss",
-      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running.</p>\n<p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\"><ins>AWS service health page</ins></a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<span id=\"end-legacy-contents\"></span><p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em><ins>CNN</ins></em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\"><ins>estimated</ins></a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/aws-fell-on-its-face-knocking-many-apps-websites-and-games-offline-142935040.html?src=rss",
-      "pubDate": "Mon, 20 Oct 2025 14:29:35 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
-    },
-    {
       "title": "Amazon Web Services outage shows internet users ‘at mercy’ of too few providers, experts warn",
       "link": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
       "description": "<p>Crash that hit apps and websites around world demonstrates ‘urgent need for diversification in cloud computing’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/20/china-economic-growth-gdp-low-house-prices-fall-stock-markets-ftse-business-live-news\">Business live – latest updates</a></p></li></ul><p>Experts have warned of the perils of relying on a small number of companies for operating the global internet after a glitch at Amazon’s cloud computing service brought down apps and websites around the world.</p><p>The affected platforms included Snapchat, Roblox, Signal and Duolingo as well as a host of Amazon-owned operations including its main retail site and the Ring doorbell company.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps\">Continue reading...</a>",
@@ -96,14 +200,6 @@
       "pubDate": "Mon, 20 Oct 2025 16:28:48 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/1ccfdcc157ecfcdffad37ab95f7f8e99/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Typhoo tea owner buys SlimFast UK and Europe in £20m deal",
-      "link": "https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal",
-      "description": "<p>Supreme acquires business, which faces pressure from growth of weight loss drugs, from Irish firm Glanbia</p><p>The owner of Typhoo tea has snapped up SlimFast’s UK and European business in a £20.1m deal as it seeks to expand in the weight management market despite fierce competition from GLP-1 weight loss jabs.</p><p>The Irish nutrition and food company Glanbia has sold the low-calorie meal replacement shakes business to the British company Supreme after putting it up for sale earlier this year. Sales at the European operations have dropped, weighing on stronger trading in the US.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:28:10 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Pizza Hut to close 68 restaurants after UK owner falls into administration",
@@ -152,14 +248,6 @@
       "pubDate": "Mon, 20 Oct 2025 14:22:37 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Gaza ceasefire live: Hamas says it will hand over another hostage body as tensions over truce continue",
-      "link": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
-      "description": "<p>Group says it will release body on Monday evening as delay in returning hostage remains causes outrage in Israel</p><p>The Guardian’s global affairs correspondent, <a href=\"https://www.theguardian.com/profile/roth-andrew\">Andrew Roth</a>, has written <a href=\"https://www.theguardian.com/news/ng-interactive/2025/oct/19/the-enormous-conflict-of-interest-at-centre-of-jared-kushners-gaza-ceasefire-deal\">an interesting profile</a> on <strong>Jared Kushner</strong> in which he explores his central role in the ceasefire negotiations and his extensive business dealings in the Middle East. Here is a snippet:</p><p><em>The soft-spoken heir to his father’s real estate empire has quietly become a key conduit for Trump’s outreach to the Middle East, leveraging his Rolodex of leaders in the region and positioning himself to win a lucrative windfall if the goal of redeveloping Gaza ever comes to fruition.</em></p><p><em>It has been a notable return to the political fold after Kushner and his wife, Ivanka Trump, effectively swore off politics after the January 6 riots at the US Capitol that followed Trump’s loss in the 2020 elections.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:17:44 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Spektakularna eksplozja na Morzu Czarnym. Zniszczyli tajemniczą broń Rosjan",
@@ -226,26 +314,10 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Dealing with ‘Andrew problem’ could help ease William’s accession to the throne",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/20/dealing-prince-andrew-problem-help-ease-william-accession-throne",
-      "description": "<p>King Charles cannot have been unaware that the future king would not relish having to deal with his uncle </p><p>The Prince of Wales, whom Buckingham Palace has said was “consulted” before <a href=\"https://www.theguardian.com/uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles\">Prince Andrew’s dramatic statement</a>, must have felt some relief at his uncle agreeing to relinquish use of his titles and honours.</p><p>At some point William will become king. His uncle, 12 years younger than King Charles, may well be watching when he takes his coronation oath. The indications are, however, Andrew may be watching from afar.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/20/dealing-prince-andrew-problem-help-ease-william-accession-throne\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:00:47 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "As ANZ duped customers and ignored hardship notices, the bank’s bosses raked in $26m in bonuses",
       "link": "https://www.theguardian.com/australia-news/2025/oct/21/as-anz-duped-customers-and-ignored-hardship-notices-the-banks-bosses-raked-in-26m-in-bonuses",
       "description": "<p>The bonuses – awarded during the bank’s three years of misconduct – have been condemned as ‘indefensible’ and ‘tone-deaf’, especially given recent job cuts</p><p>The bank charged fees on dead people’s accounts, ignored hardship notices and misled customers. But over those same three years, ANZ bosses were awarded more than $26m in bonuses.</p><p>Now, shareholder proxy firms are waiting until December to see whether bonuses will be cut in response to the record <a href=\"https://www.theguardian.com/australia-news/2025/sep/15/anz-bank-pays-record-240m-fine-for-widespread-misconduct-time-and-time-again-they-betrayed-the-trust-of-australians\">$240m in fines given for ANZ’s widespread misconduct</a>.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/as-anz-duped-customers-and-ignored-hardship-notices-the-banks-bosses-raked-in-26m-in-bonuses\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 14:00:46 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Labour deputy leadership contest may only cause more trouble for Starmer",
-      "link": "https://www.theguardian.com/politics/2025/oct/20/labour-deputy-leadership-contest-may-only-cause-more-trouble-for-starmer",
-      "description": "<p>Victory for Lucy Powell or Bridget Phillipson, the rivals at the centre of the race, could be reckoning for the party </p><p>When Lucy Powell got a phone call from a withheld number in her constituency office in Manchester on the day Angela Rayner resigned, Powell told her staff: “This is me getting the sack.” Never would the former Commons leader have believed less than two months later that she might be on the brink of returning as Labour’s deputy leader.</p><p>Her rival, Bridget Phillipson, also never expected to be in this position. Hurt by some of the internal briefing against her position as education secretary, she debated for more than a day whether to join the race at all. Being cast as the favoured candidate has not been comfortable.</p> <a href=\"https://www.theguardian.com/politics/2025/oct/20/labour-deputy-leadership-contest-may-only-cause-more-trouble-for-starmer\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:00:43 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
@@ -284,7 +356,7 @@
     {
       "title": "Trump reposts AI-generated video of plane dumping sludge on No Kings protesters",
       "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-ai-video-no-kings",
-      "description": "<p>President has previously posted deepfake videos and AI-generated images like this one, which JD Vance called ‘funny’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> reposted an AI-generated video of him flying a fighter plane emblazoned with the words “King Trump” and dumping brown sludge onto protestors, in what appears to be a retort to the widespread <a href=\"https://www.theguardian.com/us-news/2025/oct/20/no-kings-protests-trump-democrats\">No Kings protests</a> that took place Saturday against his second presidency.</p><p>In the video, which the president posted Saturday night, a sharply orange Trump is seen donning a gold crown and manning a plane monikered “King Trump”. The video zooms away from Trump and shows the plane dumping bursts of brown matter on an AI-generated cityscape. A protestor, taking a selfie video, captures the crowd being covered in the brown liquid. The last shot of the 19-second video is of protestors in what appears to be Times Square getting dumped on.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-ai-video-no-kings\">Continue reading...</a>",
+      "description": "<p>President has previously posted deepfake videos and AI images like this one, which JD Vance called ‘funny’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> reposted an AI-generated video of him flying a fighter plane emblazoned with the words “King Trump” and dumping brown sludge on to protesters, in what appears to be a retort to the widespread <a href=\"https://www.theguardian.com/us-news/2025/oct/20/no-kings-protests-trump-democrats\">No Kings protests</a> that took place on Saturday against his second presidency.</p><p>In the video, which the president posted on Saturday night, a sharply orange Trump is seen donning a gold crown and manning a plane monikered “King Trump”. The video zooms away from Trump and shows the plane dumping bursts of brown matter on an AI-generated cityscape. A protester, taking a selfie video, captures the crowd being covered in the brown liquid. The last shot of the 19-second video is of protesters in what appears to be Times Square getting dumped on.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-ai-video-no-kings\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 13:48:51 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -408,14 +480,6 @@
       "pubDate": "Mon, 20 Oct 2025 12:51:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/13/d7/1e/z32338451IHG,Zlobek--Zdjecie-ilustracyjne.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "‘I was doing nothing at home’: the Chinese nationals fighting for Ukraine",
-      "link": "https://www.theguardian.com/world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine",
-      "description": "<p>Volunteers defy their government and public opinion in China to risk their lives for an adversary of Beijing’s main geopolitical partner</p><p></p><p>In a war that has been characterised by merciless attacks on civilians, one of the worst took place on 8 July 2024. Russia missile strikes <a href=\"https://ukraine.ohchr.org/sites/default/files/2024-08/Ukraine%20-%20protection%20of%20civilians%20in%20armed%20conflict%20%28July%202024%29_ENG.pdf\">killed at least 43 people</a> in cities across Ukraine in one of the deadliest days of the war last year. One of the most shocking blows was to the <a href=\"https://www.theguardian.com/world/article/2024/jul/08/ukraine-horror-russian-bombing-kyiv-childrens-hospital\">Okhmatdyt children’s hospital in central Kyiv</a>, which reduced the country’s largest paediatric clinic to rubble.</p><p>Tim, 43, was delivering aid on the outskirts of Kyiv when he heard a missile fly overhead. A short while later, he saw the news on his phone that the children’s hospital had been hit. Along with a British friend, the Chinese national, who asked to be referred to by just his English name, rushed to the scene to help with the recovery efforts. “Seeing the severed limbs, some of them belonging to children, I started crying,” the father-of-two said, tears in his eyes at the memory. “I thought about the kind of anger that Chinese people have. Once it’s ignited … It’s intense. I decided to join the army.”</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/i-was-doing-nothing-at-home-the-chinese-nationals-fighting-for-ukraine\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 12:50:23 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "FBI investigates after hunting stand was found near where Trump exits Air Force One",
@@ -736,14 +800,6 @@
       "pubDate": "Mon, 20 Oct 2025 11:35:44 GMT",
       "imageUrl": "",
       "source": "BBC News"
-    },
-    {
-      "title": "Ciepła kąpiel w więzieniu minimum dwa razy w tygodniu? Resort sprawiedliwości zadba o higienę więźniów",
-      "link": "https://www.rp.pl/prawo-karne/art43203721-ciepla-kapiel-w-wiezieniu-minimum-dwa-razy-w-tygodniu-resort-sprawiedliwosci-zadba-o-higiene-wiezniow",
-      "description": "Więźniowie mają szansę na nowe uprawnienie. Będą mogli wziąć ciepłą kąpiel co najmniej dwa razy w tygodniu. Resort sprawiedliwości planuje też zmiany dotyczące odbywania kary przez kobiety w ciąży i matki karmiące.",
-      "pubDate": "Mon, 20 Oct 2025 13:35:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/4623df46140f8e4fd0541a9c7dd20843/?t=crop:2500:1093:nowe:0:287,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Kradzież klejnotów z Luwru. Dyrektorka Zamku Królewskiego: To była akcja na rympał",
@@ -1090,7 +1146,7 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Forest in advanced talks to appoint manager Dyche",
+      "title": "Forest in advanced talks to appoint Dyche",
       "link": "https://www.bbc.com/sport/football/articles/c62eqgggvwlo?at_medium=RSS&at_campaign=rss",
       "description": "Nottingham Forest are in advanced talks to appoint Sean Dyche as their manager - would he be a more natural fit at the City Ground?",
       "pubDate": "Mon, 20 Oct 2025 09:49:25 GMT",
@@ -1328,14 +1384,6 @@
       "pubDate": "Mon, 20 Oct 2025 10:46:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Louvre heist puts pressure on French government over museum security",
-      "link": "https://www.theguardian.com/world/2025/oct/20/louvre-heist-pressure-french-government-museum-security-paris",
-      "description": "<p>Justice minister says ‘we have failed’ after thieves take seven minutes to steal priceless jewels from museum</p><ul><li><p><a href=\"http://theguardian.com/world/live/2025/oct/20/zelenskyy-trump-putin-russia-ukraine-war-eu-france-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>The French government is under increasing pressure over museum security as police continue to search for thieves who took <a href=\"https://www.theguardian.com/world/2025/oct/19/louvre-closed-after-robbery-french-culture-minister-says\">seven minutes to steal priceless jewels</a> from the Louvre, the world’s most-visited museum.</p><p>“What is certain is that we have failed, since people were able to park a furniture hoist in the middle of Paris, get people up it in several minutes to grab priceless jewels, and give France a terrible image,” the justice minister, Gérald Darmanin, told France Inter radio on Monday.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/louvre-heist-pressure-french-government-museum-security-paris\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 08:41:36 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Musisz zapłacić do 25 października! Inaczej czeka cię kara finansowa, a nawet egzekucja sądowa",
@@ -1674,14 +1722,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Jacinta Allan blames ‘very small number’ of counter-protesters for violence at Melbourne immigration rally",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/20/melbourne-protests-anti-immigration-rallies-counter-protest-police-injured",
-      "description": "<p>Victorian premier insists city is safe and police have necessary powers after two officers hospitalised on Sunday </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/20/australia-news-live-space-debris-wa-albanese-trump-meeting-labor-supermarkets-price-gouging-barnaby-joyce-nationals-coalition-sussan-ley-net-zero-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Jacinta Allan has blamed a “very small number” of counter-protesters for violent scenes in <a href=\"https://www.theguardian.com/australia-news/melbourne\">Melbourne</a>’s CBD, insisting the city is safe and police have the powers they need to maintain order.</p><p>The Victorian premier’s comments come after two officers were hospitalised as police spent hours trying to seperate an anti-immigration rally, organised by March for Australia, from a counter anti-racism protest, dubbed “United Against Racism: Migrants and Refugees Are Welcome”, in the CBD on Sunday.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/20/melbourne-protests-anti-immigration-rallies-counter-protest-police-injured\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 05:59:48 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "TVP zamyka kolejną platformę streamingową",
       "link": "https://www.wirtualnemedia.pl/tvp-go-aplikacja-koniec-jak-korzystac-z-tvp-vod,7212808042494944a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/54411352-60db-46cc-8a20-d38ea4b84dfd\" width=\"308\" /> Telewizja Polska zapowiada zamknięcie platformy TVP GO. Nadawca podkreśla, że skupia się na rozwoju TVP VOD. Nadawca informuje Wirtualnemedia.pl, że wygaszanie usługi TVP GO zakończy się na przełomie 2025 i 2026 roku.  ",
@@ -1824,14 +1864,6 @@
       "pubDate": "Mon, 20 Oct 2025 06:55:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Max Verstappen wins F1 US Grand Prix; cuts Piastri standings lead",
-      "link": "https://www.aljazeera.com/sports/2025/10/20/max-verstappen-wins-f1-us-grand-prix-cuts-piastri-standings-lead?traffic_source=rss",
-      "description": "Verstappen's wire-to-wire victory in Austin narrows the drivers' championship gap to 40 points behind Oscar Piastri.",
-      "pubDate": "Mon, 20 Oct 2025 04:46:20 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
     },
     {
       "title": "Marcin Kierwiński w programie \"Graffiti\" [OGLĄDAJ]",
@@ -2186,28 +2218,12 @@
       "source": "Polsat News"
     },
     {
-      "title": "Polacy zapytani o szanse Ukrainy w wojnie z Rosją. Ponad połowa zgodna",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/polacy-traca-wiare-w-zwyciestwo-ukrainy-sa-wyniki-nowego-sondazu/",
-      "description": "Ponad połowa ankietowanych Polaków nie wierzy w zwycięstwo Ukrainy w wojnie z Rosją - wynika z nowego sondażu IBRiS dla Wirtualnej Polski. Najbardziej sceptyczni są wyborcy PiS oraz Konfederacji. Porażkę wojsk Władimira Putina w trwającym od 2022 roku konflikcie zbrojnym przewiduje zaś ok. 30 proc. ankietowanych.",
-      "pubDate": "Sun, 19 Oct 2025 17:03:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "11 Best Housewarming Gifts We Can't Stop Using (2025): Coasters, Blenders, Sheets",
       "link": "https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/",
       "description": "Make a house into a home with these gifts, whether your recipient is moving into their first house or a great new apartment.",
       "pubDate": "Sun, 19 Oct 2025 15:03:00 +0000",
       "imageUrl": "",
       "source": "Wired"
-    },
-    {
-      "title": "Nowe informacje ze Strefy Gazy. Izrael grzmi. \"Na każdy atak odpowiemy siłą\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/nowe-informacje-ze-strefy-gazy-na-kazdy-atak-odpowiemy-sila/",
-      "description": "Izrael przypuścił serię ataków na Strefę Gazy w odpowiedzi na, jak twierdzi, naruszenie przez Hamas porozumienia o zawieszeniu broni. W wyniku nalotów i ostrzału z czołgów w enklawie zginąć miało co najmniej 11 osób. Strona izraelska nie wyklucza ponadto kolejnych działań, o ile palestyńska organizacja nie wywiąże się ze swoich zobowiązań. Zgodę na wznowienie walk rozważa prezydent USA.",
-      "pubDate": "Sun, 19 Oct 2025 16:46:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Story of Indigenous activist’s murder takes top prize at London film festival",
@@ -2832,14 +2848,6 @@
       "pubDate": "Thu, 16 Oct 2025 20:25:39 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "The 45 Best Movies on Hulu This Week (October 2025)",
-      "link": "https://www.wired.com/story/best-movies-hulu-right-now/",
-      "description": "40 Acres, The Cabin in the Woods, and Barbarian are just a few of the movies you need to watch on Hulu right now.",
-      "pubDate": "Thu, 16 Oct 2025 19:00:00 +0000",
-      "imageUrl": "",
-      "source": "Wired"
     },
     {
       "title": "Four dead as Kenyan security forces fire on crowds mourning Raila Odinga",
