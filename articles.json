@@ -1,8 +1,64 @@
 {
-  "generatedAt": "2025-10-20T19:00:44.038Z",
+  "generatedAt": "2025-10-20T19:22:49.607Z",
   "items": [
     {
-      "title": "Szymon Hołownia ze stanowiskiem w ONZ? \"Szanse znacząco wzrosły\"",
+      "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.</p>\n<p>As of 1:15PM ET today (October 20), it appears the outage has not been resolved. Multiple services remain unavailable, including asking Alexa for the weather or to turn off lights in your home. Venmo also seems to be down still, though their apps have all displayed alerts saying they are aware of issues plaguing their services. The Lyft app is also slower to respond than usual.</p>\n<span id=\"end-legacy-contents\"></span><p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<p>At about 12:08PM ET, the company <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update\">posted a small statement</a> that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>\n<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>\n<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>\n<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "pubDate": "Mon, 20 Oct 2025 19:15:10 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Prince Andrew tried to hire ‘internet trolls’ to hassle Virginia Giuffre, book claims",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/20/prince-andrew-internet-trolls-virginia-giuffre-book-nobodys-girl",
+      "description": "<p>Andrew hid behind Balmoral’s ‘guarded gates’ to escape court papers, accuser says in memoir Nobody’s Girl</p><p>Prince Andrew’s team tried to hire “internet trolls to hassle” his accuser, Virginia Giuffre, while he hid behind the “well-guarded gates” of Balmoral Castle to avoid being served court papers, according to allegations in her posthumous memoir.</p><p>Giuffre wrote of the 2022 confidential settlement of her sexual abuse civil claim against the royal, widely rumoured to be $12m (£9m), that her lawyers “were going to ask for the moon” and her team had agreed it “had to be more than mere money”.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/20/prince-andrew-internet-trolls-virginia-giuffre-book-nobodys-girl\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 19:12:14 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump o wojnie w Ukrainie: Nigdy nie mówiłem, że wygrają",
+      "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32339462,trump-o-wojnie-w-ukrainie-nigdy-nie-mowilem-ze-wygraja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/32/d7/1e/z32339506IHG,Donald-Trump.jpg' align='left' hspace='4' vspace='2'>- Staramy się zawrzeć porozumienie, jeśli zawrzemy, to świetnie, jeśli nie zawrzemy, to wiele osób zapłaci wysoką cenę - stwierdził w poniedziałek prezydent USA Donald Trump. Pytany jednocześnie, dlaczego nie stanie się to szybko, odparł, że \"to skomplikowane\".",
+      "pubDate": "Mon, 20 Oct 2025 19:07:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/32/d7/1e/z32339506IHG,Donald-Trump.jpg",
+      "source": "Gazeta.pl"
+    },
+    {
+      "title": "Atak na siedzibę PO, Tusk uderza w Kaczyńskiego. \"Podpalacz z Żoliborza\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/atak-na-siedzibe-po-tusk-uderza-w-kaczynskiego-podpalacz-z-zoliborza/",
+      "description": "- Cała polityczna odpowiedzialność za narastającą falę przemocy w Polsce i też za ten atak spada na podpalacza z Żoliborza, Jarosława Kaczyńskiego - powiedział Donald Tusk. Szef rządu zamieścił nagranie w serwisie X, w którym skomentował piątkową próbę podpalenia siedziby PO w Warszawie. Odniósł się też do wystąpienia Roberta Bąkiewicza, który mówił, że trzeba powyrywać chwasty z polskiej ziemi.",
+      "pubDate": "Mon, 20 Oct 2025 21:02:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Dziennik Ustaw z 20 października 2025 r. (poz. 1407-1420)",
+      "link": "https://www.rp.pl/akty-prawne/art43207501-dziennik-ustaw-z-20-pazdziernika-2025-r-poz-1407-1420",
+      "description": "",
+      "pubDate": "Mon, 20 Oct 2025 21:01:21 +0200",
+      "imageUrl": "",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "‘I don’t like you either’: diplomats hold their breath as Trump chides Rudd over previous comments",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/21/i-dont-like-you-either-diplomats-hold-their-breath-as-trump-chides-rudd-over-previous-comments",
+      "description": "<p>President’s comments were greeted with laughter as diplomatic pressure valve finally released</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>“I don’t like you either. And I probably never will,” President Donald Trump told Australian ambassador Kevin Rudd, at the White House cabinet room table.</p><p>It was the testiest and most uncomfortable remark at a typically free-wheeling and chaotic presidential press conference.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/i-dont-like-you-either-diplomats-hold-their-breath-as-trump-chides-rudd-over-previous-comments\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 19:01:11 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah",
+      "link": "https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/",
+      "description": "Government investigators are gathering data to confirm what exactly cracked the windshield of a 737 Max aircraft at above 30,000 feet.",
+      "pubDate": "Mon, 20 Oct 2025 19:00:00 +0000",
+      "imageUrl": "",
+      "source": "Wired"
+    },
+    {
+      "title": "Ważne państwa są gotowe poprzeć Szymona Hołownię. \"Szanse znacząco wzrosły\"",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32339484,szymon-holownia-juz-ze-stanowiskiem-w-onz-szanse-znaczaco.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/21/d4/1e/z32325665IHG,Szymon-Holownia.jpg' align='left' hspace='4' vspace='2'>Marszałek Sejmu Szymon Hołownia ma realne szanse objąć wysokie stanowisko w strukturach ONZ - wynika z wypowiedzi Władysława Teofila Bartoszewskiego z PSL w Radiu Zet. Jak podkreśla, poparcie dla tej kandydatury deklarują \"bardzo ważne państwa\", co może przesądzić o wyniku głosowania.",
       "pubDate": "Mon, 20 Oct 2025 18:59:00 GMT",
@@ -34,12 +90,36 @@
       "source": "Engadget"
     },
     {
+      "title": "US investigates Waymo robotaxis over safety around school buses",
+      "link": "https://www.theguardian.com/technology/2025/oct/20/waymo-robotaxi-investigation-safety-nhtsa",
+      "description": "<p>Top transport safety regulator to determine if self-driving vehicles failed to follow traffic laws for stopped buses</p><p>The US’s main transportation safety regulator said on Monday it had opened a preliminary investigation into about 2,000 <a href=\"https://www.theguardian.com/technology/waymo\">Waymo</a> self-driving vehicles after reports that the company’s robotaxis may have failed to follow traffic safety laws around stopped school buses.</p><p>The investigation by the National Highway Traffic Safety Administration (NHTSA) is the latest federal review of self-driving systems as regulators scrutinize how driverless technologies interact with pedestrians, cyclists and other road users.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/20/waymo-robotaxi-investigation-safety-nhtsa\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 18:50:41 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Monitor Polski z 20 października 2025 r. (poz. 1085-1093)",
+      "link": "https://www.rp.pl/akty-prawne/art43207551-monitor-polski-z-20-pazdziernika-2025-r-poz-1085-1093",
+      "description": "",
+      "pubDate": "Mon, 20 Oct 2025 20:50:00 +0200",
+      "imageUrl": "",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "How to watch Samsung unveil its Android XR headset",
       "link": "https://www.engadget.com/ar-vr/how-to-watch-samsung-unveil-its-android-xr-headset-184820772.html?src=rss",
       "description": "<p>Samsung <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.engadget.com/samsung-will-introduce-its-android-xr-headset-at-a-galaxy-event-on-october-21-230000605.html\">is set to officially reveal</a> its long-anticipated Android extended reality (XR) headset, which has been codenamed Project Moohan. The company <a data-i13n=\"cpos:2;pos:1\" href=\"https://news.samsung.com/global/invitation-samsung-galaxy-event-worlds-wide-open-a-new-era-of-multimodal-ai\">has scheduled a livestream event</a> for October 21 at 10PM ET.</p>\n<p>The event will be streamed live via the <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.youtube.com/samsung\">company's YouTube page</a> and on the <a data-i13n=\"cpos:4;pos:1\" href=\"https://news.samsung.com/global/\">official Samsung Newsroom site</a>. We don't know how long the stream will be, but Samsung promises that Project Moohan will open up the \"true potential\" of mixed-reality devices.</p>\n<span id=\"end-legacy-contents\"></span><div id=\"14b82448a9124decb2f39612dd63dd02\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ITXJquX9FqM?si=L7VjonouH-zpnuLP\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe></div>\n<p>This isn't just a reveal for a mixed-reality headset. Moohan is the very first device that uses <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.engadget.com/ar-vr/google-lays-out-its-vision-for-an-android-xr-ecosystem-160001103.html\">Google's new Android XR operating system</a>, which has been specifically designed for XR, VR and AR devices like glasses and headsets. We'll finally get to see what all the fuss is about and what kind of new tools the OS brings to the table.</p>\n<p>Samsung says that this technology \"seamlessly blends everyday utility with immersive new experiences.\" Hopefully we'll get a look at both everyday utility and immersive new experiences during the livestream.</p>\n<p>We don't have official specs about the headset itself, but there have been <a data-i13n=\"cpos:6;pos:1\" href=\"https://www.engadget.com/ar-vr/the-final-details-of-samsungs-android-xr-headset-have-been-all-but-confirmed-200915560.html\">plenty of leaks and rumors</a> that will be confirmed or refuted during the stream. Leaks <a data-i13n=\"cpos:7;pos:1\" href=\"https://chromeunboxed.com/why-im-so-excited-for-samsung-android-xr-event-and-its-not-just-the-headset/\">have suggested</a> it includes a high-end display, advanced tracking and Gemini integration. These same leaks indicate a potential price tag of $1,800 to $2,800, making it more of a rival to the Apple Vision Pro than <a data-i13n=\"cpos:8;pos:1\" href=\"https://www.engadget.com/wearables/meta-ray-ban-display-review-chunky-frames-with-impressive-abilities-193127070.html\">Meta's new Ray-Ban Display glasses</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ar-vr/how-to-watch-samsung-unveil-its-android-xr-headset-184820772.html?src=rss",
       "pubDate": "Mon, 20 Oct 2025 18:48:20 +0000",
       "imageUrl": "",
       "source": "Engadget"
+    },
+    {
+      "title": "UK police to investigate violence at Maccabi Tel Aviv match",
+      "link": "https://www.theguardian.com/football/2025/oct/20/uk-police-to-investigate-violence-at-maccabi-tel-aviv-derby",
+      "description": "<p>Maccabi say rivals to blame for crowd trouble while UK government still wants ban lifted for Aston Villa game</p><p>British police will investigate whether fans of Maccabi Tel Aviv bear any blame for <a href=\"https://www.theguardian.com/football/2025/oct/19/tel-aviv-football-derby-between-hapoel-and-maccabi-called-off-after-rioting\">violence at an Israeli football match</a> on Sunday that led to the game being abandoned.</p><p>Police and authorities have faced criticism over a decision last week to ban Maccabi fans from attending a Europa League game against Aston Villa in Birmingham on 6 November.</p> <a href=\"https://www.theguardian.com/football/2025/oct/20/uk-police-to-investigate-violence-at-maccabi-tel-aviv-derby\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 18:46:58 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
     },
     {
       "title": "Google Has a Bed Bug Infestation in Its New York Offices",
@@ -186,7 +266,7 @@
       "source": "The Guardian"
     },
     {
-      "title": "Suicide rate among young people in England rose 50% in 10 years, figures show",
+      "title": "Suicide rates among young people in England rose 50% in 10 years, figures show",
       "link": "https://www.theguardian.com/society/2025/oct/20/suicide-rate-among-children-and-young-people-rose-50-in-10-years-figures-show",
       "description": "<p>Charities accuse government of ‘sliding backwards’ on child mental health after ONS findings </p><p>Suicide rates among children and young people in England have increased by 50% in the last decade, figures show.</p><p>The Office for National Statistics analysed data covering almost 12 million children and young people aged between 15 and 25 from 2011-12 to 2021-22. There were 4,315 suicides across the whole period.</p><p><em>In the UK and Ireland, <a href=\"https://www.samaritans.org/\">Samaritans</a> can be contacted on freephone 116 123, or email <a href=\"mailto:jo@samaritans.org\">jo@samaritans.org</a> or <a href=\"mailto:jo@samaritans.ie\">jo@samaritans.ie</a>. In the US, you can call or text the <a href=\"https://988lifeline.org/\">National Suicide Prevention Lifeline</a> on 988, chat on <a href=\"https://988lifeline.org/chat/\">988lifeline.org</a>, or <a href=\"https://www.crisistextline.org/\">text HOME</a> to 741741 to connect with a crisis counselor. In Australia, the crisis support service <a href=\"https://www.lifeline.org.au/\">Lifeline</a> is 13 11 14. Other international helplines can be found at <a href=\"http://www.befrienders.org/\">befrienders.org</a></em></p> <a href=\"https://www.theguardian.com/society/2025/oct/20/suicide-rate-among-children-and-young-people-rose-50-in-10-years-figures-show\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 18:03:29 GMT",
@@ -258,14 +338,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Met police to end non-crime hate investigations after Graham Linehan case",
-      "link": "https://www.theguardian.com/culture/2025/oct/20/father-ted-creator-graham-linehan-says-police-taking-no-further-action-over-trans-posts",
-      "description": "<p>Father Ted co-creator to sue force for wrongful arrest after CPS drops proceedings over social media posts about trans issues </p><p>The Met police have said they will no longer investigate non-crime hate incidents as the Father Ted co-creator Graham Linehan was informed that no further action would be taken after his arrest over social media posts.</p><p>Five armed officers detained the 57-year-old comedy writer at Heathrow in September on suspicion of inciting violence in relation to three posts about trans issues.</p> <a href=\"https://www.theguardian.com/culture/2025/oct/20/father-ted-creator-graham-linehan-says-police-taking-no-further-action-over-trans-posts\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 17:48:46 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Giorgia Meloni w ogniu krytyki. \"Musi wyjaśnić, po której stronie są Włochy\"",
       "link": "https://wiadomosci.dziennik.pl/swiat/artykuly/10543984,giorgia-meloni-w-ogniu-krytyki-musi-wyjasnic-po-ktorej-stronie-sa-wlochy.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/pXhktkuTURBXy9hNjUwOGI3Zi0xZjA3LTRhNzctYjBmNy0wYjljYTIxZDFhYzEuanBlZ5GTBc0BHcyg\" align=\"right\" />Włoska opozycja zażądała wyjaśnień od premier Giorgii Meloni po tym, jak prezydent USA zamieścił na portalu Truth Social wpis jego zwolenniczki, która ogłosiła, że szefowa rządu w Rzymie wyłamuje się z szeregu UE i będzie sama negocjować umowę handlową z USA. Według tego wpisu Meloni chce też zmniejszyć poparcie dla Ukrainy.",
@@ -314,14 +386,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Met officer accused of sharing rape case footage is cleared of misconduct",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/20/met-officer-accused-of-sharing-case-footage-is-cleared-of-misconduct",
-      "description": "<p>Ex-girlfriend alleged Adam Aspinall Da Encarnacao shared footage from cases of Natalie Shotter and a second woman</p><p>A Metropolitan police officer has been cleared of two counts of misconduct in public office after standing trial accused of sharing footage from two rape cases.</p><p>PC Adam Aspinall Da Encarnacao, 33, from Buckinghamshire, attached to the Met’s Sapphire unit dealing with rapes and serious sexual assaults, had pleaded not guilty to both counts. He has acted as a sexual offences investigation trained officer supporting rape victims.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/20/met-officer-accused-of-sharing-case-footage-is-cleared-of-misconduct\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 17:38:04 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Trump claims ‘unquestioned power’ in vow to send troops to San Francisco",
       "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-san-francisco-troops",
       "description": "<p>President claims on Fox News ‘they want us in San Francisco’ despite opposition from city officials</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has again pledged to send troops to San Francisco, claiming in a Fox News interview he has “unquestioned power” to deploy the national guard and that residents want the military in their city.</p><p>“We’re gonna go to San Francisco. The difference is I think they want us in San Francisco,” Trump said in an interview with Maria Bartiromo.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-san-francisco-troops\">Continue reading...</a>",
@@ -338,9 +402,9 @@
       "source": "The Guardian"
     },
     {
-      "title": "Rzecznik MŚP apeluje o podniesienie limitu kosztów",
-      "link": "https://pro.rp.pl/pit-koszty-uzyskania-przychodu-i-ulgi/art43207311-rzecznik-msp-apeluje-o-podniesienie-limitu-kosztow",
-      "description": "Rzecznik małych i  średnich przedsiębiorców Agnieszka Majewska uważa, że planowane na 2026 r. limity podatkowe dla samochodów firmowych nie zachęcają do modernizacji floty pojazdów i wyboru bardziej ekologicznych aut. Zaapelowała do ministra finansów o zmianę przepisów.",
+      "title": "Rzecznik MŚP apeluje o podniesienie limitu kosztów na auta",
+      "link": "https://pro.rp.pl/pit-koszty-uzyskania-przychodu-i-ulgi/art43207311-rzecznik-msp-apeluje-o-podniesienie-limitu-kosztow-na-auta",
+      "description": "Rzecznik małych i  średnich przedsiębiorców Agnieszka Majewska uważa, że limity podatkowe na 2026 r. dla samochodów firmowych nie zachęcają do modernizacji floty pojazdów i wyboru bardziej ekologicznych aut. Zaapelowała do ministra finansów o zmianę przepisów.",
       "pubDate": "Mon, 20 Oct 2025 19:32:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/fbcd012a2e6d12139dafa9feccba8366/?t=crop:4752:2947:nowe:0:111,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
@@ -402,14 +466,6 @@
       "source": "Wirtualne Media"
     },
     {
-      "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
-      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.</p>\n<p>As of 1:15PM ET today (October 20), it appears the outage has not been resolved. Multiple services remain unavailable, including asking Alexa for the weather or to turn off lights in your home. Venmo also seems to be down still, though their apps have all displayed alerts saying they are aware of issues plaguing their services. The Lyft app is also slower to respond than usual.</p>\n<span id=\"end-legacy-contents\"></span><p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>\n<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "pubDate": "Mon, 20 Oct 2025 17:17:08 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
-    },
-    {
       "title": "Tusk zabrał głos ws. ataku na biuro PO. \"Podpalacz z Żoliborza\"",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32339391,tusk-zabral-glos-ws-ataku-na-biuro-po-podpalacz-z-zoliborza.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/7d/d6/1e/z32337021IHG,Donald-Tusk.jpg' align='left' hspace='4' vspace='2'>Premier Donald Tusk zabrał głos po ataku i próbie podpalenia jednego z biur Platformy Obywatelskiej. W filmie opublikowanym w mediach społecznościowych mówi, na kim - jego zdaniem - spoczywa \"polityczna odpowiedzialność\" za atak.",
@@ -442,7 +498,7 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "What does Kevin Federline's upcoming book say about Britney Spears?",
+      "title": "Kevin Federline has held off writing about Britney Spears. Until now",
       "link": "https://www.bbc.com/news/articles/cdx4nr1415wo?at_medium=RSS&at_campaign=rss",
       "description": "The ex-husband of Britney Spears makes a number of allegations against her - and she has accused him of attacking him.",
       "pubDate": "Mon, 20 Oct 2025 17:09:14 GMT",
@@ -664,14 +720,6 @@
       "pubDate": "Mon, 20 Oct 2025 16:30:56 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Amazon Web Services outage shows internet users ‘at mercy’ of too few providers, experts say",
-      "link": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
-      "description": "<p>Crash that hit apps and websites around world demonstrates ‘urgent need for diversification in cloud computing’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/20/china-economic-growth-gdp-low-house-prices-fall-stock-markets-ftse-business-live-news\">Business live – latest updates</a></p></li></ul><p>Experts have warned of the perils of relying on a small number of companies for operating the global internet after a glitch at Amazon’s cloud computing service brought down apps and websites around the world.</p><p>The affected platforms included Snapchat, Roblox, Signal and Duolingo as well as a host of Amazon-owned operations including its main retail site and the Ring doorbell company.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 16:25:56 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Outstanding Simeone would succeed anywhere - Arteta",
@@ -1296,14 +1344,6 @@
       "pubDate": "Mon, 20 Oct 2025 13:14:48 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Rekordowy wzrost CO2 w atmosferze. Trzy wskaźniki, które niepokoją ekspertów",
-      "link": "https://klimat.rp.pl/emisje/art43196921-rekordowy-wzrost-co2-w-atmosferze-trzy-wskazniki-ktore-niepokoja-ekspertow",
-      "description": "Światowa Organizacja Meteorologiczna (WMO) poinformowała, że ​​wzrost poziomu CO2 w atmosferze w latach 2023–2024 był największym rocznym skokiem od rozpoczęcia pomiarów w 1957 roku.",
-      "pubDate": "Mon, 20 Oct 2025 15:10:57 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/bb1438d9e2cd62bbece645d06a6dbc22/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Papież spotkał się z ofiarami nadużyć księży. \"Istotny moment dialogu\"",
@@ -1986,7 +2026,7 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "What is Aukus, the submarine deal between Australia, the UK and US?",
+      "title": "The multi-billion pound submarine deal between Australia, the UK and US explained",
       "link": "https://www.bbc.com/news/articles/cgr589k5yleo?at_medium=RSS&at_campaign=rss",
       "description": "The deal is expected to be the focus of talks between US President Donald Trump and Australian Prime Minister Anthony Albanese on Monday.",
       "pubDate": "Mon, 20 Oct 2025 09:53:05 GMT",
@@ -2170,14 +2210,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Leki i wizyta u specjalisty. \"Rz\" o kulisach odebrania Cenckiewiczowi dostępu do tajemnic",
-      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32337244,leki-i-wizyta-u-specjalisty-rz-o-kulisach-odebrania-cenckiewiczowi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/58/c4/1e/z32261720IHG,Szef-BBN-Slawomir-Cenckiewicz.jpg' align='left' hspace='4' vspace='2'>Postępowanie SKW dotyczące poświadczeń bezpieczeństwa Sławomira Cenckiewicza wszczęto w związku z rzekomym zatajeniem przez niego wizyty u specjalisty i przyjmowania leków - podaje \"Rzeczpospolita\". Sąd jednak uznał, że Cenckiewicz niczego nie zataił, bo przepisane mu środki nie były substancjami psychotropowymi.",
-      "pubDate": "Mon, 20 Oct 2025 07:21:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/58/c4/1e/z32261720IHG,Szef-BBN-Slawomir-Cenckiewicz.jpg",
-      "source": "Gazeta.pl"
-    },
-    {
       "title": "Coalition showdown on net zero looms amid speculation more MPs could quit over policy",
       "link": "https://www.theguardian.com/australia-news/2025/oct/20/coalition-net-zero-policy-speculation-more-could-quit-sussan-ley",
       "description": "<p>Meeting called for end of sitting week inviting backbench MPs to argue for or against dumping the policy after Barnaby Joyce announced resignation</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Coalition backbenchers are preparing for a showdown on net zero as pressure mounts on Sussan Ley’s opposition to resolve its position, with speculation more MPs could join Barnaby Joyce in quitting if the policy isn’t dumped.</p><p>Liberal and Nationals MPs have been invited to remain in Canberra after the upcoming sitting week for a three-hour, closed-door debate on energy policy, including net zero by 2050.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/20/coalition-net-zero-policy-speculation-more-could-quit-sussan-ley\">Continue reading...</a>",
@@ -2200,14 +2232,6 @@
       "pubDate": "Mon, 20 Oct 2025 08:50:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Head of ABS defends debunking far-right ‘mass migration’ claims after censorship accusations",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/20/abs-censorship-accusations-defends-debunking-far-right-mass-migration-claims",
-      "description": "<p>Chief statistician David Gruen says bureau did not censor anyone and is ‘trying to take the side of truth’ after misuse of overseas arrivals figures</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/20/australia-news-live-space-debris-wa-albanese-trump-meeting-labor-supermarkets-price-gouging-barnaby-joyce-nationals-coalition-sussan-ley-net-zero-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s chief statistician, David Gruen, has defended the <a href=\"https://www.theguardian.com/australia-news/australian-bureau-of-statistics\">Australian Bureau of Statistics</a>’ recent public debunking of far-right claims of “mass migration”, as he said the independent agency “stands ready to respond” to “egregious misrepresentations” of its data.</p><p>The biennial World Stats Day on 20 October comes amid a rising tide of mis- and disinformation around the world that has propelled often anonymous statistical bodies and their officials into the public eye.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/20/abs-censorship-accusations-defends-debunking-far-right-mass-migration-claims\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 06:20:02 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Nadchodzą zmiany w PO. Marcin Kierwiński mówi o \"żalu\" i \"nostalgii\"",
@@ -2312,14 +2336,6 @@
       "pubDate": "Sun, 19 Oct 2025 19:43:24 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "\"Na dwa fronty\". Kulisy legalizacji obcokrajowców w Polsce",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/na-dwa-fronty-kulisy-legalizacji-obcokrajowcow-w-polsce/",
-      "description": "Odsłaniamy tajniki legalizacji pobytu obcokrajowców w Polsce. Reporterka programu Polsat News Ujawnia Monika Gawrońska rozmawiała z osobami, dla których załatwianie wiz, kart pobytów dla cudzoziemców ze Wschodu czy północnej Afryki to sposób na dochodowy biznes. I to mimo jawnych powiązań z prawicową sceną polityczną. Bo tam gdzie pojawiają się pieniądze - często zaciera się granica poglądów.",
-      "pubDate": "Sun, 19 Oct 2025 21:25:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "Mexico is considering slapping an eight percent tax on violent video games",
@@ -2846,14 +2862,6 @@
       "link": "https://www.wired.com/story/the-blurred-truths-of-sora/",
       "description": "Many will assume that OpenAI’s Sora app represents a new era of social media. But that’s wrong—all it does is reanimate our current one.",
       "pubDate": "Fri, 17 Oct 2025 10:30:00 +0000",
-      "imageUrl": "",
-      "source": "Wired"
-    },
-    {
-      "title": "The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?",
-      "link": "https://www.wired.com/story/whiskey-house-bourbon/",
-      "description": "The software-driven approach pioneered by a new Kentucky distillery runs counter to the low-tech methods of whiskey's old guard. Its mix of data and automation might help pave a way forward.",
-      "pubDate": "Fri, 17 Oct 2025 10:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
     },
@@ -3392,14 +3400,6 @@
       "pubDate": "Mon, 24 Jan 2022 12:07:00 +0000",
       "imageUrl": "",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Roczna deklaracja CIT-8: wypełniamy krok po kroku",
-      "link": "https://pro.rp.pl/podatki/art3856571-roczna-deklaracja-cit-8-wypelniamy-krok-po-kroku",
-      "description": "Podatnicy podatku dochodowego od osób prawnych (z pewnymi wyjątkami) powinni rozliczyć się z urzędem skarbowym, składając zeznanie o wysokości osiągniętego dochodu (poniesionej straty) na formularzu CIT-8.",
-      "pubDate": "Mon, 07 Mar 2016 04:30:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/119df40bc6c7408b218794ceefa6d825/?t=crop:650:403:nowe:0:15,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     }
   ]
 }
