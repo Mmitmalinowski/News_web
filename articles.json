@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2025-10-20T15:17:31.186Z",
+  "generatedAt": "2025-10-20T15:34:24.840Z",
   "items": [
+    {
+      "title": "Pizza Hut to close 68 UK restaurants with the loss of 1,210 jobs",
+      "link": "https://www.bbc.com/news/articles/c07mk59pzkpo?at_medium=RSS&at_campaign=rss",
+      "description": "The move will lead to more than 1,200 redundancies, but 64 other restaurants will be saved.",
+      "pubDate": "Mon, 20 Oct 2025 15:29:58 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.</p>\n<p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<span id=\"end-legacy-contents\"></span><p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "pubDate": "Mon, 20 Oct 2025 15:21:59 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Złote góry Donalda Trumpa. Biznes rośnie jak na drożdżach",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198013,32338590,zlote-gory-donalda-trumpa-biznes-rosnie-jak-na-drozdzach.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/26/d6/1e/z32334886IHG,Donald-Trump.jpg' align='left' hspace='4' vspace='2'>Donald Trump zarobił na swojej prezydenturze ponad trzy miliardy dolarów - wynika z dziennikarskiego śledztwa \"New Yorkera\". Jego imperium rodzinne wciąż się rozrasta. Nie wydaje się, żeby ktokolwiek chciał lub mógł coś z tym zrobić.",
+      "pubDate": "Mon, 20 Oct 2025 15:20:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/26/d6/1e/z32334886IHG,Donald-Trump.jpg",
+      "source": "Gazeta.pl"
+    },
     {
       "title": "King meets 'hero' survivors of synagogue attack",
       "link": "https://www.bbc.com/news/articles/ckgzrd3x1pro?at_medium=RSS&at_campaign=rss",
@@ -18,6 +42,30 @@
       "source": "Polsat News"
     },
     {
+      "title": "Proposed UK Islamophobia definition allows for right to criticise religion, source says",
+      "link": "https://www.theguardian.com/news/2025/oct/20/proposed-uk-islamophobia-definition-free-speech-religion",
+      "description": "<p>Source says working group stuck to requirement that definition must not interfere with freedom of speech</p><p>A new definition of Islamophobia being considered by ministers is expected to protect the freedom to criticise Islam, the Guardian understands.</p><p>The government launched a working group to “define unacceptable treatment, prejudice, discrimination and hate targeting Muslims or anyone who is perceived to be Muslim” in February this year.</p> <a href=\"https://www.theguardian.com/news/2025/oct/20/proposed-uk-islamophobia-definition-free-speech-religion\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 15:11:44 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Minister says Tories should stop ‘throwing mud’ over China spy case and accept their role in its collapse – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education",
+      "description": "<p>Home Office minister responds to UQ from Chris Philp about the China spy case before question on Maccabi Tel Aviv fans</p><p>There will be two urgent questions in the Commons this afternoon, followed by a statement. Here is the running order.</p><p><em>3.30pm:</em> A Home Office minister will respond to a UQ from Chris Philp, the shadow home secretary, about the China spy case.</p><p>The family of Virginia Giuffre, whose life was destroyed, are angry and aghast. The public across these isles are angry and aghast and they both deserve to know that some MPs share their outrage.</p><p>So I won’t sit silent. If an act of parliament is required to strip the likes of Peter Mandelson and Prince Andrew of their titles then there can be no justification from this Labour government as to why that is not immediately happening.</p><p>Public funds, police protection and royal privilege have long buffered Prince Andrew from the consequences of his actions. And we’ve paid for all this.</p><p>I will support any efforts to hold royals to the same standards and laws as everyone else – parliament must have the power to remove privileges from abusers of position.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 15:10:35 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "At least 135 mutilated bodies of Palestinians had been held at notorious Israeli jail, say Gaza officials",
+      "link": "https://www.theguardian.com/world/2025/oct/20/mutilated-bodies-palestinians-held-notorious-israeli-jail-gaza-officials",
+      "description": "<p>Documents indicate they came from Sde Teiman, which already faces allegations of torture and unlawful deaths</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates\">Middle East crisis – live updates</a></p></li></ul><p>At least 135 mutilated bodies of Palestinians returned by Israel to Gaza had been held in a notorious detention centre already facing allegations of torture and unlawful deaths in custody, officials from Gaza’s health ministry told the Guardian.</p><p>The director general of the health ministry, Dr Munir al-Bursh, and the spokesperson for Nasser hospital in Khan Younis, where the bodies are being examined, said a <a href=\"https://edition.cnn.com/2025/10/17/middleeast/unidentified-palestinian-bodies-handed-over-by-israel-intl\">document found inside each body bag</a> indicated the bodies all came from Sde Teiman, a military base in the Negev desert, where, according to <a href=\"https://www.theguardian.com/world/article/2024/may/23/whistleblowers-allege-widespread-abuses-at-israeli-detention-camp-sde-teiman\">photos and testimonies published by the Guardian last year</a>, Palestinian detainees were held in cages, blindfolded and handcuffed, shackled to hospital beds, and forced to wear nappies.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/mutilated-bodies-palestinians-held-notorious-israeli-jail-gaza-officials\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 15:09:29 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
       "title": "13 Best White Elephant Gifts (2025): Coffee Pot Mug, Legos, Sushi Magnets, and More",
       "link": "https://www.wired.com/gallery/best-white-elephant-gifts-2025/",
       "description": "Bring the gift everyone will want to win from this year's holiday party, from a bathrobe for a bottle of wine to magnets they'll wish they could eat.",
@@ -26,12 +74,12 @@
       "source": "Wired"
     },
     {
-      "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
-      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and Fortnite. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.</p>\n<p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<span id=\"end-legacy-contents\"></span><p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "pubDate": "Mon, 20 Oct 2025 15:02:49 +0000",
+      "title": "China sets goal to become a “modern socialist power”",
+      "link": "https://www.aljazeera.com/video/quotable/2025/10/20/china-sets-goal-to-become-a-modern-socialist?traffic_source=rss",
+      "description": "So, the next two five-year plans are very, very important to see China's achievement of global competitiveness.”\n",
+      "pubDate": "Mon, 20 Oct 2025 15:04:27 +0000",
       "imageUrl": "",
-      "source": "Engadget"
+      "source": "Al Jazeera"
     },
     {
       "title": "Protective immune cells in breastfeeding women identified as guard against breast cancer, new research finds",
@@ -46,14 +94,6 @@
       "link": "https://www.theguardian.com/news/2025/oct/20/muslim-women-do-not-need-saving-says-female-leader-of-mosque-over-charity-run-row",
       "description": "<p>East London Mosque received hateful emails after event for men, boys, and under-12 girls only – but organisers say women’s race was undersubscribed</p><p>A female leader at a British mosque accused of excluding women from a charity run has said women in the community have a voice and do not “need saving” by critics who lack an understanding of Muslim values.</p><p>East London Mosque, in Tower Hamlets, found itself at the centre of a media firestorm and received dozens of hate mail messages after staging the Muslim Charity Run, open to “men, boys of all ages and girls under 12”. The communities secretary, <a href=\"https://viewer.gutools.co.uk/uk-news/2025/oct/14/steve-reed-muslim-charity-run-london-excluded-women\">Steve Reed, later said he was “horrified”</a>.</p> <a href=\"https://www.theguardian.com/news/2025/oct/20/muslim-women-do-not-need-saving-says-female-leader-of-mosque-over-charity-run-row\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 15:00:16 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Minister responds to Commons urgent question on China spy case – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education",
-      "description": "<p>Home Office minister responds to UQ from Chris Philp about the China spy case before question on Maccabi Tel Aviv fans</p><p>There will be two urgent questions in the Commons this afternoon, followed by a statement. Here is the running order.</p><p><em>3.30pm:</em> A Home Office minister will respond to a UQ from Chris Philp, the shadow home secretary, about the China spy case.</p><p>The family of Virginia Giuffre, whose life was destroyed, are angry and aghast. The public across these isles are angry and aghast and they both deserve to know that some MPs share their outrage.</p><p>So I won’t sit silent. If an act of parliament is required to strip the likes of Peter Mandelson and Prince Andrew of their titles then there can be no justification from this Labour government as to why that is not immediately happening.</p><p>Public funds, police protection and royal privilege have long buffered Prince Andrew from the consequences of his actions. And we’ve paid for all this.</p><p>I will support any efforts to hold royals to the same standards and laws as everyone else – parliament must have the power to remove privileges from abusers of position.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 15:00:15 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
@@ -74,9 +114,9 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "SlimFast’s European arm sold after struggling to compete with weight loss drugs",
+      "title": "SlimFast’s European arm sold after struggling to compete with weight-loss drugs",
       "link": "https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal",
-      "description": "<p>Typhoo tea owner Supreme acquires business from Irish nutrition and food firm Glanbia for £20m</p><p>The owner of Typhoo tea has snapped up SlimFast’s UK and European business in a £20.1m deal as it seeks to expand in the weight management market despite fierce competition from GLP-1 weight loss jabs.</p><p>The Irish nutrition and food company Glanbia has sold the low-calorie meal replacement shakes business to the British company Supreme after putting it up for sale earlier this year. Sales at the European operations have dropped, weighing on stronger trading in the US.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal\">Continue reading...</a>",
+      "description": "<p>Typhoo tea owner Supreme acquires business from Irish nutrition and food firm Glanbia for £20m</p><p>The owner of Typhoo tea has snapped up SlimFast’s UK and European business in a £20.1m deal as it seeks to expand in the weight management market despite fierce competition from GLP-1 weight-loss jabs.</p><p>The Irish nutrition and food company Glanbia has sold the low-calorie meal replacement shakes business to the British company Supreme after putting it up for sale earlier this year. Sales at the European operations have dropped, weighing on stronger trading in the US.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/typhoo-tea-owner-buys-slimfast-uk-and-europe-in-20m-deal\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 14:58:45 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -84,7 +124,7 @@
     {
       "title": "‘It hasn’t inspired’: turnout concerns grow close to Ireland’s presidential election",
       "link": "https://www.theguardian.com/world/2025/oct/20/turnout-concerns-ireland-presidential-election-spoilt-ballots",
-      "description": "<p>High rate of spoilt ballots also probable as poll shows 49% of voters do not feel represented by either candidate</p><p>With four days until <a href=\"https://www.theguardian.com/world/ireland\">Ireland</a>’s presidential election there are growing fears that a lacklustre campaign will prompt many people to spoil their vote or boycott the ballot.</p><p>Opinion polls give Catherine Connolly, an independent leftwing candidate, a wide lead over Heather Humphreys, who represents the ruling centre-right establishment. However, they also show frustration and disillusionment over the campaign.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/turnout-concerns-ireland-presidential-election-spoilt-ballots\">Continue reading...</a>",
+      "description": "<p>High rate of spoilt ballots also probable as poll shows 49% of voters do not feel represented by either candidate</p><p>With four days until Ireland’s presidential election there are growing fears that a lacklustre campaign will prompt many people to spoil their vote or boycott the ballot.</p><p>Opinion polls give Catherine Connolly, an independent leftwing candidate, a wide lead over Heather Humphreys, who represents the ruling centre-right establishment. However, they also show frustration and disillusionment about their campaigns.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/turnout-concerns-ireland-presidential-election-spoilt-ballots\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 14:58:23 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -130,14 +170,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "Pizza Hut to close 68 UK restaurants with the loss of 1,210 jobs",
-      "link": "https://www.bbc.com/news/articles/c07mk59pzkpo?at_medium=RSS&at_campaign=rss",
-      "description": "The move will lead to more than 1,200 redundancies, but 64 other restaurants will be saved.",
-      "pubDate": "Mon, 20 Oct 2025 14:45:49 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "How five days of sumo 'charmed' Britain",
       "link": "https://www.bbc.com/sport/articles/cy7egpe5jg1o?at_medium=RSS&at_campaign=rss",
       "description": "How sumo fever took over Kensington as the Grand Sumo Tournament came to the UK for the first time in more than three decades. ",
@@ -178,6 +210,14 @@
       "source": "Polsat News"
     },
     {
+      "title": "Najwyższy przywódca Iranu kpi z Donalda Trumpa. \"W twoich snach\"",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198013,32338681,najwyzszy-przywodca-iranu-kpi-z-donalda-trumpa-w-twoich-snach.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/f5/d7/1e/z32338933IHG,Ali-Chamenei--zdjecie-archiwalne-.jpg' align='left' hspace='4' vspace='2'>Irański przywódca skomentował ubiegłotygodniową wizytę Donalda Trumpa w Izraelu, nazywając ją \"błazenadą\". Dodatkowo obarczył USA winą za zbrodnie wojenne w Strefie Gazy.",
+      "pubDate": "Mon, 20 Oct 2025 14:31:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/f5/d7/1e/z32338933IHG,Ali-Chamenei--zdjecie-archiwalne-.jpg",
+      "source": "Gazeta.pl"
+    },
+    {
       "title": "Amazon Web Services outage shows internet users ‘at mercy’ of too few providers, experts warn",
       "link": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
       "description": "<p>Crash that hit apps and websites around world demonstrates ‘urgent need for diversification in cloud computing’</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/20/china-economic-growth-gdp-low-house-prices-fall-stock-markets-ftse-business-live-news\">Business live – latest updates</a></p></li></ul><p>Experts have warned of the perils of relying on a small number of companies for operating the global internet after a glitch at Amazon’s cloud computing service brought down apps and websites around the world.</p><p>The affected platforms included Snapchat, Roblox, Signal and Duolingo as well as a host of Amazon-owned operations including its main retail site and the Ring doorbell company.</p> <a href=\"https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps\">Continue reading...</a>",
@@ -200,14 +240,6 @@
       "pubDate": "Mon, 20 Oct 2025 16:28:48 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/1ccfdcc157ecfcdffad37ab95f7f8e99/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Pizza Hut to close 68 restaurants after UK owner falls into administration",
-      "link": "https://www.theguardian.com/business/2025/oct/20/pizza-hut-to-close-68-restaurants-after-uk-owner-falls-into-administration",
-      "description": "<p>DC London Pie appoints administrators as Yum! Brands says it has bought UK operation in pre-pack deal</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/20/china-economic-growth-gdp-low-house-prices-fall-stock-markets-ftse-business-live-news\">Business live – latest updates</a></p></li></ul><p>Pizza Hut is to shut 68 of its restaurants after the company behind its UK venues fell into administration.</p><p>DC London Pie has not disclosed how many workers will be affected by the closures but it appointed administrators from FTI on Monday.</p> <a href=\"https://www.theguardian.com/business/2025/oct/20/pizza-hut-to-close-68-restaurants-after-uk-owner-falls-into-administration\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 14:27:29 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Sprzedaż iPhone’a 17 niespodziewanie bije rekordy. Apple chce zwiększyć produkcję",
@@ -236,7 +268,7 @@
     {
       "title": "What the Huge AWS Outage Reveals About the Internet",
       "link": "https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/",
-      "description": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a longstanding weakness in the internet's infrastructure.",
+      "description": "Amazon Web Services experienced DNS resolution issues on Monday morning, taking down wide swaths of the web—and highlighting a long-standing weakness in the internet's infrastructure.",
       "pubDate": "Mon, 20 Oct 2025 14:22:46 +0000",
       "imageUrl": "",
       "source": "Wired"
@@ -1730,14 +1762,6 @@
       "source": "Wirtualne Media"
     },
     {
-      "title": "India lose to England by four runs in ICC Women’s World Cup cricket",
-      "link": "https://www.aljazeera.com/sports/2025/10/20/india-lose-to-england-by-four-runs-in-womens-world-cup-cricket?traffic_source=rss",
-      "description": "England rallied to secure their semifinal spot at the World Cup while India's defeat jeopardises their chances.",
-      "pubDate": "Mon, 20 Oct 2025 05:38:06 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Trump zaprzecza doniesieniom \"FT\" ws. kłótni z Zełenskim. \"Nigdy o tym nie rozmawialiśmy\"",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198013,32337148,trump-zaprzecza-doniesieniom-ft-ws-klotni-z-zelenskim-nigdy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/42/d6/1e/z32337218IHG,Donald-Trump.jpg' align='left' hspace='4' vspace='2'>Donald Trump zdementował doniesienia dziennika \"Financial Times\", który informował, że amerykański prezydent nakłaniał Wołodymyra Zełenskiego do ustępstw na rzecz Rosji dotyczących ukraińskiego terytorium. - Nigdy o tym nie rozmawialiśmy. Uważamy, że powinni po prostu zatrzymać się na liniach, na których stoją - przekazał amerykański prezydent. Co jeszcze wiadomo na ten temat?",
@@ -2162,14 +2186,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "Gaza war has caused huge shifts in Middle East – and that may just be the beginning",
-      "link": "https://www.theguardian.com/world/2025/oct/19/war-in-gaza-caused-big-political-shifts-and-more-are-likely-on-the-road-to-peace",
-      "description": "<p>Trump’s 20-point plan is forcing regional rivals to set aside differences and collaborate after years of competition</p><p>If the war in Gaza had dramatic consequences across the Middle East, overturning long-held assumptions, resetting the geopolitical map and provoking massive shifts in public opinion, any durable peace is likely to have equally momentous effects.</p><p>Some counsel caution.</p> <a href=\"https://www.theguardian.com/world/2025/oct/19/war-in-gaza-caused-big-political-shifts-and-more-are-likely-on-the-road-to-peace\">Continue reading...</a>",
-      "pubDate": "Sun, 19 Oct 2025 17:43:25 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Ujawniono listę przedmiotów skradzionych w brawurowym napadzie na Luwr",
       "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32336926,ujawniono-liste-przedmiotow-skradzionych-w-brawurowym-napadzie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/33/d6/1e/z32336947IHG,Francja--Ministerstwo-kultury-i-prokuratura-opubli.jpg' align='left' hspace='4' vspace='2'>Wiadomo już oficjalnie, że złodzieje skradli z Luwru osiem sztuk biżuterii. Wśród nich jest np. naszyjnik ze szmaragdów i diamentów, który Napoleon podarował swojej żonie, cesarzowej Marii Ludwice.",
@@ -2186,28 +2202,12 @@
       "source": "Engadget"
     },
     {
-      "title": "Kwaśniewski ofiarą Rosjan. Ujawnił kulisy prowokacji. \"Widziałem, słyszałem, to był jego głos\"",
-      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32336727,kwasniewski-ofiara-rosjan-ujawnil-kulisy-prowokacji-widzialem.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/2b/d6/1e/z32335147IHG,Byly-prezydent-RP-Aleksander-Kwasniewski-podczas-s.jpg' align='left' hspace='4' vspace='2'>Aleksander Kwaśniewski przyznał, że padł ofiarą prowokacji Rosjan. Wykorzystano do tego nazwisko byłego prezydenta Ukrainy, z którym były prezydent Polski zna się od wielu lat. Polityk z Kijowa o sprawie nic nie wiedział i to nie on uczestniczył w rozmowie z Kwaśniewskim.",
-      "pubDate": "Sun, 19 Oct 2025 17:09:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/2b/d6/1e/z32335147IHG,Byly-prezydent-RP-Aleksander-Kwasniewski-podczas-s.jpg",
-      "source": "Gazeta.pl"
-    },
-    {
       "title": "Pracownica banku oszukiwała klientów. 61-latka odnaleziona po 20 latach",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-19/pracownica-banku-oszukiwala-klientow-61-latka-odnaleziona-po-20-latach/",
       "description": "61-latka z Lublina przez ponad dwie dekady była poszukiwana międzynarodowym listem gończym za oszustwa finansowe. Kobieta, która podczas pracy w banku łącznie wyłudziła od klientów blisko 100 tysięcy złotych, została namierzona przez lubelskich policjantów we Włoszech.",
       "pubDate": "Sun, 19 Oct 2025 19:07:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Ustawa o statusie osoby najbliższej. Co zrobi Nawrocki? Płyną już sygnały z pałacu",
-      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32336803,ustawa-o-statusie-osoby-najblizszej-co-zrobi-nawrocki-plyna.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/da/d6/1e/z32336858IHG,Karol-Nawrocki.jpg' align='left' hspace='4' vspace='2'>Komentarze współpracowników prezydenta sugerują, że Karol Nawrocki nie podpisze ustawy o statusie osoby najbliższej w takim kształcie, w jakim przedstawiły ją w piątek Nowa Lewica i PSL. \"Prezydent nie zgodzi się, żeby poprzez nowe rozwiązania budować alternatywę dla małżeństwa\" - przekazał w niedzielę szef gabinetu prezydenta Paweł Szefernaker.",
-      "pubDate": "Sun, 19 Oct 2025 16:53:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/da/d6/1e/z32336858IHG,Karol-Nawrocki.jpg",
-      "source": "Gazeta.pl"
     },
     {
       "title": "Koniec rozejmu w Strefie Gazy? Izrael wznawia ataki",
