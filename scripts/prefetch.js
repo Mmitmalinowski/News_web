@@ -7,15 +7,38 @@ const iconv = require('iconv-lite');
 
 // Minimal list of FEEDS - keep in sync with client FEEDS or import from a JSON if you prefer
 const FEEDS = {
+  // Wiadomości ogólne
   "Polsat News": "https://www.polsatnews.pl/rss/wszystkie.xml",
   "Gazeta.pl": "http://rss.gazeta.pl/pub/rss/wiadomosci.xml",
+  "Onet": "https://wiadomosci.onet.pl/rss/wiadomosci",
+  "Interia": "https://www.interia.pl/fakty/news.rss",
+  "Wirtualna Polska": "https://wiadomosci.wp.pl/ver,rss,rss.xml",
   "Rzeczpospolita": "https://www.rp.pl/rss_main",
   "Dziennik.pl": "http://rss.dziennik.pl/Dziennik-PL/",
-  "Wirtualne Media": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
-  "Media2.pl": "https://feeds.feedburner.com/media2",
+  "TVN24": "https://tvn24.pl/najnowsze.xml",
+  "Newsweek Polska": "https://www.newsweek.pl/rss",
+  
+  // Technologia i IT
   "Niebezpiecznik": "http://feeds.feedburner.com/niebezpiecznik",
   "Sekurak": "https://sekurak.pl/feed",
   "Chip.pl": "http://www.chip.pl/rss/arts.rss",
+  "Spider's Web": "https://www.spidersweb.pl/feed",
+  "Komputer Świat": "https://www.komputerswiat.pl/rss/all.aspx",
+  "Antyweb": "https://antyweb.pl/feed",
+  "Benchmark.pl": "https://www.benchmark.pl/rss/newsy.xml",
+  "Interia Technologie": "http://kanaly.rss.interia.pl/nowe_technologie.xml",
+  
+  // Media i biznes
+  "Wirtualne Media": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
+  "Media2.pl": "https://feeds.feedburner.com/media2",
+  "Bankier.pl": "https://www.bankier.pl/rss/wiadomosci.xml",
+  "Money.pl": "https://www.money.pl/rss/",
+  
+  // Sport
+  "Przegląd Sportowy": "https://www.przegladsportowy.pl/rss/najnowsze.xml",
+  "Eurosport": "https://www.eurosport.pl/rss.xml",
+  
+  // Międzynarodowe
   "Reuters": "http://feeds.reuters.com/reuters/topNews",
   "BBC News": "http://feeds.bbci.co.uk/news/rss.xml",
   "The Guardian": "https://www.theguardian.com/world/rss",
