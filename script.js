@@ -600,6 +600,8 @@ window.addEventListener('DOMContentLoaded', async () => {
           renderArticles(currentFiltered);
           // populate the sources dropdown/panel immediately so the UI shows available sources
           try{ populateSourceSelect(); }catch(e){ console.debug('populateSourceSelect error', e && e.message); }
+          // show refresh time
+          updateRefreshTime();
         }
         // If cache is stale, refresh in background; otherwise skip heavy fetches for now
         if(!gen || ((now - gen) / 60000) > TTL_MIN){
@@ -682,10 +684,10 @@ function startAutoRefresh() {
   // Ustaw nowy timer
   autoRefreshTimer = setInterval(async () => {
     console.info('🔄 Automatyczne odświeżanie artykułów...');
-    const refreshStatus = document.getElementById('refreshStatus');
-    if(refreshStatus) {
-      refreshStatus.style.color = '#0a66c2';
-      refreshStatus.textContent = '🔄 Odświeżanie...';
+    const lastRefreshTime = document.getElementById('lastRefreshTime');
+    if(lastRefreshTime) {
+      lastRefreshTime.textContent = '🔄 Odświeżanie...';
+      lastRefreshTime.style.color = '#0a66c2';
     }
     
     try {
@@ -694,8 +696,9 @@ function startAutoRefresh() {
       console.info('✅ Artykuły odświeżone automatycznie');
     } catch(e) {
       console.warn('⚠️ Błąd podczas automatycznego odświeżania:', e.message);
-      if(refreshStatus) {
-        refreshStatus.style.color = '#ef4444';
+      if(lastRefreshTime) {
+        lastRefreshTime.style.color = '#ef4444';
+        lastRefreshTime.textContent = 'Błąd';
       }
     }
   }, AUTO_REFRESH_INTERVAL);

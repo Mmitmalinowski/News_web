@@ -42,16 +42,20 @@
               </div>
             </div>
           </div>
+          <!-- Refresh status info -->
+          <div id="refreshStatus" style="padding:8px 0;color:#6b7280;font-size:11px;line-height:1.4;display:none">
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;gap:3px">
+              <span>Ostatnie odświeżenie:</span>
+              <span id="lastRefreshTime" style="font-weight:300;color:#111">nigdy</span>
+            </div>
+            <div style="margin-top:6px;font-style:italic;font-size:10px">Auto-update co 5 min</div>
+          </div>
         </section>
       </aside>
 
       <div class="main-content">
         <!-- lokalne proxy usunięte z UI; używamy publicznych proxy przez default -->
         <!-- pagination and manual loading controls removed; infinite scroll is always on -->
-        <div id="refreshStatus" style="text-align:center;padding:8px;color:#6b7280;font-size:13px;display:none">
-          Ostatnie odświeżenie: <span id="lastRefreshTime">nigdy</span>
-          <span style="margin-left:8px;font-style:italic">Artykuły automatycznie aktualizowane co 5 minut</span>
-        </div>
         <section id="articlesContainer" class="news-grid" aria-live="polite"></section>
         <!-- sentinel for intersection observer to trigger loading more -->
         <div id="infiniteSentinel" style="height:1px"></div>
