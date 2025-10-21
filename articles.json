@@ -1,13 +1,109 @@
 {
-  "generatedAt": "2025-10-21T00:00:38.248Z",
+  "generatedAt": "2025-10-21T02:02:23.366Z",
   "items": [
     {
-      "title": "The multi-billion pound submarine deal between Australia, the UK and US explained",
-      "link": "https://www.bbc.com/news/articles/cgr589k5yleo?at_medium=RSS&at_campaign=rss",
-      "description": "The deal is expected to be the focus of talks between US President Donald Trump and Australian Prime Minister Anthony Albanese on Monday.",
-      "pubDate": "Tue, 21 Oct 2025 00:00:17 GMT",
+      "title": "News live: Gina Rinehart among beneficiaries of Australia-US deal as rare earth stocks soar",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb",
+      "description": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><p></p></li></ul><p>The foreign affairs minister was asked about <strong>Donald Trump</strong>’s remark that he didn’t like the Australian ambassador, <strong>Kevin Rudd,</strong> and “probably never will” during the White House meeting early this morning.</p><p>Trump made the testy remark, telling Rudd “I don’t like you either”, at the White House cabinet room table, prompting uncomfortable laughter. <strong>Penny Wong</strong> told RN the ambassador had done an “extremely good job” getting the meeting between the US president and Albanese:</p><p>Look, I think those comments were clearly tongue-in-cheek. I’m very pleased that the meeting has been such a success. That is a good thing for our country. It’s extremely good to have this critical minerals deal backed in, and it’s extremely positive for the country to have the president so supportive of Aukus and the delivery of the submarines, which is an important capability for us.</p><p>Kevin did an extremely good job not only in getting the meeting but doing the work on the critical minerals deal. And the meeting reflects the success of that work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 01:54:24 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "University of Arizona becomes seventh US college to reject Trump’s ‘compact’",
+      "link": "https://www.theguardian.com/us-news/2025/oct/20/university-of-arizona-rejects-trump-compact",
+      "description": "<p>Administration has pushed nine universities to sign a deal that seeks to make changes in line with conservative ideas </p><p>The University of Arizona has become the seventh US university to reject a Trump administration proposal that would grant schools funding priority if they agreed to support the administration’s conservative agenda.</p><p>The decision follows the administration’s push for nine universities to sign a “Compact for Academic Excellence in Higher Education,” which seeks to make sweeping changes to campus culture, hiring and admissions practices and foreign student enrollment. Demands from the Trump administration’s 10-point compact include reforms to the way race or ethnicity are used in admission and hiring practices, as well as a commitment to strict definitions of gender, among others.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/university-of-arizona-rejects-trump-compact\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 01:34:59 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Palace likely to face questions about what it knew in Andrew scandal",
+      "link": "https://www.bbc.com/news/articles/c0l7zx499deo?at_medium=RSS&at_campaign=rss",
+      "description": "Will there be pressure on the Palace to reveal any information they hold on Prince Andrew and Epstein?",
+      "pubDate": "Tue, 21 Oct 2025 01:33:21 GMT",
       "imageUrl": "",
       "source": "BBC News"
+    },
+    {
+      "title": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
+      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "description": "<p>It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">announced</a> by 6:53PM Eastern time on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\"</p>\n<p>The company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. \"By 3:01 PM, all AWS services returned to normal operations,\" it said. </p>\n<span id=\"end-legacy-contents\"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly. </p>\n<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>\n<p>According to the <a data-i13n=\"cpos:2;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a> at the time, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<p>At about 12:08PM ET, the company <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update\">posted a small statement</a> that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>\n<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>\n<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>\n<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>\n<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "pubDate": "Tue, 21 Oct 2025 01:21:01 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "link": "https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound",
+      "description": "<p>Myanmar's military moved in to tackle a major online scam operation near the Thailand border, state media reported</p><p>Myanmar’s military has raided a major online scam operation near the border with Thailand, detaining more than 2,000 people and seizing dozens of Starlink satellite internet terminals, state media has reported.</p><p>According to a report in Monday’s Myanma Alinn newspaper, Myanmar’s army raided KK Park, a well-documented cybercrime centre, as part of operations starting in early September to suppress online fraud, illegal gambling, and cross-border cybercrime.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 01:16:06 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump begins demolishing part of White House to make way for ballroom",
+      "link": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss",
+      "description": "Crews tore down a massive covered entryway and windows in the East Wing to make way for Trump's new event space.",
+      "pubDate": "Tue, 21 Oct 2025 01:05:39 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Body of missing woman found buried behind abandoned Philadelphia school",
+      "link": "https://www.theguardian.com/us-news/2025/oct/20/philadelphia-missing-woman-body-kada-scott",
+      "description": "<p>Kada Scott was missing for two weeks before anonymous tip led police to wooded area with remains in shallow grave</p><p>Remains found buried in a wooded area behind an abandoned school are those of Kada Scott, a 23-year-old woman who had been missing for about two weeks, prosecutors in Philadelphia said on Monday.</p><p>Authorities said an anonymous tip led police back to the area they previously searched and they found the remains in a shallow grave. DNA tests confirmed her identity.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/philadelphia-missing-woman-body-kada-scott\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 00:59:39 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "The public deserves better, says Met Police's new phone theft lead",
+      "link": "https://www.bbc.com/news/articles/cly9l9e50kzo?at_medium=RSS&at_campaign=rss",
+      "description": "The Met Police says its revised strategy targets organised crime links to phone thefts in London.",
+      "pubDate": "Tue, 21 Oct 2025 00:54:31 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Friendly Albanese-Trump meeting masks Australia's creeping doubts about US",
+      "link": "https://www.bbc.com/news/articles/clyz5p0e2j0o?at_medium=RSS&at_campaign=rss",
+      "description": "The talks in Washington were a win for Australia, but at home many are nervous about the relationship.",
+      "pubDate": "Tue, 21 Oct 2025 00:53:52 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Thousands of criminals could be released early under government sentencing reform, Tories say",
+      "link": "https://www.bbc.com/news/articles/ce8g5k6kyllo?at_medium=RSS&at_campaign=rss",
+      "description": "Conservatives have tabled an amendment to the sentencing bill to make sure serious offenders stay locked up for longer.",
+      "pubDate": "Tue, 21 Oct 2025 00:52:39 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "The Papers: 'What did the palace know?' and 'web giant glitch'",
+      "link": "https://www.bbc.com/news/articles/c231n2zlpreo?at_medium=RSS&at_campaign=rss",
+      "description": "Prince Andrew continues to dominate the papers alongside a tech outage that rippled around the world.",
+      "pubDate": "Tue, 21 Oct 2025 00:29:20 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "One dead after rare tornado topples construction cranes near Paris",
+      "link": "https://www.theguardian.com/world/2025/oct/21/france-tornado-ermont-near-paris",
+      "description": "<p>The tornado killed one construction worker on a building site, injured 10 others and left four in critical condition</p><p>A tornado tore through districts north of Paris on Monday, toppling three construction cranes that killed one person and left four others with critical injuries, authorities said.</p><p>The town of Ermont, about 20km (13 miles) north-east of Paris was worst hit by the sudden twister that caused damage across about 10 districts.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/france-tornado-ermont-near-paris\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 00:19:04 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Construction begins on Trump’s $250m White House ballroom",
+      "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction",
+      "description": "<p>Ex-congressman calls major renovation ‘utter desecration’ as demolition in East Wing reportedly under way</p><p>Construction crews have started demolishing part of the East Wing of the White House to make way for <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s planned ballroom, prompting widespread criticism on social media and beyond.</p><p>One former lawmaker even called the renovation an “​​utter desecration”.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 23:57:14 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
     },
     {
       "title": "Joe Biden completes round of radiation therapy for prostate cancer",
@@ -18,23 +114,7 @@
       "source": "The Guardian"
     },
     {
-      "title": "Australia news live: Ley says Rudd’s position not tenable despite Trump telling ambassador ‘all is forgiven’ after White House meeting",
-      "link": "https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb",
-      "description": "<p>Penny Wong says Trump’s ‘I don’t like you either’ comment to Australia’s US ambassador ‘clearly tongue-in-cheek. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The foreign affairs minister was asked about <strong>Donald Trump</strong>’s remark that he didn’t like the Australian ambassador, <strong>Kevin Rudd,</strong> and “probably never will” during the White House meeting early this morning.</p><p>Trump made the testy remark, telling Rudd “I don’t like you either”, at the White House cabinet room table, prompting uncomfortable laughter. <strong>Penny Wong</strong> told RN the ambassador had done an “extremely good job” getting the meeting between the US president and Albanese:</p><p>Look, I think those comments were clearly tongue-in-cheek. I’m very pleased that the meeting has been such a success. That is a good thing for our country. It’s extremely good to have this critical minerals deal backed in, and it’s extremely positive for the country to have the president so supportive of Aukus and the delivery of the submarines, which is an important capability for us.</p><p>Kevin did an extremely good job not only in getting the meeting but doing the work on the critical minerals deal. And the meeting reflects the success of that work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 23:54:17 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "US and Australia sign rare earths deal to counter China's dominance",
-      "link": "https://www.bbc.com/news/articles/cly9kvrdk2xo?at_medium=RSS&at_campaign=rss",
-      "description": "The two countries agree to a framework that includes investments in projects to expand mining and processing of rare earth and critical minerals.",
-      "pubDate": "Mon, 20 Oct 2025 23:48:58 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
-      "title": "Virginia Giuffre would see Andrew giving up titles as a victory, co-author says",
+      "title": "Virginia Giuffre would see Prince giving up titles as a victory, co-author says",
       "link": "https://www.bbc.com/news/articles/c201k3wd65yo?at_medium=RSS&at_campaign=rss",
       "description": "The ghostwriter of Giuffre's posthumous memoir says Andrew's \"life is being eroded because of his past behaviour\".",
       "pubDate": "Mon, 20 Oct 2025 23:45:12 GMT",
@@ -178,6 +258,22 @@
       "source": "BBC News"
     },
     {
+      "title": "US man accused of faking own death after rape conviction gets at least five years in prison",
+      "link": "https://www.theguardian.com/us-news/2025/oct/20/nicholas-rossi-fake-death-rape-conviction",
+      "description": "<p>Nicholas Rossi, who fled US, receives first of two sentences after being convicted of raping two women in Utah in 2008</p><p>A judge has sentenced a Rhode Island man who appeared to fake his death and flee the United States to avoid arrest of at least five years in prison for rape.</p><p>The sentence handed down Monday for Nicholas Rossi, 38, was the first of two he faces after being convicted separately in August and September of raping two women in northern Utah in 2008. He is scheduled to be sentenced in November for the second conviction.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/nicholas-rossi-fake-death-rape-conviction\">Continue reading...</a>",
+      "pubDate": "Mon, 20 Oct 2025 22:02:35 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Amazon services 'recovering' as Snapchat and banks among sites hit by outage",
+      "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
+      "description": "Platform outage checker Downdetector said the issues have impacted more than 1,000 different businesses.",
+      "pubDate": "Mon, 20 Oct 2025 22:01:01 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
       "title": "Brentford dominate West Ham to earn first away win of season",
       "link": "https://www.bbc.com/sport/football/videos/cn40z3qx40qo?at_medium=RSS&at_campaign=rss",
       "description": "Brentford earn their first Premier League away win of the season to ruin Nuno Espirito Santo's first home game in charge of struggling West Ham.",
@@ -250,14 +346,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Construction begins on Trump’s $250m White House ballroom",
-      "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction",
-      "description": "<p>Ex-congressman calls major renovation ‘utter desecration’ as demolition in East Wing reportedly under way</p><p>Construction crews have started demolishing part of the East Wing of the White House to make way for <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s planned ballroom, prompting widespread criticism on social media and beyond.</p><p>One former lawmaker even called the renovation an “​​utter desecration”.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-white-house-ballroom-construction\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 21:42:14 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "UK peace force for Ukraine would cost ‘well over £100m’, says defence secretary",
       "link": "https://www.theguardian.com/uk-news/2025/oct/20/uk-peace-force-for-ukraine-would-cost-well-over-100m-says-defence-secretary",
       "description": "<p>John Healey says he has already brought forward millions in spending for swift deployment if ceasefire agreed</p><p>The cost of Britain’s contribution to a post-ceasefire stabilisation force for Ukraine would be “well over £100m”, the defence secretary, John Healey, has said after a speech in the City of London.</p><p>Healey said he had already brought forward millions in spending so that a “multinational force Ukraine” led by the UK and France could be ready to deploy quickly if peace talks produce a ceasefire.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/20/uk-peace-force-for-ukraine-would-cost-well-over-100m-says-defence-secretary\">Continue reading...</a>",
@@ -274,36 +362,12 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Starmer’s grooming gang inquiry left in turmoil after two survivors quit panel",
-      "link": "https://www.theguardian.com/society/2025/oct/20/starmer-grooming-gang-inquiry-left-in-turmoil-after-two-survivors-quit-panel",
-      "description": "<p>Fiona Goddard and Ellie-Ann Reynolds criticise handling of national inquiry, which is yet to appoint a chair </p><p>Keir Starmer’s national grooming gang inquiry has been left in turmoil after two survivors resigned from its oversight panel and accused the Home Office and Labour of “contempt” and “political interference” before it has appointed a chair.</p><p>Ellie-Ann Reynolds and <a href=\"https://www.theguardian.com/society/2025/oct/20/grooming-gang-victim-quits-inquiry-panel-fiona-goddard\">Fiona Goddard resigned on Monday</a> from the inquiry’s oversight panel complaining of “condescending and controlling language used towards survivors” during the process.</p> <a href=\"https://www.theguardian.com/society/2025/oct/20/starmer-grooming-gang-inquiry-left-in-turmoil-after-two-survivors-quit-panel\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 21:31:28 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "These confederate statues caused US protests. Knocked down, they're the centre of a new art show",
-      "link": "https://www.bbc.com/news/articles/c5y9x1w2ee1o?at_medium=RSS&at_campaign=rss",
-      "description": "The 18 decommissioned Confederate monuments have been deconstructed and displayed to make a statement on the horrors of slavery.",
-      "pubDate": "Mon, 20 Oct 2025 21:15:39 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "Merz mobilizuje i ogłasza walkę z AfD. \"Wyciągnięta ręka chce nas zniszczyć\"",
       "link": "https://wiadomosci.gazeta.pl/swiat/7,198076,32339746,merz-mobilizuje-i-oglasza-walke-z-afd-wyciagnieta-reka-chce.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/32/d7/1e/z32339762IHG,Friedrich-Merz.jpg' align='left' hspace='4' vspace='2'>Kanclerz Merz ogłasza walkę z AfD, mobilizując CDU przed wyborami do parlamentów krajów związkowych w przyszłym roku.",
       "pubDate": "Mon, 20 Oct 2025 21:05:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/32/d7/1e/z32339762IHG,Friedrich-Merz.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Trump nominee reportedly boasted of ‘Nazi streak’ in group chats",
-      "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-nominee-paul-ingrassia-group-chats",
-      "description": "<p>Special counsel nominee Paul Ingrassia also said holidays commemorating Black people should be ‘eviscerated’</p><p>A Donald Trump nominee who is scheduled for a confirmation hearing this week told other Republicans he “has a Nazi streak” and that holidays commemorating Black people should be “eviscerated,” according to a report based on a private group chat.</p><p>Trump nominated Paul Ingrassia to serve as special counsel of the United States, a role charged in part with safeguarding federal whistleblowers from retaliation. His confirmation hearing is set for Thursday.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-nominee-paul-ingrassia-group-chats\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 21:03:32 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Najlepsi w branży TSL nagrodzeni!",
@@ -354,36 +418,12 @@
       "source": "Polsat News"
     },
     {
-      "title": "Three cases of severe mpox reported in California, health officials say",
-      "link": "https://www.theguardian.com/us-news/2025/oct/20/three-cases-severe-mpox-california",
-      "description": "<p>Unrelated cases mark first time clade I of disease formerly known as monkeypox has spread within US, officials say</p><p>Three <a href=\"https://www.theguardian.com/us-news/california\">California</a> residents have been infected with clade I <a href=\"https://www.theguardian.com/world/monkeypox\">mpox</a>, a more severe strain of the virus formerly known as monkeypox – marking the first time this type of mpox has spread within the US, health officials said on Friday.</p><p>The unrelated cases, identified in Long Beach and Los Angeles county, involve patients who had not recently traveled abroad. All three were hospitalized and are now recovering, according to the <a href=\"https://www.cdph.ca.gov/Programs/OPA/Pages/NR25-015.aspx\">California department of public health</a>.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/three-cases-severe-mpox-california\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 20:41:32 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Amazon's AWS outage has knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
-      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "description": "<p>On this crisp October morning, it feels like half of the internet is dealing with a hangover. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That includes a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa has been stuttering, and if you're wondering why the internet seems to be against you today — you're not imagining it.</p>\n<p>There is some good news now though. At about 4:30PM ET today (October 20), things seem to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, are appearing to behave smoothly. </p>\n<span id=\"end-legacy-contents\"></span><p>As of 1:15PM ET though, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>\n<p>According to the <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a>, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<p>At about 12:08PM ET, the company <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update\">posted a small statement</a> that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>\n<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>\n<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>\n<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>\n<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "pubDate": "Mon, 20 Oct 2025 20:38:05 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
-    },
-    {
       "title": "Znamy nagrodzonych w plebiscycie Telekamery \"Tele Tygodnia\"",
       "link": "https://www.wirtualnemedia.pl/znamy-nagrodzonych-w-plebiscycie-telekamery-tele-tygodnia-lista-zwyciezcow,7213017853799360a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/9511772a-8d1b-4107-83d2-727026d3ac52\" width=\"308\" /> Magazyn \"Tele Tydzień\" ogłosił zwycięzców 28. edycji plebiscytu Telekamery, w którym nagradzani są twórcy i produkcje telewizyjne. Statuetki trafiły m.in. do gwiazd Polsatu i Canal+.  ",
       "pubDate": "Mon, 20 Oct 2025 22:28:33 +0200",
       "imageUrl": "",
       "source": "Wirtualne Media"
-    },
-    {
-      "title": "Kevin Federline has held off writing about Britney Spears. Until now",
-      "link": "https://www.bbc.com/news/articles/cdx4nr1415wo?at_medium=RSS&at_campaign=rss",
-      "description": "The ex-husband of Britney Spears makes a number of allegations against her - and she has accused him of attacking him.",
-      "pubDate": "Mon, 20 Oct 2025 20:06:29 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "Stefan Dennis withdraws from Strictly Come Dancing due to injury",
@@ -1266,14 +1306,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Prague to ban e-scooters after residents complain of chaos on pavements",
-      "link": "https://www.theguardian.com/world/2025/oct/20/prague-to-ban-e-scooters-after-residents-complain-of-chaos-on-sidewalks",
-      "description": "<p>Czech city wants to promote wider use of shared bike services and says e-scooters have higher accident rates</p><p>Prague will ban electric scooter rentals from January 2026, with a deputy mayor of the Czech capital criticising them for causing chaos on pavements.</p><p>Council members on Monday approved regulatory changes concerning shared transport in the city, where nearly 1.4 million people live and where the cobblestoned streets and history attracted more than 8 million tourists in 2024.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/prague-to-ban-e-scooters-after-residents-complain-of-chaos-on-sidewalks\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 15:34:32 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Japan allows over-the-counter 'morning after' pill for first time",
       "link": "https://www.bbc.com/news/articles/c4gwxkdkyn0o?at_medium=RSS&at_campaign=rss",
       "description": "Women will be able to get the pill without prescription, but a pharmacist will still need to be present.",
@@ -1282,7 +1314,7 @@
       "source": "BBC News"
     },
     {
-      "title": "What has caused the outage at more than 1,000 companies?",
+      "title": "What caused the outage at more than 1,000 companies?",
       "link": "https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss",
       "description": "The outage at Amazon services has impacted over 1,000 companies and affected millions of internet users.",
       "pubDate": "Mon, 20 Oct 2025 15:33:00 GMT",
@@ -1448,14 +1480,6 @@
       "pubDate": "2025-10-20T14:28:46.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Son of ex-England footballer Stuart Pearce dies in tractor crash",
-      "link": "https://www.bbc.com/news/articles/cly949187xeo?at_medium=RSS&at_campaign=rss",
-      "description": "Harley Pearce died after his tractor crashed in Gloucestershire last week.",
-      "pubDate": "Mon, 20 Oct 2025 14:24:52 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "The best new computers to replace your old Windows 10 PC",
@@ -1914,14 +1938,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Watch: BBC shows the steps jewel thieves took to break in through Louvre window",
-      "link": "https://www.bbc.com/news/videos/cwyp1pn7k4eo?at_medium=RSS&at_campaign=rss",
-      "description": "The BBC's Hugh Schofield is outside the museum in Paris where the \"extraordinary, daring and brazen\" robbery took place.",
-      "pubDate": "Mon, 20 Oct 2025 11:35:44 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "Kradzież klejnotów z Luwru. Dyrektorka Zamku Królewskiego: To była akcja na rympał",
       "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32337715,kradziez-klejnotow-z-luwru-dyrektorka-zamku-krolewskiego-to.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/82/d6/1e/z32337794IHG,Luwr-zamkniety-po-kradziezy.jpg' align='left' hspace='4' vspace='2'>- Akt wielkiego zuchwalstwa, na coś takiego nie jest uodpornione żadne muzeum świata - tak kradzież w Luwrze oceniła prof. Małgorzata Omilanowska, dyrektorka Zamku Królewskiego w Warszawie. Jej zdaniem napad na paryskie muzeum był \"akcją na rympał\".",
@@ -2154,17 +2170,17 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game",
-      "link": "https://www.wired.com/story/betterguards-ankle-guard-nba-players/",
-      "description": "Betterguards has teamed up with the NBA Training Association to outfit players with its adaptive ankle brace. The pro ballers are avoiding serious injury while evaluating the stabilizing design.",
+      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
+      "link": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
+      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
       "pubDate": "Mon, 20 Oct 2025 10:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
     },
     {
-      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
-      "link": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
-      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
+      "title": "A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game",
+      "link": "https://www.wired.com/story/betterguards-ankle-guard-nba-players/",
+      "description": "Betterguards has teamed up with the NBA Training Association to outfit players with its adaptive ankle brace. The pro ballers are avoiding serious injury while evaluating the stabilizing design.",
       "pubDate": "Mon, 20 Oct 2025 10:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
@@ -2984,14 +3000,6 @@
       "pubDate": "Wed, 15 Oct 2025 03:34:24 +0000",
       "imageUrl": "",
       "source": "Sekurak"
-    },
-    {
-      "title": "‘Your basis to live is checked at each and every step’: India’s ID system divides opinion",
-      "link": "https://www.theguardian.com/world/2025/oct/14/india-id-system-divide-opinion",
-      "description": "<p>Keir Starmer is considering Aadhaar as model for UK, but detractors warn of ‘digital coercion’ and security breaches</p><p>It is often difficult for people in India to remember life before Aadhaar. The digital biometric ID, allegedly available for every Indian citizen, was only<a href=\"https://www.theguardian.com/world/2009/sep/16/india-population-biometric-id-cards\"> introduced 15 years ago</a> but its presence in daily life is ubiquitous.</p><p>Indians now need an Aadhaar number to buy a house, get a job, open a bank account, pay their tax, receive benefits, buy a car, get a sim card, book priority train tickets and admit children into school. Babies can be given Aadhaar numbers almost immediately after they are born. While it is not mandatory, not having Aadhaar de facto means the state does not recognise you exist, digital rights activists say.</p> <a href=\"https://www.theguardian.com/world/2025/oct/14/india-id-system-divide-opinion\">Continue reading...</a>",
-      "pubDate": "Tue, 14 Oct 2025 05:00:12 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Kolejny sojusz przestępczy. Grupy LockBit, DragonForce i Qilin łączą siły",
