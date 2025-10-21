@@ -12,9 +12,23 @@ body{
 
 /* Align header content with page layout (centered column) */
 .site-header-inner{
-  max-width:1200px;
-  margin:0 auto;
-  padding:0 16px;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: grid;
+  grid-template-columns: 1fr minmax(300px, 820px) 1fr;
+  align-items: center;
+  gap: 20px;
+}
+
+.site-header-inner > div:nth-child(2) {
+  text-align: center;
+}
+
+.site-header-inner h1,
+.site-header-inner p {
+  margin: 0;
+  padding: 0;
 }
 
 /* Testing helper: hide the sidebar and center articles (temporary) */
@@ -103,12 +117,14 @@ body{
 /* Source grid styling - usunięte, bo jest duplikat niżej */
 
 .news-grid{
-  width:100%; max-width:1200px; margin:16px auto; padding:0 10px; display:grid;
-  /* force 3 columns on desktop with a reasonable minimum width so descriptions aren't too narrow */
-  grid-template-columns: repeat(3, minmax(340px, 1fr));
-  /* ensure each grid row has equal height so cards align vertically */
+  width: 100%;
+  max-width: 100%;
+  margin: 16px 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(250px, 1fr));
   grid-auto-rows: 1fr;
-  gap:18px;
+  gap: 18px;
 }
 .card{
   background:var(--card); border-radius:10px; box-shadow:0 6px 18px rgba(16,24,40,0.06);
@@ -134,10 +150,33 @@ body{
   .card img{height:160px}
 }
 
-/* Two-column layout: sidebar + main content */
-.layout{display:grid;grid-template-columns:240px 1fr 240px;gap:20px;max-width:1200px;margin:12px auto;padding:0 16px;align-items:flex-start}
-.sidebar{width:240px;grid-column:1}
-.main-content{grid-column:2;display:flex;flex-direction:column;align-items:center}
+/* Two-column layout: sidebar + main content - CENTERED */
+.layout{
+  display: grid;
+  grid-template-columns: 160px 820px 1fr;
+  gap: 0 16px;
+  max-width: 100%;
+  margin: 12px auto;
+  padding: 0 16px;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.sidebar{
+  width: 160px;
+  grid-column: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.main-content{
+  grid-column: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 820px;
+}
 
 @media (max-width:920px){
   .layout{display:flex;flex-direction:column}
