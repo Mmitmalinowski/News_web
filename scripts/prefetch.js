@@ -38,7 +38,6 @@ const FEEDS = {
   // Międzynarodowe
   "BBC News": "http://feeds.bbci.co.uk/news/rss.xml",
   "The Guardian": "https://www.theguardian.com/world/rss",
-  "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
   "TechCrunch": "http://feeds.feedburner.com/TechCrunch/",
   "Wired": "https://www.wired.com/feed/rss",
   "Engadget": "https://www.engadget.com/rss.xml",
