@@ -77,7 +77,7 @@ body{
   padding: 0;
   box-shadow: 0 10px 30px rgba(2,6,23,0.08);
   width: 100%;
-  max-width: 280px;
+  min-width: 220px;
   max-height: 400px;
   display: none; /* Ważne: domyślnie ukryte */
   overflow: visible; /* Pozwól na przewijanie zawartości */
