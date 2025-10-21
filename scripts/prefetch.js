@@ -10,22 +10,20 @@ const FEEDS = {
   // Wiadomości ogólne
   "Polsat News": "https://www.polsatnews.pl/rss/wszystkie.xml",
   "Gazeta.pl": "http://rss.gazeta.pl/pub/rss/wiadomosci.xml",
-  "Onet": "https://wiadomosci.onet.pl/rss/wiadomosci",
-  "Interia": "https://www.interia.pl/fakty/news.rss",
-  "Wirtualna Polska": "https://wiadomosci.wp.pl/ver,rss,rss.xml",
+  "Onet": "https://wiadomosci.onet.pl/rss",
+  "Interia": "https://fakty.interia.pl/feed",
+  "Wirtualna Polska": "https://wp.pl/rss/wiadomosci.xml",
   "Rzeczpospolita": "https://www.rp.pl/rss_main",
   "Dziennik.pl": "http://rss.dziennik.pl/Dziennik-PL/",
   "TVN24": "https://tvn24.pl/najnowsze.xml",
-  "Newsweek Polska": "https://www.newsweek.pl/rss",
+  "Newsweek Polska": "https://www.newsweek.pl/rss.xml",
   
   // Technologia i IT
   "Niebezpiecznik": "http://feeds.feedburner.com/niebezpiecznik",
   "Sekurak": "https://sekurak.pl/feed",
-  "Chip.pl": "http://www.chip.pl/rss/arts.rss",
   "Spider's Web": "https://www.spidersweb.pl/feed",
-  "Komputer Świat": "https://www.komputerswiat.pl/rss/all.aspx",
   "Antyweb": "https://antyweb.pl/feed",
-  "Benchmark.pl": "https://www.benchmark.pl/rss/newsy.xml",
+  "Benchmark.pl": "https://www.benchmark.pl/feed",
   "Interia Technologie": "http://kanaly.rss.interia.pl/nowe_technologie.xml",
   
   // Media i biznes
@@ -35,14 +33,11 @@ const FEEDS = {
   "Money.pl": "https://www.money.pl/rss/",
   
   // Sport
-  "Przegląd Sportowy": "https://www.przegladsportowy.pl/rss/najnowsze.xml",
   "Eurosport": "https://www.eurosport.pl/rss.xml",
   
   // Międzynarodowe
-  "Reuters": "http://feeds.reuters.com/reuters/topNews",
   "BBC News": "http://feeds.bbci.co.uk/news/rss.xml",
   "The Guardian": "https://www.theguardian.com/world/rss",
-  "AP News": "https://apnews.com/feed",
   "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
   "TechCrunch": "http://feeds.feedburner.com/TechCrunch/",
   "Wired": "https://www.wired.com/feed/rss",
