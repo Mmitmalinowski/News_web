@@ -1,13 +1,213 @@
 {
-  "generatedAt": "2025-10-21T02:02:23.366Z",
+  "generatedAt": "2025-10-21T03:11:59.522Z",
   "items": [
     {
-      "title": "News live: Gina Rinehart among beneficiaries of Australia-US deal as rare earth stocks soar",
+      "title": "Can France retrieve its priceless crown jewels - or is it too late?",
+      "link": "https://www.bbc.com/news/articles/ckgk0y97v0go?at_medium=RSS&at_campaign=rss",
+      "description": "Experts warn that whilst the criminals may yet be caught, the gemstones they stole may never be recovered.",
+      "pubDate": "Tue, 21 Oct 2025 03:06:31 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Monika Różycka: Nowy gatunek poznawczy. Zaufanie w epoce agentów AI",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43203341-monika-rozycka-nowy-gatunek-poznawczy-zaufanie-w-epoce-agentow-ai",
+      "description": "Agenci AI przestają być narzędziami, a stają się naszymi współpracownikami. Wchodzą do zespołów, podejmują decyzje, uczą się i analizują szybciej, niż zdążymy to nazwać. Co to znaczy dla zaufania, tej najdelikatniejszej tkanki organizacji?",
+      "pubDate": "Tue, 21 Oct 2025 05:06:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/48bc454c860f9fafd1072ec1026cb079/?t=crop:6016:2630:nowe:0:693,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1336",
+      "link": "https://www.rp.pl/swiat/art43209371-wojna-rosji-z-ukraina-dzien-1336",
+      "description": "24 lutego 2022 roku Rosja rozpoczęła pełnowymiarową inwazję na Ukrainę. W nocy z 20 na 21 października ukraińskie drony atakowały obwody rostowski i woroneski. Dziewięć rosyjskich lotnisk tymczasowo wstrzymało działanie.",
+      "pubDate": "Tue, 21 Oct 2025 05:05:03 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/0ba76e1231c604934e2680a9eb2539fa/ukrainski-operator-drona?t=crop:2048:895:nowe:0:20.155257290424,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Trwa wyburzanie ikony brutalizmu. Kiedyś zachwyciła twórców „Gwiezdnych wojen”",
+      "link": "https://sukces.rp.pl/architektura/art43036341-trwa-wyburzanie-ikony-brutalizmu-kiedys-zachwycila-tworcow-gwiezdnych-wojen",
+      "description": "Niegdyś był jednym z najbardziej okazałych przykładów brutalistycznej architektury w regionie Morza Śródziemnego. Mimo to Hotel du Lac w Tunisie, stolicy Tunezji, znika właśnie z pejzażu tego miasta. Potężny obiekt jest wyburzany, jego miejsce zajmie znacznie większy kompleks hotelowy.",
+      "pubDate": "Tue, 21 Oct 2025 05:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/d8e638c3e60b9342bc6cadc7be0afe7a/?t=crop:2560:1119:nowe:0:0,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dzika pszczoła na „czerwonej liście” gatunków zagrożonych. Eksperci alarmują",
+      "link": "https://klimat.rp.pl/zwierzeta/art43184351-dzika-pszczola-na-czerwonej-liscie-gatunkow-zagrozonych-eksperci-alarmuja",
+      "description": "Eksperci Międzynarodowej Unii Ochrony Przyrody (IUCN) poinformowali, że po analizie postanowili – po raz pierwszy – przyznać dzikiej pszczole miodnej status zagrożony na terenie Unii Europejskiej. „Nie możemy sobie dłużej pozwolić na to, by pozostawały niebadane i niechronione” – zaznaczają badacze.",
+      "pubDate": "Tue, 21 Oct 2025 05:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/d22eaea9b5b16b31beda8aa06cf4796f/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Przedsiębiorcy nie rzucili się na ulgę w składkach, ale mają jeszcze czas",
+      "link": "https://pro.rp.pl/zus/art43189891-przedsiebiorcy-nie-rzucili-sie-na-ulge-w-skladkach-ale-maja-jeszcze-czas",
+      "description": "Tylko do końca listopada przedsiębiorcy, którzy chcą w tym roku skorzystać z wakacji składkowych, mogą złożyć wniosek o zwolnienie z opłacania należności do ZUS.",
+      "pubDate": "Tue, 21 Oct 2025 04:57:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/308a08f15fa8e83917eee1602edcb19c/?t=crop:3016:1318:nowe:0:347,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Marcin Walasik: sędziowie będą mieli jednolity status i równe wynagrodzenia za taką samą pracę",
+      "link": "https://www.rp.pl/sady-i-trybunaly/art43188671-marcin-walasik-sedziowie-beda-mieli-jednolity-status-i-rowne-wynagrodzenia-za-taka-sama-prace",
+      "description": "Pracujemy nad projektem wprowadzającym jednolity status sędziego. Zniknąłby podział na sędziów sądów rejonowych, okręgowych i apelacyjnych, a o wynagrodzeniu decydowałby staż. Staramy się, żeby przepisy były gotowe jeszcze w tym roku - mówi prof. Marcin Walasik.",
+      "pubDate": "Tue, 21 Oct 2025 04:51:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/dd35833e248a9d6b60f9e96b65e1c8de/?t=crop:5472:2392:nowe:0:628,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Australia news live: Marles hails Rudd’s role in White House meeting as Turnbull praises former PM for ‘delivering the goods’",
       "link": "https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb",
-      "description": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><p></p></li></ul><p>The foreign affairs minister was asked about <strong>Donald Trump</strong>’s remark that he didn’t like the Australian ambassador, <strong>Kevin Rudd,</strong> and “probably never will” during the White House meeting early this morning.</p><p>Trump made the testy remark, telling Rudd “I don’t like you either”, at the White House cabinet room table, prompting uncomfortable laughter. <strong>Penny Wong</strong> told RN the ambassador had done an “extremely good job” getting the meeting between the US president and Albanese:</p><p>Look, I think those comments were clearly tongue-in-cheek. I’m very pleased that the meeting has been such a success. That is a good thing for our country. It’s extremely good to have this critical minerals deal backed in, and it’s extremely positive for the country to have the president so supportive of Aukus and the delivery of the submarines, which is an important capability for us.</p><p>Kevin did an extremely good job not only in getting the meeting but doing the work on the critical minerals deal. And the meeting reflects the success of that work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 01:54:24 GMT",
+      "description": "<p>Follow today’s news live</p><ul><li><p>Analysis: <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/diplomatic-triumph-or-capitulation-albanese-found-donald-trump-in-a-heavenly-mood-but-the-devil-may-be-in-the-detail\">Diplomatic triumph or ‘capitulation’? Albanese found Donald Trump in a heavenly mood but the devil may be in the detail</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><p></p></li></ul><p>The foreign affairs minister was asked about <strong>Donald Trump</strong>’s remark that he didn’t like the Australian ambassador, <strong>Kevin Rudd,</strong> and “probably never will” during the White House meeting early this morning.</p><p>Trump made the testy remark, telling Rudd “I don’t like you either”, at the White House cabinet room table, prompting uncomfortable laughter. <strong>Penny Wong</strong> told RN the ambassador had done an “extremely good job” getting the meeting between the US president and Albanese:</p><p>Look, I think those comments were clearly tongue-in-cheek. I’m very pleased that the meeting has been such a success. That is a good thing for our country. It’s extremely good to have this critical minerals deal backed in, and it’s extremely positive for the country to have the president so supportive of Aukus and the delivery of the submarines, which is an important capability for us.</p><p>Kevin did an extremely good job not only in getting the meeting but doing the work on the critical minerals deal. And the meeting reflects the success of that work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 02:50:39 GMT",
       "imageUrl": "",
       "source": "The Guardian"
+    },
+    {
+      "title": "Trump begins demolishing part of White House to make way for ballroom",
+      "link": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss",
+      "description": "Crews tore down a massive covered entryway and windows in the East Wing to make way for Trump's new event space.",
+      "pubDate": "Tue, 21 Oct 2025 02:48:43 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Gubernator Illinois chudnie. Dlaczego jest to zły znak dla Donalda Trumpa?",
+      "link": "https://www.rp.pl/polityka/art43203651-gubernator-illinois-chudnie-dlaczego-jest-to-zly-znak-dla-donalda-trumpa",
+      "description": "Podczas gdy demokraci wciąż poszukują silnego lidera, gubernator Illinois J.B. Pritzker wykorzystuje walkę z Białym Domem wokół obecności służb federalnych w jego stanie, by zademonstrować swe zdolności przywódcze.",
+      "pubDate": "Tue, 21 Oct 2025 04:47:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/613395293f2cfab516a2dbfbf27849d5/j-b-pritzker?t=crop:6000:2623:nowe:0:255.62354463131,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Chcesz odsunąć o rok elektroniczną księgę i JPK? Przejdź na kwartalny VAT",
+      "link": "https://pro.rp.pl/terminy-i-deklaracje-vat/art43204451-chcesz-odsunac-o-rok-elektroniczna-ksiege-i-jpk-przejdz-na-kwartalny-vat",
+      "description": "Małe firmy czeka rewolucja – będą musiały prowadzić podatkową księgę przychodów i rozchodów elektronicznie, a także wysyłać ją fiskusowi w formie JPK. Ale jest prosty sposób na odroczenie nowych obowiązków. Wystarczy zmienić terminy deklaracji VAT.",
+      "pubDate": "Tue, 21 Oct 2025 04:44:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/671cd2d99cec8b4153ac07d89f419e1b/?t=crop:3072:1343:nowe:0:240,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zaskakujący werdykt jury Konkursu Chopinowskiego. Eric Lu triumfuje",
+      "link": "https://www.rp.pl/muzyka-klasyczna/art43209351-zaskakujacy-werdykt-jury-konkursu-chopinowskiego-eric-lu-triumfuje",
+      "description": "Poznaliśmy zwycięzców tegorocznego Konkursu Chopinowskiego. Pierwszą nagrodę i złoty medal zdobył Amerykanin Eric Lu, który już po raz drugi został laureatem. Piotr Alexewicz podzielił się piątą nagrodą z Vincentem Ongiem z Malezji. Dwie nagrody specjalne także otrzymali Polacy.",
+      "pubDate": "Tue, 21 Oct 2025 04:40:14 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/72967992eb373b61f9344f8242f4998b/eric-lu?t=crop:2048:895:nowe:0:235,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Bob Vylan ‘not regretful’ about IDF chant at Glastonbury: ‘I’d do it again tomorrow’",
+      "link": "https://www.theguardian.com/music/2025/oct/21/bob-vylan-interview-louis-theroux-idf-chant-glastonbury",
+      "description": "<p>In first interview since Glastonbury, frontman Bobby Vylan tells Louis Theroux the backlash was ‘minimal’ compared to the plight of Palestinians</p><p>Bob Vylan frontman Bobby Vylan is “not regretful” of his “death, death to the IDF” chant at Glastonbury and said he would “do it again tomorrow, twice on Sundays”.</p><p>The outspoken punk duo sparked controversy when they led chants of “death, death to the IDF”, referring to the Israel Defense Forces, <a href=\"https://www.theguardian.com/media/2025/jul/03/bbc-to-drop-high-risk-live-performances-after-bob-vylan-glastonbury-set\">at the festival in June</a>. The chant was condemned by Glastonbury and the UK prime minister, Keir Starmer, who described it as “appalling hate speech”.</p> <a href=\"https://www.theguardian.com/music/2025/oct/21/bob-vylan-interview-louis-theroux-idf-chant-glastonbury\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 02:40:10 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Nasa's first female space commander: I didn't want people to say 'the woman made a mistake'",
+      "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&at_campaign=rss",
+      "description": "The BBC speaks to astronaut Eileen Collins, the first woman to pilot and command a spacecraft.",
+      "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Cezary Szymanek: Krócej znaczy drożej. Pilotaż skróconego czasu pracy to ukryta podwyżka w urzędach",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43203641-cezary-szymanek-krocej-znaczy-drozej-pilotaz-skroconego-czasu-pracy-to-ukryta-podwyzka-w-urzedach",
+      "description": "Urzędy i samorządy przetestują skrócony czas pracy z pełnym wynagrodzeniem. Pilotażowy program Ministerstwa Rodziny, Pracy i Polityki Społecznej za blisko 50 mln zł może okazać się ukrytą podwyżką dla administracji. Bez gwarancji większej efektywności.",
+      "pubDate": "Tue, 21 Oct 2025 04:34:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/3fb253cb4f8f0eee9ca300e88142b36c/?t=crop:8008:3501:nowe:0:920,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pakistan i Afganistan skaczą sobie do gardeł. Czy wybuchnie wojna?",
+      "link": "https://www.rp.pl/polityka/art43203301-pakistan-i-afganistan-skacza-sobie-do-gardel-czy-wybuchnie-wojna",
+      "description": "Pakistan i rządzony przez talibów Afganistan od tygodni znajdują się na krawędzi wojny. Każdy ma silnych sojuszników i konflikt może przerodzić się w problem całego regionu.",
+      "pubDate": "Tue, 21 Oct 2025 04:30:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/eea5ed9d043e20aff941599e1cb50292/pakistanska-armia-opublikowala-nagranie-ilustrujace-atak-na-posterunek-graniczny-talibow?t=crop:6720:2938:nowe:0:74,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nicholas Rossi: US fugitive who fled to Scotland sentenced for rape",
+      "link": "https://www.bbc.com/news/articles/c8035ng7rpmo?at_medium=RSS&at_campaign=rss",
+      "description": "Rossi, who claimed to be the victim of mistaken identity, was jailed for at least five years in Utah.",
+      "pubDate": "Tue, 21 Oct 2025 02:27:07 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Woman trying to burn cockroach sets South Korea apartment alight",
+      "link": "https://www.bbc.com/news/articles/c0l7z53pe4go?at_medium=RSS&at_campaign=rss",
+      "description": "A neighbour died after falling to the ground in a failed attempt to escape through a window.",
+      "pubDate": "Tue, 21 Oct 2025 02:26:47 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "What caused Amazon’s AWS outage, and why did so many major apps go offline?",
+      "link": "https://www.aljazeera.com/news/2025/10/21/what-caused-amazons-aws-outage-and-why-did-so-many-major-apps-go-offline?traffic_source=rss",
+      "description": "Amazon Web Services, a cloud platform that supports a portion of the internet, experienced a massive outage on Monday.",
+      "pubDate": "Tue, 21 Oct 2025 02:23:04 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Plan naprawczy ma przywrócić konkurencyjność JSW",
+      "link": "https://energia.rp.pl/wegiel/art43207541-plan-naprawczy-ma-przywrocic-konkurencyjnosc-jsw",
+      "description": "Problemy finansowe JSW nie dotyczą samych wynagrodzeń, ale całego systemu pracy i płac, który przez lata nie był dostosowywany do realiów rynkowych – mówi Bogusław Oleksy, p.o. prezesa Jastrzębskiej Spółki Węglowej.",
+      "pubDate": "Tue, 21 Oct 2025 04:23:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/785e8975753515a9fd05a705d952a719/?t=crop:2001:875:nowe:0:531.73013100437,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Charged for saying ‘I love Muhammad’, India’s Muslims decry gov’t crackdown",
+      "link": "https://www.aljazeera.com/news/2025/10/21/charged-for-saying-i-love-muhammad-indias-muslims-decry-govt-crackdown?traffic_source=rss",
+      "description": "Several BJP-ruled states file cases against hundreds of Muslims, most of them in Uttar Pradesh, for raising the chant.",
+      "pubDate": "Tue, 21 Oct 2025 02:20:54 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Władimir Putin rozpoczyna polowanie na „agentów zagranicznych” w Rosji",
+      "link": "https://www.rp.pl/polityka/art43204381-wladimir-putin-rozpoczyna-polowanie-na-agentow-zagranicznych-w-rosji",
+      "description": "Władimir Putin postanowił jeszcze bardziej zaostrzyć represje wobec przeciwników politycznych. Może to wypchnąć z Rosji kolejnych pisarzy, dziennikarzy, piosenkarzy czy działaczy społecznych.",
+      "pubDate": "Tue, 21 Oct 2025 04:19:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/d81811f81e91c4810826dc5a0c9f5ae8/wladimir-putin?t=crop:4108:1796:nowe:4.0283085190104E-13:0,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kupujący chcą zdążyć przed podwyżkami cen mieszkań",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43202631-kupujacy-chca-zdazyc-przed-podwyzkami-cen-mieszkan",
+      "description": "Sprzedaż mieszkań może podskoczyć o 20–30 proc. rok do roku. Rynek powoli się rozkręca po obniżkach stóp procentowych. Część klientów uważa, że to ostatni dzwonek na zakup względnie taniego lokalu. Podrożeć mogą nieruchomości o lepszym standardzie.",
+      "pubDate": "Tue, 21 Oct 2025 04:17:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/2c7f67b478df90c8b6f935d9daa13d6a/?t=crop:948:414:nowe:0:89,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Anita Błaszczak: Niepewność, która uderza w nas wszystkich",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43203331-anita-blaszczak-niepewnosc-ktora-uderza-w-nas-wszystkich",
+      "description": "W niepewnych, pełnych zmienności czasach, gdy przedsiębiorcy i konsumenci wstrzymują się z inwestycjami, a nawet z codziennymi wydatkami, bardzo potrzebne są rozważne i stabilizujące nastroje działania polityków.",
+      "pubDate": "Tue, 21 Oct 2025 04:11:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/f1acfaf7cf13935235c46f0f853e4b57/?t=crop:5689:2487:nowe:0:653,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Osłabiony popyt na pracę rzutuje na tempo wzrostu wynagrodzeń",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43204181-oslabiony-popyt-na-prace-rzutuje-na-tempo-wzrostu-wynagrodzen",
+      "description": "Słaby popyt na pracę i szereg niepewności dla biznesu może budzić niepokój u części Polaków. Niemniej nastroje konsumenckie w kraju są najwyższe od początków pandemii, a konsumpcja prywatna silnikiem niemal najszybszego wzrostu gospodarczego w UE.",
+      "pubDate": "Tue, 21 Oct 2025 04:06:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/6cad5cfdc3f05776934bfb70ce9216d3/?t=crop:7849:3431:nowe:0:902,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Mimo wzrostu płac Polacy nie chcą wydawać. Czego się obawiają?",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43202941-mimo-wzrostu-plac-polacy-nie-chca-wydawac-czego-sie-obawiaja",
+      "description": "Aż 80 proc. Polaków szuka sposobów na obniżenie kosztów utrzymania, a do 28 proc. wzrósł odsetek tych, którzy zarabiają tylko na podstawowe potrzeby. Spowolnienie widać w gastronomii i handlu – od żywności, przez elektronikę, po ubrania.",
+      "pubDate": "Tue, 21 Oct 2025 04:02:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/5bda9379c019bb99d9fe7847a3ee158e/?t=crop:6000:3721:nowe:0:142,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "University of Arizona becomes seventh US college to reject Trump’s ‘compact’",
@@ -18,7 +218,7 @@
       "source": "The Guardian"
     },
     {
-      "title": "Palace likely to face questions about what it knew in Andrew scandal",
+      "title": "Palace likely to face questions about what it knew in scandal",
       "link": "https://www.bbc.com/news/articles/c0l7zx499deo?at_medium=RSS&at_campaign=rss",
       "description": "Will there be pressure on the Palace to reveal any information they hold on Prince Andrew and Epstein?",
       "pubDate": "Tue, 21 Oct 2025 01:33:21 GMT",
@@ -40,14 +240,6 @@
       "pubDate": "Tue, 21 Oct 2025 01:16:06 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Trump begins demolishing part of White House to make way for ballroom",
-      "link": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss",
-      "description": "Crews tore down a massive covered entryway and windows in the East Wing to make way for Trump's new event space.",
-      "pubDate": "Tue, 21 Oct 2025 01:05:39 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "Body of missing woman found buried behind abandoned Philadelphia school",
@@ -82,6 +274,14 @@
       "source": "BBC News"
     },
     {
+      "title": "Konkurs Chopinowski 2025 zakończony. To on został laureatem!",
+      "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/10545646,konkurs-chopinowski-2025-zakonczony-to-on-zostal-laureatem.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/wGkktkuTURBXy9jNjQ3YzA1MS01ODllLTRjOWItODMyMy0xYWQ1YmYyMzJhNmEuanBlZ5GTBc0BHcyg\" align=\"right\" />XIX Międzynarodowego Konkursu Pianistycznego im. Fryderyka Chopina zakończył się. W finale zmierzyło się 11 młodych pianistów i pianistek. Werdykt został ogłoszony we wtorek po godzinie 2. Wiadomo już, kto otrzymał główną nagrodę, czyli złoty medal i 60 tys. euro. To on został zwycięzcą. Które miejsce zajął Polak?",
+      "pubDate": "2025-10-21T00:38:33.000Z",
+      "imageUrl": "",
+      "source": "Dziennik.pl"
+    },
+    {
       "title": "The Papers: 'What did the palace know?' and 'web giant glitch'",
       "link": "https://www.bbc.com/news/articles/c231n2zlpreo?at_medium=RSS&at_campaign=rss",
       "description": "Prince Andrew continues to dominate the papers alongside a tech outage that rippled around the world.",
@@ -114,9 +314,9 @@
       "source": "The Guardian"
     },
     {
-      "title": "Virginia Giuffre would see Prince giving up titles as a victory, co-author says",
+      "title": "Virginia Giuffre would see Prince Andrew giving up titles as a victory, co-author says",
       "link": "https://www.bbc.com/news/articles/c201k3wd65yo?at_medium=RSS&at_campaign=rss",
-      "description": "The ghostwriter of Giuffre's posthumous memoir says Andrew's \"life is being eroded because of his past behaviour\".",
+      "description": "The ghostwriter of Giuffre's posthumous memoir says the prince's \"life is being eroded because of his past behaviour\".",
       "pubDate": "Mon, 20 Oct 2025 23:45:12 GMT",
       "imageUrl": "",
       "source": "BBC News"
@@ -194,7 +394,7 @@
       "source": "Engadget"
     },
     {
-      "title": "US appeals court says Trump can send soldiers to Portland, Oregon",
+      "title": "US court says Trump can command Oregon troops, but deployment still on hold",
       "link": "https://www.aljazeera.com/news/2025/10/20/us-appeals-court-says-trump-can-send-soldiers-to-portland-oregon?traffic_source=rss",
       "description": "Dissenting justice says decision 'erodes core constitutional principles' and risks violating freedom of expression. ",
       "pubDate": "Mon, 20 Oct 2025 22:58:56 +0000",
@@ -220,7 +420,7 @@
     {
       "title": "Senate vote fails again as shutdown becomes one of the longest in US history",
       "link": "https://www.theguardian.com/us-news/2025/oct/20/government-shutdown-republicans-longest-history",
-      "description": "<p>Eleventh vote fails on 50-43 tally as Congress remains deadlocked on legislation after weekend No Kings protests</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates\">US politics live – latest updates</a></p></li></ul><p>One of the longest government shutdowns in US history just got longer after the Senate again failed to pass a funding resolution after a majority of Democrats continued their pressure campaign after the No Kings nationwide weekend protests.</p><p>The Senate vote fell for the 11th time with a vote of 50 to 43, with no new defectors from the Democratic side.</p><p>This article was amended on 20 October 2025. A previous version said the No Kings protests drew tens of thousands of demonstrators. The actual number was in the millions.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/government-shutdown-republicans-longest-history\">Continue reading...</a>",
+      "description": "<p>Eleventh vote fails on 50-43 tally as Congress remains deadlocked on legislation after weekend No Kings protests</p><p>One of the longest government shutdowns in US history just got longer after the Senate again failed to pass a funding resolution after a majority of Democrats continued their pressure campaign after the No Kings nationwide weekend protests.</p><p>The Senate vote fell for the 11th time with a vote of 50 to 43, with no new defectors from the Democratic side.</p><p>This article was amended on 20 October 2025. A previous version said the No Kings protests drew tens of thousands of demonstrators. The actual number was in the millions.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/government-shutdown-republicans-longest-history\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 22:39:22 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -258,14 +458,6 @@
       "source": "BBC News"
     },
     {
-      "title": "US man accused of faking own death after rape conviction gets at least five years in prison",
-      "link": "https://www.theguardian.com/us-news/2025/oct/20/nicholas-rossi-fake-death-rape-conviction",
-      "description": "<p>Nicholas Rossi, who fled US, receives first of two sentences after being convicted of raping two women in Utah in 2008</p><p>A judge has sentenced a Rhode Island man who appeared to fake his death and flee the United States to avoid arrest of at least five years in prison for rape.</p><p>The sentence handed down Monday for Nicholas Rossi, 38, was the first of two he faces after being convicted separately in August and September of raping two women in northern Utah in 2008. He is scheduled to be sentenced in November for the second conviction.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/nicholas-rossi-fake-death-rape-conviction\">Continue reading...</a>",
-      "pubDate": "Mon, 20 Oct 2025 22:02:35 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Amazon services 'recovering' as Snapchat and banks among sites hit by outage",
       "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
       "description": "Platform outage checker Downdetector said the issues have impacted more than 1,000 different businesses.",
@@ -287,30 +479,6 @@
       "description": "Zdaniem przedstawicieli producentów żywności propozycje Ministerstwa Klimatu i Środowiska, dotyczące wprowadzenia rozszerzonej odpowiedzialności producenta (ROP), nie oznaczają wprowadzenia nowoczesnego systemu zgodnego z dyrektywą unijną, a jedynie podatek od opakowań.",
       "pubDate": "Tue, 21 Oct 2025 00:00:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/2e1ce47993a1cfb51ae08f97e1433874/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Lotniska się rozwijają pomimo prawa zamówień publicznych",
-      "link": "https://www.rp.pl/biznes/art43207791-lotniska-sie-rozwijaja-pomimo-prawa-zamowien-publicznych",
-      "description": "Powinniśmy wypracować lepszy model inwestycji dotyczących infrastruktury krytycznej, tak żeby prawo zamówień publicznych w tym pomagało, a nie przeszkadzało – mówi Łukasz Chaberski, prezes Polskich Portów Lotniczych.",
-      "pubDate": "Tue, 21 Oct 2025 00:00:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/66e1489d197e02fed15f2db59376b26d/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Własność intelektualna mostem między nauką a biznesem",
-      "link": "https://www.rp.pl/prawo-dla-ciebie/art43207701-wlasnosc-intelektualna-mostem-miedzy-nauka-a-biznesem",
-      "description": "Wspólne działania nauki i przedsiębiorstw powinny budować konkurencyjność i innowacyjność polskiej gospodarki.",
-      "pubDate": "Tue, 21 Oct 2025 00:00:00 +0200",
-      "imageUrl": "",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Europa w zielonym garniturze – czas na korektę kursu",
-      "link": "https://www.rp.pl/biznes/art43207811-europa-w-zielonym-garniturze-czas-na-korekte-kursu",
-      "description": "Przyszłość Europejskiego Zielonego Ładu nie jest sprawą wyłącznie klimatyczną, ale geopolityczną i gospodarczą. Debata „Jaka przyszłość Zielonego Ładu?” odsłoniła głęboki rozdźwięk między unijnymi ambicjami a gospodarczą rzeczywistością, w której przyszło działać Polsce.",
-      "pubDate": "Tue, 21 Oct 2025 00:00:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/4b89b8379e9f333ac7402aff5a528a78/?t=resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
     },
     {
@@ -368,14 +536,6 @@
       "pubDate": "Mon, 20 Oct 2025 21:05:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/32/d7/1e/z32339762IHG,Friedrich-Merz.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Najlepsi w branży TSL nagrodzeni!",
-      "link": "https://logistyka.rp.pl/logistyka/art43207911-najlepsi-w-branzy-tsl-nagrodzeni",
-      "description": "Podczas VII Spotkania Liderów branży TSL zorganizowanego przez redakcję dziennika Rzeczpospolita, które odbyło się 20 października w Centralnym Domu Technologii, organizator wręczył nagrody Rzeczpospolitej najlepszym firmom branży TSL.",
-      "pubDate": "Mon, 20 Oct 2025 23:00:07 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/9eacaca445470f20476ed5615073e0eb/nagrodzeni-podczas-gali-liderow-logistyki-2025?t=crop:2048:895:nowe:0:234,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Hamas is a pale shadow of what it was - but it could yet reinvent itself",
@@ -538,14 +698,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Ukraińskie drony trafiły w Gazprom. Drugi pożar ogromnych zakładów przerobu gazu",
-      "link": "https://energia.rp.pl/gaz/art43207601-ukrainskie-drony-trafily-w-gazprom-drugi-pozar-ogromnych-zakladow-przerobu-gazu",
-      "description": "Zakłady przerobu gazu Gazpromu na Uralu ponownie stanęły w płomieniach. To drugi w ciągu doby pożar jak wybuchł po ataku ukraińskich dronów, w tym największym na świecie kompleksie gazowo-chemicznym.",
-      "pubDate": "Mon, 20 Oct 2025 21:39:05 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/00a234d5367a2e81a40cfd2121816376/?t=crop:4000:2481:nowe:0:94,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Action Polska już reklamuje ofertę na Boże Narodzenie",
       "link": "https://www.wirtualnemedia.pl/action-polska-juz-reklamuje-oferte-na-boze-narodzenie,7212946993261536a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/27983fce-c35c-4f13-b67d-b1d39f7a0bc6\" width=\"308\" /> Sieć sklepów Action Polska na ponad dwa miesiące przed Bożym Narodzeniem rozpoczęła kampanię, w której promuje ofertę artykułów świątecznych.  ",
@@ -560,6 +712,14 @@
       "pubDate": "Mon, 20 Oct 2025 21:37:05 +0200",
       "imageUrl": "",
       "source": "Wirtualne Media"
+    },
+    {
+      "title": "Why is Israel still restricting aid to Gaza?",
+      "link": "https://www.aljazeera.com/video/the-take-2/2025/10/20/aje-onl-aje-onl-tt_aj_tt_pal_gaza_humanitarian_full_201025-201025?traffic_source=rss",
+      "description": "How does Israel continue to limit aid to Palestinians in Gaza?",
+      "pubDate": "Mon, 20 Oct 2025 19:36:42 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
     },
     {
       "title": "Artykuły \"Rzeczpospolitej\" teraz w wersji audio",
@@ -586,22 +746,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Zaskakujący wynik giełdowego eksperymentu z AI. Który bot najlepiej pomnożył kapitał?",
-      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43205861-zaskakujacy-wynik-gieldowego-eksperymentu-z-ai-ktory-bot-najlepiej-pomnozyl-kapital",
-      "description": "Sześć systemów sztucznej inteligencji, każdy z portfelem 10 tys. dol. i wolna ręka w inwestowaniu – ten nietypowy eksperyment okazał się dużą wpadką OpenAI i Google. Ale jeden model wypracował 20 proc. zysku.",
-      "pubDate": "Mon, 20 Oct 2025 21:28:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/537f00048371308b8ba8c41fc286f2a7/?t=crop:8192:3581:nowe:0:941,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Poważny wypadek na A2. Ranni żołnierze armii USA",
-      "link": "https://www.rp.pl/wypadki/art43207571-powazny-wypadek-na-a2-ranni-zolnierze-armii-usa",
-      "description": "Na autostradzie A2 w miejscowości Wysoczka w województwie wielkopolskim  doszło do zderzenia busa z amerykańskimi pojazdami wojskowymi.",
-      "pubDate": "Mon, 20 Oct 2025 21:25:12 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/b9523d17af5815f5774441871bbe7a4f/?t=crop:1600:699:nowe:0:250,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "'Rohl jumps from Wednesday frying pan into Rangers furnace'",
       "link": "https://www.bbc.com/sport/football/articles/cwynpxndqn7o?at_medium=RSS&at_campaign=rss",
       "description": "Danny Rohl has taken on one of the toughest managerial jobs in world football by succeeding Russell Martin at Rangers, writes Tom English.",
@@ -624,14 +768,6 @@
       "pubDate": "Mon, 20 Oct 2025 21:02:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Dziennik Ustaw z 20 października 2025 r. (poz. 1407-1420)",
-      "link": "https://www.rp.pl/akty-prawne/art43207501-dziennik-ustaw-z-20-pazdziernika-2025-r-poz-1407-1420",
-      "description": "",
-      "pubDate": "Mon, 20 Oct 2025 21:01:21 +0200",
-      "imageUrl": "",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "‘I don’t like you either’: diplomats hold their breath as Trump chides Rudd over previous comments",
@@ -682,14 +818,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Monitor Polski z 20 października 2025 r. (poz. 1085-1093)",
-      "link": "https://www.rp.pl/akty-prawne/art43207551-monitor-polski-z-20-pazdziernika-2025-r-poz-1085-1093",
-      "description": "",
-      "pubDate": "Mon, 20 Oct 2025 20:50:00 +0200",
-      "imageUrl": "",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "How to watch Samsung unveil its Android XR headset",
       "link": "https://www.engadget.com/ar-vr/how-to-watch-samsung-unveil-its-android-xr-headset-184820772.html?src=rss",
       "description": "<p>Samsung <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.engadget.com/samsung-will-introduce-its-android-xr-headset-at-a-galaxy-event-on-october-21-230000605.html\">is set to officially reveal</a> its long-anticipated Android extended reality (XR) headset, which has been codenamed Project Moohan. The company <a data-i13n=\"cpos:2;pos:1\" href=\"https://news.samsung.com/global/invitation-samsung-galaxy-event-worlds-wide-open-a-new-era-of-multimodal-ai\">has scheduled a livestream event</a> for October 21 at 10PM ET.</p>\n<p>The event will be streamed live via the <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.youtube.com/samsung\">company's YouTube page</a> and on the <a data-i13n=\"cpos:4;pos:1\" href=\"https://news.samsung.com/global/\">official Samsung Newsroom site</a>. We don't know how long the stream will be, but Samsung promises that Project Moohan will open up the \"true potential\" of mixed-reality devices.</p>\n<span id=\"end-legacy-contents\"></span><div id=\"14b82448a9124decb2f39612dd63dd02\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ITXJquX9FqM?si=L7VjonouH-zpnuLP\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe></div>\n<p>This isn't just a reveal for a mixed-reality headset. Moohan is the very first device that uses <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.engadget.com/ar-vr/google-lays-out-its-vision-for-an-android-xr-ecosystem-160001103.html\">Google's new Android XR operating system</a>, which has been specifically designed for XR, VR and AR devices like glasses and headsets. We'll finally get to see what all the fuss is about and what kind of new tools the OS brings to the table.</p>\n<p>Samsung says that this technology \"seamlessly blends everyday utility with immersive new experiences.\" Hopefully we'll get a look at both everyday utility and immersive new experiences during the livestream.</p>\n<p>We don't have official specs about the headset itself, but there have been <a data-i13n=\"cpos:6;pos:1\" href=\"https://www.engadget.com/ar-vr/the-final-details-of-samsungs-android-xr-headset-have-been-all-but-confirmed-200915560.html\">plenty of leaks and rumors</a> that will be confirmed or refuted during the stream. Leaks <a data-i13n=\"cpos:7;pos:1\" href=\"https://chromeunboxed.com/why-im-so-excited-for-samsung-android-xr-event-and-its-not-just-the-headset/\">have suggested</a> it includes a high-end display, advanced tracking and Gemini integration. These same leaks indicate a potential price tag of $1,800 to $2,800, making it more of a rival to the Apple Vision Pro than <a data-i13n=\"cpos:8;pos:1\" href=\"https://www.engadget.com/wearables/meta-ray-ban-display-review-chunky-frames-with-impressive-abilities-193127070.html\">Meta's new Ray-Ban Display glasses</a>.</p>This article originally appeared on Engadget at https://www.engadget.com/ar-vr/how-to-watch-samsung-unveil-its-android-xr-headset-184820772.html?src=rss",
@@ -738,14 +866,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Donald Tusk ostro o Jarosławie Kaczyńskim: Podpalacz z Żoliborza",
-      "link": "https://www.rp.pl/polityka/art43207401-donald-tusk-ostro-o-jaroslawie-kaczynskim-podpalacz-z-zoliborza",
-      "description": "Donald Tusk w mediach społecznościowych ostro skrytykował prezesa PiS Jarosława Kaczyńskiego, zarzucając mu winę za „narastającą falę przemocy w Polsce”.",
-      "pubDate": "Mon, 20 Oct 2025 20:25:32 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/cbe9b4f19e7d52083eda10ff1e04d637/?t=crop:5127:2241:nowe:0:190.0525862069,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Seria ataków Izraela na Strefę Gazy. \"Zrzuciliśmy 153 tony bomb\"",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/seria-atakow-izraela-na-strefe-gazy-zrzucilismy-153-tony-bomb/",
       "description": "Binjamin Netanjahu poinformował w poniedziałek, że izraelska armia zrzuciła w weekend na Strefę Gazy 153 tony bomb. Premier Izraela utrzymuje, że jest to odpowiedź na atak Hamasu, który wojsko uznało za naruszenie zawieszenia broni.",
@@ -784,14 +904,6 @@
       "pubDate": "Mon, 20 Oct 2025 18:18:18 +0000",
       "imageUrl": "",
       "source": "Wired"
-    },
-    {
-      "title": "Oto najzdrowszy rodzaj aktywności fizycznej. Nowe ustalenia naukowców",
-      "link": "https://kobieta.rp.pl/styl-zycia/art43207341-oto-najzdrowszy-rodzaj-aktywnosci-fizycznej-nowe-ustalenia-naukowcow",
-      "description": "Okazuje się, że nie potrzeba ani kosztownych urządzeń, ani nawet intensywnych ćwiczeń, aby znacząco zwiększyć swoje szanse na długie życie w zdrowiu. Takie wnioski płyną z raportu chińskich naukowców, bazującego na wieloletnich obserwacjach blisko dziesięciu tysięcy osób. Jego wyniki zainteresują zwłaszcza seniorów.",
-      "pubDate": "Mon, 20 Oct 2025 20:18:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/d041bd3b8acda8f5bf97fe285d4ae5c3/?t=crop:2000:1240:nowe:0:46,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Rosjanie wlewają się do Kupiańska i Pokrowska. Los \"kotwic\" frontu przesądzony",
@@ -860,7 +972,7 @@
     {
       "title": "Trump says China ‘doesn’t want’ to invade Taiwan and reaffirms trust in Xi",
       "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-china-taiwan-invasion-xi-jinping",
-      "description": "<p>US president says ‘I want to be good to China’ after Pentagon previously warned China may attempt takeover of Taiwan</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has expressed doubt on Monday that <a href=\"https://www.theguardian.com/world/china\">China</a> would invade <a href=\"https://www.theguardian.com/world/taiwan\">Taiwan</a> as he voiced confidence in his relationship with his Chinese counterpart, <a href=\"https://www.theguardian.com/world/xi-jinping\">Xi Jinping</a>, whom he will meet later this month.</p><p>Trump was asked about an earlier Pentagon assessment that Xi could <a href=\"https://www.theguardian.com/world/2021/mar/10/china-could-invade-taiwan-in-next-six-years-top-us-admiral-warns\">in the next six years attempt to seize Taiwan,</a> a self-governing democracy claimed by China.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-china-taiwan-invasion-xi-jinping\">Continue reading...</a>",
+      "description": "<p>US president says ‘I want to be good to China’ after Pentagon previously warned China may attempt takeover of Taiwan</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has expressed doubt on Monday that <a href=\"https://www.theguardian.com/world/china\">China</a> would invade <a href=\"https://www.theguardian.com/world/taiwan\">Taiwan</a> as he voiced confidence in his relationship with his Chinese counterpart, <a href=\"https://www.theguardian.com/world/xi-jinping\">Xi Jinping</a>, whom he will meet later this month.</p><p>Trump was asked about an earlier Pentagon assessment that Xi could <a href=\"https://www.theguardian.com/world/2021/mar/10/china-could-invade-taiwan-in-next-six-years-top-us-admiral-warns\">in the next six years attempt to seize Taiwan,</a> a self-governing democracy claimed by China.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-china-taiwan-invasion-xi-jinping\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 17:51:00 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -920,22 +1032,6 @@
       "pubDate": "Mon, 20 Oct 2025 17:36:25 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Rzecznik MŚP apeluje o podniesienie limitu kosztów na auta",
-      "link": "https://pro.rp.pl/pit-koszty-uzyskania-przychodu-i-ulgi/art43207311-rzecznik-msp-apeluje-o-podniesienie-limitu-kosztow-na-auta",
-      "description": "Rzecznik małych i  średnich przedsiębiorców Agnieszka Majewska uważa, że limity podatkowe na 2026 r. dla samochodów firmowych nie zachęcają do modernizacji floty pojazdów i wyboru bardziej ekologicznych aut. Zaapelowała do ministra finansów o zmianę przepisów.",
-      "pubDate": "Mon, 20 Oct 2025 19:32:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/fbcd012a2e6d12139dafa9feccba8366/?t=crop:4752:2947:nowe:0:111,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "King focusing on 'duty', says spokesman as Andrew questions continue",
-      "link": "https://www.bbc.com/news/articles/c4gzp6xgdx4o?at_medium=RSS&at_campaign=rss",
-      "description": "Prince Andrew faces more scrutiny as the posthumous memoir by Virginia Giuffre makes more claims.",
-      "pubDate": "Mon, 20 Oct 2025 17:31:13 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "How to cancel NordVPN and get your money back",
@@ -1058,14 +1154,6 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Kreml odniósł się do planu Trumpa ws. Ukrainy",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43207281-kreml-odniosl-sie-do-planu-trumpa-ws-ukrainy",
-      "description": "Rzecznik Kremla Dmitrij Pieskow przekazał, że Rosja odrzuca plan Donalda Trumpa dotyczący wojny w Ukrainie. - Stanowisko negocjacyjne Rosji, by zatrzymać wojska na obecnych liniach, pozostaje niezmienne — powiedział, cytowany przez agencję Interfax.",
-      "pubDate": "Mon, 20 Oct 2025 19:00:37 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/598ce2c37832f05336d2b86907e10ddc/?t=crop:4108:1796:nowe:4.0283085190104E-13:0,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Hamas says it will hand over another hostage body as tensions over truce continue – as it happened",
       "link": "https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates",
       "description": "<p>Group says it will release body on Monday evening as delay in returning hostage remains causes outrage in Israel. This live blog is closed</p><p>The Guardian’s global affairs correspondent, <a href=\"https://www.theguardian.com/profile/roth-andrew\">Andrew Roth</a>, has written <a href=\"https://www.theguardian.com/news/ng-interactive/2025/oct/19/the-enormous-conflict-of-interest-at-centre-of-jared-kushners-gaza-ceasefire-deal\">an interesting profile</a> on <strong>Jared Kushner</strong> in which he explores his central role in the ceasefire negotiations and his extensive business dealings in the Middle East. Here is a snippet:</p><p><em>The soft-spoken heir to his father’s real estate empire has quietly become a key conduit for Trump’s outreach to the Middle East, leveraging his Rolodex of leaders in the region and positioning himself to win a lucrative windfall if the goal of redeveloping Gaza ever comes to fruition.</em></p><p><em>It has been a notable return to the political fold after Kushner and his wife, Ivanka Trump, effectively swore off politics after the January 6 riots at the US Capitol that followed Trump’s loss in the 2020 elections.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/20/gaza-ceasefire-israel-hamas-palestine-hostages-middle-east-crisis-live-news-updates\">Continue reading...</a>",
@@ -1162,28 +1250,12 @@
       "source": "The Guardian"
     },
     {
-      "title": "Pizza Hut to close 68 UK restaurants with the loss of 1,210 jobs",
-      "link": "https://www.bbc.com/news/articles/c07mk59pzkpo?at_medium=RSS&at_campaign=rss",
-      "description": "The move will lead to more than 1,200 redundancies, but 64 other restaurants will be saved.",
-      "pubDate": "Mon, 20 Oct 2025 16:21:36 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "Tragiczne zderzenie pociągu z autem. Kierowca nie żyje, ruch kolejowy wstrzymany",
       "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/10543015,tragiczne-zderzenie-pociagu-z-autem-kierowca-nie-zyje-ruch-kolejowy.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/fdAktkuTURBXy9kYTY0MDhhOC1iZTlkLTQxNDgtOGFmNS1lNmEyNjBjM2M3Y2QuanBlZ5GTBc0BHcyg\" align=\"right\" />W wyniku zderzenia samochodu osobowego z pociągiem Regio jadącym ze Szczecina do Piły kierowca poniósł śmierć na przejeździe kolejowym w Ognicy w powiecie stargardzkim. Na miejscu wypadku pracuje prokurator. Polregio uruchomiło komunikację zastępczą.",
       "pubDate": "2025-10-20T16:20:20.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Jak urozmaicić spacery i biegi? Eksperci mają niecodzienny pomysł. „Zaczynać powoli”",
-      "link": "https://www.rp.pl/nauka/art43204601-jak-urozmaicic-spacery-i-biegi-eksperci-maja-niecodzienny-pomysl-zaczynac-powoli",
-      "description": "Chodzenie lub bieganie to wartościowe formy aktywności fizycznej, które mogą przynieść liczne korzyści zdrowotne. Jednak każdy trening z czasem może stać się monotonny. Jak temu zaradzić? Eksperci mają niecodzienny pomysł.",
-      "pubDate": "Mon, 20 Oct 2025 18:17:13 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/9a9732129a99d4226f2c033d51986c15/?t=crop:3599:1574:nowe:0:49.739974126779,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Czy Polska powinna zgodzić się na przelot Putina? Pytamy wiceszefa MSZ",
@@ -1226,14 +1298,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Powiało optymizm na giełdzie w Warszawie",
-      "link": "https://www.rp.pl/gielda/art43207091-powialo-optymizm-na-gieldzie-w-warszawie",
-      "description": "Największymi beneficjentami poprawy nastrojów były największe spółki notowane na krajowej giełdzie na czele z koncernami kontrolowanymi przez Skarb Państwa.",
-      "pubDate": "Mon, 20 Oct 2025 17:53:51 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/295fb5160422283333a5a3de7f167fe2/?t=crop:1772:775:nowe:0:203,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "As public media funds officially dry up, local radio stations struggle",
       "link": "https://www.aljazeera.com/economy/2025/10/20/as-public-media-funds-officially-dry-up-local-radio-stations-struggle?traffic_source=rss",
       "description": "Local stations like the Allegheny Mountain Radio serve as a key resource for locals during times of stress.",
@@ -1256,22 +1320,6 @@
       "pubDate": "Mon, 20 Oct 2025 15:49:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/1a/93/1e/z32062490IHG,Uzytkownicy-elektrycznych-hulajnog--zdjecie-ilustr.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "LOT włącza do swojej siatki połączeń drugie miasto w Kazachstanie",
-      "link": "https://turystyka.rp.pl/linie-lotnicze/art43206501-lot-wlacza-do-swojej-siatki-polaczen-drugie-miasto-w-kazachstanie",
-      "description": "LOT uruchomił sprzedaż bezpośrednich rejsów do Ałmaty w Kazachstanie. Inauguracyjny rejs zaplanowany został na 31 maja 2026 roku. Ałmaty to drugi, po Astanie, kazachski kierunek w regularnej siatce połączeń polskiego przewoźnika.",
-      "pubDate": "Mon, 20 Oct 2025 17:48:35 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/1997cd21f5cf585177346f8d095c97ab/?t=crop:960:420:nowe:0:171.5,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Porządki w VAT od połowy przyszłego roku. Jest projekt ustawy",
-      "link": "https://pro.rp.pl/vat/art43204701-porzadki-w-vat-od-polowy-przyszlego-roku-jest-projekt-ustawy",
-      "description": "Ministerstwo Finansów szykuje kolejne zmiany porządkujące w przepisach o VAT. Większość z nich ma nastąpić w połowie 2026 roku. Będą też nowe zasady dotyczące numerów NIP.",
-      "pubDate": "Mon, 20 Oct 2025 17:45:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/8ea1e64ecf80329376a7a815ffe2342d/?t=crop:3192:1395:nowe:0:367,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Penguin and Club bars can no longer be called chocolate",
@@ -1310,14 +1358,6 @@
       "link": "https://www.bbc.com/news/articles/c4gwxkdkyn0o?at_medium=RSS&at_campaign=rss",
       "description": "Women will be able to get the pill without prescription, but a pharmacist will still need to be present.",
       "pubDate": "Mon, 20 Oct 2025 15:33:38 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
-      "title": "What caused the outage at more than 1,000 companies?",
-      "link": "https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss",
-      "description": "The outage at Amazon services has impacted over 1,000 companies and affected millions of internet users.",
-      "pubDate": "Mon, 20 Oct 2025 15:33:00 GMT",
       "imageUrl": "",
       "source": "BBC News"
     },
@@ -1452,7 +1492,7 @@
     {
       "title": "Argentina formalizes $20bn currency swap deal with US",
       "link": "https://www.theguardian.com/world/2025/oct/20/argentina-us-currency-swap-bailout",
-      "description": "<p>Bailout by Trump attempts to stabilize shaky economy under Javier Milei as he faces mounting midterms pressure</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/world/argentina\">Argentina</a> has formalized a currency swap agreement with the United States for up to $20bn aimed “at contributing to Argentina’s economic stability”, the South American country’s central bank said.</p><p>The deal is part of huge financial support from the administration of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, a strong backer of the Argentinian president, <a href=\"https://www.theguardian.com/world/javier-milei\">Javier Milei</a>, who is <a href=\"https://www.theguardian.com/world/2025/oct/07/javier-milei-argentina-economy\">under pressure</a> ahead of midterm elections on 26 October.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/argentina-us-currency-swap-bailout\">Continue reading...</a>",
+      "description": "<p>Bailout by Trump attempts to stabilize shaky economy under Javier Milei as he faces mounting midterms pressure</p><p><a href=\"https://www.theguardian.com/world/argentina\">Argentina</a> has formalized a currency swap agreement with the United States for up to $20bn aimed “at contributing to Argentina’s economic stability”, the South American country’s central bank said.</p><p>The deal is part of huge financial support from the administration of <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, a strong backer of the Argentinian president, <a href=\"https://www.theguardian.com/world/javier-milei\">Javier Milei</a>, who is <a href=\"https://www.theguardian.com/world/2025/oct/07/javier-milei-argentina-economy\">under pressure</a> ahead of midterm elections on 26 October.</p> <a href=\"https://www.theguardian.com/world/2025/oct/20/argentina-us-currency-swap-bailout\">Continue reading...</a>",
       "pubDate": "Mon, 20 Oct 2025 14:36:18 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -1626,14 +1666,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Arsenal vs Atletico Madrid: UEFA Champions League – teams, start, lineups",
-      "link": "https://www.aljazeera.com/sports/2025/10/20/arsenal-vs-atletico-madrid-uefa-champions-league-teams-start-lineups?traffic_source=rss",
-      "description": "Two of Europe's greatest sides to have never won a UEFA Champions League trophy clash in league phase match at Emirates.",
-      "pubDate": "Mon, 20 Oct 2025 13:14:48 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Papież spotkał się z ofiarami nadużyć księży. \"Istotny moment dialogu\"",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/papiez-spotkal-sie-z-ofiarami-naduzyc-ksiezy-istotny-moment-dialogu/",
       "description": "Leon XIV po raz pierwszy spotkał się z ofiarami nadużyć seksualnych ze strony katolickich księży. W poniedziałek papież rozmawiał z delegacją międzynarodowej koalicji pod nazwą Ending Clergy Abuse. Uczestnicy spotkania określili je jako istotny moment dialogu Watykanu z pokrzywdzonymi.",
@@ -1656,14 +1688,6 @@
       "pubDate": "Mon, 20 Oct 2025 13:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
-    },
-    {
-      "title": "Ukraine does not need a NATO Article 5-like guarantee",
-      "link": "https://www.aljazeera.com/opinions/2025/10/20/ukraine-does-not-need-a-nato-article-5-like-guarantee?traffic_source=rss",
-      "description": "It needs a security mechanism that triggers action automatically.",
-      "pubDate": "Mon, 20 Oct 2025 12:57:56 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
     },
     {
       "title": "Honorowe obywatelstwo dla Donalda Trumpa? Chce tego polityk AfD",
@@ -1736,14 +1760,6 @@
       "pubDate": "2025-10-20T12:41:15.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Video: What we know about the Hong Kong cargo plane crash",
-      "link": "https://www.aljazeera.com/video/newsfeed/2025/10/20/video-what-we-know-about-the-hong-kong-cargo-plane-crash?traffic_source=rss",
-      "description": "A cargo plane has skidded off the runway and into the sea at Hong Kong's International Airport.",
-      "pubDate": "Mon, 20 Oct 2025 12:37:56 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
     },
     {
       "title": "\"Dobrze się stało\". Karol Nawrocki zabrał głos w sprawie Wołodymyra Żurawlowa",
@@ -1856,14 +1872,6 @@
       "pubDate": "Mon, 20 Oct 2025 12:00:58 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "'It's out of this world': Life-changing eye implant helps blind patients read again",
-      "link": "https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&at_campaign=rss",
-      "description": "The results are astounding and a major advance, say surgeons involved in international research using the pioneering technology.",
-      "pubDate": "Mon, 20 Oct 2025 12:00:12 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "Bardzo trudny QUIZ z wiedzy ogólnej. Zdobędziesz chociaż 9/13?",
@@ -2170,14 +2178,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
-      "link": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
-      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
-      "pubDate": "Mon, 20 Oct 2025 10:00:00 +0000",
-      "imageUrl": "",
-      "source": "Wired"
-    },
-    {
       "title": "A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game",
       "link": "https://www.wired.com/story/betterguards-ankle-guard-nba-players/",
       "description": "Betterguards has teamed up with the NBA Training Association to outfit players with its adaptive ankle brace. The pro ballers are avoiding serious injury while evaluating the stabilizing design.",
@@ -2186,12 +2186,12 @@
       "source": "Wired"
     },
     {
-      "title": "Aleksander Sikora odpadł z \"Tańca z Gwiazdami\". Nagle wypalił o ślubie",
-      "link": "https://zyciegwiazd.dziennik.pl/telewizja/artykuly/10516887,aleksander-sikora-odpadl-z-tanca-z-gwiazdami-nagle-wypalil-o-slubie.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/vl3ktkuTURBXy9mNzBlYzkyMi0wZDQ1LTQ1ZGUtYmViZS0wOGI4ZGQ3YTk3ZTAuanBlZ5GTBc0BHcyg\" align=\"right\" />Aleksander Sikora i Daria Syta to para, która w minioną niedzielę pożegnała się z programem \"Taniec z Gwiazdami\". Podczas pożegnania z tanecznym show Polsatu prezenter \"Halo tu Polsat\" podziękował dyrekcji oraz produkcji za zaproszenie do programu i pracy w stacji. W pewnym momencie z jego ust padły słowa o ślubie. Wyznał, że niebawem ponownie razem z Darią pojawią się razem na parkiecie. O co dokładnie chodzi?",
-      "pubDate": "2025-10-20T09:58:56.000Z",
+      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
+      "link": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
+      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
+      "pubDate": "Mon, 20 Oct 2025 10:00:00 +0000",
       "imageUrl": "",
-      "source": "Dziennik.pl"
+      "source": "Wired"
     },
     {
       "title": "Forest in advanced talks to appoint Dyche",
