@@ -44,6 +44,9 @@
       <div class="main-content">
         <!-- lokalne proxy usunięte z UI; używamy publicznych proxy przez default -->
         <!-- pagination and manual loading controls removed; infinite scroll is always on -->
+        <div id="refreshStatus" style="text-align:center;padding:8px;color:#6b7280;font-size:13px;display:none">
+          Ostatnie odświeżenie: <span id="lastRefreshTime">nigdy</span>
+        </div>
         <section id="articlesContainer" class="news-grid" aria-live="polite"></section>
         <!-- sentinel for intersection observer to trigger loading more -->
         <div id="infiniteSentinel" style="height:1px"></div>

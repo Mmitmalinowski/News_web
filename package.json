@@ -1,12 +1,13 @@
 {
   "name": "news-web",
   "version": "1.0.0",
-  "description": "",
+  "description": "RSS News Aggregator",
   "main": "proxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "proxy": "node proxy.js",
-    "prefetch": "node scripts/prefetch.js"
+    "prefetch": "node scripts/prefetch.js",
+    "generate": "node generate-articles.js"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +16,8 @@
     "express": "^4.21.2",
     "node-fetch": "^2.7.0",
     "fast-xml-parser": "^4.2.4",
-    "he": "^1.2.0"
-    ,"iconv-lite": "^0.6.3"
+    "he": "^1.2.0",
+    "iconv-lite": "^0.6.3",
+    "xmldom": "^0.6.0"
   }
 }

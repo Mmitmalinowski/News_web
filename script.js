@@ -267,9 +267,26 @@ async function fetchAllFeeds(){
   // no 'all' checkbox anymore; the multi-select will be populated
   const total = allArticles.length;
   console.info(`Suma sparsowanych artykułów: ${total}`);
+  
+  // Aktualizuj wskaźnik ostatniego odświeżenia
+  updateRefreshTime();
+  
   // set current filtered to full list and render
   currentFiltered = allArticles.slice();
   renderArticles(currentFiltered);
+}
+
+// Funkcja do aktualizacji czasu ostatniego odświeżenia
+function updateRefreshTime() {
+  const refreshStatus = document.getElementById('refreshStatus');
+  const lastRefreshTime = document.getElementById('lastRefreshTime');
+  
+  if(refreshStatus && lastRefreshTime) {
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('pl-PL', { hour: '2-digit', minute: '2-digit' });
+    lastRefreshTime.textContent = timeStr;
+    refreshStatus.style.display = 'block';
+  }
 }
 
 // UI handlers
@@ -347,10 +364,28 @@ function resetPagination(){
 function populateSourceSelect(){
   const panelList = document.getElementById('sourcePanelList');
   const dropdown = document.getElementById('sourceDropdown');
+  const sourcePanel = document.getElementById('sourcePanel');
   const label = document.getElementById('sourceDropdownLabel');
   const selectAllBtn = document.getElementById('selectAllBtn');
   const clearAllBtn = document.getElementById('clearAllBtn');
   const sources = [...new Set(allArticles.map(a => a.source))].sort();
+
+  // Setup dropdown toggle
+  if(dropdown && sourcePanel) {
+    dropdown.addEventListener('click', () => {
+      const isExpanded = sourcePanel.style.display !== 'none';
+      sourcePanel.style.display = isExpanded ? 'none' : 'flex';
+      dropdown.setAttribute('aria-expanded', !isExpanded);
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!dropdown.contains(e.target) && !sourcePanel.contains(e.target)) {
+        sourcePanel.style.display = 'none';
+        dropdown.setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
 
   if(panelList){
     // Render a two-column checkbox grid for better UX (clickable labels, nicer styling)
@@ -541,4 +576,49 @@ window.addEventListener('DOMContentLoaded', async () => {
       document.addEventListener('click', () => { if(panel) panel.style.display = 'none'; });
     });
 
-// ...existing code...
+// Automatyczne odświeżanie artykułów co 5 minut
+const AUTO_REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minut w milisekundach
+let autoRefreshTimer = null;
+let lastRefreshTimestamp = null;
+
+function startAutoRefresh() {
+  // Wyczyść poprzedni timer jeśli istnieje
+  if(autoRefreshTimer) {
+    clearInterval(autoRefreshTimer);
+  }
+  
+  // Ustaw nowy timer
+  autoRefreshTimer = setInterval(async () => {
+    console.info('🔄 Automatyczne odświeżanie artykułów...');
+    const refreshStatus = document.getElementById('refreshStatus');
+    if(refreshStatus) {
+      refreshStatus.style.color = '#0a66c2';
+      refreshStatus.textContent = '🔄 Odświeżanie...';
+    }
+    
+    try {
+      await fetchAllFeeds();
+      lastRefreshTimestamp = new Date();
+      console.info('✅ Artykuły odświeżone automatycznie');
+    } catch(e) {
+      console.warn('⚠️ Błąd podczas automatycznego odświeżania:', e.message);
+      if(refreshStatus) {
+        refreshStatus.style.color = '#ef4444';
+      }
+    }
+  }, AUTO_REFRESH_INTERVAL);
+  
+  console.info(`⏰ Automatyczne odświeżanie włączone (co ${AUTO_REFRESH_INTERVAL / 60000} minut)`);
+}
+
+// Uruchom automatyczne odświeżanie po załadowaniu strony
+window.addEventListener('load', () => {
+  startAutoRefresh();
+});
+
+// Zatrzymaj timer gdy użytkownik opuszcza stronę (opcjonalne, oszczędza zasoby)
+window.addEventListener('beforeunload', () => {
+  if(autoRefreshTimer) {
+    clearInterval(autoRefreshTimer);
+  }
+});
