@@ -370,22 +370,7 @@ function populateSourceSelect(){
   const clearAllBtn = document.getElementById('clearAllBtn');
   const sources = [...new Set(allArticles.map(a => a.source))].sort();
 
-  // Setup dropdown toggle
-  if(dropdown && sourcePanel) {
-    dropdown.addEventListener('click', () => {
-      const isExpanded = sourcePanel.style.display !== 'none';
-      sourcePanel.style.display = isExpanded ? 'none' : 'flex';
-      dropdown.setAttribute('aria-expanded', !isExpanded);
-    });
-
-    // Close dropdown when clicking outside
-    document.addEventListener('click', (e) => {
-      if (!dropdown.contains(e.target) && !sourcePanel.contains(e.target)) {
-        sourcePanel.style.display = 'none';
-        dropdown.setAttribute('aria-expanded', 'false');
-      }
-    });
-  }
+  // Nie dodajemy tutaj obsługi kliknięcia - jest już w globalnym handlerze
 
   if(panelList){
     // Render a two-column checkbox grid for better UX (clickable labels, nicer styling)
@@ -398,12 +383,21 @@ function populateSourceSelect(){
       item.className = 'source-grid-item';
       item.htmlFor = id;
       const cb = document.createElement('input'); cb.type = 'checkbox'; cb.value = s; cb.id = id; cb.checked = true;
-      cb.addEventListener('change', () => { updateDropdownLabel(); applyFilters(); });
+      
+      // Ważne: dodajemy nasłuchiwacz zdarzeń, który wywołuje applyFilters
+      cb.addEventListener('change', () => { 
+        console.log(`Zmieniono źródło: ${s}, zaznaczone: ${cb.checked}`);
+        if(typeof updateDropdownLabel === 'function') updateDropdownLabel(); 
+        applyFilters(); 
+      });
+      
       const span = document.createElement('span'); span.textContent = s;
       item.appendChild(cb); item.appendChild(span);
       grid.appendChild(item);
     });
     panelList.appendChild(grid);
+    
+    console.log(`Dodano ${sources.length} źródeł do listy`);
   }
 
   function updateDropdownLabel(){
@@ -413,7 +407,13 @@ function populateSourceSelect(){
     let checked = [];
     if(sel){ checked = Array.from(sel.selectedOptions).map(o => o.value); }
     else { checked = Array.from(panelList.querySelectorAll('input[type=checkbox]:checked')).map(c => c.value); }
-    label.textContent = checked.length === sources.length ? 'Wszystkie źródła' : (checked.length === 0 ? 'Brak zaznaczonych' : `${checked.length} zazn.`);
+    
+    if (label) {
+      label.textContent = checked.length === sources.length ? 'Wszystkie źródła' : 
+                         (checked.length === 0 ? 'Brak zaznaczonych' : `${checked.length} zazn.`);
+    }
+    
+    console.log(`Etykieta: ${label ? label.textContent : 'nie znaleziono'}, zaznaczonych: ${checked.length}/${sources.length}`);
   }
 
   // expose for external callers (global toggle handler)
@@ -421,18 +421,38 @@ function populateSourceSelect(){
 
   // dropdown toggle wiring is handled once globally (see below) — keep populate idempotent
 
-  if(selectAllBtn && panelList){ selectAllBtn.addEventListener('click', () => {
-    const sel = panelList.querySelector('select');
-    if(sel){ Array.from(sel.options).forEach(o=>o.selected=true); }
-    else { panelList.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=true); }
-    updateDropdownLabel(); applyFilters();
-  }); }
-  if(clearAllBtn && panelList){ clearAllBtn.addEventListener('click', () => {
-    const sel = panelList.querySelector('select');
-    if(sel){ Array.from(sel.options).forEach(o=>o.selected=false); }
-    else { panelList.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false); }
-    updateDropdownLabel(); applyFilters();
-  }); }
+  // Odłącz stare nasłuchiwacze i dodaj nowe
+  if(selectAllBtn) {
+    const newSelectAllBtn = selectAllBtn.cloneNode(true);
+    selectAllBtn.parentNode.replaceChild(newSelectAllBtn, selectAllBtn);
+    
+    newSelectAllBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      console.log('Kliknięto "Zaznacz wszystkie"');
+      
+      panelList.querySelectorAll('input[type=checkbox]').forEach(c => c.checked = true);
+      
+      if(typeof updateDropdownLabel === 'function') updateDropdownLabel();
+      applyFilters();
+    });
+  }
+  
+  if(clearAllBtn) {
+    const newClearAllBtn = clearAllBtn.cloneNode(true);
+    clearAllBtn.parentNode.replaceChild(newClearAllBtn, clearAllBtn);
+    
+    newClearAllBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      console.log('Kliknięto "Wyczyść"');
+      
+      panelList.querySelectorAll('input[type=checkbox]').forEach(c => c.checked = false);
+      
+      if(typeof updateDropdownLabel === 'function') updateDropdownLabel();
+      applyFilters();
+    });
+  }
 
   // initial label
   setTimeout(() => { if(typeof updateDropdownLabel === 'function') updateDropdownLabel(); }, 0);
@@ -495,14 +515,35 @@ function applyFilters(){
   const q = (searchInput.value || '').trim().toLowerCase();
   resetPagination();
   let filtered = allArticles.slice();
-  // read checked sources from the panel
+  
+  // Znajdź zaznaczone źródła
   const panelList = document.getElementById('sourcePanelList');
   const selectedSources = panelList ? Array.from(panelList.querySelectorAll('input[type=checkbox]:checked')).map(cb => cb.value) : [];
-  if(selectedSources.length > 0) filtered = filtered.filter(a => selectedSources.includes(a.source));
-  if(q) filtered = filtered.filter(a => ((a.title || '').toLowerCase().includes(q) || (a.description || '').toLowerCase().includes(q)));
-  // sort by date desc
-  filtered.sort((a,b) => (new Date(b.pubDate || 0).getTime()) - (new Date(a.pubDate || 0).getTime()));
-  // set current filtered list and render first page
+  console.log(`Zaznaczone źródła (${selectedSources.length}):`, selectedSources);
+  
+  // Filtruj po źródłach tylko jeśli wybrano jakieś
+  if(selectedSources.length > 0) {
+    filtered = filtered.filter(a => selectedSources.includes(a.source));
+    console.log(`Po filtrowaniu źródeł: ${filtered.length} artykułów`);
+  }
+  
+  // Filtruj po wyszukiwaniu
+  if(q) {
+    filtered = filtered.filter(a => {
+      return ((a.title || '').toLowerCase().includes(q) || 
+              (a.description || '').toLowerCase().includes(q));
+    });
+    console.log(`Po wyszukiwaniu "${q}": ${filtered.length} artykułów`);
+  }
+  
+  // Sortuj po dacie (od najnowszych)
+  filtered.sort((a,b) => {
+    const da = new Date(a.pubDate || 0).getTime();
+    const db = new Date(b.pubDate || 0).getTime();
+    return db - da;
+  });
+  
+  // Ustaw aktualną przefiltrowaną listę i wyświetl pierwszą stronę
   currentFiltered = filtered;
   renderArticles(currentFiltered);
 }
@@ -567,13 +608,41 @@ window.addEventListener('DOMContentLoaded', async () => {
       const dropdown = document.getElementById('sourceDropdown');
       const panel = document.getElementById('sourcePanel');
       if(!dropdown || !panel) return;
-      // Make sure we don't attach multiple listeners
-      dropdown.addEventListener('click', (e) => { e.stopPropagation(); panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
-        // update label when opened
-        const lbl = document.getElementById('sourceDropdownLabel'); if(lbl && typeof window.updateDropdownLabel === 'function') try{ window.updateDropdownLabel(); }catch(e){}
+      
+      // Usuń wszystkie istniejące nasłuchiwacze (bezpieczna metoda)
+      const newDropdown = dropdown.cloneNode(true);
+      dropdown.parentNode.replaceChild(newDropdown, dropdown);
+      
+      // Dodaj nowy nasłuchiwacz
+      newDropdown.addEventListener('click', (e) => { 
+        e.stopPropagation(); 
+        if(panel.style.display === 'block') {
+          panel.style.display = 'none';
+          newDropdown.setAttribute('aria-expanded', 'false');
+        } else {
+          panel.style.display = 'block';
+          newDropdown.setAttribute('aria-expanded', 'true');
+          // update label when opened
+          const lbl = document.getElementById('sourceDropdownLabel');
+          if(lbl && typeof window.updateDropdownLabel === 'function') {
+            try{ window.updateDropdownLabel(); }catch(e){}
+          }
+        }
+        console.log("Panel display style:", panel.style.display); // Debug
       });
+      
+      // Zatrzymaj propagację kliknięć wewnątrz panelu
       panel.addEventListener('click', (e) => e.stopPropagation());
-      document.addEventListener('click', () => { if(panel) panel.style.display = 'none'; });
+      
+      // Zamykaj panel przy kliknięciu poza nim
+      document.addEventListener('click', (e) => { 
+        if(panel && !panel.contains(e.target) && !newDropdown.contains(e.target)) {
+          panel.style.display = 'none';
+          newDropdown.setAttribute('aria-expanded', 'false');
+        }
+      });
+      
+      console.log("Panel event handlers attached"); // Debug
     });
 
 // Automatyczne odświeżanie artykułów co 5 minut

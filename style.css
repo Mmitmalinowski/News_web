@@ -52,7 +52,22 @@ body{
 .sidebar input{width:100%;box-sizing:border-box}
 .sidebar .source-dropdown-label{width:100%}
 .source-panel{
-  position:absolute;left:0;top:100%;margin-top:8px;z-index:9999;background:#fff;border:1px solid #e6edf3;border-radius:8px;padding:0;box-shadow:0 10px 30px rgba(2,6,23,0.08);width:100%;max-width:280px;max-height:80vh;display:flex;flex-direction:column;overflow:hidden;box-sizing:border-box;
+  position:absolute;
+  left:0;
+  top:100%;
+  margin-top:8px;
+  z-index:9999;
+  background:#fff;
+  border:1px solid #e6edf3;
+  border-radius:8px;
+  padding:0;
+  box-shadow:0 10px 30px rgba(2,6,23,0.08);
+  width:100%;
+  max-width:280px;
+  max-height:400px;
+  display:block;
+  overflow:hidden;
+  box-sizing:border-box;
 }
 .source-panel-list{flex:1;overflow-y:auto;padding-right:6px;overflow-x:hidden}
 /* ensure the JS-populated list with ID uses the same rules */
@@ -85,19 +100,21 @@ body{
 
 /* Source grid styling */
 .source-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 8px;
-  padding: 8px;
-  max-height: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px;
+  max-height: 320px;
   overflow-y: auto;
+  width: 100%;
 }
 
 .source-grid-item {
   display: flex;
   align-items: center;
   gap: 8px;
-  padding: 8px;
+  padding: 8px 4px;
+  border-radius: 4px;
   border-radius: 4px;
   cursor: pointer;
 }
