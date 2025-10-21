@@ -1,13 +1,149 @@
 {
-  "generatedAt": "2025-10-21T14:59:56.386Z",
+  "generatedAt": "2025-10-21T15:27:19.948Z",
   "items": [
     {
-      "title": "British grandmother on death row to return to UK",
+      "title": "Tragedia w Myszkowie. Starsze małżeństwo zatruło się tlenkiem węgla",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/tragedia-w-myszkowie-starsze-malzenstwo-zatrulo-sie-tlenkiem-wegla/",
+      "description": "Ciało 79-letniej kobiety i 83-letniego mężczyzny odnaleziono w jednym z domów w Myszkowie na Śląsku. Ze wstępnych ustaleń wynika, że małżeństwo zginęło w wyniku zatrucia tlenkiem węgla wydobywającego się z pieca węglowego. Strażacy apelują o ostrożność w eksploatacji urządzeń grzewczych i montowanie czujników.",
+      "pubDate": "Tue, 21 Oct 2025 17:21:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Hermès appoint British designer to lead men's wear",
+      "link": "https://www.bbc.com/news/articles/c3rjnqvv5qqo?at_medium=RSS&at_campaign=rss",
+      "description": "Grace Wales Bonner becomes the first black woman to lead design at a major fashion house.",
+      "pubDate": "Tue, 21 Oct 2025 15:20:32 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Amazon's AWS outage on October 20 knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline for hours",
+      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "description": "<p>It felt like half of the internet was dealing with a severe hangover on October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">announced</a> by 6:53PM ET on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\"</p>\n<p>The company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. \"By 3:01 PM [PT], all AWS services returned to normal operations,\" it said. </p>\n<span id=\"end-legacy-contents\"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly. </p>\n<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>\n<p>According to the <a data-i13n=\"cpos:2;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a> at the time, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<p>At about 12:08PM ET, the company <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update\">posted a small statement</a> that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>\n<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<h2 id=\"jump-link-websites-affected-by-amazon-web-services-outage\"><strong>Websites affected by Amazon Web Services outage</strong></h2>\n<p>Sites and services that were affected by the AWS outage include:</p>\n<ul>\n<li><p>Amazon</p></li>\n<li><p>Amazon Alexa</p></li>\n<li><p>Bank of America</p></li>\n<li><p>Snapchat</p></li>\n<li><p>Reddit</p></li>\n<li><p>Lyft</p></li>\n<li><p>Apple Music</p></li>\n<li><p>Apple TV</p></li>\n<li><p>Pinterest</p></li>\n<li><p><em>Fortnite</em></p></li>\n<li><p><em>Roblox</em></p></li>\n<li><p><em>The New York Times</em></p></li>\n<li><p>Disney+</p></li>\n<li><p>Venmo</p></li>\n<li><p>Doordash</p></li>\n<li><p>Hulu</p></li>\n<li><p>Grubhub</p></li>\n<li><p>PlayStation</p></li>\n<li><p>Zoom</p></li>\n</ul>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>\n<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>\n<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>\n<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>\n<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>\n<p><strong>Update, Oct 21, 2025, 11:18AM ET: </strong>Added a list of sites and services confirmed to have been affected by the AWS outage. </p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
+      "pubDate": "Tue, 21 Oct 2025 15:18:46 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Dutch privacy watchdog warns voters against asking AI how to vote",
+      "link": "https://www.aljazeera.com/news/2025/10/21/dutch-privacy-watchdog-warns-voters-against-asking-ai-how-to-vote?traffic_source=rss",
+      "description": "Body finds that chatbots provide biased advice, including by leading voters to the hard-right Party for Freedom.",
+      "pubDate": "Tue, 21 Oct 2025 15:14:51 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Michał Szułdrzyński: Rosyjska wojna hybrydowa już tu jest. Donald Tusk zdradził nowe szczegóły",
+      "link": "https://www.rp.pl/komentarze/art43212791-michal-szuldrzynski-rosyjska-wojna-hybrydowa-juz-tu-jest-donald-tusk-zdradzil-nowe-szczegoly",
+      "description": "Donald Tusk ujawnia sieć rosyjskich sabotażystów działających w Europie. Rosyjska dywersja przybiera na sile – od dronów po materiały wybuchowe. Czy Polska jest gotowa na nową formę wojny, która właśnie się rozpoczyna?",
+      "pubDate": "Tue, 21 Oct 2025 17:12:01 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/0ca52f0f500fcf38da13bb133703ea5f/?t=crop:1920:839:nowe:0:90.840879689521,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Republican senators indicate they won’t confirm Trump special counsel pick after ‘Nazi streak’ comments – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates",
+      "description": "<p>Senate majority leader John Thune reportedly says Paul Ingrassia is ‘not gonna pass’</p><p><strong>The Central Intelligence Agency is providing the bulk of the intelligence used to carry out the controversial lethal air strikes by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> against small, fast-going boats in the Caribbean Sea suspected of carrying drugs from Venezuela, according to three sources familiar with the operations.</strong></p><p>Experts say the agency’s central role means much of the evidence used to select which alleged smugglers to kill on the open sea will almost certainly remain secret.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 15:06:01 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Inside the Trump Adminstration's Bluesky Invasion",
+      "link": "https://www.wired.com/story/inside-trump-administration-bluesky-invasion/",
+      "description": "On Friday, after months of internal discussions, federal agencies began posting on the left-friendly social network. Within days, they dominated a list of the most-blocked accounts.",
+      "pubDate": "Tue, 21 Oct 2025 15:04:19 +0000",
+      "imageUrl": "",
+      "source": "Wired"
+    },
+    {
+      "title": "Trump’s nomination of Paul Ingrassia loses Republican support following racist text messages",
+      "link": "https://www.theguardian.com/us-news/2025/oct/21/trump-nomination-paul-ingrassia-racist-texts",
+      "description": "<p>Ingrassia, Trump’s pick to lead the Office of Special Counsel, allegedly described himself as having ‘a Nazi streak’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates\">US politics live – latest updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump’s</a> nomination of a conservative attorney and commentator to oversee federal whistleblower protections appeared to be collapsing after his racist text messages surfaced this week and the Republican Senate leader suggested the White House should withdraw the pick.</p><p>Paul Ingrassia, currently White House liaison at the Department of Homeland Security, previously advocated for making 6 January a <a href=\"https://x.com/PaulIngrassia/status/1868739699734360563\">national holiday</a> and publicly questioned whether the 7 October 2023 Hamas attack was a “psyop”. But the fans were flamed again on Monday <a href=\"https://www.politico.com/news/2025/10/20/paul-ingrassia-racist-text-messages-nazi-00613608\">after Politico reported text messages</a> in which Ingrassia allegedly described himself as having “a Nazi streak” and suggested Martin Luther King Jr Day should be “tossed into the seventh circle of hell”.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/trump-nomination-paul-ingrassia-racist-texts\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 15:04:15 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump claims Middle East countries offered to fight Hamas in Gaza",
+      "link": "https://www.aljazeera.com/news/2025/10/21/trump-claims-middle-east-countries-offered-to-fight-hamas-in-gaza?traffic_source=rss",
+      "description": "US president renews his threats to Hamas, saying that the Palestinian group could face 'FAST, FURIOUS, & BRUTAL' end.",
+      "pubDate": "Tue, 21 Oct 2025 15:04:14 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Impact of Brexit on UK economy even worse than critics predicted, says chancellor – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates",
+      "description": "<p>Rachel Reeves also highlights austerity and lack of capital spending as key harms to UK economy</p><p>Labour is spending significantly more on levelling up projects than previous Conservative government, new research suggests.</p><p>In <a href=\"https://www.newstatesman.com/politics/2025/10/exclusive-starmer-outspends-johnson-on-levelling-up-in-first-year\">a New Statesman article</a>, <strong>Anoosh Chakelian</strong> reports on figures produced by the Independent Commission on Neighbourhoods thinktank that show that Keir Starmer has spent more on levelling up projects in his first year than any of his Tory predecessors did in the same timescale. Chakelian says:</p><p>In its first year in office, Keir Starmer’s government has invested £2bn more than Johnson did in his first year – with £4.5bn allocated to regional investment programmes in Labour’s first year compared with £2.5bn spent in the equivalent period under Johnson – according to new analysis by the Independent Commission on Neighbourhoods.</p><p>Investment in the North East will be seven times higher than under Johnson, and five times higher in the North West and Yorkshire and Humber by the end of the Parliament, based on current trends identified in this analysis of 46 government programmes and funds.</p><p>Lab, Con & LibDems today all agreed the decision by Weds Mids police to ban the Jewish fans is wrong, disgraceful etc, but nothing they can do because ‘operational independence’. Only Reform UK will change the law to put the police under the control of elected politicians.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 15:03:46 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "There's another Kirby Air Riders Direct livestream on October 23 at 9AM ET",
+      "link": "https://www.engadget.com/gaming/nintendo/theres-another-kirby-air-riders-direct-livestream-on-october-23-at-9am-et-150344862.html?src=rss",
+      "description": "<p>Nintendo has another livestream planned for the upcoming Switch 2 exclusive <em>Kirby Air Riders</em>. This one takes place on <a data-i13n=\"cpos:1;pos:1\" href=\"https://x.com/nintendoamerica/status/1980620454323740736\"><ins>October 23 at 9AM ET</ins></a>. That's less than a month <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.engadget.com/gaming/nintendo/kirby-air-riders-launches-november-20-exclusively-on-switch-2-171054821.html\"><ins>before the game will be available for purchase</ins></a>.</p>\n<p>The company also says the stream will be a full hour, which is a heck of a long time to spend on just one game a few weeks before launch. It's worth noting, however, that <em>Kirby Air Riders</em> is a Masahiro Sakurai title.</p>\n<span id=\"end-legacy-contents\"></span><div id=\"781ed87ba3874f9fa2563e22c60017a3\"><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Join us on Oct. 23 at 6 a.m. PT for a second <a href=\"https://twitter.com/hashtag/KirbyAirRiders?src=hash&ref_src=twsrc%5Etfw\">#KirbyAirRiders</a> Direct with director Mr. Sakurai. The livestreamed presentation will last roughly 60 minutes and feature more info on the upcoming <a href=\"https://twitter.com/hashtag/NintendoSwitch2?src=hash&ref_src=twsrc%5Etfw\">#NintendoSwitch2</a> game. <br><br>Watch here: <a href=\"https://t.co/MS7fAYcd3R\">https://t.co/MS7fAYcd3R</a> <a href=\"https://t.co/nkPcQDYQd5\">pic.twitter.com/nkPcQDYQd5</a></p>— Nintendo of America (@NintendoAmerica) <a href=\"https://twitter.com/NintendoAmerica/status/1980620454323740736?ref_src=twsrc%5Etfw\">October 21, 2025</a></blockquote>\n \n\n</div>\n<p>This is the guy that made the Super Smash Bros. franchise. He loves making long videos about minutiae in his games. Just about every character on the <em>Super Smash Bros. Ultimate</em> roster got a fairly substantial reveal video and he has made <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.youtube.com/@sora_sakurai_en/search?query=smash\"><ins>all kinds of content</ins></a> about the various mechanics on that game.</p>\n<p>To that end, the previous <em>Kirby Air Riders</em> <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.engadget.com/gaming/nintendo/a-nintendo-direct-focused-on-kirby-air-riders-is-set-for-august-19-134353712.html\"><ins>livestream from August</ins></a> was 45 minutes long and included a fairly deep dive into game mechanics. We don't know what this stream will spotlight but we can't wait to find out.</p>\n<div id=\"af5b59a0678e4c65b2f3abb9d6d6220e\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oJVsNMp_nAU?si=KZrizfiGY4xV29rR\" title=\"YouTube video player\" frameborder=\"0\" allowfullscreen></iframe></div>\n<p>For the uninitiated, <em>Kirby Air Riders</em> is a Switch 2 exclusive that stars the lovable and eternally-hungry puffball Kirby. It's a racing game and a follow-up to the Gamecube original, <em>Kirby Air Ride</em>. It'll be available on November 20. </p>This article originally appeared on Engadget at https://www.engadget.com/gaming/nintendo/theres-another-kirby-air-riders-direct-livestream-on-october-23-at-9am-et-150344862.html?src=rss",
+      "pubDate": "Tue, 21 Oct 2025 15:03:44 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Dzięki AI uczą się tylko dwie godziny dziennie. Rewolucyjne szkoły odmienią edukację?",
+      "link": "https://cyfrowa.rp.pl/technologie/art43206351-dzieki-ai-ucza-sie-tylko-dwie-godziny-dziennie-rewolucyjne-szkoly-odmienia-edukacje",
+      "description": "W USA powstała sieć prywatnych szkół promujących się jako miejsce, w którym nauczanie bazuje na wykorzystaniu AI i trwa tylko dwie godziny dziennie, a resztę czasu uczniowie spędzają na zajęciach praktycznych i kreatywnych. Brzmi jak ideał? Eksperci zalecają dużą ostrożność.",
+      "pubDate": "Tue, 21 Oct 2025 17:01:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/c3b4bcc54e2aea874c2c604203e1c3de/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Podcast „Rzecz w tym”: Dlaczego Azjaci kochają Chopina?",
+      "link": "https://www.rp.pl/konkurs-chopinowski-2025/art43212481-podcast-rzecz-w-tym-dlaczego-azjaci-kochaja-chopina",
+      "description": "– Emocjonalność muzyki Chopina idealnie trafia do Azjatów. To paradoksalne, ale oni w tej muzyce odnajdują własną wrażliwość – mówi Jacek Marczyński, krytyk muzyczny i operowy „Rzeczpospolitej”, w rozmowie z Bogusławem Chrabotą.",
+      "pubDate": "Tue, 21 Oct 2025 17:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/8f7517d8aec34167323b58888e8644ac/podcast-rzecz-w-tym-dlaczego-azjaci-kochaja-chopina?t=crop:1920:839:nowe:0:121,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nova Post bramą na Ukrainę",
+      "link": "https://logistyka.rp.pl/produkty-i-uslugi/art43213271-nova-post-brama-na-ukraine",
+      "description": "Firmy logistyczne jak Nova Post mogą ułatwić polskim sklepom e-handlu ekspansję na rynek ukraiński.",
+      "pubDate": "Tue, 21 Oct 2025 16:59:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/efa294ac7a702c07ddef05c7548e438a/?t=crop:4374:1912:nowe:0:268,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "British grandmother on Bali death row to return to UK after drug smuggling conviction",
       "link": "https://www.bbc.com/news/articles/cly9jln834wo?at_medium=RSS&at_campaign=rss",
       "description": "Lindsay Sandiford, 69, spent years in prison in Indonesia after being convicted of drug smuggling.",
       "pubDate": "Tue, 21 Oct 2025 14:58:45 GMT",
       "imageUrl": "",
       "source": "BBC News"
+    },
+    {
+      "title": "Rosyjski samolot wojskowy przy granicy z NATO. To kolejny taki incydent",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/maszyna-rozpoznawcza-przy-granicy-z-rosja-norweskie-mysliwce-poderwane/",
+      "description": "Po raz drugi w ostatnich dniach, norweskie myśliwce zostały poderwane po wykryciu rosyjskiego samolotu nad Morzem Barentsa. Rzecznik norweskich Sił Powietrznych wyjaśnił, że przechwycona maszyna to rosyjski samolot rozpoznawczy typu Ił-20A, który ostatecznie nie naruszył granicy.",
+      "pubDate": "Tue, 21 Oct 2025 16:58:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Meet the Sunday League team with 1,800 Premier League appearances",
+      "link": "https://www.bbc.com/sport/football/articles/c2emr7per0mo?at_medium=RSS&at_campaign=rss",
+      "description": "How do you improve a stellar veteran team who have won back-to-back titles? Recruit a raft of former Premier League and international stars.",
+      "pubDate": "Tue, 21 Oct 2025 14:57:40 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Poland threatens Putin with arrest if he flies through its airspace on way to Hungary – as it happened",
+      "link": "https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates",
+      "description": "<p>Poland’s foreign minister says Putin’s plane could be escorted down as attacks continue with four killed in drone strike in Chernihiv</p><p>A lawyer for <strong>Nicolas Sarkozy</strong> said a motion had been filed for his release moments after the former French president entered jail, Agence France-Presse (AFP) reports.</p><p>Attorney <strong>Christophe Ingrain</strong> told reporters:</p><p><em>A request has been filed for Nicolas Sarkozy’s release.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 14:55:49 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
     },
     {
       "title": "One of our favorite Anker 5K power banks is on sale for less than $20",
@@ -20,18 +156,10 @@
     {
       "title": "Third survivor quits grooming gang inquiry panel",
       "link": "https://www.bbc.com/news/articles/cwykd173l3vo?at_medium=RSS&at_campaign=rss",
-      "description": "\"Elizabeth\" - who remains anonymous - says the process felt like \"a cover-up\" and \"created a toxic environment\".",
+      "description": "\"Elizabeth\" says the process felt like \"a cover-up\", as she joins Fiona Goddard and Ellie Reynolds who quit the panel in protest on Monday.",
       "pubDate": "Tue, 21 Oct 2025 14:52:47 GMT",
       "imageUrl": "",
       "source": "BBC News"
-    },
-    {
-      "title": "Poland threatens Putin with arrest if he flies through its airspace on way to Hungary – Europe live",
-      "link": "https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates",
-      "description": "<p>Poland’s foreign minister says Putin’s plane could be escorted down as attacks continue with four killed in drone strike in Chernihiv</p><p>A lawyer for <strong>Nicolas Sarkozy</strong> said a motion had been filed for his release moments after the former French president entered jail, Agence France-Presse (AFP) reports.</p><p>Attorney <strong>Christophe Ingrain</strong> told reporters:</p><p><em>A request has been filed for Nicolas Sarkozy’s release.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 14:51:10 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Eight countries added to methanol poisoning warning list",
@@ -76,7 +204,7 @@
     {
       "title": "January 6 US Capitol rioter arrested for allegedly threatening to kill Hakeem Jeffries",
       "link": "https://www.theguardian.com/us-news/2025/oct/21/january-6-rioter-threaten-hakeem-jeffries",
-      "description": "<p>Christopher Moynihan, pardoned by Trump for his role in Capitol attack, allegedly said he’d kill House minority leader in New York</p><p>Authorities say a man who was pardoned by <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> for his conviction in the US Capitol attack carried out by the Republican president’s supporters in early 2021 has been arrested for allegedly threatening to kill a member of Congress – whom two major media outlets have identified as the Democratic House minority leader, <a href=\"https://www.theguardian.com/us-news/hakeem-jeffries\">Hakeem Jeffries</a>.</p><p>Christopher Moynihan, 34, was arrested by New York state police on a felony count of making terroristic threats, the agency <a href=\"https://troopers.ny.gov/news/clinton-man-arrested-making-terroristic-threats-toward-member-congress\">announced</a>.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/january-6-rioter-threaten-hakeem-jeffries\">Continue reading...</a>",
+      "description": "<p>Christopher Moynihan, pardoned by Trump for his role in Capitol attack, allegedly said he’d kill House minority leader in New York</p><p>A man who was pardoned by <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> for his conviction in the US Capitol attack carried out by the Republican president’s supporters in early 2021 has been arrested for allegedly threatening to kill Democratic House minority leader <a href=\"https://www.theguardian.com/us-news/hakeem-jeffries\">Hakeem Jeffries</a>, according to authorities and the New York representative himself.</p><p>Christopher Moynihan, 34, was arrested by New York state police on a felony count of making terroristic threats, the agency <a href=\"https://troopers.ny.gov/news/clinton-man-arrested-making-terroristic-threats-toward-member-congress\">announced</a>.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/january-6-rioter-threaten-hakeem-jeffries\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 14:45:42 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -104,14 +232,6 @@
       "pubDate": "Tue, 21 Oct 2025 14:39:39 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "Republican senators indicate they won’t confirm Trump special counsel pick after ‘Nazi streak’ comments – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates",
-      "description": "<p>Senate majority leader John Thune reportedly says Paul Ingrassia is ‘not gonna pass’</p><p><strong>The Central Intelligence Agency is providing the bulk of the intelligence used to carry out the controversial lethal air strikes by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> against small, fast-going boats in the Caribbean Sea suspected of carrying drugs from Venezuela, according to three sources familiar with the operations.</strong></p><p>Experts say the agency’s central role means much of the evidence used to select which alleged smugglers to kill on the open sea will almost certainly remain secret.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 14:36:41 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Właściciel TVN na sprzedaż? Ogłasza nowe opcje",
@@ -164,16 +284,8 @@
     {
       "title": "Ecuador releases survivor of US strike on alleged drug-trafficking submarine",
       "link": "https://www.theguardian.com/world/2025/oct/21/ecuador-releases-survivor-us-strike-submarine",
-      "description": "<p>Ecuadorian officials say they found no evidence the man had committed a crime, after Trump called people on the submarine ‘terrorists’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/21/us-strikes-caribbean-cia-role\">CIA playing ‘most important part’ in US strikes in the Caribbean, sources say</a></p></li></ul><p><a href=\"https://www.theguardian.com/world/ecuador\">Ecuador</a> has released a man who survived a US strike on a suspected drug-trafficking submarine, after finding no evidence that he had committed a crime, the attorney general’s office has said.</p><p>The United States has deployed warships to the Caribbean off the coast of Venezuela since August, attacking mostly boats that US authorities said were running drugs.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/ecuador-releases-survivor-us-strike-submarine\">Continue reading...</a>",
+      "description": "<p>Officials say they have no evidence man had committed a crime, after Trump called people on submarine ‘terrorists’</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/21/us-strikes-caribbean-cia-role\">CIA playing ‘most important part’ in US strikes in the Caribbean, sources say</a></p></li></ul><p><a href=\"https://www.theguardian.com/world/ecuador\">Ecuador</a> has released a man who survived a US strike on a suspected drug-trafficking submarine, after finding no evidence that he had committed a crime, the attorney general’s office has said.</p><p>The United States has deployed warships to the Caribbean off the coast of Venezuela since August, attacking mostly boats that US authorities said were running drugs.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/ecuador-releases-survivor-us-strike-submarine\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 14:22:43 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Impact of Brexit on UK economy even worse than critics predicted, says chancellor – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates",
-      "description": "<p>Rachel Reeves also highlights austerity and lack of capital spending as key harms to UK economy</p><p>Labour is spending significantly more on levelling up projects than previous Conservative government, new research suggests.</p><p>In <a href=\"https://www.newstatesman.com/politics/2025/10/exclusive-starmer-outspends-johnson-on-levelling-up-in-first-year\">a New Statesman article</a>, <strong>Anoosh Chakelian</strong> reports on figures produced by the Independent Commission on Neighbourhoods thinktank that show that Keir Starmer has spent more on levelling up projects in his first year than any of his Tory predecessors did in the same timescale. Chakelian says:</p><p>In its first year in office, Keir Starmer’s government has invested £2bn more than Johnson did in his first year – with £4.5bn allocated to regional investment programmes in Labour’s first year compared with £2.5bn spent in the equivalent period under Johnson – according to new analysis by the Independent Commission on Neighbourhoods.</p><p>Investment in the North East will be seven times higher than under Johnson, and five times higher in the North West and Yorkshire and Humber by the end of the Parliament, based on current trends identified in this analysis of 46 government programmes and funds.</p><p>Lab, Con & LibDems today all agreed the decision by Weds Mids police to ban the Jewish fans is wrong, disgraceful etc, but nothing they can do because ‘operational independence’. Only Reform UK will change the law to put the police under the control of elected politicians.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 14:22:38 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
@@ -204,7 +316,7 @@
     {
       "title": "Atak na biuro PO. Są zarzuty dla 44-latka. \"Chyba dziesięciokrotnie podawał to imię i nazwisko\"",
       "link": "https://wiadomosci.gazeta.pl/polska/7,198072,32342228,atak-na-biuro-po-sa-zarzuty-dla-44-latka.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/85/d8/1e/z32342405IHG,Atak-na-biuro-PO--17-pazdziernika-2025-r-.jpg' align='left' hspace='4' vspace='2'>Prokuratura Okręgowa w Warszawie postawiła dwa zarzuty 44-latkowi, który jest podejrzany o atak na biuro Platformy Obywatelskiej. - W swoich wyjaśnieniach chyba dziesięciokrotnie podawał imię i nazwisko obecnego prezesa Rady Ministrów - przekazał prok. Piotr Antoni Skiba.",
+      "description": "<img src='https://bi.im-g.pl/im/85/d8/1e/z32342405IHG,Atak-na-biuro-PO--17-pazdziernika-2025-r-.jpg' align='left' hspace='4' vspace='2'>Prokuratura Okręgowa w Warszawie postawiła dwa zarzuty 44-letniemu Krzysztofowi B., który miał usiłować podpalić biuro Platformy Obywatelskiej. - W swoich wyjaśnieniach chyba dziesięciokrotnie podawał imię i nazwisko obecnego prezesa Rady Ministrów - przekazał prok. Piotr Antoni Skiba.",
       "pubDate": "Tue, 21 Oct 2025 14:13:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/85/d8/1e/z32342405IHG,Atak-na-biuro-PO--17-pazdziernika-2025-r-.jpg",
       "source": "Gazeta.pl"
@@ -234,17 +346,17 @@
       "source": "The Guardian"
     },
     {
-      "title": "Albanese’s critical minerals deal isn’t good economics – but in Trump and Xi’s new world, bargaining chips matter",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/22/albaneses-critical-minerals-deal-isnt-good-economics-but-in-trump-and-xis-new-world-bargaining-chips-matter",
-      "description": "<p>Though the dollar benefits may not outweigh the cost on Australia’s new mining agreement with the US, experts say it couldn’t have gone any better</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese has struck a multi-billion dollar deal with <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> to develop critical minerals projects in Australia that will never be commercially viable.</p><p>When it’s laid out like that, it very much sounds like our prime minister <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/diplomatic-triumph-or-capitulation-albanese-found-donald-trump-in-a-heavenly-mood-but-the-devil-may-be-in-the-detail\">fell victim</a> to <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/i-dont-like-you-either-diplomats-hold-their-breath-as-trump-chides-rudd-over-previous-comments\">the president’s</a> “art of the deal”. But we are in a new world where the national value of our critical minerals extends beyond economics, experts say.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/22/albaneses-critical-minerals-deal-isnt-good-economics-but-in-trump-and-xis-new-world-bargaining-chips-matter\">Continue reading...</a>",
+      "title": "CSL and Optus pay millions to executives despite paying no company tax in Australia",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/22/csl-optus-executive-payments-millions-no-company-tax-australia",
+      "description": "<p>Biotech company argues high pay is required to retain and attract ‘world-class’ talent</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Some of the nation’s biggest companies – including biotechnology giant CSL, telco Optus and oil and gas producer Santos – regularly spend more on bonuses for their chief executives than they pay in company tax in Australia, new analysis shows.</p><p>The finding, described as “a bit rich” by a tax expert, rubs against an ordinary understanding of bonuses, which would typically rise when an executive helps drive a company’s performance. This in turn would lead to a bigger take from the Australian Taxation Office.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/22/csl-optus-executive-payments-millions-no-company-tax-australia\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 14:00:39 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
     {
-      "title": "CSL and Optus pay millions to executives despite paying no company tax in Australia",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/22/csl-optus-executive-payments-millions-no-company-tax-australia",
-      "description": "<p>Biotech company argues high pay is required to retain and attract ‘world-class’ talent</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Some of the nation’s biggest companies – including biotechnology giant CSL, telco Optus and oil and gas producer Santos – regularly spend more on bonuses for their chief executives than they pay in company tax in Australia, new analysis shows.</p><p>The finding, described as “a bit rich” by a tax expert, rubs against an ordinary understanding of bonuses, which would typically rise when an executive helps drive a company’s performance. This in turn would lead to a bigger take from the Australian Taxation Office.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/22/csl-optus-executive-payments-millions-no-company-tax-australia\">Continue reading...</a>",
+      "title": "Albanese’s critical minerals deal isn’t good economics – but in Trump and Xi’s new world, bargaining chips matter",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/22/albaneses-critical-minerals-deal-isnt-good-economics-but-in-trump-and-xis-new-world-bargaining-chips-matter",
+      "description": "<p>Though the dollar benefits may not outweigh the cost on Australia’s new mining agreement with the US, experts say it couldn’t have gone any better</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anthony Albanese has struck a multi-billion dollar deal with <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> to develop critical minerals projects in Australia that will never be commercially viable.</p><p>When it’s laid out like that, it very much sounds like our prime minister <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/diplomatic-triumph-or-capitulation-albanese-found-donald-trump-in-a-heavenly-mood-but-the-devil-may-be-in-the-detail\">fell victim</a> to <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/i-dont-like-you-either-diplomats-hold-their-breath-as-trump-chides-rudd-over-previous-comments\">the president’s</a> “art of the deal”. But we are in a new world where the national value of our critical minerals extends beyond economics, experts say.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/22/albaneses-critical-minerals-deal-isnt-good-economics-but-in-trump-and-xis-new-world-bargaining-chips-matter\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 14:00:39 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -306,7 +418,7 @@
       "source": "The Guardian"
     },
     {
-      "title": "Trzęsienie ziemi w Wirtualnej Polsce Media. Z firmy odchodzą Jacek Amsterdamski i Agnieszka Gajzler",
+      "title": "Trzęsienie ziemi w Wirtualnej Polsce Media. Z firmy odchodzą Amsterdamski i Gajzler. Nowe role Brańskiego i Bujniewicz–Belki",
       "link": "https://www.wirtualnemedia.pl/w-wirtualnej-polsce-duze-zmiany-elzbieta-bujniewicz-belka-i-michal-branski-w-nowych-rolach-z-firma-zegnaja-sie-agnieszka-gajzler-i-jacek-amsterdamski,7213278317870016a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/5127bd5a-e407-40a4-a9fe-237504e6c74a\" width=\"308\" /> Wirtualna Polska Media upraszcza strukturę zarządzania. Elżbieta Bujniewicz–Belka połączy dotychczasową funkcję CFO z rolą COO WP Media. Michał Brański, CEO Audioteka Group, obejmie zarządzanie całym obszarem wideo WP Media. Odejść z grupy zdecydowała się Agnieszka Gajzler, odpowiedzialna za obszar wideo i Telewizję WP, z firmą żegna się też Jacek Amsterdamski, dotychczasowy chief operating officer. ",
       "pubDate": "Tue, 21 Oct 2025 15:53:13 +0200",
@@ -336,14 +448,6 @@
       "pubDate": "Tue, 21 Oct 2025 15:49:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/a2831b5ff22425acbed3fefc14aaecb4/?t=crop:7360:4564:nowe:0:174,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "At least 135 mutilated bodies of Palestinians had been held at notorious Israeli jail, say Gaza officials | First Thing",
-      "link": "https://www.theguardian.com/us-news/2025/oct/21/first-thing-mutilated-bodies-of-palestinians-had-been-held-at-notorious-israeli-jail-say-gaza-officials",
-      "description": "<p>Documents indicate they came from Sde Teiman. Plus, the last voyage of the Scandies Rose</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\"><strong>Don’t already get First Thing in your inbox? Sign up here</strong></a></p></li></ul><p>Good morning.</p><p>At least 135 mutilated bodies of Palestinians returned by Israel to Gaza had been held in a <a href=\"https://www.theguardian.com/world/2025/oct/20/mutilated-bodies-palestinians-held-notorious-israeli-jail-gaza-officials\">notorious detention centre already facing allegations of torture and unlawful deaths</a> in custody, officials from Gaza’s health ministry told the Guardian.</p><p><strong>What are the details of the torture allegations?</strong> Some photographs of Palestinian bodies seen by the Guardian – which cannot be published owing to their graphic nature<strong> </strong>– show several of the victims blindfolded, their hands tied behind their backs. One image shows a rope fastened around a man’s neck. Doctors in Khan Younis said official examinations and field observations “clearly indicate that Israel carried out acts of murder, summary executions and systematic torture against many of the Palestinians”.</p><p><strong>What is the latest on the shaky ceasefire in Gaza?</strong> The 11-day ceasefire in Gaza was <a href=\"https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates?page=with%3Ablock-68f6d4198f08ae83a20588eb#block-68f6d4198f08ae83a20588eb\">seriously undermined</a> after Israel launched waves of deadly airstrikes on Sunday and said it would cut off aid into the territory “until further notice” after a reported attack by Hamas, for which the militant group denied involvement. In an attempt to ensure the ceasefire holds and to discuss the further implementation of the US brokered plan, the vice-president, <a href=\"https://www.theguardian.com/world/2025/oct/21/jd-vance-arrives-in-israel-as-us-attempts-to-shore-up-fragile-gaza-ceasefi\">JD Vance, has landed in Israel</a> today.</p><p><strong>This is a developing story.</strong> Follow our <a href=\"https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates\">live coverage here</a>.</p><p><strong>What are the consequences?</strong> Monday’s ruling allows Trump to maintain control over the state’s national guard until litigation proceeds completely through court. The decision does not mean that troops will arrive to Portland right away, the Oregonian reported.</p><p><strong>How has Oregon’s attorney general reacted?</strong> Dan Rayfield said the panel’s Monday ruling could hand Trump “unilateral power to put Oregon soldiers on our streets with almost no justification”.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/first-thing-mutilated-bodies-of-palestinians-had-been-held-at-notorious-israeli-jail-say-gaza-officials\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 13:48:42 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Bank of England chief warns of ‘worrying echoes’ of 2008 financial crisis",
@@ -690,28 +794,12 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "„Bąbel ciepła” na oceanie. Eksperci: „Dzieje się coś niezwykłego”",
-      "link": "https://klimat.rp.pl/oceany-i-lodowce/art43206441-babel-ciepla-na-oceanie-eksperci-dzieje-sie-cos-niezwyklego",
-      "description": "Wody północnego Pacyfiku osiągnęły tego lata rekordowe temperatury – wynika z najnowszych badań. Eksperci przyznają, że choć oczywiste jest dla nich, iż zmiany klimatu wpływają na ocieplenie oceanów, to skala tej anomalii ich zaskoczyła.",
-      "pubDate": "Tue, 21 Oct 2025 14:40:49 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/00acf30da64a1397e60bbe0630f7b315/?t=crop:2000:874:nowe:0:313,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Jeśli posiadasz budki dla ptaków, zrób to po 15 października",
       "link": "https://ogrod.dziennik.pl/artykuly/10552205,jesli-posiadasz-budki-dla-ptakow-zrob-to-po-15-pazdziernika.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/1gkktkuTURBXy80MGEyYTc4Ny04MTliLTQ2ZDQtODc1YS1kNjJlNGZmNjM1NWIuanBlZ5GTBc0BHcyg\" align=\"right\" />Jeśli posiadasz budki dla ptaków na drzewach lub w innych miejscach, bierzesz za nie odpowiedzialność. Budki lęgowe powinny być regularnie czyszczone. Jak przygotować się do czyszczenia budek i kiedy jest na to dobry moment? Tłumaczymy, dlaczego to takie ważne.",
       "pubDate": "2025-10-21T12:40:21.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Karolina Demus: Potrzebny dialog rządu z biznesem w sprawie bezpieczeństwa lekowego |EFNI 2025",
-      "link": "https://www.rp.pl/efni-2025-sopot/art43211961-karolina-demus-potrzebny-dialog-rzadu-z-biznesem-w-sprawie-bezpieczenstwa-lekowego-efni-2025",
-      "description": "To, co może zrobić rząd, to prowadzić bardzo otwarty dialog między biznesem a sektorem publicznym, aby wzmacniać bezpieczeństwo lekowe - mówi Karolina Demus, prezes Sandoz w Polsce. Jak tłumaczy, obecnie jesteśmy w stanie zaspokoić popyt na leki, ale w przypadku kryzysu, może się to okazać problemem z uwagi na uzależnienie od Azji, jeżeli chodzi o dostawy komponentów niezbędnych do produkcji leków.",
-      "pubDate": "Tue, 21 Oct 2025 14:38:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/a45882ffad6f965618acea332f2935d6/zdjecie-z-karolina-demus?t=crop:1920:839:nowe:0:27.310344827586,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Quiz ortograficzny. 12/12 to wynik na poziomie arcymistrza",
@@ -746,7 +834,7 @@
       "source": "Polsat News"
     },
     {
-      "title": "How Russia’s new tactics pose new winter threat to Ukraine",
+      "title": "How Russia’s new tactics pose fresh winter threat to Ukraine",
       "link": "https://www.aljazeera.com/news/2025/10/21/how-russias-new-tactics-pose-new-winter-threat-to-ukraine?traffic_source=rss",
       "description": "Russia's modified drones are piercing Ukraine's defences at greater rates than before, targeting energy infrastructure.",
       "pubDate": "Tue, 21 Oct 2025 12:20:23 +0000",
@@ -792,14 +880,6 @@
       "pubDate": "Tue, 21 Oct 2025 12:12:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/26/d7/1e/z32341542IHG,Nicolas-Sarkozy-w-drodze-do-wiezienia.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Nie będzie dyscyplinarki dla zbuntowanego neosędziego Sądu Najwyższego. Prokurator krajowy odpuszcza",
-      "link": "https://www.rp.pl/sady-i-trybunaly/art43211641-nie-bedzie-dyscyplinarki-dla-zbuntowanego-neosedziego-sadu-najwyzszego-prokurator-krajowy-odpuszcza",
-      "description": "Sędzia Sądu Najwyższego Grzegorz Żmij, który po wyrokach europejskich trybunałów unika orzekania, nie będzie ścigany dyscyplinarnie. Domagała się tego I prezes SN Małgorzata Manowska i prokuratura Zbigniewa Ziobry. Żądania te wycofał jednak obecny Prokurator krajowy Dariusz Korneluk.",
-      "pubDate": "Tue, 21 Oct 2025 14:08:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/fa51beae99d2738b7f41a517be4e1617/prokurator-krajowy-dariusz-korneluk?t=crop:2943:1287:nowe:1126.5315863796:255.13625711901,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "32 Best Gifts for Teens (2025), Tested by Us and Our Kids",
@@ -856,14 +936,6 @@
       "pubDate": "Tue, 21 Oct 2025 13:59:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Były wiceminister sprawiedliwości oskarżony ws. Pegasusa",
-      "link": "https://www.rp.pl/prawo-karne/art43211731-byly-wiceminister-sprawiedliwosci-oskarzony-ws-pegasusa",
-      "description": "Prokuratura Krajowa skierowała we wtorek do Sądu Okręgowego w Warszawie akt oskarżenia przeciwko posłowi na Sejm RP Michałowi Wosiowi. Chodzi o jego działania związane z zakupem systemu Pegasus ze środków Funduszu Sprawiedliwości, gdy był wiceministrem sprawiedliwości. \"Nie ma świętych krów\" - skomentował minister sprawiedliwości i prokurator generalny Waldemar Żurek.",
-      "pubDate": "Tue, 21 Oct 2025 13:57:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/068fd55e95a8e2a6549b4f6bbb76ea11/?t=crop:2000:1240:nowe:0:46,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Mountains of waste add to health fears in Gaza",
@@ -1028,7 +1100,7 @@
     {
       "title": "What can Sarkozy expect in La Santé prison and what has he taken with him?",
       "link": "https://www.theguardian.com/world/2025/oct/21/what-can-nicolas-sarkozy-expect-la-sante-prison-france",
-      "description": "<p>Former French president will reportedly be held in isolation and has a copy of The Count of Monte Cristo for company</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates\">Europe live – latest updates</a></p></li></ul><p>Perhaps France’s most fabled jail, La Santé – where the former French president Nicolas Sarkozy <a href=\"https://www.theguardian.com/world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france\">has begun a five-year term for criminal conspiracy</a> to raise campaign funds from Libya – is the last remaining prison inside the Paris city limits.</p><p>Located in the southern Montparnasse district of the capital, it opened in 1867 and was the scene of at least 40 executions, the last in 1972. Partially closed for renovation in 2014, the prison reopened five years later and houses more than 1,100 inmates.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/what-can-nicolas-sarkozy-expect-la-sante-prison-france\">Continue reading...</a>",
+      "description": "<p>Former French president will reportedly be held in isolation and has a copy of The Count of Monte Cristo for company</p><p></p><p>Perhaps France’s most fabled jail, La Santé – where the former French president Nicolas Sarkozy <a href=\"https://www.theguardian.com/world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france\">has begun a five-year term for criminal conspiracy</a> to raise campaign funds from Libya – is the last remaining prison inside the Paris city limits.</p><p>Located in the southern Montparnasse district of the capital, it opened in 1867 and was the scene of at least 40 executions, the last in 1972. Partially closed for renovation in 2014, the prison reopened five years later and houses more than 1,100 inmates.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/what-can-nicolas-sarkozy-expect-la-sante-prison-france\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 11:14:58 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -1420,7 +1492,7 @@
     {
       "title": "Nicolas Sarkozy enters prison to begin five-year sentence over criminal conspiracy",
       "link": "https://www.theguardian.com/world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france",
-      "description": "<p>Former president organised stage-managed departure from his Paris home before becoming first French postwar leader to be jailed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/21/what-can-nicolas-sarkozy-expect-la-sante-prison-france\">What can Sarkozy expect in La Santé prison?</a></p></li><li><p><a href=\"https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates\">Europe live – latest updates</a></p></li></ul><p>The former French president <a href=\"https://www.theguardian.com/world/2025/oct/19/france-former-president-nicolas-sarkozy-prison\">Nicolas Sarkozy</a> has been jailed in Paris, after a court sentenced him to five years for <a href=\"https://www.theguardian.com/world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial\">criminal conspiracy</a> over a scheme to obtain election campaign funds from the regime of the late Libyan dictator Muammar Gaddafi.</p><p>France’s rightwing president between 2007 and 2012 is the first former head of an EU country to serve time in prison, and the first French postwar leader to go to prison.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france\">Continue reading...</a>",
+      "description": "<p>Former president organised stage-managed departure from his Paris home before becoming first French postwar leader to be jailed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2025/oct/21/what-can-nicolas-sarkozy-expect-la-sante-prison-france\">What can Sarkozy expect in La Santé prison?</a></p><p></p></li></ul><p>The former French president <a href=\"https://www.theguardian.com/world/2025/oct/19/france-former-president-nicolas-sarkozy-prison\">Nicolas Sarkozy</a> has been jailed in Paris, after a court sentenced him to five years for <a href=\"https://www.theguardian.com/world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial\">criminal conspiracy</a> over a scheme to obtain election campaign funds from the regime of the late Libyan dictator Muammar Gaddafi.</p><p>France’s rightwing president between 2007 and 2012 is the first former head of an EU country to serve time in prison, and the first French postwar leader to go to prison.</p> <a href=\"https://www.theguardian.com/world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 09:05:03 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -1490,14 +1562,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Qatar’s Emir condemns ‘continued violation’ of Gaza ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2025/10/21/qatars-emir-condemns-continued-violation-of-gaza-ceasefire?traffic_source=rss",
-      "description": "Speaking at the opening session of Qatar’s Shura Council, the country’s Emir Sheikh Tamim bin Hamad Al Thani condemned a",
-      "pubDate": "Tue, 21 Oct 2025 08:58:19 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "NBP wypuszcza nową monetę o nominale 500 złotych. Od kiedy będzie w obiegu?",
       "link": "https://gospodarka.dziennik.pl/finanse/artykuly/10546070,nbp-wypuszcza-nowa-monete-o-nominale-500-zlotych-od-kiedy-bedzie-w-ob.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/wfiktkuTURBXy8yOTNhNDBiMC1hZDU0LTQ5YmUtYWMzOC05N2IwZTNiNGU5ZTIuanBlZ5GTBc0BHcyg\" align=\"right\" />Narodowy Bank Polski 23 października 2025 roku wprowadza do obiegu wyjątkową złotą monetę o nominale 500 zł. Wykonana z czystego złota, z limitowanym nakładem, jest hitem kolekcjonerskim i inwestycyjnym, upamiętniającym Hetmana Jana Karola Chodkiewicza. Sprawdź, dlaczego nie powinieneś używać jej do codziennych zakupów i jak ją zdobyć.",
@@ -1528,14 +1592,6 @@
       "pubDate": "2025-10-21T08:43:43.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "Doha Debates is back",
-      "link": "https://www.aljazeera.com/video/doha-debates/2025/10/21/doha-debates-is-back-2?traffic_source=rss",
-      "description": "Hosts Dareen Abughaida & Imran Garda lead majlis-style debates from Qatar’s Education City.",
-      "pubDate": "Tue, 21 Oct 2025 08:41:29 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
     },
     {
       "title": "Instagram zmienia wygląd. Część użytkowników widzi już nową wersję",
@@ -1818,14 +1874,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Vote for your BBC Women's Footballer of the Year",
-      "link": "https://www.bbc.com/sport/football/articles/cn7el7zx2xzo?at_medium=RSS&at_campaign=rss",
-      "description": "Voting for the BBC Women's Footballer of the Year 2025 award is now open.",
-      "pubDate": "Tue, 21 Oct 2025 05:20:32 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "Nowa praca Andrzeja Dudy. W PiS zaskoczenie. \"Śmierdzi to na kilometr\"",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32339879,nowa-praca-andrzeja-dudy-w-pis-zaskoczenie-smierdzi-to-na.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/2b/c2/1e/z32255019IHG,Andrzej-Duda.jpg' align='left' hspace='4' vspace='2'>Politycy Prawa i Sprawiedliwości są zaskoczeni nową pracą Andrzeja Dudy. - Niestety, śmierdzi to na kilometr - stwierdził jeden z nich w rozmowie z Onetem. Rozmówcy portalu podkreślają również, że były prezydent \"spalił mosty\" w PiS.",
@@ -1898,14 +1946,6 @@
       "source": "Sekurak"
     },
     {
-      "title": "Finał Konkursu Chopinowskiego rozstrzygnięty. Poznaliśmy nazwisko zwycięzcy",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/final-konkursu-chopinowskiego-rozstrzygniety-poznalismy-nazwisko-zwyciezcy/",
-      "description": "27-letni Amerykanin Eric Lu zwycięzcą XIX Konkursu Chopinowskiego - poinformował Narodowy Instytut Fryderyka Chopina. - Powiedział nam, że jest szczęśliwy, wzruszony i podczas ogłoszenia wyników rzeczywiście odjęło mu mowę - przekazał rzecznik instytutu. Polak Piotr Alexewicz został laureatem V nagrody. Dwaj inni reprezentanci Polski otrzymali nagrody specjalne.",
-      "pubDate": "Tue, 21 Oct 2025 05:39:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "Play now",
       "link": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
       "description": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
@@ -1922,28 +1962,12 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Trump tears down part of White House to make way for ballroom",
-      "link": "https://www.bbc.com/news/articles/ced6np51532o?at_medium=RSS&at_campaign=rss",
-      "description": "Crews tore down a massive covered entryway and windows in the East Wing to make way for Trump's new event space.",
-      "pubDate": "Tue, 21 Oct 2025 02:48:43 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "'It's harder to be a parent than a space shuttle commander', trailblazing Nasa pilot tells BBC",
       "link": "https://www.bbc.com/news/articles/c0mxzdg203jo?at_medium=RSS&at_campaign=rss",
       "description": "Astronaut Eileen Collins is the first woman to pilot and command a spacecraft.",
       "pubDate": "Tue, 21 Oct 2025 02:34:44 GMT",
       "imageUrl": "",
       "source": "BBC News"
-    },
-    {
-      "title": "Amazon's AWS outage knocked services like Alexa, Snapchat, Fortnite, Venmo and more offline",
-      "link": "https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "description": "<p>It felt like half of the internet was dealing with a hangover from the morning of October 19 to the early hours of October 20. A severe Amazon Web Services outage took out many, many websites, apps, games and other services that rely on Amazon’s cloud division to stay up and running. That included a long list of popular software like Venmo, Snapchat, Canva and <em>Fortnite</em>. Even Amazon's own assistant Alexa stuttered, and if you were wondering why the internet seemed to be against you — you weren't imagining it. The good news is that, Amazon <a data-i13n=\"cpos:1;pos:1\" href=\"https://health.aws.amazon.com/health/status\">announced</a> by 6:53PM Eastern time on October 20 that it resolved the \"increased error rates and latencies for AWS Services.\"</p>\n<p>The company said it \"identified the trigger of the event as DNS resolution issues for the regional DynamoDB service endpoints.\" It ran into more problems as it tried to solve the outage, but it was eventually able to fix everything. \"By 3:01 PM, all AWS services returned to normal operations,\" it said. </p>\n<span id=\"end-legacy-contents\"></span><p>At about 4:30PM ET on October 20, things seemed to be returning back to normal. Apps like Venmo and Lyft, which were either slow to respond or completely nonresponsive before, were appearing to behave smoothly. </p>\n<p>As of 1:15PM ET on October 20, multiple services were unavailable, including asking Alexa for the weather or to turn off lights in your home. The Lyft app was also slower to respond than usual, and Venmo transactions were not completing.</p>\n<p>According to the <a data-i13n=\"cpos:2;pos:1\" href=\"https://health.aws.amazon.com/health/status\">AWS service health page</a> at the time, Amazon was looking into \"increased error rates and latencies for multiple AWS services\" in the US-EAST-1 region (i.e. data centers in Northern Virginia) as of 3:11AM ET on Monday. By 5:01AM, AWS had figured out that a DNS resolution issue with its DynamoDB API was the cause of the outage. DynamoDB is a database that holds info for AWS clients. </p>\n<p>At about 12:08PM ET, the company <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update\">posted a small statement</a> that reiterated the above and added that the \"underlying DNS issue was fully mitigated at 2:24 AM PDT.\" According to the notice, some Amazon \"customers still continue to experience increased error rates with AWS services in the N. Virginia (us-east-1) Region due to issues with launching new EC2 instances.\" Amazon also said Amazon.com and Amazon subsidiaries, as well as AWS customer service support operations have been impacted.</p>\n<p>“Amazon had the data safely stored, but nobody else could find it for several hours, leaving apps temporarily separated from their data,” Mike Chapple, a teaching professor of IT, analytics and operations at University of Notre Dame, told <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl?post-id=cmgz331910000356o8os98qu2\"><em>CNN</em></a>. “It’s as if large portions of the internet suffered temporary amnesia.”</p>\n<p>As of 6:35AM, AWS said it had fully mitigated the DNS issue and that \"most AWS Service operations are succeeding normally now.\" However, the knock-on effect caused issues with other AWS services, including EC2, a virtual machine service on which many companies build online applications.</p>\n<p>At 8:48AM, AWS said it was \"making progress on resolving the issue with new EC2 instance launches in the US-EAST-1 Region.\" It recommended that clients not tie new deployments to specific Availability Zones (i.e. one or more data centers in a given region) \"so that EC2 has flexibility\" in picking a zone that may be a better option.</p>\n<p>At 9:42AM, Amazon noted on the status page that although it had applied \"multiple mitigations\" across several Availability Zones in US-EAST-1, it was \"still experiencing elevated errors for new EC2 instance launches.\" As such, AWS was \"rate limiting new instance launches to aid recovery.\" The company added at 10:14AM that it was seeing \"significant API errors and connectivity issues across multiple services in the US-EAST-1 Region.\" Even once all the issues are resolved, AWS will have a significant backlog of requests and other factors to process, so it'll take some time for everything to recover.</p>\n<p>Many, many, many companies use US-EAST-1 for their AWS deployments, which is why it felt like half of the internet was knocked offline on Monday morning. As of mid-morning, tons of websites and other services were sluggish or offering up error messages. Outage reports for a broad swathe of services spiked on Down Detector. Along with Amazon's own services, users reported issues with the likes of banks, airlines, Disney+, Snapchat, Reddit, Lyft, Apple Music, Pinterest, <em>Fortnite, Roblox </em>and <em>The New York Times </em>— sorry to anyone whose <em>Wordle</em> streaks may be at risk.</p>\n<p>Sites like Reddit have posted their <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.redditstatus.com/\">own status updates</a>, and though they don't explicitly mention AWS, it's possible that the services' paths may cross somewhere in the pipelines.</p>\n<p>AWS offers a lot of useful features to clients, such as the ability for websites and apps to automatically scale compute and server capacity up and down as needed to handle ebbs and flows in traffic. It also has data centers around the world. That kind of infrastructure is attractive to companies that serve a global  audience and need to stay online around the clock. As of mid-2025, it was <a data-i13n=\"elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1\" class=\"no-affiliate-link\" href=\"https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/\">estimated</a> that AWS' share of the worldwide cloud infrastructure market was 30 percent. But incidents such as this highlight that relying on just a few providers to be the backbone of much of the internet is a bit of a problem.</p>\n<p><strong>Update October 20, 2025, 9:21PM ET: </strong>This story has been updated with Amazon's latest update that says the issue has been resolved.</p>\n<p><strong>Update, Oct 20 2025, 10:57AM ET:</strong> This story has been updated to include a short list of services affected in the intro.</p>\n<p><strong>Update, Oct 20 2025, 11:17AM ET:</strong> This story has been updated to include a reference to Reddit's own status update website.</p>\n<p><strong>Update, Oct 20 2025, 1:15PM ET:</strong> This story has been updated to include a paragraph reflecting the status of popular services like Lyft, Venmo and Alexa, based on our editors' personal experiences as of this time.</p>\n<p><strong>Update, Oct 20 2025, 3:15PM ET:</strong> This story has been updated to include a short statement from Amazon describing a timeline of events, when the underlying issue was mitigated and what parts of Amazon have been impacted.</p>\n<p><strong>Update, Oct 20 2025, 4:30PM ET:</strong> This story has been updated to reflect the status of services like Venmo and Lyft as of Monday afternoon.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/amazons-aws-outage-has-knocked-services-like-alexa-snapchat-fortnite-venmo-and-more-offline-142935812.html?src=rss",
-      "pubDate": "Tue, 21 Oct 2025 01:21:01 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
     },
     {
       "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
@@ -2254,14 +2278,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/kredyty-konta-i-ubezpieczenia-poczta-polska-wprowadza-nowe-uslugi/",
       "description": "Poczta Polska w najbliższych tygodniach rozpocznie dystrybucję usług finansowych w swoich placówkach – zapowiedział w rozmowie z prezes spółki Sebastian Mikosz. Już wkrótce klienci będą mogli założyć na poczcie konto bankowe, wykupić ubezpieczenie, a nawet wziąć kredyt.",
       "pubDate": "Mon, 20 Oct 2025 18:36:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Gotowe dania ze sklepu przyczyną zatrucia na Syberii. Zachorowało blisko 100 osób",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/gotowe-dania-ze-sklepu-przyczyna-zatrucia-na-syberii-zachorowalo-blisko-100-osob/",
-      "description": "W rosyjskim Ułan-Ude na Syberii doszło do masowego zatrucia pokarmowego. Do szpitali trafiło 89 osób, w tym blisko 50 dzieci. Wszyscy chorzy spożywali wcześniej gotowe dania zakupione w lokalnych sklepach sieci Nikołajewski.",
-      "pubDate": "Mon, 20 Oct 2025 18:31:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
     },
@@ -2850,14 +2866,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Blizzard teams working on Hearthstone and Warcraft Rumble unionize",
-      "link": "https://www.engadget.com/gaming/blizzard-teams-working-on-hearthstone-and-warcraft-rumble-unionize-182104024.html?src=rss",
-      "description": "<p>Blizzard developers working on <em>Hearthstone</em> and <em>Warcraft Rumble</em> have <a target=\"_blank\" class=\"link\" href=\"https://cwa-union.org/news/releases/hearthstone-and-warcraft-rumble-developers-form-union-communications-workers-america\" data-i13n=\"cpos:1;pos:1\">formed a new union</a>, the latest in a series of labor wins at the Microsoft-owned studio. The over 100-person unit is represented by the Communication Workers of America (CWA), and counts \"software engineers, designers, artists, quality assurance testers and producers\" among its members.</p><p>Inspiration to form the new union came from the successful organizing efforts of Blizzard's <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/world-of-warcraft-workers-unlock-form-a-union-achievement-220148151.html\" data-i13n=\"cpos:2;pos:1\"><em>World of Warcraft</em> workers</a> last year. The staff behind the classic MMO formed the Warcraft Gamemakers Guild last year, and were followed by similar unions representing developers working on <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/gaming/over-450-diablo-developers-at-blizzard-have-unionized-180544383.html\" data-i13n=\"cpos:3;pos:1\"><em>Diablo</em></a> and <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/gaming/the-developers-behind-overwatch-have-unionized-154021756.html\" data-i13n=\"cpos:4;pos:1\"><em>Overwatch</em></a> earlier in 2025. According to the CWA, over 1,900 workers at Blizzard are now represented by the organization.</p><p>The new union is arriving at a critical time. Blizzard's parent company Microsoft made major cuts <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/gaming/xbox/microsoft-gaming-division-suffers-further-layoffs-142430386.html\" data-i13n=\"cpos:5;pos:1\">across its gaming division</a> this summer, including layoffs that reportedly led to Blizzard <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/gaming/blizzard-is-giving-up-on-its-warcraft-mobile-game-amid-layoffs-215021940.html\" data-i13n=\"cpos:6;pos:1\">winding down development</a> on <em>Warcraft Rumble</em>. Union membership has flourished across Microsoft's studios because of neutrality agreements the company signed with CWA respecting its workers' right to organize at <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/microsoft-activision-blizzard-unionization-agreement-cwa-163550095.html\" data-i13n=\"cpos:7;pos:1\">Activision Blizzard in 2022</a> and <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/microsoft-and-cwa-forge-labor-neutrality-agreement-covering-all-zenimax-workers-212643324.html\" data-i13n=\"cpos:8;pos:1\">ZeniMax in 2024</a>, but the environment is on the brink of possible change. </p><p><a target=\"_blank\" class=\"link\" href=\"https://aftermath.site/battle-net-workers-unionize-blizzard-entertainment-cwa\" data-i13n=\"cpos:9;pos:1\"><em>Aftermath </em>reports</a> that the neutrality agreement covering Activision Blizzard workers expires in October 2025, which could make forming future unions more difficult. Microsoft signed its first neutrality agreement to reassure regulators about its <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/microsoft-activision-blizzard-acquisition-133637845.html\" data-i13n=\"cpos:10;pos:1\">$68.7 billion acquisition of Activision Blizzard</a>, but now that the deal is done and dusted, the company has less of a reason to play nice.</p><p><br></p><p></p>This article originally appeared on Engadget at https://www.engadget.com/gaming/blizzard-teams-working-on-hearthstone-and-warcraft-rumble-unionize-182104024.html?src=rss",
-      "pubDate": "Fri, 17 Oct 2025 18:21:04 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
-    },
-    {
       "title": "Can AI Avoid the Enshittification Trap?",
       "link": "https://www.wired.com/story/can-ai-escape-enshittification-trap/",
       "description": "Cory Doctorow’s theory of “enshittification” explains how tech platforms rot from within. As AI grows more profitable—and powerful—it risks the same fate.",
@@ -2870,14 +2878,6 @@
       "link": "https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/",
       "description": "Musk posted nonstop at the beginning of the year about British politics, until his focus was consumed by DOGE. Now he’s back.",
       "pubDate": "Fri, 17 Oct 2025 14:51:55 +0000",
-      "imageUrl": "",
-      "source": "Wired"
-    },
-    {
-      "title": "The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More",
-      "link": "https://www.wired.com/gallery/best-tvs/",
-      "description": "From LEDs to fancy OLED models, in 4K and beyond, these are our favorite televisions at every price.",
-      "pubDate": "Fri, 17 Oct 2025 14:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
     },
