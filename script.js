@@ -488,6 +488,36 @@ function populateSourceSelect(){
 
   // initial label
   setTimeout(() => { if(typeof updateDropdownLabel === 'function') updateDropdownLabel(); }, 0);
+  
+  // Add search functionality
+  const sourceSearchInput = document.getElementById('sourceSearchInput');
+  if(sourceSearchInput) {
+    sourceSearchInput.addEventListener('input', (e) => {
+      const searchTerm = e.target.value.toLowerCase().trim();
+      const items = panelList.querySelectorAll('.source-grid-item');
+      
+      items.forEach(item => {
+        const span = item.querySelector('span');
+        const sourceName = span ? span.textContent.toLowerCase() : '';
+        
+        if(sourceName.includes(searchTerm)) {
+          item.style.display = 'flex';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    });
+    
+    // Clear search when panel opens
+    const sourceDropdown = document.getElementById('sourceDropdown');
+    if(sourceDropdown) {
+      sourceDropdown.addEventListener('click', () => {
+        sourceSearchInput.value = '';
+        const items = panelList.querySelectorAll('.source-grid-item');
+        items.forEach(item => item.style.display = 'flex');
+      });
+    }
+  }
 }
 
 // diagnostics toggle: hide by default (toggle button wiring)
