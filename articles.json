@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-21T04:25:44.069Z",
+  "generatedAt": "2025-10-21T04:43:37.910Z",
   "items": [
     {
       "title": "The Papers: 'What did the palace know?' and 'web giant glitch'",
@@ -18,10 +18,18 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "Dariusz Klimczak w \"Graffiti\". Transmisja online",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/dariusz-klimczak-w-graffiti-transmisja-online-1/",
+      "description": "Gościem Marcina Fijołka we wtorkowym Graffiti będzie minister infrastruktury Dariusz Klimczak. Transmisja w Polsacie, Polsat News oraz na polsatnews.pl i stronie głównej Interii od 7:40.",
+      "pubDate": "Tue, 21 Oct 2025 06:19:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
       "title": "Australia news live: China claims RAAF aircraft ‘illegally’ entered its airspace during flares incident; ANZ says all services back to normal after outage",
       "link": "https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb",
       "description": "<p>Follow today’s news live</p><ul><li><p>Analysis: <a href=\"https://www.theguardian.com/australia-news/2025/oct/21/diplomatic-triumph-or-capitulation-albanese-found-donald-trump-in-a-heavenly-mood-but-the-devil-may-be-in-the-detail\">Diplomatic triumph or ‘capitulation’? Albanese found Donald Trump in a heavenly mood but the devil may be in the detail</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p><p></p></li></ul><p>The foreign affairs minister was asked about <strong>Donald Trump</strong>’s remark that he didn’t like the Australian ambassador, <strong>Kevin Rudd,</strong> and “probably never will” during the White House meeting early this morning.</p><p>Trump made the testy remark, telling Rudd “I don’t like you either”, at the White House cabinet room table, prompting uncomfortable laughter. <strong>Penny Wong</strong> told RN the ambassador had done an “extremely good job” getting the meeting between the US president and Albanese:</p><p>Look, I think those comments were clearly tongue-in-cheek. I’m very pleased that the meeting has been such a success. That is a good thing for our country. It’s extremely good to have this critical minerals deal backed in, and it’s extremely positive for the country to have the president so supportive of Aukus and the delivery of the submarines, which is an important capability for us.</p><p>Kevin did an extremely good job not only in getting the meeting but doing the work on the critical minerals deal. And the meeting reflects the success of that work.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 04:08:58 GMT",
+      "pubDate": "Tue, 21 Oct 2025 04:16:48 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
@@ -418,14 +426,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Woman trying to burn cockroach sets South Korea apartment alight",
-      "link": "https://www.bbc.com/news/articles/c0l7z53pe4go?at_medium=RSS&at_campaign=rss",
-      "description": "A neighbour died after falling to the ground in a failed attempt to escape through a window.",
-      "pubDate": "Tue, 21 Oct 2025 02:26:47 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "What caused Amazon’s AWS outage, and why did so many major apps go offline?",
       "link": "https://www.aljazeera.com/news/2025/10/21/what-caused-amazons-aws-outage-and-why-did-so-many-major-apps-go-offline?traffic_source=rss",
       "description": "Amazon Web Services, a cloud platform that supports a portion of the internet, experienced a massive outage on Monday.",
@@ -760,6 +760,14 @@
       "pubDate": "Mon, 20 Oct 2025 21:32:50 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
+    },
+    {
+      "title": "Catholic clergy sex abuse survivors hopeful after Pope Leo meeting",
+      "link": "https://www.bbc.com/news/articles/cev1e7kw0d3o?at_medium=RSS&at_campaign=rss",
+      "description": "The Pope acknowledged \"resistance in some parts of the world\" to permanently remove a priest who abuses a child, the group said.",
+      "pubDate": "Mon, 20 Oct 2025 21:21:10 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
     },
     {
       "title": "Merz mobilizuje i ogłasza walkę z AfD. \"Wyciągnięta ręka chce nas zniszczyć\"",
@@ -2178,17 +2186,17 @@
       "source": "Polsat News"
     },
     {
-      "title": "A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game",
-      "link": "https://www.wired.com/story/betterguards-ankle-guard-nba-players/",
-      "description": "Betterguards has teamed up with the NBA Training Association to outfit players with its adaptive ankle brace. The pro ballers are avoiding serious injury while evaluating the stabilizing design.",
+      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
+      "link": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
+      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
       "pubDate": "Mon, 20 Oct 2025 10:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
     },
     {
-      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
-      "link": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
-      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
+      "title": "A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game",
+      "link": "https://www.wired.com/story/betterguards-ankle-guard-nba-players/",
+      "description": "Betterguards has teamed up with the NBA Training Association to outfit players with its adaptive ankle brace. The pro ballers are avoiding serious injury while evaluating the stabilizing design.",
       "pubDate": "Mon, 20 Oct 2025 10:00:00 +0000",
       "imageUrl": "",
       "source": "Wired"
@@ -2302,14 +2310,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/dron-wymusil-zamkniecie-lotniska-samoloty-zostaly-przekierowane/",
       "description": "W niedzielę z powodu zauważenia drona, na 35 minut zamknięte zostało lotnisko na Majorce. To trzeci największy port lotniczy w Hiszpanii. Według informacji podanych przez Diario de Mallorca, osiem lotów zostało przekierowanych.",
       "pubDate": "Mon, 20 Oct 2025 09:23:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
-      "title": "\"W żadnej z naszych stolic\". Litewski minister wskazał miejsce dla Putina w Europie",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/w-zadnej-z-naszych-stolic-litewski-minister-wskazal-miejsce-dla-putina-w-europie/",
-      "description": "- Jedyne miejsce dla Putina w Europie znajduje się w Hadze przed trybunałem, a nie w żadnej z naszych stolic – powiedział szef MSZ Litwy Kestutis Budrys przed spotkaniem ministrów spraw zagranicznych UE w Luksemburgu. Tym samym nawiązał do planowanych w Budapeszcie rozmów prezydentów Donalda Trumpa i Władimira Putina.",
-      "pubDate": "Mon, 20 Oct 2025 09:02:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
     },
