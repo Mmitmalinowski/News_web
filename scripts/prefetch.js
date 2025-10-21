@@ -108,7 +108,23 @@ function extractItemsFromParsed(parsed){
       if(!link && it.guid) link = (typeof it.guid === 'string' ? it.guid : (it.guid['#text'] || ''));
       const rawDescription = (it.description && (typeof it.description === 'string' ? it.description : it.description['#text'])) || (it.summary && it.summary['#text']) || '';
       const pubDate = it.pubDate || it.published || it.updated || '';
-      const image = (it.enclosure && it.enclosure['@_url']) || '';
+      
+      // Extract image from multiple sources
+      let image = '';
+      // 1. Try enclosure
+      if(it.enclosure && it.enclosure['@_url']) image = it.enclosure['@_url'];
+      // 2. Try media:content
+      if(!image && it['media:content'] && it['media:content']['@_url']) image = it['media:content']['@_url'];
+      // 3. Try media:thumbnail
+      if(!image && it['media:thumbnail'] && it['media:thumbnail']['@_url']) image = it['media:thumbnail']['@_url'];
+      // 4. Try thumbnail
+      if(!image && it.thumbnail && typeof it.thumbnail === 'string') image = it.thumbnail;
+      if(!image && it.thumbnail && it.thumbnail['@_url']) image = it.thumbnail['@_url'];
+      // 5. Extract from description HTML
+      if(!image && rawDescription){
+        const imgMatch = rawDescription.match(/<img[^>]+src=["']([^"']+)["']/i);
+        if(imgMatch) image = imgMatch[1];
+      }
 
       // decode HTML entities in title and description
       const title = rawTitle ? he.decode(rawTitle) : '';
