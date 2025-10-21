@@ -373,16 +373,25 @@ function populateSourceSelect(){
   // Nie dodajemy tutaj obsługi kliknięcia - jest już w globalnym handlerze
 
   if(panelList){
-    // Render a two-column checkbox grid for better UX (clickable labels, nicer styling)
+    // Render a checkbox grid for UX
     panelList.innerHTML = '';
     const grid = document.createElement('div');
     grid.className = 'source-grid';
     sources.forEach(s => {
+      // Użyjmy bezpiecznego ID
       const id = 'chk_' + s.replace(/[^a-z0-9]/gi,'_');
+      
+      // Stwórzmy element label (cały wiersz)
       const item = document.createElement('label');
       item.className = 'source-grid-item';
       item.htmlFor = id;
-      const cb = document.createElement('input'); cb.type = 'checkbox'; cb.value = s; cb.id = id; cb.checked = true;
+      
+      // Checkbox
+      const cb = document.createElement('input'); 
+      cb.type = 'checkbox'; 
+      cb.value = s; 
+      cb.id = id; 
+      cb.checked = true;
       
       // Ważne: dodajemy nasłuchiwacz zdarzeń, który wywołuje applyFilters
       cb.addEventListener('change', () => { 
@@ -391,12 +400,20 @@ function populateSourceSelect(){
         applyFilters(); 
       });
       
-      const span = document.createElement('span'); span.textContent = s;
-      item.appendChild(cb); item.appendChild(span);
+      // Etykieta - tekst źródła
+      const span = document.createElement('span'); 
+      span.textContent = s;
+      span.setAttribute('data-source', s); // Dodaj atrybut do debugowania
+      
+      // Najpierw dodajmy checkbox, potem span
+      item.appendChild(cb); 
+      item.appendChild(span);
+      
+      // Dodajmy element do gridu
       grid.appendChild(item);
     });
-    panelList.appendChild(grid);
     
+    panelList.appendChild(grid);
     console.log(`Dodano ${sources.length} źródeł do listy`);
   }
 
@@ -603,46 +620,52 @@ window.addEventListener('DOMContentLoaded', async () => {
   }
 });
 
-    // Attach a single global handler to toggle the source panel. This avoids lost bindings when the panel is re-rendered.
+    // Obsługa dropdownu do filtrowania źródeł
     document.addEventListener('DOMContentLoaded', () => {
+      console.log("Inicjalizacja obsługi dropdown");
+      
       const dropdown = document.getElementById('sourceDropdown');
       const panel = document.getElementById('sourcePanel');
-      if(!dropdown || !panel) return;
       
-      // Usuń wszystkie istniejące nasłuchiwacze (bezpieczna metoda)
-      const newDropdown = dropdown.cloneNode(true);
-      dropdown.parentNode.replaceChild(newDropdown, dropdown);
+      if(!dropdown || !panel) {
+        console.error("Nie znaleziono elementów dropdown lub panel");
+        return;
+      }
       
-      // Dodaj nowy nasłuchiwacz
-      newDropdown.addEventListener('click', (e) => { 
-        e.stopPropagation(); 
+      // Obsługa kliknięcia w dropdown (prostszy sposób)
+      dropdown.onclick = function(e) {
+        e.stopPropagation();
+        
+        // Przełącz widoczność panelu
         if(panel.style.display === 'block') {
           panel.style.display = 'none';
-          newDropdown.setAttribute('aria-expanded', 'false');
+          dropdown.setAttribute('aria-expanded', 'false');
         } else {
+          // Pokaż panel
           panel.style.display = 'block';
-          newDropdown.setAttribute('aria-expanded', 'true');
-          // update label when opened
-          const lbl = document.getElementById('sourceDropdownLabel');
-          if(lbl && typeof window.updateDropdownLabel === 'function') {
-            try{ window.updateDropdownLabel(); }catch(e){}
+          dropdown.setAttribute('aria-expanded', 'true');
+          
+          // Zaktualizuj etykietę
+          if(typeof window.updateDropdownLabel === 'function') {
+            try{ window.updateDropdownLabel(); } catch(e) { console.error("Błąd aktualizacji etykiety", e); }
           }
         }
-        console.log("Panel display style:", panel.style.display); // Debug
+        
+        console.log("Przełączono panel, aktualny stan:", panel.style.display);
+      };
+      
+      // Zatrzymaj propagację kliknięć w panelu
+      panel.onclick = function(e) {
+        e.stopPropagation();
+      };
+      
+      // Zamykanie przy kliknięciu poza dropdown
+      document.addEventListener('click', function() {
+        panel.style.display = 'none';
+        dropdown.setAttribute('aria-expanded', 'false');
       });
       
-      // Zatrzymaj propagację kliknięć wewnątrz panelu
-      panel.addEventListener('click', (e) => e.stopPropagation());
-      
-      // Zamykaj panel przy kliknięciu poza nim
-      document.addEventListener('click', (e) => { 
-        if(panel && !panel.contains(e.target) && !newDropdown.contains(e.target)) {
-          panel.style.display = 'none';
-          newDropdown.setAttribute('aria-expanded', 'false');
-        }
-      });
-      
-      console.log("Panel event handlers attached"); // Debug
+      console.log("Inicjalizacja dropdown zakończona");
     });
 
 // Automatyczne odświeżanie artykułów co 5 minut

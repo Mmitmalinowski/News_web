@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <title>Test Dropdown</title>
+  <style>
+    .source-grid {
+      display: block;
+      padding: 0;
+      margin: 0;
+      max-height: 320px;
+      overflow-y: auto;
+      overflow-x: hidden;
+      background: white;
+    }
+
+    .source-grid-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      margin: 0;
+      cursor: pointer;
+      background: #fff;
+      border-bottom: 1px solid #f1f5f9;
+    }
+
+    .source-grid-item input[type=checkbox] {
+      width: 18px;
+      height: 18px;
+      flex-shrink: 0;
+      cursor: pointer;
+      margin: 0;
+    }
+
+    .source-grid-item span {
+      flex: 1;
+      font-size: 14px;
+      color: #111;
+      line-height: 1.4;
+      display: block;
+      cursor: pointer;
+    }
+
+    .source-grid-item:hover {
+      background: #f6fbff;
+    }
+  </style>
+</head>
+<body>
+  <h2>Test struktury dropdown</h2>
+  
+  <div class="source-grid">
+    <label class="source-grid-item">
+      <input type="checkbox" checked>
+      <span>Polsat News</span>
+    </label>
+    
+    <label class="source-grid-item">
+      <input type="checkbox" checked>
+      <span>Gazeta.pl</span>
+    </label>
+    
+    <label class="source-grid-item">
+      <input type="checkbox" checked>
+      <span>Rzeczpospolita</span>
+    </label>
+  </div>
+
+  <script>
+    // Test tworzenia elementu dynamicznie
+    const testSources = ['BBC News', 'Reuters', 'TechCrunch'];
+    const grid = document.querySelector('.source-grid');
+    
+    testSources.forEach(s => {
+      const item = document.createElement('label');
+      item.className = 'source-grid-item';
+      
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      cb.checked = true;
+      
+      const span = document.createElement('span');
+      span.textContent = s;
+      
+      item.appendChild(cb);
+      item.appendChild(span);
+      grid.appendChild(item);
+      
+      console.log('Dodano:', s);
+    });
+  </script>
+</body>
+</html>
