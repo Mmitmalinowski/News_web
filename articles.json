@@ -1,6 +1,238 @@
 {
-  "generatedAt": "2025-10-21T12:17:53.977Z",
+  "generatedAt": "2025-10-21T13:04:22.280Z",
   "items": [
+    {
+      "title": "iPad Pro M5 review: Speed boost",
+      "link": "https://www.engadget.com/mobile/tablets/ipad-pro-m5-review-speed-boost-130046249.html?src=rss",
+      "description": "<p>Apple is back with the <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.engadget.com/mobile/tablets/apples-latest-ipad-pro-get-a-power-boost-with-the-new-m5-chip-131036435.html\">latest version of the iPad Pro</a>, and <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.engadget.com/mobile/tablets/ipad-air-m3-review-a-modest-update-thats-still-easy-to-recommend-130045196.html\">like the iPad Air</a> earlier this year the surface-level changes are minimal. Like that iPad Air, there’s a new chip on board here. It’s the M5, which was also added to the 14-inch MacBook Pro and Vision Pro. There are new Apple-designed networking chips: the N1 handles Wi-Fi 7, Bluetooth 6 and Thread, while the C1X handles 5G connectivity. Both of those chips debuted <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.engadget.com/mobile/smartphones/iphone-air-review-thinness-with-purpose-120037520.html\">in the iPhone Air</a> last month, so this is the first time they’re in an iPad. Finally, the iPad Pro supports fast charging for the first time; you can get to a 50 percent charge in about 30 minutes using a 60W power adaptor.</p> \n<p>Compared to the redesign Apple introduced with the M4 iPad Pro in 2024, this is very much a minor spec bump. It makes sense for Apple to ensure the iPad Pro has its most performant chips as soon as they are released. If you’re charging customers upwards of $1,000 for an iPad Pro, it had better be on the bleeding edge. (The 13-inch iPad Pro I'm testing with 1TB of storage and 5G connectivity costs $2,099, plus the $349 Magic Keyboard.)</p> <span id=\"end-legacy-contents\"></span> \n<p>As such, the iPad Pro M5 is fairly easy to understand. Want a new iPad Pro? You’re now getting exactly what Apple offered a week ago, plus some impressive performance gains for specific tasks. Almost no one who bought an M4 iPad Pro should upgrade to this one, but anyone using an older model will find a ton to appreciate here.</p> \n<p>And while the hardware hasn’t radically changed, iPadOS has. The recent iPadOS 26 release introduced an entirely new multitasking system, a significantly improved Files app and more support for background processes, to name just a few of the highlights. Those things are best appreciated on a powerful device with a large screen like the 13-inch iPad Pro M5 I’m reviewing here. For years, the question that has dogged the iPad Pro is when its software would match up to its undeniably impressive hardware. I think the combo of iPadOS 26 paired with this hardware is a winner, but as always the price is going to be a sticking point.</p> \n<p> <core-commerce id=\"98b8cfaf57b54b8095c96293b044832f\" data-type=\"product-list\" data-original-url=\"https://www.amazon.com/Apple-iPad-Pro-13-inch-Landscape/dp/B0FWD1MS82/?th=1\"></core-commerce></p> \n<h2 id=\"jump-link-m5\">M5</h2> \n<p>As mentioned, <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.engadget.com/computing/apples-m5-chip-pushes-ai-performance-with-new-neural-accelerators-193745702.html\">the M5 chip</a> is the big change for the iPad Pro, and if you’re coming from a device older than last year’s M4 model you can expect a big performance increase when you start pushing the envelope of what you can do.</p> \n<p>Before getting into the nitty gritty, here’s a rundown of what’s different from last year. Probably the most significant change is that the M5’s GPU now includes a “neural accelerator” on each of its 10 cores, an architectural tweak that’ll unsurprisingly give the chip more muscle when using the GPU for AI-related tasks. Beyond the neural accelerators, the GPU is also up to 30 percent faster in graphics performance, and the third-generation ray-tracing engine here is up to 45 percent faster in apps using ray tracing.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d911-ae0f-11f0-adf6-237a61d04241\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d911-ae0f-11f0-adf6-237a61d04241\" style=\"height:1353px;width:2400px;\" alt=\"Review photos of Apple's iPad Pro M5, released in October 2025.\" data-uuid=\"398232d9-1c18-38d4-9307-ff54b7198b54\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Nathan Ingraham for Engadget \n </div> \n</figure> \n<p>The standard CPU cores (four performance, six efficiency) are also faster than last year’s model, though less dramatically so. That’s not a surprise, as each successive M-series chip has gotten similar modest performance gains over the years. (Note that the iPad Pros with 256GB or 512GB of storage only get three performance cores. They also come with 12GB of RAM compared to the 16GB in configurations with more storage, but that’s more than the 8GB of RAM in the last generation’s equivalent options.) The Neural Engine has been upgraded, as well. Apple is also promising big gains in memory bandwidth, which now hits 153GB/s (nearly 30 percent higher than on the M4). Finally, read/write speeds to storage are up to two times faster than in last year’s model. </p> \n<p>Doing some benchmarking with the Geekbench 6 and Geekbench AI apps show the expected major gains for GPU and AI performance. Single-core and multi-core CPU tests with Geekbench 6 come in at about 15 percent and 10 percent better than the iPad Pro M4, but GPU performance has increased more than 32 percent.</p> \n<p>Things are more dramatic when you look specifically at the Geekbench AI results. The app offers three scores (single precision, half precision and quantized) and can be run on three different chip backends (CPU, GPU and Neural Engine). When running the CPU- and Neural Engine-based benchmarks, the M5 only bested the M4 by single-digit percentages. But when using the GPU, the M5’s single-precision score was 22.4 percent better than the M4. Half precision and quantized performance was even more impressive — the M5 scored 85 percent and 101 percent better than the M4, respectively. </p> \n<p>The story this tells is that unless you’re hitting your GPU hard with AI tasks, the M5 isn’t massively better than the M4. Not a huge surprise, and most people who shelled out for an iPad Pro in the last 18 months should still be plenty happy with their purchases. But those GPU scores show off exactly where the M5 can stretch its wings compared to its predecessor. </p> \n<p>As I’ve only had the iPad Pro M5 for less than a week, I’m still comparing the M4 to M5 iPad Pro on specific AI-focused tasks and in certain apps and will update this review with more details later this week.</p> \n<p>The caveat with all of this is that while the M5 is incredibly powerful, it’s also overkill for most things that people are going to use an iPad for. An iPad Pro with the M2 chip from 2022 still feels plenty responsive for most standard tasks that don’t require exceptional speed or power. Yes, there are definitely people buying an iPad Pro and maxing out its impressive capabilities, and those who do so will appreciate the performance here. But for everyone else, the M5 alone isn’t going to change how you use the iPad Pro on a day-to-day basis.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d910-ae0f-11f0-92d7-2da4dca5ede1\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c1d910-ae0f-11f0-92d7-2da4dca5ede1\" style=\"height:1353px;width:2400px;\" alt=\"Review photos of Apple's iPad Pro M5, released in October 2025.\" data-uuid=\"b15306b6-63ca-34cd-b891-ebbbef82ff06\"> \n <figcaption>\n   Apple's 13-inch iPad Pro M5 is on the left; the 11-inch iPad Pro M4 is on the right. \n </figcaption> \n <div class=\"photo-credit\">\n   Nathan Ingraham for Engadget \n </div> \n</figure> \n<h2 id=\"jump-link-hardware-and-display-are-still-stunning\">Hardware and display are still stunning</h2> \n<p>Anyone upgrading from an iPad Pro older than last year’s M4 model is in for a treat far beyond sheer performance. The iPad Pro M5 is physically identical to the prior one, but that doesn’t matter because I think this is still the single most impressive device Apple makes. I went deep into the many changes Apple made last year <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.engadget.com/ipad-pro-2024-review-so-very-nice-and-so-very-expensive-210012937.html\">in my review of the iPad Pro M4</a>, and everything I said there still applies.</p> \n<p>But to recap, the iPad Pro is extremely portable despite its performance chops. Apple made it about 20 percent thinner and about a quarter-pound lighter than the iPad Pro models Apple sold from 2018 through 2023. This radically improves the experience of using it. If you’re holding it like a tablet, the 13-inch model is now light and thin enough to be comfortable for extended use without having to put it down. Doing anything with the on-screen keyboard while holding it is still pretty awkward and the 11-inch option still feels like the best size for hand-held tasks. But the 13-inch iPad Pro I’m reviewing is noticeably easier to hold than the iPad Air because of its reduced weight and slimmer profile.</p> \n<p>The only complaint I might have about that thinness is it prevents Apple from shoving a bigger battery in here. The iPad Pro M5 gets the same 10-hour battery life rating (for surfing the web or watching videos) that every iPad has gotten since the tablet was released in 2010. But in recent years, Apple has, to some degree, stopped focusing on making every device as thin as possible at the potential expense of things like performance or battery life. Clearly, performance isn’t an issue here. But the same people who value extended battery life in a thicker device when using things like the MacBook Pro might feel the same here.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c2c370-ae0f-11f0-bfef-6cb70312cc7a\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c2c370-ae0f-11f0-bfef-6cb70312cc7a\" style=\"height:1353px;width:2400px;\" alt=\"Review photos of Apple's iPad Pro M5, released in October 2025.\" data-uuid=\"655e5d5e-f203-3110-a674-a4b81b923653\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Nathan Ingraham for Engadget \n </div> \n</figure> \n<p>That’s a valid opinion, but a tablet is meant to be held in your hands and carried around with you even more so than a laptop, so I understand why Apple values portability over extending the iPad Pro’s battery life. Plus, the iPad Pro M5’s fast-charging capabilities make it pretty easy to extend its life. Using Apple's <a data-i13n=\"cpos:6;pos:1\" href=\"https://www.engadget.com/mobile/smartphones/apples-new-iphone-charger-dynamically-switches-between-40-and-60w-123053563.html\">new 40W Dynamic Charger</a> that can automatically step up to 60W, I got from 23 percent to 70 percent in 35 minutes. That’s a tad slower than the 50 percent charge in 30 minutes Apple claims, but we’re well within the “close enough” range.</p> \n<p>One thing I didn’t get to test last year with the iPad Pro M4 was its durability. The tablet’s extremely thin design reminded people of past Apple devices that had had some issues with flexing. After over a year with the previous iPad Pro, I’m not at all worried about this one. I’ve taken an iPad Pro M4 all around the US and internationally with no issues. Granted, it’s usually in its keyboard case, but I’ve also traveled with it in the basic Smart Folio Apple sells and have seen no evidence of bending. I also don’t remember seeing any reports about durability issues from owners over the last 18 months, so I wouldn’t worry about its long-term durability.</p> \n<p>I don’t have a great read on how long the iPad Pro M5 lasts away from its charger just yet — in the first few days with a new device it’s often downloading a lot of data from backups and doing some optimizing, thus not giving you a great feel for how long it’ll usually last. But so far, performance seems similar to the iPad Air M3 and iPad Pro M4 I’ve reviewed recently. I was getting between seven and eight hours while using the Magic Keyboard, and I’m guessing that I’ll blow past the 10-hour estimate when watching locally-stored video. More details on that to come.</p> \n<p></p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cef870-ae0f-11f0-a7d3-ef3a4d02f9e8\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cef870-ae0f-11f0-a7d3-ef3a4d02f9e8\" style=\"height:1353px;width:2400px;\" alt=\"Review photos of Apple's iPad Pro M5, released in October 2025.\" data-uuid=\"e4c23e76-4d70-31a1-8cf7-2caeb00041c1\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Nathan Ingraham for Engadget \n </div> \n</figure> \n<p>Performance, check. Design, check. The third thing that continues to impress me about the iPad Pro is its screen. It quite simply has the nicest display I have ever seen on a portable device, be it a laptop, phone or tablet. Apple’s tandem OLED display (two OLED panels layered on top of each other) is the same in all respects as it was last year. That means the 13-inch screen has a 2,752 x 2,064 resolution (264 ppi) and standard brightness that can hit 1,000 nits, or up to 1,600 nits peak for HDR content. Aside from the OLED display, the only display improvements the iPad Pro has that the iPad Air doesn’t is ProMotion support for 120Hz refresh rates as well as a nano-texture glass option for the 1TB and 2TB models.</p> \n<p>To be clear, though, the iPad Pro’s screen is in a completely different ballpark than the one on the iPad Air. Between the much faster refresh rate, high brightness levels, completely dark blacks and wonderful contrast, there’s no question this screen far surpasses what you’ll find on any other iPad. Professionals who do detailed work in video, photography, drawing with the Apple Pencil Pro or graphic design will appreciate all of these features. But it also makes something like kicking back on a plane to watch a movie more enjoyable.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cb27e0-ae0f-11f0-a0ff-785c5d29c659\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1cb27e0-ae0f-11f0-a0ff-785c5d29c659\" style=\"height:1353px;width:2400px;\" alt=\"Review photos of Apple's iPad Pro M5, released in October 2025.\" data-uuid=\"702f9db9-82ac-39ad-a245-ed06f7912da0\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Nathan Ingraham for Engadget \n </div> \n</figure> \n<h2 id=\"jump-link-ipados-26\">iPadOS 26</h2> \n<p>In last year’s iPad Pro M4 review, I wrote: “Apple has shown no indication it’s going to make iPadOS more like a Mac.” As such, I recommended people not buy an iPad Pro unless they were happy with the limitations that have been inherent to iPadOS for a long time. It took Apple until this summer, but its latest updates rendered my earlier words invalid. With iPadOS 26, Apple pretty much said “screw it” and addressed nearly every big software complaint users have had.</p> \n<p>As a quick refresher: apps still open in full screen by default, but you can now grab the corner and resize it to any shape you see fit; you can then stack up as many windows as you want in that view. Apps are also much better at remembering their size and position on your screen than ever before. If you swipe up and dismiss all the apps you’re working with and then re-open one, it’s right in the same place you left it. If you want to throw something back in full-screen, the familiar “stoplight” controls from the Mac are available for easy window management.</p> \n<p>You can swipe up and hold for a second from the bottom of the screen to enter Expose, which shows every open window in your view. Swiping right shows all the full-screen apps you have open. If you have an app in full screen, you can switch back to a windowed app that’ll just float on top of what you’re working in. There’s also a menu bar at the top of the screen that makes it easy to access advanced controls for whatever you’re using.</p> \n<p>As I said when I first started testing out iPadOS 26 in the summer, the end result of all these changes is that your iPad (no matter which kind) will feel significantly more capable with this software update. And there are other features that power users will appreciate, like a significantly improved Files app. Since it’s easier to have multiple windows, moving things around or dragging and dropping things into apps is a lot simpler. And there are improved sorting options as well, while PDFs finally open in the new Preview app rather than within Files .</p> \n<p>Background task capabilities have also been significantly expanded. For example, Final Cut Pro can now render video in the background, whereas before, switching to a different app would put the lengthy and intensive process on pause. And developers can tap into this API to use it for their own apps, too.</p> \n<p>I can’t say for sure that this will answer all the complaints of various iPad Pro owners out there, but I think Apple has gotten about as close as it can without just putting macOS on the device and calling it a day. Even with the big updates to iPadOS, an iPad Pro isn’t for everyone. Plenty of people will still choose a traditional laptop. But the iPad has always offered a pretty unique blend of power and portability, and with better software it’s a more viable option than ever.</p> \n<figure> \n <img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c27550-ae0f-11f0-897d-d08d0f3ba0b0\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/d1c27550-ae0f-11f0-897d-d08d0f3ba0b0\" style=\"height:1353px;width:2400px;\" alt=\"Review photos of Apple's iPad Pro M5, released in October 2025.\" data-uuid=\"d2250cec-2c69-350e-874f-5be5a0d29188\"> \n <figcaption></figcaption> \n <div class=\"photo-credit\">\n   Nathan Ingraham for Engadget \n </div> \n</figure> \n<h2 id=\"jump-link-wrap-up\">Wrap-up</h2> \n<p>My viewpoint on the iPad Pro hasn’t changed since last year. I still find it a wildly impressive device that is unlike much else you can buy. Just like the last model, it has Apple’s newest chip, the best display Apple has made (aside from its $5,000 Pro XDR monitor) and a physical design that feels almost impossible given how much technology is crammed inside. It’s truly delightful, and it’s even more capable than before thanks to the combination of iPadOS 26 and the M5 chip.</p> \n<p>However, I still can’t stomach that price. $1,299 for a 13-inch iPad with 256GB of storage, no 5G connectivity and no Magic Keyboard is a <em>lot</em> of money, even if it is as capable as a similarly-priced laptop. Given the incredible technology inside of the iPad Pro, I can understand why it’s so expensive. And it's powerful enough that some buyers will be able to use it for three, four, even five years before they feel the need to update, which makes the up-front investment a little less burdensome. It's not the kind of device you need to replace annually, that's for sure. But unless you are going to use it as your main computer — all day, every day — and know exactly what benefits you’ll get from the iPad over a more traditional laptop, you’re probably better off buying an iPad Air and saving yourself a lot of money.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/tablets/ipad-pro-m5-review-speed-boost-130046249.html?src=rss",
+      "pubDate": "Tue, 21 Oct 2025 13:00:46 +0000",
+      "imageUrl": "",
+      "source": "Engadget"
+    },
+    {
+      "title": "Po rozróbach na koncercie Maksa Korża: Azyl zamiast deportacji?",
+      "link": "https://www.rp.pl/spoleczenstwo/art43210641-po-rozrobach-na-koncercie-maksa-korza-azyl-zamiast-deportacji",
+      "description": "Wstrzymana deportacja trójki cudzoziemców zatrzymanych za rozróbę na koncercie Maksa Korża na Stadionie Narodowym. Chcą w Polsce ochrony. Śledztwa w sprawie wniesienia flagi UPA nie będzie.",
+      "pubDate": "Tue, 21 Oct 2025 15:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/bb36ad479b1515095981697c4d570447/koncern-maksa-korzha-na-pge-narodowym-zakonczyl-sie-rozrobami?t=crop:3631:1587:nowe:0:286,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Oakley Meta Vanguard Review: The Do-It-All Smart Glasses",
+      "link": "https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/",
+      "description": "Meta's second collaboration with Oakley look good, sound great, and might just replace your action cam.",
+      "pubDate": "Tue, 21 Oct 2025 13:00:00 +0000",
+      "imageUrl": "",
+      "source": "Wired"
+    },
+    {
+      "title": "Apple iPad Pro (M5, 2025) Review: Tremendously Powerful",
+      "link": "https://www.wired.com/review/apple-ipad-pro-m5-2025/",
+      "description": "Apple’s flagship tablet hones in on power, but it‘s the desktop-like iPadOS 26 experience that makes it shine.",
+      "pubDate": "Tue, 21 Oct 2025 13:00:00 +0000",
+      "imageUrl": "",
+      "source": "Wired"
+    },
+    {
+      "title": "Będzie wniosek o kontrolę w Narodowym Banku Polskim. Posłowie zwrócili się do NIK",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32341786,bedzie-wniosek-o-kontrole-w-narodowym-banku-polskim-poslowie.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/88/d7/1e/z32341896IHG,Dariusz-Jonski-i-Michal-Szczerba.jpg' align='left' hspace='4' vspace='2'>Dariusz Joński i Michał Szczerba zwrócili się do prezesa Naczelnej Izby Kontroli o sprawdzenie polityki zatrudnienia w banku centralnym. O co chodzi?",
+      "pubDate": "Tue, 21 Oct 2025 12:55:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/88/d7/1e/z32341896IHG,Dariusz-Jonski-i-Michal-Szczerba.jpg",
+      "source": "Gazeta.pl"
+    },
+    {
+      "title": "Rynek wtórny. Ceny mieszkań poszły w górę",
+      "link": "https://www.rp.pl/nieruchomosci/art43211881-rynek-wtorny-ceny-mieszkan-poszly-w-gore",
+      "description": "Średnie ceny ofertowe mieszkań wystawionych na sprzedaż we wrześniu najbardziej, o 2,9 proc., wzrosły w Gdańsku. Lokale zdrożały też w Poznaniu i Olsztynie – wynika z analiz Grupy Morizon-Gratka.",
+      "pubDate": "Tue, 21 Oct 2025 14:54:23 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/9fffd0ee69ea72f090952b1725ad57bf/?t=crop:948:414:nowe:0:89,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Interwencja policji zakończyła się tragedią. Nie żyje 47-latek",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/interwencja-policji-zakonczyla-sie-tragedia-nie-zyje-47-letni-pacjent/",
+      "description": "Bydgoscy policjanci zostali wezwani do pomocy ratownikom medycznym przy agresywnym pacjencie. 47-letni mężczyzna stawiał czynny opór, uderzył w twarz jednego z ratowników i zaatakował policjanta. Funkcjonariusze użyli gazu pieprzowego, paralizatora oraz siły fizycznej, aby go obezwładnić. Kiedy się udało, ratownik podał mu środek uspokajający. Mężczyzna stracił przytomność i zmarł w szpitalu.",
+      "pubDate": "Tue, 21 Oct 2025 14:54:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Japan's first female leader: A historic moment with caveats",
+      "link": "https://www.bbc.com/news/articles/cze6dgxlzwxo?at_medium=RSS&at_campaign=rss",
+      "description": "Sanae Takaichi, Japan's first female prime minister, is not known for progressive views on women's equality.",
+      "pubDate": "Tue, 21 Oct 2025 12:53:58 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Przed wyborami w Holandii ostrzeżenie przed AI. „Źle doradza, polaryzuje”",
+      "link": "https://www.rp.pl/polityka/art43211841-przed-wyborami-w-holandii-ostrzezenie-przed-ai-zle-doradza-polaryzuje",
+      "description": "Autoriteit Persoonsgegevens (AP), holenderski organ nadzorujący ochronę danych osobowych (odpowiednik polskiego UODO) przed wyborami parlamentarnymi w Holandii przestrzega wyborców, by nie polegali na radach sztucznej inteligencji przy decydowaniu na kogo oddadzą swój głos.",
+      "pubDate": "Tue, 21 Oct 2025 14:51:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/0eb388cc875649c016435c19d583a3ae/geert-wilders?t=crop:5500:2404:nowe:0:632,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Piotr Ciechowicz: Pomorze: przełom energetyczny i półprzewodnikowy | EFNI 2025",
+      "link": "https://www.rp.pl/efni-2025-sopot/art43212011-piotr-ciechowicz-pomorze-przelom-energetyczny-i-polprzewodnikowy-efni-2025",
+      "description": "Dzisiaj w branży półprzewodnikowej w Polsce pracuje 5 tys. ludzi, z czego na Pomorzu 3,5 tys. Ciężko pracujemy nad rozwojem tego sektora w naszym regionie, a tymczasem Ministerstwo Rozwoju usiłuje podciąć nam skrzydła - mówi Piotr Ciechowicz, wiceprezes zarządu Agencji Rozwoju Pomorza.",
+      "pubDate": "Tue, 21 Oct 2025 14:51:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/da632400fa1d543c3a45446cd57950d8/zdjecie-z-piotrem-ciechowiczem?t=crop:1920:839:nowe:0:17.379310344828,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Trump to host GOP senators at White House amid demolition work and government shutdown – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates",
+      "description": "<p>The president will host a lunch for Republicans in the Rose Garden as construction is carried out on the White House’s east wing</p><p><strong>The Central Intelligence Agency is providing the bulk of the intelligence used to carry out the controversial lethal air strikes by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> against small, fast-going boats in the Caribbean Sea suspected of carrying drugs from Venezuela, according to three sources familiar with the operations.</strong></p><p>Experts say the agency’s central role means much of the evidence used to select which alleged smugglers to kill on the open sea will almost certainly remain secret.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:50:26 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Impact of Brexit on UK economy even worse than critics predicted, says chancellor – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates",
+      "description": "<p>Rachel Reeves also highlights austerity and lack of capital spending as key harms to UK economy</p><p>Labour is spending significantly more on levelling up projects than previous Conservative government, new research suggests.</p><p>In <a href=\"https://www.newstatesman.com/politics/2025/10/exclusive-starmer-outspends-johnson-on-levelling-up-in-first-year\">a New Statesman article</a>, <strong>Anoosh Chakelian</strong> reports on figures produced by the Independent Commission on Neighbourhoods thinktank that show that Keir Starmer has spent more on levelling up projects in his first year than any of his Tory predecessors did in the same timescale. Chakelian says:</p><p>In its first year in office, Keir Starmer’s government has invested £2bn more than Johnson did in his first year – with £4.5bn allocated to regional investment programmes in Labour’s first year compared with £2.5bn spent in the equivalent period under Johnson – according to new analysis by the Independent Commission on Neighbourhoods.</p><p>Investment in the North East will be seven times higher than under Johnson, and five times higher in the North West and Yorkshire and Humber by the end of the Parliament, based on current trends identified in this analysis of 46 government programmes and funds.</p><p>Lab, Con & LibDems today all agreed the decision by Weds Mids police to ban the Jewish fans is wrong, disgraceful etc, but nothing they can do because ‘operational independence’. Only Reform UK will change the law to put the police under the control of elected politicians.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:46:32 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Covid inquiry live: children paid ‘huge price’ to protect rest of society in pandemic, says Johnson",
+      "link": "https://www.theguardian.com/uk-news/live/2025/oct/21/covid-19-inquiry-boris-johnson-pandemic-children-lockdown-impact-live-updates",
+      "description": "<p>Former prime minister grilled over pandemic’s impact on young people and says he wishes ‘another solution’ could have been found over school closures</p><p>Former prime minister <strong>Boris Johnson</strong> tries to give the inquiry context around the decision making on the closure of educational settings. He says:</p><p>Don’t forget that we didn’t know the effect this disease had on kids. We didn’t know much about the transmissibility of the disease. There were all sorts of things that were simply unknown and difficult to plan for. And the thing was moving very fast.</p><p>And from the point of view of No 10, we were focused very much on trying to stave off, trying to avoid an appalling public health crisis, and we were focused on getting enough ventilators, on getting enough PPE, trying to avoid a significant number of casualties, and I think it’s important for the inquiry to focus, to remember that at the time that the school closures were first mentioned, they were seen as something you put in at the peak of the pandemic, and we didn’t think we were yet at the peak of the pandemic.</p> <a href=\"https://www.theguardian.com/uk-news/live/2025/oct/21/covid-19-inquiry-boris-johnson-pandemic-children-lockdown-impact-live-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:45:58 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Gaza ceasefire live: Vance arrives in Israel as Gaza officials say level of aid delivered is far below what was promised",
+      "link": "https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates",
+      "description": "<p>Gaza officials say 600 trucks of aid were supposed to enter daily, but the number actually arriving is below 90</p><p>Gaza’s Government Media Office has posted to Telegram to say only 986 aid trucks have entered the Gaza Strip since the ceasefire began just over a week ago, out of the 6,600 trucks that it says were supposed to have arrived by Monday evening.</p><p>Gaza’s Government Media Office said:</p><p><em>The humanitarian convoys included (14) trucks loaded with cooking gas and (28) diesel trucks designated to operate bakeries, generators, hospitals and various vital sectors, in light of the severe shortage of these vital materials that the population directly depends on for daily life, after long months of siege and systematic destruction caused by the genocide committed by the “Israeli” occupation against our people in the Gaza Strip.</em></p><p><em>We note that the average number of trucks entering the Gaza Strip daily since the ceasefire began does not exceed (89) trucks out of (600) trucks that are supposed to enter daily, which reflects the continued policy of strangulation, starvation and humanitarian blackmail practiced by the occupation against more than (2.4) million citizens in Gaza.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:44:46 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kinowy projekt edukacyjny KLAPS!",
+      "link": "https://www.wirtualnemedia.pl/kinowy-projekt-edukacyjny-klaps,7213248349125600a",
+      "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/1ff8d8a7-6900-404d-be48-600d2582c3fc\" width=\"308\" /> Właśnie wystartowała druga edycja projektu edukacyjnego KLAPS! – w najbliższych miesiącach w 50 kinach w całej Polsce odbędzie się aż 300 wyjątkowych spotkań poświęconych zdrowiu. ",
+      "pubDate": "Tue, 21 Oct 2025 14:42:15 +0200",
+      "imageUrl": "",
+      "source": "Wirtualne Media"
+    },
+    {
+      "title": "Szef rosyjskiego MSZ odpowiada Sikorskiemu. \"Polacy są gotowi dokonywać aktów terroru\"",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198013,32341459,szef-rosyjskiego-msz-odpowiada-sikorskiemu-polacy-sa-gotowi.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/f6/d7/1e/z32341494IHG,Siergiej-Lawrow.jpg' align='left' hspace='4' vspace='2'>- Groźby ze strony Polski w związku z przelotem prezydenta Rosji Władimira Putina świadczą o tym, że Polacy są gotowi do przeprowadzania aktów terrorystycznych - stwierdził minister spraw zagranicznych Rosji Siergiej Ławrow.",
+      "pubDate": "Tue, 21 Oct 2025 12:41:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/f6/d7/1e/z32341494IHG,Siergiej-Lawrow.jpg",
+      "source": "Gazeta.pl"
+    },
+    {
+      "title": "„Bąbel ciepła” na oceanie. Eksperci: „Dzieje się coś niezwykłego”",
+      "link": "https://klimat.rp.pl/oceany-i-lodowce/art43206441-babel-ciepla-na-oceanie-eksperci-dzieje-sie-cos-niezwyklego",
+      "description": "Wody północnego Pacyfiku osiągnęły tego lata rekordowe temperatury – wynika z najnowszych badań. Eksperci przyznają, że choć oczywiste jest dla nich, iż zmiany klimatu wpływają na ocieplenie oceanów, to skala tej anomalii ich zaskoczyła.",
+      "pubDate": "Tue, 21 Oct 2025 14:40:49 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/00acf30da64a1397e60bbe0630f7b315/?t=crop:2000:874:nowe:0:313,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Karolina Demus: Potrzebny dialog rządu z biznesem w sprawie bezpieczeństwa lekowego |EFNI 2025",
+      "link": "https://www.rp.pl/efni-2025-sopot/art43211961-karolina-demus-potrzebny-dialog-rzadu-z-biznesem-w-sprawie-bezpieczenstwa-lekowego-efni-2025",
+      "description": "To, co może zrobić rząd, to prowadzić bardzo otwarty dialog między biznesem a sektorem publicznym, aby wzmacniać bezpieczeństwo lekowe - mówi Karolina Demus, prezes Sandoz w Polsce. Jak tłumaczy, obecnie jesteśmy w stanie zaspokoić popyt na leki, ale w przypadku kryzysu, może się to okazać problemem z uwagi na uzależnienie od Azji, jeżeli chodzi o dostawy komponentów niezbędnych do produkcji leków.",
+      "pubDate": "Tue, 21 Oct 2025 14:38:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/a45882ffad6f965618acea332f2935d6/zdjecie-z-karolina-demus?t=crop:1920:839:nowe:0:27.310344827586,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Poland threatens Putin with arrest if he flies through its airspace on way to Hungary – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates",
+      "description": "<p>Poland’s foreign minister says Putin’s plane could be escorted down and Russian president handed to The Hague</p><p>A lawyer for <strong>Nicolas Sarkozy</strong> said a motion had been filed for his release moments after the former French president entered jail, Agence France-Presse (AFP) reports.</p><p>Attorney <strong>Christophe Ingrain</strong> told reporters:</p><p><em>A request has been filed for Nicolas Sarkozy’s release.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:37:54 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Police arrest man at Atlanta airport after getting tip he was planning to ‘shoot it up’",
+      "link": "https://www.theguardian.com/us-news/2025/oct/21/atlanta-airport-arrest",
+      "description": "<p>Police found an assault rifle and ammunition in a Georgia man’s truck after his family had contacted them</p><p>Police arrested a man at <a href=\"https://www.theguardian.com/us-news/atlanta\">Atlanta</a>’s bustling airport on Monday after getting a tip from his family that he was planning to shoot up the place – and found an assault rifle and ammunition in his truck outside, the city’s police chief said.</p><p>Billy Joe Cagle, of Cartersville, Georgia, had described his plan to shoot up the world’s busiest airport on a social media livestream, said Darin Schierbaum, the chief of police, during a news conference.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/atlanta-airport-arrest\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:37:15 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Eight countries added to methanol poisoning warning list",
+      "link": "https://www.bbc.com/news/articles/c33p7vvyp2zo?at_medium=RSS&at_campaign=rss",
+      "description": "Japan, Mexico and Peru are among the nations included in the updated Foreign Office guidance. ",
+      "pubDate": "Tue, 21 Oct 2025 12:34:46 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Weather warnings issued as potential named storm forecast to affect the UK",
+      "link": "https://www.bbc.com/weather/articles/cly9rlzy0vro?at_medium=RSS&at_campaign=rss",
+      "description": "With weather warnings issued and the potential for a named storm, Simon King takes a look at the forecast.",
+      "pubDate": "Tue, 21 Oct 2025 12:34:18 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "Video: Who is Sanae Takaichi, Japan’s first female prime minister",
+      "link": "https://www.aljazeera.com/video/newsfeed/2025/10/21/video-who-is-sanae-takaichi-japans-first-female-prime-minister?traffic_source=rss",
+      "description": "Japanese parliamentarians have elected the country’s first female prime minister. ",
+      "pubDate": "Tue, 21 Oct 2025 12:28:06 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Bank of England chief warns of ‘worrying echoes’ of 2008 financial crisis",
+      "link": "https://www.theguardian.com/business/2025/oct/21/bank-of-england-chief-warns-worrying-echoes-2008-financial-crisis-tricolor-first-brands",
+      "description": "<p>Andrew Bailey says a close look is needed at the private credit market after collapse of two big US firms </p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/21/uk-borrowing-outstrips-forecasts-reeves-amazon-web-services-outage-resolved-bank-of-england-stock-markets-business-live-news\">Business live – latest updates</a></p><p></p></li></ul><p>The governor of the Bank of England, Andrew Bailey, has warned <a href=\"https://www.theguardian.com/business/2025/oct/18/what-is-private-credit-us-first-brands-tricolor-banks\">recent events in US private credit markets</a> have worrying echoes of the sub-prime mortgage crisis that kicked off the global financial crash of 2008.</p><p><a href=\"https://www.theguardian.com/business/live/2025/oct/21/uk-borrowing-outstrips-forecasts-reeves-amazon-web-services-outage-resolved-bank-of-england-stock-markets-business-live-news\">Appearing before a House of Lords committee</a>, the governor said it was important to have the “drains up” and analyse the collapse of two leveraged US firms, First Brands and Tricolor, in case they are not isolated events but “the canary in the coalmine”.</p> <a href=\"https://www.theguardian.com/business/2025/oct/21/bank-of-england-chief-warns-worrying-echoes-2008-financial-crisis-tricolor-first-brands\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:25:30 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Konwencja programowa PiS. \"Rozpoczynamy poważnie pracę\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/konwencja-programowa-pis-rozpoczynamy-powaznie-prace/",
+      "description": "W najbliższy weekend w Katowicach odbędzie się konwencja programowa PiS pod hasłem: Myśląc Polska - Rozpoczynamy na poważnie pracę nad naszym programem na wybory w 2027 roku - powiedział serwisowi DoRzeczy.pl wicerzecznik PiS Mateusz Kurzejewski.",
+      "pubDate": "Tue, 21 Oct 2025 14:25:00 +0200",
+      "imageUrl": "",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Reeves plans to 'scrap needless form filling' for firms",
+      "link": "https://www.bbc.com/news/articles/c629z48jjg7o?at_medium=RSS&at_campaign=rss",
+      "description": "The chancellor acknowledged that for many people the economy was \"not working as it should\" and said the reforms would boost growth.",
+      "pubDate": "Tue, 21 Oct 2025 12:24:41 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
+      "title": "How Russia’s new tactics pose new winter threat to Ukraine",
+      "link": "https://www.aljazeera.com/news/2025/10/21/how-russias-new-tactics-pose-new-winter-threat-to-ukraine?traffic_source=rss",
+      "description": "Russia's modified drones are piercing Ukraine's defences at greater rates than before, targeting energy infrastructure.",
+      "pubDate": "Tue, 21 Oct 2025 12:20:23 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Mona Lisa to the Nazis: Robbed often, why latest Louvre theft is different",
+      "link": "https://www.aljazeera.com/news/2025/10/21/mona-lisa-to-the-nazis-robbed-often-why-latest-louvre-theft-is-different?traffic_source=rss",
+      "description": "Experts say jewels stolen in heists from the iconic Parisian museum are hard to recover, as they are broken down.",
+      "pubDate": "Tue, 21 Oct 2025 12:14:05 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Repair bills could force hundreds of UK churches to close within five years",
+      "link": "https://www.theguardian.com/culture/2025/oct/21/repair-bills-could-force-hundreds-of-uk-churches-to-close-within-five-years-survey",
+      "description": "<p>Two in five say their roof is at risk and one in three are using reserves for basics,  National Churches Trust survey finds</p><p>Hundreds of Britain’s churches may be forced to close in the next five years as the cost of maintaining heritage buildings becomes unmanageable, a conference at the V&A in London has heard.</p><p>Many of the UK’s 20,000-plus listed places of worship contain important heritage treasures, such as stained glass windows, and monuments of historic significance. They are also hubs for community groups and social action projects.</p> <a href=\"https://www.theguardian.com/culture/2025/oct/21/repair-bills-could-force-hundreds-of-uk-churches-to-close-within-five-years-survey\">Continue reading...</a>",
+      "pubDate": "Tue, 21 Oct 2025 12:13:23 GMT",
+      "imageUrl": "",
+      "source": "The Guardian"
+    },
     {
       "title": "Włamanie do Luwru. Rosyjski biznesmen chce kupić skradzioną biżuterię. Wskazał powód",
       "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32341462,wlamanie-do-luwru-rosyjski-biznesmen-chce-kupic-skradziona.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
@@ -10,12 +242,28 @@
       "source": "Gazeta.pl"
     },
     {
+      "title": "What to know about Trump’s plan to build $250m White House ballroom",
+      "link": "https://www.aljazeera.com/news/2025/10/21/what-to-know-about-trumps-plan-to-build-250m-white-house-ballroom?traffic_source=rss",
+      "description": "It's the first major structural change to the mansion since extensive renovations under President Truman in 1948.",
+      "pubDate": "Tue, 21 Oct 2025 12:12:12 +0000",
+      "imageUrl": "",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Sarkozy trafił do więzienia. Warunki? Luksusowe. Ale w nocy będzie musiał pokazywać, że żyje",
       "link": "https://wiadomosci.gazeta.pl/swiat/7,198075,32341334,sarkozy-trafil-do-wiezienia-warunki-luksusowe-ale-w-nocy.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/26/d7/1e/z32341542IHG,Nicolas-Sarkozy-w-drodze-do-wiezienia.jpg' align='left' hspace='4' vspace='2'>Nicolas Sarkozy trafił do więzienia. Były prezydent Francji rozpoczął odbywanie kary pięciu lat pozbawienia wolności za udział w zorganizowanej grupie przestępczej. Jego adwokaci złożyli wniosek o warunkowe zwolnienie w związku z wiekiem polityka. Warunki, na jakie może liczyć Sarkozy, są jednak - jak na więzienie - luksusowe.",
       "pubDate": "Tue, 21 Oct 2025 12:12:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/26/d7/1e/z32341542IHG,Nicolas-Sarkozy-w-drodze-do-wiezienia.jpg",
       "source": "Gazeta.pl"
+    },
+    {
+      "title": "Nie będzie dyscyplinarki dla zbuntowanego neosędziego Sądu Najwyższego. Prokurator krajowy odpuszcza",
+      "link": "https://www.rp.pl/sady-i-trybunaly/art43211641-nie-bedzie-dyscyplinarki-dla-zbuntowanego-neosedziego-sadu-najwyzszego-prokurator-krajowy-odpuszcza",
+      "description": "Sędzia Sądu Najwyższego Grzegorz Żmij, który po wyrokach europejskich trybunałów unika orzekania, nie będzie ścigany dyscyplinarnie. Domagała się tego I prezes SN Małgorzata Manowska i prokuratura Zbigniewa Ziobry. Żądania te wycofał jednak obecny Prokurator krajowy Dariusz Korneluk.",
+      "pubDate": "Tue, 21 Oct 2025 14:08:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/fa51beae99d2738b7f41a517be4e1617/prokurator-krajowy-dariusz-korneluk?t=crop:2943:1287:nowe:1126.5315863796:255.13625711901,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "32 Best Gifts for Teens (2025), Tested by Us and Our Kids",
@@ -34,30 +282,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "Impact of Brexit on UK economy even worse than critics predicted, says chancellor – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates",
-      "description": "<p>Rachel Reeves also highlights austerity and lack of capital spending as key harms to UK economy</p><p>Labour is spending significantly more on levelling up projects than previous Conservative government, new research suggests.</p><p>In <a href=\"https://www.newstatesman.com/politics/2025/10/exclusive-starmer-outspends-johnson-on-levelling-up-in-first-year\">a New Statesman article</a>, <strong>Anoosh Chakelian</strong> reports on figures produced by the Independent Commission on Neighbourhoods thinktank that show that Keir Starmer has spent more on levelling up projects in his first year than any of his Tory predecessors did in the same timescale. Chakelian says:</p><p>In its first year in office, Keir Starmer’s government has invested £2bn more than Johnson did in his first year – with £4.5bn allocated to regional investment programmes in Labour’s first year compared with £2.5bn spent in the equivalent period under Johnson – according to new analysis by the Independent Commission on Neighbourhoods.</p><p>Investment in the North East will be seven times higher than under Johnson, and five times higher in the North West and Yorkshire and Humber by the end of the Parliament, based on current trends identified in this analysis of 46 government programmes and funds.</p><p>Lab, Con & LibDems today all agreed the decision by Weds Mids police to ban the Jewish fans is wrong, disgraceful etc, but nothing they can do because ‘operational independence’. Only Reform UK will change the law to put the police under the control of elected politicians.</p> <a href=\"https://www.theguardian.com/politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 12:05:22 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Poland threatens Putin with arrest if he flies through its airspace on way to Hungary – Europe live",
-      "link": "https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates",
-      "description": "<p>Poland’s foreign minister says Putin’s plane could be escorted down and Russian president handed to The Hague</p><p>A lawyer for <strong>Nicolas Sarkozy</strong> said a motion had been filed for his release moments after the former French president entered jail, Agence France-Presse (AFP) reports.</p><p>Attorney <strong>Christophe Ingrain</strong> told reporters:</p><p><em>A request has been filed for Nicolas Sarkozy’s release.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/21/nicolas-sarkozy-france-jail-russia-ukraine-europe-news-live-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 12:01:06 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Covid inquiry live: children paid ‘huge price’ to protect rest of society in pandemic, says Johnson",
-      "link": "https://www.theguardian.com/uk-news/live/2025/oct/21/covid-19-inquiry-boris-johnson-pandemic-children-lockdown-impact-live-updates",
-      "description": "<p>Former prime minister grilled over pandemic’s impact on young people and says he wishes ‘another solution’ could have been found over school closures</p><p>Former prime minister <strong>Boris Johnson</strong> tries to give the inquiry context around the decision making on the closure of educational settings. He says:</p><p>Don’t forget that we didn’t know the effect this disease had on kids. We didn’t know much about the transmissibility of the disease. There were all sorts of things that were simply unknown and difficult to plan for. And the thing was moving very fast.</p><p>And from the point of view of No 10, we were focused very much on trying to stave off, trying to avoid an appalling public health crisis, and we were focused on getting enough ventilators, on getting enough PPE, trying to avoid a significant number of casualties, and I think it’s important for the inquiry to focus, to remember that at the time that the school closures were first mentioned, they were seen as something you put in at the peak of the pandemic, and we didn’t think we were yet at the peak of the pandemic.</p> <a href=\"https://www.theguardian.com/uk-news/live/2025/oct/21/covid-19-inquiry-boris-johnson-pandemic-children-lockdown-impact-live-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 12:00:57 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Meta will warn WhatsApp and Messenger users against scams",
       "link": "https://www.engadget.com/social-media/meta-will-warn-whatsapp-and-messenger-users-against-scams-120048067.html?src=rss",
       "description": "<p><a data-i13n=\"cpos:1;pos:1\" href=\"https://www.engadget.com/meta-is-shutting-down-its-desktop-messenger-app-202539375.html\">Meta</a> is launching new tools aimed at trying to protect Messenger and WhatsApp users from potential scams. The company says its teams have \"detected and disrupted\" nearly 8 million accounts associated with scam centers in Myanmar, Laos, Cambodia, the United Arab Emirates and the Philippines since the beginning of 2025. It has also taken action on over 21,000 Pages on Facebook pretending to be customer support services of legitimate companies. But much still needs to be done to squash scams, specifically those <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.engadget.com/us-attorneys-general-band-robocalls-055620761.html\">targeting the elderly</a> who may not be as tech-savvy or may not be aware of the scammers' latest schemes. </p>\n<p>On WhatsApp, the company will start showing users warning notices if they attempt to share their screen with someone not on their contacts list during a video call. Scammers sometimes get their targets to share their screens in order to steal sensitive information. In the warning window pictured below, Meta tells users outright to only share their screens with people they trust, since they will be able to see anything displayed on their phones, including their banking info. </p>\n<span id=\"end-legacy-contents\"></span><figure><img src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/5cbfe2c0-ae63-11f0-9b67-6b687e68b192\" data-crop-orig-src=\"https://s.yimg.com/os/creatr-uploaded-images/2025-10/5cbfe2c0-ae63-11f0-9b67-6b687e68b192\" style=\"height:871px;width:1000px;\" alt=\"A screenshot of WhatsApp's new warning screen against potential spams.\" data-uuid=\"93928b9d-9f50-3262-a1e9-1e3ca665a83f\"><figcaption></figcaption><div class=\"photo-credit\">Meta</div></figure>\n<p>The company is also testing advanced scam detection tools in Messenger chats for mobile. When a user receives a potentially scammy message, a warning notice will pop up, telling them the message is suspicious and that they can forward it to Meta for an AI review. If Meta AI detects a potential scam, it will show the user a list of common scam signs, such as job offers in exchange for money, job offers promising fast cash and work from home offers for jobs that can't possibly be done remotely. It also reminds users not to wire transfer money or send gift cards, which are very common methods scammers use to steal money from their victims. At the bottom of the page, users will have the option to report and block the account that sent them the message. </p>\n<p>Meta didn't say when the new Messenger warning tool will roll out widely. For now, it's encouraging users to set up passkeys for quick identity verification and to run Security Checkup to review their security settings and get recommendations, including updating their passwords. </p>This article originally appeared on Engadget at https://www.engadget.com/social-media/meta-will-warn-whatsapp-and-messenger-users-against-scams-120048067.html?src=rss",
@@ -66,17 +290,17 @@
       "source": "Engadget"
     },
     {
-      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
-      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
-      "description": "<p>Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge</p><p>Millions of Americans face having to ration heating this winter as the US federal government shutdown and mass layoffs by the Trump administration cause unprecedented delays in getting energy assistance aid to low-income households, a group that helps people pay energy bills has warned.</p><p>Congress approved about $4bn for the Low-Income Home Energy Assistance Program (Liheap), after Trump’s proposal to cancel the life-saving heating and cooling scheme in this year’s budget was ultimately unsuccessful.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills\">Continue reading...</a>",
+      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
+      "link": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
+      "description": "<p>New rule would prohibit states from banning dangerous chemicals, and could invalidate hundreds of protections</p><p>A new rule proposed by the Trump administration would dramatically weaken safety reviews for some of the nation’s most toxic chemicals that are already on the market, public health advocates and an EPA employee warn.</p><p>Many of the chemicals that would receive less scrutiny are among the nation’s most dangerous substances, including PFAS, formaldehyde, asbestos and dioxins. Each poses serious health risks in consumer goods, or for workers handling the substances, advocates say.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
       "imageUrl": "",
       "source": "The Guardian"
     },
     {
-      "title": "Trump EPA seeks to weaken scrutiny for some of US’s most toxic chemicals",
-      "link": "https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals",
-      "description": "<p>New rule would prohibit states from banning dangerous chemicals, and could invalidate hundreds of protections</p><p>A new rule proposed by the Trump administration would dramatically weaken safety reviews for some of the nation’s most toxic chemicals that are already on the market, public health advocates and an EPA employee warn.</p><p>Many of the chemicals that would receive less scrutiny are among the nation’s most dangerous substances, including PFAS, formaldehyde, asbestos and dioxins. Each poses serious health risks in consumer goods, or for workers handling the substances, advocates say.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/21/trump-epa-toxic-chemicals\">Continue reading...</a>",
+      "title": "Fears of heat-rationing for millions in US as shutdown delays energy aid",
+      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills",
+      "description": "<p>Most vulnerable families could be without critical energy assistance, experts warn, as electricity and gas bills surge</p><p>Millions of Americans face having to ration heating this winter as the US federal government shutdown and mass layoffs by the Trump administration cause unprecedented delays in getting energy assistance aid to low-income households, a group that helps people pay energy bills has warned.</p><p>Congress approved about $4bn for the Low-Income Home Energy Assistance Program (Liheap), after Trump’s proposal to cancel the life-saving heating and cooling scheme in this year’s budget was ultimately unsuccessful.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/us-shutdown-energy-aid-bills\">Continue reading...</a>",
       "pubDate": "Tue, 21 Oct 2025 12:00:36 GMT",
       "imageUrl": "",
       "source": "The Guardian"
@@ -90,28 +314,12 @@
       "source": "BBC News"
     },
     {
-      "title": "Gaza ceasefire live: Vance arrives in Israel as Gaza officials say level of aid delivered is far below what was promised",
-      "link": "https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates",
-      "description": "<p>Gaza officials say 600 trucks of aid were supposed to enter daily, but the number actually arriving is below 90</p><p>Gaza’s Government Media Office has posted to Telegram to say only 986 aid trucks have entered the Gaza Strip since the ceasefire began just over a week ago, out of the 6,600 trucks that it says were supposed to have arrived by Monday evening.</p><p>Gaza’s Government Media Office said:</p><p><em>The humanitarian convoys included (14) trucks loaded with cooking gas and (28) diesel trucks designated to operate bakeries, generators, hospitals and various vital sectors, in light of the severe shortage of these vital materials that the population directly depends on for daily life, after long months of siege and systematic destruction caused by the genocide committed by the “Israeli” occupation against our people in the Gaza Strip.</em></p><p><em>We note that the average number of trucks entering the Gaza Strip daily since the ceasefire began does not exceed (89) trucks out of (600) trucks that are supposed to enter daily, which reflects the continued policy of strangulation, starvation and humanitarian blackmail practiced by the occupation against more than (2.4) million citizens in Gaza.</em></p> <a href=\"https://www.theguardian.com/world/live/2025/oct/21/israel-gaza-ceasefire-jd-vance-hostages-hamas-netanyahu-latest-news-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 11:59:24 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
       "title": "Prysznic, telefon i biurko w celi. Za inne \"więzienne luksusy\" Sarkozy będzie musiał dopłacić",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/prysznic-telefon-i-biurko-w-celi-za-inne-wiezienne-luksusy-sarkozy-bedzie-musial-doplacic/",
       "description": "Nicolas Sarkozy jako pierwszy w historii prezydent Francji trafił do więzienia. W paryskim zakładzie karnym La Sante będzie przebywał w tzw. skrzydle dla VIP-ów. Karę odbywał będzie w jednoosobowej celi z łóżkiem, kuchenką i biurkiem. Za telewizor i lodówkę będzie musiał dodatkowo zapłacić. Były prezydent będzie mógł korzystać z biblioteki i sali ćwiczeń.",
       "pubDate": "Tue, 21 Oct 2025 13:59:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Trump to host GOP senators at White House amid demolition work and government shutdown – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates",
-      "description": "<p>The president will host a lunch for Republicans in the Rose Garden as construction is carried out on the White House’s east wing</p><p><strong>The Central Intelligence Agency is providing the bulk of the intelligence used to carry out the controversial lethal air strikes by the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> against small, fast-going boats in the Caribbean Sea suspected of carrying drugs from Venezuela, according to three sources familiar with the operations.</strong></p><p>Experts say the agency’s central role means much of the evidence used to select which alleged smugglers to kill on the open sea will almost certainly remain secret.</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/21/donald-trump-republicans-white-house-ballroom-government-shutdown-troops-us-politics-live-news-updates\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 11:57:31 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Były wiceminister sprawiedliwości oskarżony ws. Pegasusa",
@@ -132,9 +340,9 @@
     {
       "title": "Michał Woś oskarżony. Prokuratura Krajowa wydała komunikat",
       "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32341697,michal-wos-oskarzony-prokuratura-krajowa-wydala-komunikat.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/d9/61/1e/z31857369IHG,-.jpg' align='left' hspace='4' vspace='2'>Prokuratura Krajowa skierowała do sądu akt oskarżenia przeciwko posłowi PiS Michałowi Wosiowi. Sprawa dotyczy Funduszu Sprawiedliwości.",
+      "description": "<img src='https://bi.im-g.pl/im/ca/d7/1e/z32341962IHG,Michal-Wos--zdjecie-archiwalne-.jpg' align='left' hspace='4' vspace='2'>Prokuratura Krajowa skierowała do sądu akt oskarżenia przeciwko posłowi PiS Michałowi Wosiowi. Sprawa dotyczy zakupu Pegasusa z Funduszu Sprawiedliwości.",
       "pubDate": "Tue, 21 Oct 2025 11:56:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/d9/61/1e/z31857369IHG,-.jpg",
+      "imageUrl": "https://bi.im-g.pl/im/ca/d7/1e/z32341962IHG,Michal-Wos--zdjecie-archiwalne-.jpg",
       "source": "Gazeta.pl"
     },
     {
@@ -194,6 +402,14 @@
       "source": "Al Jazeera"
     },
     {
+      "title": "'We are relegation candidates' - West Ham's big month",
+      "link": "https://www.bbc.com/sport/football/articles/c4gz7epeg69o?at_medium=RSS&at_campaign=rss",
+      "description": "Winless in six, fans boycotting and no new manager bounce. This is the start of a season-defining period for West Ham.",
+      "pubDate": "Tue, 21 Oct 2025 11:37:53 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
+    },
+    {
       "title": "Slovak court sentences poet that shot PM to 21 years for ‘terror attack’",
       "link": "https://www.aljazeera.com/news/2025/10/21/slovak-court-sentences-pm-ficos-attacker-to-21-years-for-terror?traffic_source=rss",
       "description": "The populist government has blamed the 2024 attack on 'hatred' spread by opposition and critical media.",
@@ -228,7 +444,7 @@
     {
       "title": "Tragedia na oczach widzów w Argentynie. Nie żyje lider opozycji Hernan Damiani",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/tragedia-na-oczach-widzow-w-argentynie-nie-zyje-lider-opozycji-hernan-damiani/",
-      "description": "W trakcie programu telewizyjnego na żywo lider argentyńskiej opozycji Hernan Damiani zaczął mieć problemy z oddychaniem i osunął się na ziemię. Natomiast na pomoc ruszyli mu pracownicy telewizji oraz pozostali goście programu. 63-latek został przewieziony do szpitala, gdzie stwierdzono jego zgon.",
+      "description": "W trakcie programu telewizyjnego na żywo lider argentyńskiej opozycji Hernan Damiani zaczął mieć problemy z oddychaniem i osunął się na ziemię. Natomiast na pomoc ruszyli mu pracownicy telewizji oraz pozostali goście programu. 63-latek został przewieziony do szpitala, skąd przekazano smutne informacje.",
       "pubDate": "Tue, 21 Oct 2025 13:26:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
@@ -298,14 +514,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Reeves plans to 'scrap needless form filling' for firms",
-      "link": "https://www.bbc.com/news/articles/c629z48jjg7o?at_medium=RSS&at_campaign=rss",
-      "description": "The chancellor acknowledged that for many people the economy was \"not working as it should\" and said the reforms would boost growth.",
-      "pubDate": "Tue, 21 Oct 2025 11:13:07 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
       "title": "Trzy nowości w zimowym rozkładzie lotów Ryanaira z Katowic",
       "link": "https://turystyka.rp.pl/linie-lotnicze/art43211541-trzy-nowosci-w-zimowym-rozkladzie-lotow-ryanaira-z-katowic",
       "description": "Ryanair ogłosił dziś zimowy rozkład lotów dla Katowic, obejmujący 15 tras, w tym trzy nowe – do Budapesztu, Brukseli i Trapani.",
@@ -344,14 +552,6 @@
       "pubDate": "Tue, 21 Oct 2025 13:07:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/e6708d82180ff3b1d2acf996f47c228e/?t=crop:2000:1240:nowe:0:22,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "CIA playing ‘most important part’ in US strikes in the Caribbean, sources say",
-      "link": "https://www.theguardian.com/us-news/2025/oct/21/us-strikes-caribbean-cia-role",
-      "description": "<p>Exclusive: sources say the agency is providing real-time intelligence collected by satellites and signal intercepts</p><p>The Central Intelligence Agency is providing the bulk of the intelligence used to carry out the controversial lethal air strikes by the Trump administration against small, fast-going boats in the Caribbean Sea suspected of carrying drugs from Venezuela, according to three sources familiar with the operations. Experts say the agency’s central role means much of the evidence used to select which alleged smugglers to kill on the open sea will almost certainly remain secret.</p><p>The agency’s central role in the boat strikes has not previously been disclosed. Donald Trump <a href=\"https://www.theguardian.com/us-news/2025/oct/15/trump-venezuela-cia-maduro\">confirmed</a> last Wednesday that he had authorized covert CIA action in Venezuela, but not what the agency would be doing.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/21/us-strikes-caribbean-cia-role\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 11:06:37 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Julia Ćwiek, Orlen: Kluczowa regionalna współpraca wokół Bałtyku | EFNI 2025",
@@ -456,14 +656,6 @@
       "pubDate": "2025-10-21T10:43:37.000Z",
       "imageUrl": "",
       "source": "Dziennik.pl"
-    },
-    {
-      "title": "MPs lodge parliamentary motion to strip Prince Andrew of dukedom",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/21/mps-move-to-lodge-parliamentary-motion-to-strip-prince-andrew-of-dukedom",
-      "description": "<p>Ministers face growing pressure to act amid fresh allegations over prince’s relationship with Jeffrey Epstein</p><p>MPs have moved to lodge a parliamentary motion to strip Prince Andrew of his dukedom, in a rarely permitted move in the Commons.</p><p>The government is facing mounting pressure over the prince’s residence in the 30-room Royal Lodge in Windsor, where it was revealed that he has not paid rent for more than two decades.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/21/mps-move-to-lodge-parliamentary-motion-to-strip-prince-andrew-of-dukedom\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 10:43:26 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
     },
     {
       "title": "Mosquitoes found in Iceland for first time as climate crisis warms country",
@@ -578,12 +770,12 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Co z zawieszeniem broni na Ukrainie? Europejscy przywódcy odpowiedzieli na propozycję Trumpa",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43211071-co-z-zawieszeniem-broni-na-ukrainie-europejscy-przywodcy-odpowiedzieli-na-propozycje-trumpa",
-      "description": "Przywódcy Wielkiej Brytanii, Francji, Niemiec, Unii Europejskiej i Ukrainy opublikowali we wtorek wspólne oświadczenie, w którym poparli apel prezydenta USA Donalda Trumpa o natychmiastowe zawieszenie broni w Ukrainie na obecnie istniejących liniach frontu.",
-      "pubDate": "Tue, 21 Oct 2025 12:23:55 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/6a89c6dc02e9bdcbca44b9070c0fec35/donald-trump?t=crop:3806:1664:nowe:0:469,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
+      "title": "Tornado hits Paris suburbs leaving one dead",
+      "link": "https://www.bbc.com/news/videos/c9864114nemo?at_medium=RSS&at_campaign=rss",
+      "description": "A 23-year-old construction worked has been killed after a tornado tore through Val-d'Ois, north of Paris, on Monday, toppling three construction cranes.",
+      "pubDate": "Tue, 21 Oct 2025 10:27:28 GMT",
+      "imageUrl": "",
+      "source": "BBC News"
     },
     {
       "title": "Former French President Nicolas Sarkozy starts five-year prison term",
@@ -592,14 +784,6 @@
       "pubDate": "Tue, 21 Oct 2025 10:23:18 +0000",
       "imageUrl": "",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Nowy sklep.rp.pl od „Rzeczpospolitej”: magazyny i poradniki w jednym miejscu z dostawą InPost",
-      "link": "https://www.rp.pl/media/art43210991-nowy-sklep-rp-pl-od-rzeczpospolitej-magazyny-i-poradniki-w-jednym-miejscu-z-dostawa-inpost",
-      "description": "Wydawca dziennika „Rzeczpospolita” uruchomił nową platformę sprzedażową – sklep.rp.pl. Od teraz czytelnicy mogą w jeszcze prostszy sposób zamówić kwartalniki „Podróże”, „Nauka” i „Historia”, tygodnik „Plus Minus” oraz specjalistyczne poradniki. Wszystkie publikacje mogą być dostarczone do domu lub przez Paczkomat dzięki współpracy z InPost – największym w Polsce operatorem automatów paczkowych i usług kurierskich.",
-      "pubDate": "Tue, 21 Oct 2025 12:23:06 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/7116cf6749da032eab60a32449db7853/?t=crop:1920:839:nowe:0:120,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Rząd szykuje Kartę Rodziny Mundurowej. Milion osób z ulgami i zniżkami",
@@ -618,30 +802,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "UK office, shop and warehouse construction plunges to 11-year low as costs soar",
-      "link": "https://www.theguardian.com/business/2025/oct/21/uk-office-shop-warehouse-construction-costs-budget",
-      "description": "<p>Budget uncertainty hits investment but take-up of new space rises amid firms’ return-to-office mandates</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2025/oct/21/uk-borrowing-outstrips-forecasts-reeves-amazon-web-services-outage-resolved-bank-of-england-stock-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Construction of offices, shops and warehouses in the UK has fallen to the lowest level in more than a decade amid <a href=\"https://www.theguardian.com/society/2025/oct/20/sadiq-khan-act-fast-fix-london-housebuilding-emergency\">rising build costs</a> and uncertainty.</p><p>All commercial sectors have been hit, with construction across office, retail and industrial sectors down by 21% to 5.85m sq metres (63m sq ft) in the third quarter compared with a year earlier, according to the latest data from CoStar.</p> <a href=\"https://www.theguardian.com/business/2025/oct/21/uk-office-shop-warehouse-construction-costs-budget\">Continue reading...</a>",
-      "pubDate": "Tue, 21 Oct 2025 10:18:53 GMT",
-      "imageUrl": "",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Piotr Jabłoński: Brytyjski rynek to hit wśród polskich firm | EFNI 2025",
-      "link": "https://www.rp.pl/efni-2025-sopot/art43211271-piotr-jablonski-brytyjski-rynek-to-hit-wsrod-polskich-firm-efni-2025",
-      "description": "Polskie firmy wchodzą i chcą wchodzić na brytyjski rynek. To jeden z najważniejszych kierunków ekspansji naszego biznesu. Wspieramy ją na róźne sposoby - mówi Piotr Jabłoński, dyrektor zarządzający Pionu Relacji Międzynarodowych, BGK.",
-      "pubDate": "Tue, 21 Oct 2025 12:18:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/74e41c6810cdc409e3e6fc87b97c623b/zdjecie-z-piotrem-jablonskim?t=crop:1920:839:nowe:0:0.82758620689655,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ambasada jak forteca. Rośnie spór o sztandarowy chiński projekt w Europie",
-      "link": "https://sukces.rp.pl/architektura/art43204731-ambasada-jak-forteca-rosnie-spor-o-sztandarowy-chinski-projekt-w-europie",
-      "description": "Pekin, Londyn, znane biuro architektoniczne David Chipperfield Architects, a także budynek w brytyjskiej stolicy, który ma stać  się centrum przyszłej ambasady ChRL w Wielkiej Brytanii, największego tego typu kompleksu dyplomatycznego w Europie. Losy projektu są jednak niepewne.",
-      "pubDate": "Tue, 21 Oct 2025 12:16:07 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/b34942d446afcef3222a11e46b69e223/?t=crop:2048:895:nowe:0:179,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Further arrests after former Lostprophets singer Ian Watkins killed in prison",
       "link": "https://www.bbc.com/news/articles/crklnm1kynyo?at_medium=RSS&at_campaign=rss",
       "description": "Police say two men, aged 39 and 23, have been detained on suspicion of conspiracy to murder.",
@@ -650,36 +810,12 @@
       "source": "BBC News"
     },
     {
-      "title": "„Trzeba mieć historię do opowiedzenia”. Sylwetka Erica Lu",
-      "link": "https://www.rp.pl/konkurs-chopinowski-2025/art43211121-trzeba-miec-historie-do-opowiedzenia-sylwetka-erica-lu",
-      "description": "Eric Lu, zwycięzca XIX edycji Konkursu Chopinowskiego, jest doskonale znany melomanom. Od czasu gdy w 2015 roku zdobył IV nagrodę w tym samym Konkursie, wielokrotnie przyjeżdżał do Polski z koncertami, był stałym bywalcem festiwali „Chopin i jego Europa” czy w Dusznikach-Zdroju. Nie można więc mówić w tym przypadku o odkryciu nowego talentu.",
-      "pubDate": "Tue, 21 Oct 2025 12:12:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/7134c8a28e9f88a076528566cd80223e/?t=crop:1920:839:nowe:0:220,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Czy nieobecność rezydenta to wada wycieczki? Sąd w Monachium odrzuca skargę turysty",
-      "link": "https://turystyka.rp.pl/biura-podrozy/art43211041-czy-nieobecnosc-rezydenta-to-wada-wycieczki-sad-w-monachium-odrzuca-skarge-turysty",
-      "description": "Postęp technologiczny, a zwłaszcza rozwój komunikacji mobilnej, coraz wyraźniej wpływa na sposób podróżowania – nie zawsze jednak ku zadowoleniu wszystkich. Jak pokazuje sprawa rozpatrywana przez sąd cywilny w Monachium, niektórzy turyści mają wobec nowoczesnych rozwiązań poważne zastrzeżenia.",
-      "pubDate": "Tue, 21 Oct 2025 12:11:18 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/e85e70086b87df615ce946d608f1e5f0/?t=crop:2000:874:nowe:0:294.10254631843,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Polska przechwyci samolot Putina? Ławrow grzmi po słowach Sikorskiego",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/polska-przechwyci-samolot-putina-lawrow-grzmi-po-slowach-sikorskiego/",
       "description": "- Nie mogę zagwarantować, że niezależny polski sąd nie nakaże eskortowania takiego samolotu (z Putinem) w celu przekazania podejrzanego sądowi w Hadze - mówił Radosław Sikorski ostrzegając władze w Moskwie przed przelotem nad Polską. Na słowa szefa MSZ zareagował Siergiej Ławrow, który nie krył oburzenia takim stanowiskiem.",
       "pubDate": "Tue, 21 Oct 2025 12:11:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Będą zmiany w strefach płatnego parkowania. Chodzi o opłatę za brak opłaty",
-      "link": "https://www.rp.pl/samorzad/art43210631-beda-zmiany-w-strefach-platnego-parkowania-chodzi-o-oplate-za-brak-oplaty",
-      "description": "Kierowcy zbyt długo czekają na zawiadomienia o obowiązku uiszczenia opłaty dodatkowej za nieopłacenie parkowania w strefie. Prowadzi to do kumulowania się opłat. Ministerstwo Infrastruktury zapowiada zmiany.",
-      "pubDate": "Tue, 21 Oct 2025 12:08:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/b1cc982abf39ec8cafb6dfeca2465364/?t=crop:6000:2623:nowe:0:689,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Bread Delivery Service Wildgrain Is $40 Off Right Now",
@@ -730,7 +866,7 @@
       "source": "BBC News"
     },
     {
-      "title": "Poland detains suspected saboteurs amid fears of Russian ‘hybrid warfare’",
+      "title": "Poland arrests suspected saboteurs amid fears of Russian ‘hybrid warfare’",
       "link": "https://www.aljazeera.com/news/2025/10/21/poland-detains-suspected-saboteurs-amid-fears-of-russian-hybrid?traffic_source=rss",
       "description": "Moscow is accused of running sabotage and espionage operations across Europe targeting nations supporting Ukraine.",
       "pubDate": "Tue, 21 Oct 2025 09:51:08 +0000",
@@ -738,7 +874,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "How to see the stunning Orionid meteor shower as it peaks tonight",
+      "title": "Stunning Orionid meteor shower peaks tonight - here's how to see it",
       "link": "https://www.bbc.com/weather/articles/c70196602g2o?at_medium=RSS&at_campaign=rss",
       "description": "The Orionids are thought to be one of the most impressive meteor displays, peaking around 21-22 October. Here's more on how you can spot them lighting up the night sky.",
       "pubDate": "Tue, 21 Oct 2025 09:45:54 GMT",
@@ -840,14 +976,6 @@
       "pubDate": "Tue, 21 Oct 2025 09:14:11 GMT",
       "imageUrl": "",
       "source": "The Guardian"
-    },
-    {
-      "title": "Sanae Takaichi makes history as Japan's first female prime minister",
-      "link": "https://www.bbc.com/news/articles/c751z23n3n7o?at_medium=RSS&at_campaign=rss",
-      "description": "A staunch conservative, she takes over as Japan grapples with rising cost-of-living and mounting debt.",
-      "pubDate": "Tue, 21 Oct 2025 09:13:41 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "Delhi awakes to a toxic haze after Diwali as pollution season begins",
@@ -1506,22 +1634,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Palestinian woman attacked by Israeli settler while harvesting olives",
-      "link": "https://www.aljazeera.com/video/newsfeed/2025/10/21/palestinian-woman-attacked-by-israeli-settler-while-harvesting-olives?traffic_source=rss",
-      "description": "An Israeli settler assaulted a Palestinian woman while she was harvesting olives in the occupied West Bank town of Turmu",
-      "pubDate": "Tue, 21 Oct 2025 05:49:04 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US chess grandmaster Daniel Naroditsky dies at 29",
-      "link": "https://www.aljazeera.com/news/2025/10/21/us-chess-grandmaster-daniel-naroditsky-dies-at-29?traffic_source=rss",
-      "description": "The California-born player won the Under 12 world championship and became a grandmaster at 18.",
-      "pubDate": "Tue, 21 Oct 2025 05:48:09 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "\"Przygotowania aktów dywersji'. Premier o akcji ABW",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/przygotowania-aktow-dywersji-premier-o-akcji-abw/",
       "description": "ABW, we współpracy z innymi służbami, zatrzymała w ostatnich dniach osiem osób w różnych częściach kraju, podejrzewanych o przygotowania aktów dywersji - poinformował w mediach społecznościowych Donald Tusk. - W ostatnich miesiącach funkcjonariusze ABW zatrzymali łącznie 55 osób, które działały na szkodę Polski, na zlecenie rosyjskiego wywiadu - przekazał Jacek Dobrzyński, rzecznik służb.",
@@ -1530,28 +1642,12 @@
       "source": "Polsat News"
     },
     {
-      "title": "University of Arizona latest to turn down Trump’s policy demands",
-      "link": "https://www.aljazeera.com/news/2025/10/21/university-of-arizona-latest-to-turn-down-trumps-university-compact?traffic_source=rss",
-      "description": "Seven of nine institutions approached by the Trump administration have now declined to sign new federal funding rules.",
-      "pubDate": "Tue, 21 Oct 2025 05:37:00 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Dariusz Klimczak w \"Graffiti\" [OGLĄDAJ]",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-21/dariusz-klimczak-w-graffiti-transmisja-online-1/",
       "description": "Gościem Marcina Fijołka we wtorkowym Graffiti będzie minister infrastruktury Dariusz Klimczak. Transmisja w Polsacie, Polsat News oraz na polsatnews.pl i stronie głównej Interii od 7:40.",
       "pubDate": "Tue, 21 Oct 2025 07:36:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Live: More Palestinians killed in Gaza; US officials visit Israel for talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2025/10/21/live-more-palestinians-killed-in-gaza-us-officials-visit-israel-for-talks?traffic_source=rss",
-      "description": "Deadly Israeli attacks have continued across Gaza as US VP and other officials visit Israel for ceasefire talks.",
-      "pubDate": "Tue, 21 Oct 2025 05:32:58 +0000",
-      "imageUrl": "",
-      "source": "Al Jazeera"
     },
     {
       "title": "Węgierski minister reaguje na krytykę Zełenskiego. \"Wielu zrobi wszystko\"",
@@ -1584,22 +1680,6 @@
       "pubDate": "Tue, 21 Oct 2025 07:17:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "What are the key questions facing Liverpool boss Slot?",
-      "link": "https://www.bbc.com/sport/football/articles/c86730njpw3o?at_medium=RSS&at_campaign=rss",
-      "description": "Four defeats in a row and four points behind Premier League leaders Arsenal. BBC Sport looks at the problems Liverpool boss Arne Slot needs to solve.",
-      "pubDate": "Tue, 21 Oct 2025 05:14:33 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
-    },
-    {
-      "title": "Disabled couple 'frightened' by care delays",
-      "link": "https://www.bbc.com/news/articles/cn40y1zzkzxo?at_medium=RSS&at_campaign=rss",
-      "description": "Charlotte and Tom Hardwick say the quality of care and service has declined, leaving them anxious.",
-      "pubDate": "Tue, 21 Oct 2025 04:49:14 GMT",
-      "imageUrl": "",
-      "source": "BBC News"
     },
     {
       "title": "Od Majewskiego do Stanowskiego. Jak Maciej Dąbrowski stał się Człowiekiem Wargą",
@@ -1678,14 +1758,6 @@
       "link": "https://www.wirtualnemedia.pl/dwa-tygodniki-na-czele-prawicy-w-internecie-niezalezna-przed-wpolityce,7211246957841376a",
       "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/7325f83a-453d-475e-a8b3-1c678ef42edb\" width=\"308\" /> Wśród serwisów informacyjno-publicystycznych określanych jako prawicowe powyżej 2 mln internautów miesięcznie przyciągają witryny \"Do Rzeczy\" i \"Tygodnika Solidarność\". Natomiast zdecydowanie najwięcej czasu użytkownicy spędzają w serwisie Telewizji Republika. Niezależna.pl osiąga dużo wyższą odwiedzalność niż wPolityce.pl. ",
       "pubDate": "Tue, 21 Oct 2025 05:38:19 +0200",
-      "imageUrl": "",
-      "source": "Wirtualne Media"
-    },
-    {
-      "title": "Aplikacja od Mety zapowiada nowe narzędzia dla rodziców. Blokada czatów AI dla nastolatków",
-      "link": "https://www.wirtualnemedia.pl/aplikacja-od-mety-zapowiada-nowe-narzedzia-dla-rodzicow-blokada-czatow-ai-dla-nastolatkow,7212957570448352a",
-      "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/05816bf2-9463-423c-8b69-23bb43b3aa56\" width=\"308\" /> Instagram rozszerzy kontrolę rodzicielską o możliwość wyłączenia prywatnych rozmów nastolatków z botami AI. Zmiany zapowiedział szef platformy, Adam Mosseri. ",
-      "pubDate": "Tue, 21 Oct 2025 05:37:09 +0200",
       "imageUrl": "",
       "source": "Wirtualne Media"
     },
@@ -2002,14 +2074,6 @@
       "source": "Engadget"
     },
     {
-      "title": "To uratuje Mejzę przed wyrzuceniem z PiS? \"Pospieszył z pomocą Kaczyńskiemu\"",
-      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32339325,to-uratuje-mejze-przed-wyrzuceniem-z-pis-pospieszyl-z-pomoca.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/c0/d7/1e/z32339392IHG,Kwietniowa-awantura-w-Sejmie.jpg' align='left' hspace='4' vspace='2'>Wszystko wskazuje na to, że posła PiS Łukasza Mejzy nie spotkają poważniejsze partyjne konsekwencje w związku ze znacznym przekroczeniem prędkości, którego dopuścił się przed kilkoma dniami. Jednym z ważniejszych argumentów za Mejzą miało być zachowanie polityka w trakcie kwietniowego incydentu w Sejmie.",
-      "pubDate": "Mon, 20 Oct 2025 18:00:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/c0/d7/1e/z32339392IHG,Kwietniowa-awantura-w-Sejmie.jpg",
-      "source": "Gazeta.pl"
-    },
-    {
       "title": "Trump says China ‘doesn’t want’ to invade Taiwan and reaffirms trust in Xi",
       "link": "https://www.theguardian.com/us-news/2025/oct/20/trump-china-taiwan-invasion-xi-jinping",
       "description": "<p>US president says ‘I want to be good to China’ after Pentagon previously warned China may attempt takeover of Taiwan</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has expressed doubt on Monday that <a href=\"https://www.theguardian.com/world/china\">China</a> would invade <a href=\"https://www.theguardian.com/world/taiwan\">Taiwan</a> as he voiced confidence in his relationship with his Chinese counterpart, <a href=\"https://www.theguardian.com/world/xi-jinping\">Xi Jinping</a>, whom he will meet later this month.</p><p>Trump was asked about an earlier Pentagon assessment that Xi could <a href=\"https://www.theguardian.com/world/2021/mar/10/china-could-invade-taiwan-in-next-six-years-top-us-admiral-warns\">in the next six years attempt to seize Taiwan,</a> a self-governing democracy claimed by China.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/20/trump-china-taiwan-invasion-xi-jinping\">Continue reading...</a>",
@@ -2056,14 +2120,6 @@
       "pubDate": "Mon, 20 Oct 2025 17:30:08 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "Tusk zabrał głos ws. ataku na biuro PO. \"Podpalacz z Żoliborza\"",
-      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32339391,tusk-zabral-glos-ws-ataku-na-biuro-po-podpalacz-z-zoliborza.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/7d/d6/1e/z32337021IHG,Donald-Tusk.jpg' align='left' hspace='4' vspace='2'>Premier Donald Tusk zabrał głos po ataku i próbie podpalenia jednego z biur Platformy Obywatelskiej. W filmie opublikowanym w mediach społecznościowych mówi, na kim - jego zdaniem - spoczywa \"polityczna odpowiedzialność\" za atak.",
-      "pubDate": "Mon, 20 Oct 2025 17:17:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/7d/d6/1e/z32337021IHG,Donald-Tusk.jpg",
-      "source": "Gazeta.pl"
     },
     {
       "title": "Oura's new app brings enhanced health insights and longer fertility window predictions",
@@ -2258,14 +2314,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Najbardziej nietypowe rekordy Guinnessa. W niektóre ciężko uwierzyć",
-      "link": "https://www.polsatnews.pl/ciekawostki/2025-10-20/najbardziej-nietypowe-rekordy-guinnessa-w-niektore-ciezko-uwierzyc/",
-      "description": "Księga Rekordów Guinnessa fascynuje ludzi na całym świecie. To nie tylko spektakularne osiągnięcia sportowe czy technologiczne, ale też najbardziej zaskakujące i czasem wręcz zabawne dokonania. Wiele z nich pokazuje, jak różnorodne mogą być ludzkie pomysły.",
-      "pubDate": "Mon, 20 Oct 2025 15:15:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
-    },
-    {
       "title": "6 Best VPN Services (2025), Tested and Reviewed",
       "link": "https://www.wired.com/gallery/best-vpn/",
       "description": "Every VPN says it’s the best, but only some of them are telling the truth.",
@@ -2280,14 +2328,6 @@
       "pubDate": "Mon, 20 Oct 2025 12:45:38 +0000",
       "imageUrl": "",
       "source": "Engadget"
-    },
-    {
-      "title": "Dlaczego Trump i Putin mają spotkać się w Budapeszcie? Kreml odpowiada",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-10-20/kreml-putin-i-trump-maja-dobre-relacje-z-orbanem-dlatego-spotkaja-sie-w-budapeszcie/",
-      "description": "- Premier Węgier Viktor Orban ma ciepłe relacje z Donaldem Trumpem i konstruktywne relacje z Władimirem Putinem - przekazał rzecznik Kremla Dmitrij Pieskow zapytany o to, dlaczego kolejny szczyt ws. porozumienia pokojowego między Rosją a Ukrainą ma się odbyć w Budapeszcie.",
-      "pubDate": "Mon, 20 Oct 2025 14:43:00 +0200",
-      "imageUrl": "",
-      "source": "Polsat News"
     },
     {
       "title": "The new Apple TV and Peacock streaming bundle is officially available",
@@ -2818,14 +2858,6 @@
       "source": "Wired"
     },
     {
-      "title": "Bose QuietComfort Ultra Headphones (2nd gen) review: Impactful upgrades to a familiar formula",
-      "link": "https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-headphones-2nd-gen-review-impactful-upgrades-to-a-familiar-formula-150000709.html?src=rss",
-      "description": "<p>Bose took a different approach with its new products in 2025. Instead of entirely redesigning  its <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/bose-quietcomfort-ultra-headphones-review-a-new-spin-on-a-reliable-formula-160009025.html\" data-i13n=\"cpos:1;pos:1\">QuietComfort Ultra</a> lineup, the company unveiled upgraded second-generation models of the flagship-level <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/boses-second-gen-quietcomfort-ultra-earbuds-have-ai-enhanced-adaptive-anc-130057912.html\" data-i13n=\"cpos:2;pos:1\">earbuds</a> and <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/bose-overhauls-the-quietcomfort-ultra-headphones-with-lossless-audio-and-longer-battery-life-130018894.html\" data-i13n=\"cpos:3;pos:1\">headphones</a>. Like the <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-earbuds-2nd-gen-review-still-a-noise-canceling-powerhouse-153017601.html\" data-i13n=\"cpos:4;pos:1\">QuietComfort Ultra Earbuds</a> that debuted earlier this year, the new <a target=\"_blank\" class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&itemId=amazon_B0FDKR293G&siteId=us-engadget&pageId=1p-autolink&contentUuid=3d41a5af-352a-4bc5-ba97-fe90dc78f118&featureId=text-link&merchantName=Amazon&linkText=Quiet+Comfort+Ultra+headphones+%28%24449%29&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Jvc2UtUXVpZXRDb21mb3J0LUJsdWV0b290aC1IZWFkcGhvbmVzLUNhbmNlbGxpbmcvZHAvQjBGREtSMjkzRz90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiIzZDQxYTVhZi0zNTJhLTRiYzUtYmE5Ny1mZTkwZGM3OGYxMTgiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQm9zZS1RdWlldENvbWZvcnQtQmx1ZXRvb3RoLUhlYWRwaG9uZXMtQ2FuY2VsbGluZy9kcC9CMEZES1IyOTNHIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&signature=AQAAATee02Q0Xpy3pxiqy5z_sEV3XhmFMfk0itlmGskNWvWv&gcReferrer=https%3A%2F%2Fwww.amazon.com%2FBose-QuietComfort-Bluetooth-Headphones-Cancelling%2Fdp%2FB0FDKR293G\" data-i13n=\"elm:affiliate_link;sellerN:Amazon;elmt:;cpos:5;pos:1\" data-original-link=\"https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0FDKR293G\">Quiet Comfort Ultra headphones ($449)</a> don’t offer a comprehensive overhaul. However, the changes provide enough performance improvements to further cement these as <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html\" data-i13n=\"cpos:6;pos:1\">the best noise-canceling headphones</a> that you can buy right now. Trust me, we’re much better off with this revamped version than we would be with a year (or longer) wait for something brand new with the 2023 model.</p> \n<p> <core-commerce data-type=\"product-list\" id=\"d2ebe4bc-52bf-44b6-8ca1-001b947575e0\" data-original-url=\"https://www.amazon.com/Bose-QuietComfort-Bluetooth-Headphones-Cancelling/dp/B0FDKR293G\"></core-commerce></p> \n<h2 id=\"161f62c5-8aae-44bc-8e81-5f836e2071ea\">What’s new on the QuietComfort Ultra Headphones?</h2> \n<p>Bose debuted a few new features on the <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-earbuds-2nd-gen-review-still-a-noise-canceling-powerhouse-153017601.html\" data-i13n=\"cpos:7;pos:1\">second-gen QuietComfort Ultra Earbuds</a> in August that it carried over to these new headphones. First, the company improved its already stellar active noise cancelation (ANC) with tweaks to its ActiveSense technology. Specifically, the system can respond to sudden spikes in environmental noise by adapting more precisely. It’s not something you’ll notice all the time, but when you need it, you’ll be glad it's there. Otherwise, the excellent ANC performance here is just as effective as it was on the previous model. More on that in a bit.</p> \n<p>The immersive Cinema Mode that Bose added to the QC Ultra Earbuds is also available on these headphones. It’s a sound profile that enhances dialogue clarity while keeping the rest of the soundstage as wide and enveloping as possible. I like it best for movies and TV, as the name suggests, but per Bose’s suggestion I also tried it with podcasts and audiobooks. Cinema Mode is probably overkill for those types of content, unless you’re listening to shows or titles with lots of background effects. </p> \n<p>One of the biggest changes on the second-gen QC Ultra Headphones is how Bose decided to handle power management. Most importantly, the company extended battery life in all use cases. With ANC on (and Immersive Audio off), you’ll get up to 30 hours of listening time. Turn off ANC and that jumps to 45 hours. When you decide to enable both ANC and Bose’s spatial Immersive Audio, you can expect up to 23 hours on a charge. Compared to those on the first-generation model, all of these numbers are up by at least five hours, which is a significant boost. </p> \n<figure> \n <img src=\"https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5360.jpg\" data-crop-orig-src=\"https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5360.jpg\" style=\"height:1707px;width:2560px;\" alt=\"These headphones rotate flat and fold in for compact transport. \" data-uuid=\"c36d63a2-8ba2-46cc-8548-e372eabb4e0a\"> \n <figcaption>\n   These headphones rotate flat and fold in for compact transport. \n </figcaption> \n <div class=\"photo-credit\">\n   Billy Steele for Engadget \n </div> \n</figure> \n<p>Like the previous QC Ultra Headphones, this model has an automatic disconnection feature after 10 minutes of standby . But the company went a step further on this version by adding a low-power mode that the headphones enter after 30 minutes of idle time. And if you want to disconnect them quickly, you can rotate the earcups and lay them on a flat surface. That’ll make them go into a deeper standby mode that Bose says can run “for months.” All of this means you can effectively turn the new QuietComfort Ultra Headphones on and off by putting them on and taking them off. If you’re using them regularly, you’ll never have to press the power button. </p> \n<p>Sound-wise, the big upgrade on these headphones is the addition of lossless audio over USB-C. Like <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/how-to-use-lossless-audio-on-the-airpods-max-180026218.html\" data-i13n=\"cpos:8;pos:1\">the AirPods Max</a>, this model can be connected with a cable to your phone, tablet, laptop or desktop to stream or play higher-quality tunes from compatible services or your library. Bose says you can expect 16-bit 44.1kHz or 48kHz audio depending on your source. It’s yet another nice-to-have feature that’s becoming standard fare on premium wireless headphones. </p> \n<h2 id=\"6ec6f9ce-6704-4ff3-a2e7-48ad98a0220b\">What else is good about the QuietComfort Ultra Headphones?</h2> \n<p>Like most Bose over-ear headphones, the second-gen QuietComfort Ultra Headphones are supremely comfortable. Even for long periods of time, they never become a burden, and that’s thanks in large part to the soft, pillowy ear pads. I could easily wear these for an entire trans-Atlantic flight with minimal discomfort and I’ve been wearing them for entire workdays at home. </p> \n<p>As I already mentioned, the ANC performance here is still top-tier. In fact, these QC Ultra Headphones will soon replace the first-gen model on our <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/audio/headphones/best-noise-canceling-headphones-130029881.html\" data-i13n=\"cpos:9;pos:1\">best noise-canceling headphones</a> list. Both the Immersion (ANC + spatial audio) and Quiet (just ANC) modes provide robust noise blocking that surpasses those by Sony, Sennheiser and others. If you’re making your buying decision based solely on ANC performance, this is the best option. You’ll enjoy relief from constant ambient noise sources like fans and sound machines, plus the QC Ultra Headphones do a respectable job with human voices. Heck, I couldn’t even hear my dog barking at the imminent threat from falling leaves outside. </p> \n<p>Lastly, Bose’s take on spatial audio is still quite good. The company calls it Immersive Audio and the feature doesn’t rely on specialized content like other headphones. Music sounds obviously fuller and slightly louder when the sound profile is active thanks to Bose’s method for upscaling stereo content. There’s also enhanced vocal clarity and elements like percussion and synths are less compressed than usual. The headphones lend a particularly airy feel to the tracks of Ruston Kelly’s <em>Pale, Through the Window, </em>an acoustic-driven collection of soulful, country-tinged tunes. His vocals float atop enveloping acoustic guitars and tight, punchy drums.</p> \n<h2 id=\"eae1f835-e87b-4af6-b7a2-2798e292ea92\">What’s not so good about the QC Ultra Headphones?</h2> \n<figure> \n <img src=\"https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5440.jpg\" data-crop-orig-src=\"https://d29szjachogqwa.cloudfront.net/videos/user-uploaded/DSC_5440.jpg\" style=\"height:1707px;width:2560px;\" alt=\"The Bose app gives you access to controls and customization. \" data-uuid=\"07a401fa-403f-4bcd-9882-a63a86445296\"> \n <figcaption>\n   The Bose app gives you access to controls and customization. \n </figcaption> \n <div class=\"photo-credit\">\n   Billy Steele for Engadget \n </div> \n</figure> \n<p>The biggest issue with the second-gen QuietComfort Ultra Headphones is the price. To be clear, the likes of Sony, Apple and others charge around the same amount for their top-of-the-line models, but $449 is still a significant investment. If that’s too steep for you, Bose has the highly capable <a target=\"_blank\" class=\"link rapid-with-clickid\" href=\"https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&itemId=amazon_B0D4Z9C562&siteId=us-engadget&pageId=1p-autolink&contentUuid=3d41a5af-352a-4bc5-ba97-fe90dc78f118&featureId=text-link&merchantName=Amazon&linkText=QuietComfort+Headphones&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL2F3L2QvQjBENFo5QzU2Mi8_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiM2Q0MWE1YWYtMzUyYS00YmM1LWJhOTctZmU5MGRjNzhmMTE4Iiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2dwL2F3L2QvQjBENFo5QzU2Mi8iLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&signature=AQAAAXVICQZ9BTRe97zgQ7boTMH05Q_Q2HOFIO8CZDVVchdt&gcReferrer=https%3A%2F%2Fwww.amazon.com%2Fgp%2Faw%2Fd%2FB0D4Z9C562%2F\" data-i13n=\"elm:affiliate_link;sellerN:Amazon;elmt:;cpos:10;pos:1\" data-original-link=\"https://www.amazon.com/gp/aw/d/B0D4Z9C562/?th=1\">QuietComfort Headphones</a> in its arsenal for a <em>slightly </em>more palatable $359.</p> \n<p>My other gripe is that the only real design change Bose made for the updated QC Ultra Headphones is that the metal headband yokes now have a gloss finish. Depending on your personal preference, this might be a dealbreaker for you. It’s least noticeable on the black and violet colorways, since these have a tone-on-tone look. After a few weeks with the bronze and tan Driftwood Sand hue, I’m not a fan of the more stylized aesthetic. It’s flashy, for sure, but it’s a tweak I could’ve done without. </p> \n<h2 id=\"ae6bcab8-6a1e-4aaa-821a-abc1395d4039\">Wrap-up</h2> \n<p>Similar to the second-gen QC Ultra Earbuds over the summer, Bose didn’t make huge upgrades for the updated version of the QC Ultra Headphones. But what you do get here is a decent improvement over its predecessor. The company devised an intuitive setup for power management and even addressed one of my main gripes with the original by adding support for lossless audio over USB-C. Plus, the extended battery life is significant in all sound modes, and not just by an hour or two here or there. To top it all off, the QuietComfort Ultra Headphones remain the best option for pure noise-blocking ability, and that’s not likely to change any time soon.</p><core-slideshow data-slideshowid=\"270ce75f-b558-4456-ad98-7f2c485d6739\" /> \n<p><br></p> \n<p></p>This article originally appeared on Engadget at https://www.engadget.com/audio/headphones/bose-quietcomfort-ultra-headphones-2nd-gen-review-impactful-upgrades-to-a-familiar-formula-150000709.html?src=rss",
-      "pubDate": "Fri, 17 Oct 2025 15:00:00 +0000",
-      "imageUrl": "",
-      "source": "Engadget"
-    },
-    {
       "title": "Elon Musk Has Turned His Eye to the UK",
       "link": "https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/",
       "description": "Musk posted nonstop at the beginning of the year about British politics, until his focus was consumed by DOGE. Now he’s back.",
@@ -2838,22 +2870,6 @@
       "link": "https://www.wired.com/gallery/best-tvs/",
       "description": "From LEDs to fancy OLED models, in 4K and beyond, these are our favorite televisions at every price.",
       "pubDate": "Fri, 17 Oct 2025 14:00:00 +0000",
-      "imageUrl": "",
-      "source": "Wired"
-    },
-    {
-      "title": "8 Best USB Hubs (2025), Tested and Reviewed",
-      "link": "https://www.wired.com/gallery/best-usb-hubs/",
-      "description": "Ditch the dongles. These multiport USB hubs will maximize your connectivity options.",
-      "pubDate": "Fri, 17 Oct 2025 13:30:00 +0000",
-      "imageUrl": "",
-      "source": "Wired"
-    },
-    {
-      "title": "These 8 Automatic Cat Feeders Were the Best We Tested (2025)",
-      "link": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
-      "description": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
-      "pubDate": "Fri, 17 Oct 2025 13:03:00 +0000",
       "imageUrl": "",
       "source": "Wired"
     },
