@@ -46,6 +46,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Dodano automatyczne generowanie articles.json"
+          git add articles.json
+          # only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to articles.json, skipping commit"
+          else
+            git commit -m "Auto-update articles.json [skip ci]"
+            git push
+          fi
           git push
