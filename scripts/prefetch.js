@@ -113,14 +113,27 @@ function extractItemsFromParsed(parsed){
       let image = '';
       // 1. Try enclosure
       if(it.enclosure && it.enclosure['@_url']) image = it.enclosure['@_url'];
-      // 2. Try media:content
-      if(!image && it['media:content'] && it['media:content']['@_url']) image = it['media:content']['@_url'];
+      // 2. Try media:content (multiple variations)
+      if(!image && it['media:content']){
+        const mc = Array.isArray(it['media:content']) ? it['media:content'][0] : it['media:content'];
+        image = mc['@_url'] || '';
+      }
       // 3. Try media:thumbnail
-      if(!image && it['media:thumbnail'] && it['media:thumbnail']['@_url']) image = it['media:thumbnail']['@_url'];
+      if(!image && it['media:thumbnail']){
+        const mt = Array.isArray(it['media:thumbnail']) ? it['media:thumbnail'][0] : it['media:thumbnail'];
+        image = mt['@_url'] || '';
+      }
       // 4. Try thumbnail
-      if(!image && it.thumbnail && typeof it.thumbnail === 'string') image = it.thumbnail;
-      if(!image && it.thumbnail && it.thumbnail['@_url']) image = it.thumbnail['@_url'];
-      // 5. Extract from description HTML
+      if(!image && it.thumbnail){
+        if(typeof it.thumbnail === 'string') image = it.thumbnail;
+        else image = it.thumbnail['@_url'] || '';
+      }
+      // 5. Try media:group (some feeds wrap media:content in media:group)
+      if(!image && it['media:group'] && it['media:group']['media:content']){
+        const mc = Array.isArray(it['media:group']['media:content']) ? it['media:group']['media:content'][0] : it['media:group']['media:content'];
+        image = mc['@_url'] || '';
+      }
+      // 6. Extract from description HTML
       if(!image && rawDescription){
         const imgMatch = rawDescription.match(/<img[^>]+src=["']([^"']+)["']/i);
         if(imgMatch) image = imgMatch[1];
