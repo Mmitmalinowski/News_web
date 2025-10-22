@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2025-10-22T20:45:09.980Z",
+  "generatedAt": "2025-10-22T20:55:07.762Z",
   "items": [
     {
       "title": "US to announce 'substantial' Russia sanctions ",
       "link": "https://www.bbc.com/news/articles/cd6758pn6ylo?at_medium=RSS&at_campaign=rss",
       "description": "The announcement comes as NATO Secretary-General Mark Rutte was due to meet with Donald Trump in Washington.",
-      "pubDate": "Wed, 22 Oct 2025 20:41:31 GMT",
+      "pubDate": "Wed, 22 Oct 2025 20:53:54 GMT",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c70/live/3b154940-af84-11f0-8cf5-47a716327516.jpg",
       "source": "BBC News"
+    },
+    {
+      "title": "Reddit sues Perplexity and three other companies for allegedly using its content without paying",
+      "link": "https://www.engadget.com/social-media/reddit-sues-perplexity-and-three-other-companies-for-allegedly-using-its-content-without-paying-205136436.html?src=rss",
+      "description": "<p>Reddit is suing companies SerApi, OxyLabs, AWMProxy and Perplexity for allegedly scraping its data from search results and using it without a license, <a target=\"_blank\" class=\"link\" href=\"https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html\" data-i13n=\"cpos:1;pos:1\"><em>The New York Times</em> reports</a>. The new lawsuit follows <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/ai/reddit-is-suing-anthropic-for-allegedly-scraping-its-data-without-permission-185833267.html\" data-i13n=\"cpos:2;pos:1\">legal action</a> against AI startup Anthropic, who allegedly used Reddit content to train its Claude chatbot.</p><p> As of 2023, Reddit <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/reddit-will-charge-companies-for-api-access-citing-ai-training-concerns-184935783.html?_fsig=Y44909PbzSzYJhRrRAHUdQ--~A\" data-i13n=\"cpos:3;pos:1\">charges companies</a> looking access to posts and other content in the hopes of making money on data that could be used for AI training. The company has also signed licensing deals with companies like <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/reddit-is-licensing-its-content-to-google-to-help-train-its-ai-models-200013007.html\" data-i13n=\"cpos:4;pos:1\">Google</a> and <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/openai-strikes-deal-to-put-reddit-posts-in-chatgpt-224133045.html\" data-i13n=\"cpos:5;pos:1\">OpenAI</a>, and even built an <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/social-media/reddit-introduces-ai-powered-reddit-answers-search-feature-140028655.html\" data-i13n=\"cpos:6;pos:1\">AI answer machine of its own</a> to leverage the knowledge in users' posts. Scraping search results for Reddit content avoids those payments, which is why the company is seeking financial damages and a permanent injunction that prevents companies from selling previously scraped Reddit material.</p><p>Some of the companies Reddit is focused on, like SerApi, OxyLabs and AWMProxy, are not exactly household names, but they've all made collecting data from search results and selling it a key part of their business. Perplexity's inclusion in the lawsuit might be more obvious. The AI company needs data to train its models, and has already <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/ai/perplexitys-definition-of-copyright-gets-it-sued-by-the-dictionary-213408625.html\" data-i13n=\"cpos:7;pos:1\">been caught</a> seemingly copying and regurgitating material it hasn't paid to license. That also includes <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/ai/perplexity-is-allegedly-scraping-websites-its-not-supposed-to-again-211110756.html\" data-i13n=\"cpos:8;pos:1\">reportedly ignoring the robots.txt protocol</a>, a way for websites to communicate that they don't want their material scraped.</p><p>Per a copy of <a target=\"_blank\" class=\"link\" href=\"https://redditinc.com/hubfs/Reddit%20Inc/Content/Reddit%20v.%20SerpApi.pdf\" data-i13n=\"cpos:9;pos:1\">the lawsuit</a> provided to Engadget, Reddit had already sent a cease-and-desist to Perplexity asking it to stop scraping posts without a license. The company claimed it didn't use Reddit data, but it also continued to cite the platform in answers from its chatbot. Reddit says it was able to prove Perplexity was using scraped Reddit content by creating a \"test post\" that \"could only be crawled by Google’s search engine and was not otherwise accessible anywhere on the internet.\" Within a few hours, queries made to Perplexity's answer engine were able to reproduce the content of the post. </p><p>\"The only way that Perplexity could have obtained that Reddit content and then used it in its 'answer engine' is if it and/or its co-defendants scraped Google [search results] for that Reddit content and Perplexity then quickly incorporated that data into its answer engine,\" the lawsuit claims. </p><p>When asked to comment, Perplexity provided the following statement: </p><blockquote><p>Perplexity has not yet received the lawsuit, but we will always fight vigorously for users’ rights to freely and fairly access public knowledge. Our approach remains principled and responsible as we provide factual answers with accurate AI, and we will not tolerate threats against openness and the public interest.</p></blockquote><p>This new lawsuit fits with the aggressive stance Reddit has taken towards protecting its data, including <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/reddit-puts-ai-scrapers-on-notice-205734539.html\" data-i13n=\"cpos:10;pos:1\">rate-limiting</a> unknown bots and web crawlers in 2024, and <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/social-media/reddit-is-restricting-its-availability-to-the-internet-archives-wayback-machine-170035482.html\" data-i13n=\"cpos:11;pos:1\">even limiting</a> what access the Internet Archive's Wayback Machine has to its site in August 2025. The company has also sought to define new terms around how websites are crawled by adopting the <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/ai/reddit-yahoo-medium-and-more-are-adopting-a-new-licensing-standard-to-get-compensated-for-ai-scraping-180946671.html\" data-i13n=\"cpos:12;pos:1\">Really Simple Licensing standard</a>, which adds licensing terms to robots.txt.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/reddit-sues-perplexity-and-three-other-companies-for-allegedly-using-its-content-without-paying-205136436.html?src=rss",
+      "pubDate": "Wed, 22 Oct 2025 20:51:36 +0000",
+      "imageUrl": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fvideos%2Fuser-uploaded%2Freddit-wordmark-header.jpg&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=142e8feeaaed1ed5778972231f6ef998a110d9b5",
+      "source": "Engadget"
+    },
+    {
+      "title": "Tinder Launches Mandatory Facial Verification to Weed Out Bots and Scammers",
+      "link": "https://www.wired.com/story/tinder-launches-mandatory-facial-verification-to-weed-out-bots-and-scammers/",
+      "description": "Face Check will scan new members’ faces to ensure they don’t match existing profiles. The move comes as romance scams continue to proliferate, with billions lost over the last decade.",
+      "pubDate": "Wed, 22 Oct 2025 20:45:03 +0000",
+      "imageUrl": "https://media.wired.com/photos/68f919bf7caa02afb9612fca/master/pass/Tinder-Facial-Recognition-Culture-1159763222.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "Rosyjski atak dronów na Kijów. Są zniszczenia",
+      "link": "https://wiadomosci.onet.pl/kraj/rosyjski-atak-dronow-na-kijow-sa-zniszczenia/8eqznkz",
+      "description": "W nocy w Kijowie rozległy się eksplozje, które były efektem zmasowanego ataku dronów.",
+      "pubDate": "Wed, 22 Oct 2025 20:42:05 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/St-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mYjhmZDRlZDMzODJmYTFlZTg4OWZiMTJmYTAzYzZkZi5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+      "source": "Onet"
+    },
+    {
+      "title": "Odszedłem z pracy, bo nie chciałem podlizywać się Donaldowi Trumpowi. Miło być bohaterem, ale uczciwością nie opłacę rachunków [OPINIA]",
+      "link": "https://wiadomosci.onet.pl/politico/autocenzura-w-usa-odszedlem-z-gazety-bo-nie-chcialem-podlizywac-sie-trumpowi/2l982pg",
+      "description": "Donald Trump nie toleruje krytyki. Coraz więcej firm w USA boi się wychylać. Robią wszystko, by nie sprowokować gniewu prezydenta, który może je bardzo słono kosztować. Niestety dotyczy to także mediów. Doświadczony amerykański dziennikarz, przez 20 lat związany z prestiżowym tytułem poświęconym polityce lokalnej, opisuje swoje pożegnanie z redakcją. Odszedł, bo nie godził się na zdradę swoich ideałów.",
+      "pubDate": "Wed, 22 Oct 2025 20:39:40 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/I0Qk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MjlhZmMzZGYyYjVkNWY2OTYxOTIxMDYyZmQ3NmNkZS5qcGeSlQMAzQIZzRqQzQ7xkwXNCWDNBkDeAAKhMAehMQQ",
+      "source": "Onet"
     },
     {
       "title": "Trump podjął ważną decyzję ws. wojny na Ukrainie? Chodzi o pociski dalekiego zasięgu",
@@ -38,7 +70,7 @@
       "link": "https://wiadomosci.onet.pl/swiat/usa-znosza-ograniczenia-dla-ukrainskich-atakow-trump-to-fake-news/0z3225w",
       "description": "Dziennik \"Wall Street Journal\" poinformował w środę wieczorem, że administracja Donalda Trumpa zniosła kluczowe ograniczenia dotyczące użycia przez Ukrainę niektórych pocisków dalekiego zasięgu dostarczonych przez zachodnich sojuszników. Prezydent USA zdementował tę informację we wpisie w mediach społecznościowych. \"To fake news\" — czytamy.",
       "pubDate": "Wed, 22 Oct 2025 20:31:28 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/ZS6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMTVhMWZjNWI0MGQ0MjFiZjlkZWVmYTI2ODhkYTFjOC5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/_yyk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hMWUwYjQyYy03N2MwLTQ5NGUtOTNkNi1hMDc0YjY5MWEwMjEuanBlZ5KVA80BdM0BVs0TJs0KxZMFzQlgzQZA3gACoTAHoTEE",
       "source": "Onet"
     },
     {
@@ -52,7 +84,7 @@
     {
       "title": "\"Wychodzą na jaw nowe fakty\". Szef SKW o zatrzymaniu podejrzanych o dywersję",
       "link": "https://wydarzenia.interia.pl/kraj/news-wychodza-na-jaw-nowe-fakty-szef-skw-o-zatrzymaniu-podejrzany,nId,22434309",
-      "description": "Osoby podejrzewane o przygotowywanie aktów dywersji na terenie Rzeczypospolitej, których zatrzymania dokonała ABW, były obserwowane już od jakiegoś czasu - poinformował szef Służby Kontrwywiadu Wojskowego, gen. brg. dr Jarosław Stróżyk. Jak wskazał, rosyjskie służby mogą planować m.in. ataki na sieci energetyczne, czy zatrucia ujęć wody.",
+      "description": "Osoby podejrzewane o przygotowywanie aktów dywersji na terenie Rzeczypospolitej, których zatrzymania dokonała ABW, były obserwowane już od jakiegoś czasu - poinformował szef Służby Kontrwywiadu Wojskowego, gen. bryg. dr Jarosław Stróżyk. Jak wskazał, rosyjskie służby mogą planować m.in. ataki na sieci energetyczne, czy zatrucia ujęć wody.",
       "pubDate": "Wed, 22 Oct 2025 20:25:26 GMT",
       "imageUrl": "https://i.iplsc.com/-/000LSVVYAPQKLBT9-C321.webp",
       "source": "Interia"
@@ -98,9 +130,9 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Media: USA znoszą kluczowe ograniczenia dla ukraińskich ataków na Rosję",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-usa-znosza-kluczowe-ograniczenia-dla-ukrainskich-atakow-na-rosje-st8714645?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-3008201-ukraina-wojsko-ph8210535/alternates/LANDSCAPE_1280\" alt=\"Media: USA znoszą kluczowe ograniczenia dla ukraińskich ataków na Rosję\" />\n    Administracja Donalda Trumpa znosi \"kluczowe ograniczenia\" w sprawie użycia niektórych pocisków dalekiego zasięgu przez Ukrainę - podał w środę \"Wall Street Journal\", powołując się na amerykańskich urzędników. Decyzja zbiega się w czasie z decyzją szefa Pentagonu Pete'a Hegsetha i naciskami prezydenta USA.\n    ",
+      "title": "Media o decyzji USA w sprawie Ukrainy. Trump zaprzecza",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-usa-znosza-kluczowe-ograniczenia-dla-ukrainskich-atakow-na-rosje-trump-zaprzecza-st8714645?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-3008201-ukraina-wojsko-ph8210535/alternates/LANDSCAPE_1280\" alt=\"Media o decyzji USA w sprawie Ukrainy. Trump zaprzecza\" />\n    Administracja Donalda Trumpa znosi \"kluczowe ograniczenia\" w sprawie użycia niektórych pocisków dalekiego zasięgu przez Ukrainę - podał w środę \"Wall Street Journal\", powołując się na amerykańskich urzędników. Głos w sprawie publikacji zabrał prezydent USA.\n    ",
       "pubDate": "Wed, 22 Oct 2025 20:16:59 GMT",
       "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-3008201-ukraina-wojsko-ph8210535/alternates/LANDSCAPE_1280",
       "source": "TVN24"
@@ -346,8 +378,8 @@
       "source": "TVN24"
     },
     {
-      "title": "Kraje Uni Europejskiej jednomyślne. Nowe sankcje na Rosję",
-      "link": "https://wiadomosci.onet.pl/swiat/kraje-uni-europejskiej-jednomyslne-nowe-sankcje-na-rosje/k9ev9gx",
+      "title": "Kraje Unii Europejskiej jednomyślne. Nowe sankcje na Rosję",
+      "link": "https://wiadomosci.onet.pl/swiat/kraje-unii-europejskiej-jednomyslne-nowe-sankcje-na-rosje/k9ev9gx",
       "description": "Kraje członkowskie w środę wieczorem osiągnęły jednomyślność w sprawie nałożenia na Rosję 19. pakietu sankcji — podała duńska prezydencja. Przewiduje on m.in. zakaz sprowadzania rosyjskiego LNG od 2027 r.",
       "pubDate": "Wed, 22 Oct 2025 19:09:13 GMT",
       "imageUrl": "https://cdn.wiadomosci.onet.pl/1/jI3k9lCaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NzllMDRlOWZlN2U5MzNmODFjOTMzNDQ4MTJiYjY4My5qcGVnkpUDAB_NA-jNAjOTBc0JYM0GQN4AAqEwB6ExBA",
@@ -570,11 +602,11 @@
       "source": "TVN24"
     },
     {
-      "title": "Leszek Miller odpowiada na słowa Pawła Kowala. \"To jest jego problem\"",
+      "title": "Miller o Ukraińcach i Kowalu. Kraśko: momentami pana nie poznaję",
       "link": "https://tvn24.pl/polska/leszek-miller-odpowiedzial-na-krytyke-pawla-kowala-w-sprawie-propagandy-rosyjskiej-st8714480?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-5031447-leszek-miller-ph8714504/alternates/LANDSCAPE_1280\" alt=\"Leszek Miller odpowiada na słowa Pawła Kowala. \"To jest jego problem\"\" />\n    - Problemem Pawła Kowala jest to, że zawsze wie lepiej - ocenił w \"Faktach po Faktach\" w TVN24 były premier i były przewodniczący SLD Leszek Miller. W ten sposób odpowiedział na krytykę ze strony posła Koalicji Obywatelskiej, który mówił o Millerze w kontekście rosyjskiej akcji propagandowej w Polsce.\n    ",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-3340425-leszek-miller-ph8714503/alternates/LANDSCAPE_1280\" alt=\"Miller o Ukraińcach i Kowalu. Kraśko: momentami pana nie poznaję\" />\n    Leszek Miller w \"Faktach po Faktach\" TVN24 powtarzał kłamliwe tezy o Ukraińcach, które już wcześniej wygłosił. Na krytykę ze strony posła KO Pawła Kowala odpowiedział, że \"to jego problem\". - Momentami nie poznaję pana, kiedy słyszę to, co pan mówi - stwierdził prowadzący Piotr Kraśko. \n    ",
       "pubDate": "Wed, 22 Oct 2025 18:33:04 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-5031447-leszek-miller-ph8714504/alternates/LANDSCAPE_1280",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-3340425-leszek-miller-ph8714503/alternates/LANDSCAPE_1280",
       "source": "TVN24"
     },
     {
@@ -1154,14 +1186,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "Szef NATO: Donald Trump ma rację w sprawie Rosji i Ukrainy",
-      "link": "https://wiadomosci.onet.pl/swiat/szef-nato-donald-trump-ma-racje-w-sprawie-rosji-i-ukrainy/pce3m5h",
-      "description": "Sekretarz generalny NATO Mark Rutte spotkał się w środę z amerykańskimi senatorami w Waszyngtonie. Po spotkaniu przyznał, że Donald Trump ma rację, opowiadając się za tym, żeby Rosja i Ukraina zatrzymały walki na obecnej linii frontu. — Całkowicie się z nim zgadzam. To jest główny przekaz — powiedział szef NATO dziennikarzom.",
-      "pubDate": "Wed, 22 Oct 2025 17:18:05 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/3H4k9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9iNGMyODE1Ny0zMzg4LTQyY2ItYWQyZS1lZjVjNDE5NjVlNDkuanBlZ5KVA80Czc0BAs0R080KCJMFzQlgzQZA3gACoTAHoTEE",
-      "source": "Onet"
-    },
-    {
       "title": "Piesiewicz triumfuje. PKOl ma nowego sponsora i ogłasza rekordowe premie za olimpijskie medale",
       "link": "https://sport.dziennik.pl/artykuly/10562213,piesiewicz-triumfuje-pkol-ma-nowego-sponsora-i-oglasza-rekordowe-premie-za-olimpijskie-medale.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/qxgktkuTURBXy8yNzE0YWJlNy1mNjNjLTQ1OWEtOGUyMS0zZGY1YmEzZTMyZTguanBlZ5GTBc0BHcyg\" align=\"right\" />Sławomir Nitras po igrzyskach olimpijskich w Paryżu wypowiedział wojnę Radosławowi Piesiewiczowi. Robił wszystko, by usunąć szefa Polskiego Komitetu Olimpijskiego z zajmowanego stanowiska. Skończyło się tak, że premier Donald Tusk zmienił ministra sportu, a szef PKOl się ostał i teraz ma powody do świętowania. Kierowana przez niego organizacja podpisała umowę z nowym sponsorem. Przy okazji tego wydarzenia ogłoszono też wysokość premii dla sportowców, którzy zdobędą medale na zbliżających się zimowych igrzyskach olimpijskich.",
@@ -1216,14 +1240,6 @@
       "pubDate": "Wed, 22 Oct 2025 19:08:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/e92a4b9346251b48f989782cef3ff5b0/?t=crop:6000:2623:nowe:0:689,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Izrael zwrócił ciała kolejnych Palestyńczyków. \"Ślady tortur budzą przerażenie\"",
-      "link": "https://wiadomosci.onet.pl/swiat/izrael-zwrocil-ciala-30-palestynczykow-nosza-slady-tortur-i-egzekucji/t52yybj",
-      "description": "Izrael zwrócił do Strefy Gazy ciała kolejnych 30 Palestyńczyków w ramach trwającego rozejmu — poinformowało w środę lokalne ministerstwo zdrowia. Tego samego dnia pogrzebano część ze 195 zwróconych zwłok. Według lekarzy część z ciał nosiła ślady tortur lub egzekucji.",
-      "pubDate": "Wed, 22 Oct 2025 17:06:27 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/-O9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84MTgwM2FlNzdhNGY2OGIwNDg2ZjcwODZjZTY3ZGZkYy5qcGeSlQMAzJvNB9DNBGWTBc0JYM0GQN4AAqEwB6ExBA",
-      "source": "Onet"
     },
     {
       "title": "Alert RCB. \"Nie parkuj pod drzewami\"",
@@ -1866,19 +1882,19 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "General Motors’ ‘Eyes-Off’ System Begs the Question: What Happens When Cars Go AI?",
-      "link": "https://www.wired.com/story/cadillac-escalade-eyes-off-driving/",
-      "description": "General Motors’ new self-driving system will let the driver speed down the highway without looking at the road. It’s one of several features enabled by the adoption of machine intelligence in cars.",
-      "pubDate": "Wed, 22 Oct 2025 15:00:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/68f8032b71ab3035c71a177c/master/pass/Cadillac-Escalades-Eyes-Off-Driving-Gear-Cadillac%20Escalade%20IQL%202.jpg",
-      "source": "Wired"
-    },
-    {
       "title": "Historians Don't Think a US Civil War Is Likely—but They're Still Nervous",
       "link": "https://www.wired.com/story/path-to-civil-war/",
       "description": "“The fabric of what binds America together at this point is basically on its final thread,” one source tells WIRED.",
       "pubDate": "Wed, 22 Oct 2025 15:00:00 +0000",
       "imageUrl": "https://media.wired.com/photos/68f806a67fee5f24e0748ef6/master/pass/politics_civil_war_historians.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "General Motors’ ‘Eyes-Off’ System Begs the Question: What Happens When Cars Go AI?",
+      "link": "https://www.wired.com/story/cadillac-escalade-eyes-off-driving/",
+      "description": "General Motors’ new self-driving system will let the driver speed down the highway without looking at the road. It’s one of several features enabled by the adoption of machine intelligence in cars.",
+      "pubDate": "Wed, 22 Oct 2025 15:00:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/68f8032b71ab3035c71a177c/master/pass/Cadillac-Escalades-Eyes-Off-Driving-Gear-Cadillac%20Escalade%20IQL%202.jpg",
       "source": "Wired"
     },
     {
@@ -4354,14 +4370,6 @@
       "source": "Engadget"
     },
     {
-      "title": "New report leaks Amazon's proposed mass-automation plans",
-      "link": "https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html?src=rss",
-      "description": "<p>Amazon is reportedly moving towards an era of unprecedented automation that would put half a million jobs in the US at risk. According to a series of interviews and internal documents referenced in an extensive report from <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html\"><em>The New York Times</em></a>, Amazon executives expect to sell twice as many products by 2033. But by scaling up its robotics operations believe it could avoid the 600,000 hires it would otherwise have to make to keep up with the demand.</p>\n<p>According to the report, documents show that the ultimate aim of Amazon’s in-house robotics department is to automate 75 percent of all operations, and if it is successful in making 160,000 fewer hires by 2027, the company would reportedly save 30 cents on each item it packs and delivers to customers in the US. Amazon recently <a data-i13n=\"cpos:2;pos:1\" href=\"https://www.aboutamazon.com/news/operations/amazon-million-robots-ai-foundation-model\"><ins>celebrated deploying</ins></a> its 1 millionth robot, a fleet it has been adding to since unveiling its <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.engadget.com/proteus-amazon-first-fully-autonomous-warehouse-robot-074341277.html\"><ins>first</ins></a> fully autonomous mobile robot in 2022.</p>\n<span id=\"end-legacy-contents\"></span><p>Despite already pushing ahead with building warehouses that employ few humans, the<em> NYT </em>report claims that Amazon is planning for the eventual impact on affected communities and the potential backlash by participating in local events to establish a reputation as a \"good corporate citizen.\" The internal documents also discuss the avoidance of terms such as \"automation\" and \"AI\" in relation to robotics, suggesting instead that executives use terms like “advanced technology” instead. They even consider replacing using \"cobot\" instead of \"robot\" as the former implies a collaborative relationship with humans.</p>\n<p>In a statement to the<em> NYT</em>, Amazon called the plans it cited incomplete and not reflective of its overall hiring strategy. It denied that its community efforts were related to its automation plans and said it’s not insisting that its executives refrain from using certain terms. The company added that it planned to hire 250,000 people for the imminent holiday season, but wouldn’t say how many of these would be permanent hires.</p>This article originally appeared on Engadget at https://www.engadget.com/big-tech/new-report-leaks-amazons-proposed-mass-automation-plans-144822790.html?src=rss",
-      "pubDate": "Tue, 21 Oct 2025 14:48:22 +0000",
-      "imageUrl": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-06%2Facea3e30-43a6-11f0-abfb-08c1824d8d04&resize=1400%2C918&client=19f2b5e49a271b2bde77&signature=507ee264ab7c716b51bb77582eec3230fc8d6567",
-      "source": "Engadget"
-    },
-    {
       "title": "Biedronka wyprzedaje elektronikę. Dziękuję i biorę dwa",
       "link": "https://spidersweb.pl/2025/10/biedronka-wyprzedaz-elektronika-1-zl.html",
       "description": "<p><img src=\"https://cdn-sw.spidersweb.pl/2025/10/biedronka-promocja-1-zl-drugi-produkt.jpg\" alt=\"\" class=\"type:primaryImage\" /></p>\n      <br/><br/><a href=\"https://spidersweb.pl/2025/10/biedronka-wyprzedaz-elektronika-1-zl.html\">Biedronka wyprzedaje elektronikę. Dziękuję i biorę dwa</a>",
@@ -5008,14 +5016,6 @@
       "pubDate": "Mon, 20 Oct 2025 11:00:42 GMT",
       "imageUrl": "https://static.antyweb.pl/img/w_full/wp-content/uploads/2025/10/iphone-crash-detection.jpg",
       "source": "Antyweb"
-    },
-    {
-      "title": "SteelSeries Arctis Nova Elite Review: Gaming Overkill?",
-      "link": "https://www.wired.com/review/steelseries-arctis-elite/",
-      "description": "These $600 headphones are loaded with features for gaming, but they also offer a high-end music listening experience.",
-      "pubDate": "Mon, 20 Oct 2025 11:00:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/68f5c8d8bdb77fe808115c8d/master/pass/Review-%20SteelSeries%20Arctis%20Nova%20Elite.png",
-      "source": "Wired"
     },
     {
       "title": "Tensions mount as Alassane Ouattara seeks fourth term in Ivory Coast vote",
