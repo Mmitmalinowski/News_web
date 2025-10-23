@@ -17,6 +17,7 @@ const FEEDS = {
   "Dziennik.pl": "http://rss.dziennik.pl/Dziennik-PL/",
   "TVN24": "https://tvn24.pl/najnowsze.xml",
   "Newsweek Polska": "https://www.newsweek.pl/rss.xml",
+  "Press.pl": "https://www.press.pl/rss/",
   
   // Technologia i IT
   "Niebezpiecznik": "http://feeds.feedburner.com/niebezpiecznik",
@@ -25,12 +26,26 @@ const FEEDS = {
   "Antyweb": "https://antyweb.pl/feed",
   "Benchmark.pl": "https://www.benchmark.pl/feed",
   "Interia Technologie": "http://kanaly.rss.interia.pl/nowe_technologie.xml",
+  "Tabletowo": "https://www.tabletowo.pl/feed/",
+  "Android.com.pl": "https://android.com.pl/feed",
+  "GeekWeek": "https://geekweek.pl/feed/",
   
-  // Media i biznes
-  "Wirtualne Media": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
-  "Media2.pl": "https://feeds.feedburner.com/media2",
+  // Biznes i Finanse
   "Bankier.pl": "https://www.bankier.pl/rss/wiadomosci.xml",
   "Money.pl": "https://www.money.pl/rss/",
+  "Biznes.interia.pl": "https://biznes.interia.pl/feed",
+  "Stooq": "https://stooq.pl/rss/",
+  
+  // Media
+  "Wirtualne Media": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
+  "Media2.pl": "https://feeds.feedburner.com/media2",
+  
+  // Polityka i Społeczeństwo
+  "OKO.press": "https://oko.press/feed/",
+  "Krytyka Polityczna": "https://krytykapolityczna.pl/feed/",
+  
+  // Kultura i Lifestyle
+  "Interia Kultura": "http://kultura.interia.pl/feed",
   
   // Sport
   "Eurosport": "https://www.eurosport.pl/rss.xml",
