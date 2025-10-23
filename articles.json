@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2025-10-23T22:49:08.852Z",
+  "generatedAt": "2025-10-23T22:58:52.174Z",
   "items": [
+    {
+      "title": "Trump's Investment in Intel Is Paying Off",
+      "link": "https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/",
+      "description": "The chipmaker reported higher than expected revenue on Thursday, and its stock price has risen over 90 percent since August.",
+      "pubDate": "Thu, 23 Oct 2025 22:48:36 +0000",
+      "imageUrl": "https://media.wired.com/photos/68f80331302a4fd65a7729e9/master/pass/Intel-Earnnings-Business-2235610687.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "Villa 'must be more clinical' as penalty problem grows",
+      "link": "https://www.bbc.com/sport/football/articles/cy8vqvx4e89o?at_medium=RSS&at_campaign=rss",
+      "description": "Aston Villa have fixed their goalscoring issues, but their terrible record from the penalty spot is a growing problem.",
+      "pubDate": "Thu, 23 Oct 2025 22:47:40 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a4/live/73243910-b063-11f0-aa13-0b0479f6f42a.jpg",
+      "source": "BBC News"
+    },
+    {
+      "title": "EU leaders fail to agree to use frozen Russian assets to defend Ukraine",
+      "link": "https://www.theguardian.com/world/2025/oct/23/zelenskyy-presses-for-eu-decision-on-using-russia-assets-to-defend-ukraine",
+      "description": "<p>Belgium derails proposal to use billions located in Brussels to fund €140bn loan to Ukraine for its war effort</p><p>EU leaders have swerved a decision on using Russia’s frozen assets to fund Ukraine’s defence, despite a plea from Volodymyr Zelenskyy to take swift action to make Moscow pay for its war.</p><p>Hopes of agreeing a new way of funding Ukraine’s war effort were dashed after opposition from Belgium, which hosts most of the Russian central bank funds immobilised in the EU at the Brussels-based institution Euroclear.</p> <a href=\"https://www.theguardian.com/world/2025/oct/23/zelenskyy-presses-for-eu-decision-on-using-russia-assets-to-defend-ukraine\">Continue reading...</a>",
+      "pubDate": "Thu, 23 Oct 2025 22:44:39 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/0862b7e1941619121e6efc4a530db60d8bb7c96b/1590_1617_3943_3154/master/3943.jpg?width=140&quality=85&auto=format&fit=max&s=bda74d0baf2d54dd78ddc04a8267b99b",
+      "source": "The Guardian"
+    },
     {
       "title": "Donald Trump komentuje reakcję Władimira Putina na amerykańskie sankcje. \"Cieszę się, że on tak myśli\"",
       "link": "https://wiadomosci.onet.pl/swiat/trump-zapytany-o-reakcje-putina-na-sankcje-ciesze-sie/cgby36t",
@@ -8,6 +32,14 @@
       "pubDate": "Thu, 23 Oct 2025 22:42:06 GMT",
       "imageUrl": "https://cdn.wiadomosci.onet.pl/1/DtWk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8xYTBhNTRlMWYyODExYmM4ZjJkY2U2YjJhMGM0NjZmZi5qcGeSlQMAzLvNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA",
       "source": "Onet"
+    },
+    {
+      "title": "News live: fears highly contagious strain of H5 bird flu infected elephant seals on remote Australian island",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb",
+      "description": "<p>Findings on Heard Island ‘reinforces the need for Australia to remain focused on preparing for an outbreak’ of deadly strain, officials say. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian scientists recently observed signs consistent with H5 avian influenza, or bird flu, in elephant seals during a voyage to Heard Island in the sub-Antarctic.</p><p>The <strong>Department of Agriculture, Fisheries and Forestry</strong> (DAFF) said officials had not made a confirmed detection of bird flu but said the findings “reinforces the need for Australia to remain focused on preparing for an outbreak”. Australia is the only continent that does not have the highly contagious strain of H5 bird flu.</p><p>Scientists observed unusual levels of mortality in elephant seals on Heard Island in recent days. There were no observations of unusual levels of mortality in other species present on the island, including penguins and other seabirds.</p><p>Seeing signs consistent with H5 bird flu in wildlife on Heard Island is not unexpected.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb\">Continue reading...</a>",
+      "pubDate": "Thu, 23 Oct 2025 22:41:54 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/56feeb8d89e3dbfebbb8e8cded9b9f17bdeb0ed9/450_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=be633d28d272ea8d54f022edbf31ea0f",
+      "source": "The Guardian"
     },
     {
       "title": "White House approves increased oil and gas drilling in Alaska’s national wildlife refuge",
@@ -23,14 +55,6 @@
       "description": "<p>President specifically lauds Nvidia and Salesforce CEOs and says they told him ‘the future of San Francisco is great’</p><p>Silicon Valley executives apparently leaned on Donald Trump to call off a “surge” of federal troops in San Francisco on Thursday. The president said in a social media post that “friends of mine who live in the area called last night to ask me not to go forward with the surge”. He specifically mentioned Nvidia CEO Jensen Huang and Salesforce CEO Marc Benioff.</p><p>“The people of San Francisco have come together on fighting Crime, especially since we began to take charge of that very nasty subject,” Trump wrote on <a href=\"https://truthsocial.com/@realDonaldTrump/posts/115424560133045127\">Truth Social</a>, the social media network he owns. “Great people like Jensen Huang, Marc Benioff, and others have called saying that the future of San Francisco is great. They want to give it a ‘shot.’ Therefore, we will not surge San Francisco on Saturday.”</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/23/trump-san-francisco-troops-silicon-valley\">Continue reading...</a>",
       "pubDate": "Thu, 23 Oct 2025 22:28:46 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/d7a5b6cff67302af7b634b2cb0300e041bc710a2/626_0_4954_3963/master/4954.jpg?width=140&quality=85&auto=format&fit=max&s=1a9a576d9bca5a333d32951b27f249d0",
-      "source": "The Guardian"
-    },
-    {
-      "title": "News live: fears highly contagious strain of H5 bird flu infected elephant seals on remote Australian island",
-      "link": "https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb",
-      "description": "<p>Findings on Heard Island ‘reinforces the need for Australia to remain focused on preparing for an outbreak’ of deadly strain, officials say. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian scientists recently observed signs consistent with H5 avian influenza, or bird flu, in elephant seals during a voyage to Heard Island in the sub-Antarctic.</p><p>The <strong>Department of Agriculture, Fisheries and Forestry</strong> (DAFF) said officials had not made a confirmed detection of bird flu but said the findings “reinforces the need for Australia to remain focused on preparing for an outbreak”. Australia is the only continent that does not have the highly contagious strain of H5 bird flu.</p><p>Scientists observed unusual levels of mortality in elephant seals on Heard Island in recent days. There were no observations of unusual levels of mortality in other species present on the island, including penguins and other seabirds.</p><p>Seeing signs consistent with H5 bird flu in wildlife on Heard Island is not unexpected.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/24/australia-news-live-police-search-colleen-walker-craig-bowraville-river-labor-environment-laws-murray-watt-coalition-greens-ntwnfb\">Continue reading...</a>",
-      "pubDate": "Thu, 23 Oct 2025 22:24:25 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/56feeb8d89e3dbfebbb8e8cded9b9f17bdeb0ed9/450_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=be633d28d272ea8d54f022edbf31ea0f",
       "source": "The Guardian"
     },
     {
@@ -106,6 +130,14 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "ZBP: Podwyżka CIT dla banków jest niekonstytucyjna",
+      "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43228401-zbp-podwyzka-cit-dla-bankow-jest-niekonstytucyjna",
+      "description": "Dlaczego tylko nasz sektor ma się dokładać do wydatków na obronność i zdrowie, skoro inne branże mają wyższą rentowność niż my? – pyta dr Tadeusz Białek, prezes Związku Banków Polskich.",
+      "pubDate": "Fri, 24 Oct 2025 00:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/bd69809ae9fc2e4fec319db60376317f/?t=resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Inwestycje w dystrybucję kluczowe dla bezpieczeństwa dostaw energii elektrycznej",
       "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43228311-inwestycje-w-dystrybucje-kluczowe-dla-bezpieczenstwa-dostaw-energii-elektrycznej",
       "description": "Kondycja sektora energetycznego i wyzwania stojące przed Polską w kontekście utrzymania tempa rozwoju stały się osią debaty „Polska w poszukiwaniu nowych silników wzrostu” podczas Europejskiego Forum Nowych Idei w Sopocie.",
@@ -122,28 +154,12 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "ZBP: Podwyżka CIT dla banków jest niekonstytucyjna",
-      "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43228401-zbp-podwyzka-cit-dla-bankow-jest-niekonstytucyjna",
-      "description": "Dlaczego tylko nasz sektor ma się dokładać do wydatków na obronność i zdrowie, skoro inne branże mają wyższą rentowność niż my? – pyta dr Tadeusz Białek, prezes Związku Banków Polskich.",
-      "pubDate": "Fri, 24 Oct 2025 00:00:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/bd69809ae9fc2e4fec319db60376317f/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Wielka Brytania w TOP3 inwestycji polskich firm",
       "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43228381-wielka-brytania-w-top3-inwestycji-polskich-firm",
       "description": "Wartość polskich inwestycji na Wyspach osiągnęła rekordowe 10,5 mld zł. To 6,4 proc. wszystkich zagranicznych inwestycji krajowych firm. Takie dane przynosi raport ambasady brytyjskiej i Banku Gospodarstwa Krajowego, który miał premierę podczas EFNI.",
       "pubDate": "Fri, 24 Oct 2025 00:00:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/e1a5046bb1c604ddf240b854dbc18349/?t=resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "EU leaders swerve decision on using frozen Russia assets to defend Ukraine",
-      "link": "https://www.theguardian.com/world/2025/oct/23/zelenskyy-presses-for-eu-decision-on-using-russia-assets-to-defend-ukraine",
-      "description": "<p>Belgian opposition derails proposal to use Russian assets to fund €140bn loan to Ukraine for its war effort </p><p>EU leaders have swerved a decision on using Russia’s frozen assets to fund Ukraine’s defence, despite a plea from Volodymyr Zelenskyy to take swift action to make Moscow pay for its war.</p><p>Hopes of agreeing a new way of funding Ukraine’s war effort were dashed after opposition from Belgium, which hosts most of the Russian central bank funds immobilised in the EU at the Brussels-based institution Euroclear.</p> <a href=\"https://www.theguardian.com/world/2025/oct/23/zelenskyy-presses-for-eu-decision-on-using-russia-assets-to-defend-ukraine\">Continue reading...</a>",
-      "pubDate": "Thu, 23 Oct 2025 21:59:25 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/0862b7e1941619121e6efc4a530db60d8bb7c96b/1590_1617_3943_3154/master/3943.jpg?width=140&quality=85&auto=format&fit=max&s=bda74d0baf2d54dd78ddc04a8267b99b",
-      "source": "The Guardian"
     },
     {
       "title": "Liga Konferencji. Raków Częstochowa w ostatniej minucie uratował punkt w Ołomuńcu",
@@ -722,19 +738,19 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Sekretny plan Ariela Szarona",
-      "link": "https://historia.rp.pl/historia-swiata/art43224811-sekretny-plan-ariela-szarona",
-      "description": "Nie wiemy, czy plan Donalda Trumpa przyniesie Izraelczykom i Palestyńczykom trwały pokój. Tym bardziej że już premier Ariel Szaron próbował tego dokonać na początku XXI wieku. Dlaczego to mu się nie udało?",
-      "pubDate": "Thu, 23 Oct 2025 21:00:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/795f0cb3ba3cb1eb5ef15d6e267fc494/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Grób Nieznanego Żołnierza – milczący świadek historii",
       "link": "https://historia.rp.pl/historia-polski/art43224801-grob-nieznanego-zolnierza-milczacy-swiadek-historii",
       "description": "Niemal równo 100 lat temu ze Lwowa sprowadzono szczątki bezimiennego żołnierza do powstającego w arkadach Pałacu Saskiego miejsca hołdu dla tysięcy poległych w licznych bitwach w obronie Ojczyzny. I choć w 1944 r. Niemcy wysadzili pałac, to grób przetrwał.",
       "pubDate": "Thu, 23 Oct 2025 21:00:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/674cbfeec0fa1db0e1f2e3d4775d9fe1/?t=resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Sekretny plan Ariela Szarona",
+      "link": "https://historia.rp.pl/historia-swiata/art43224811-sekretny-plan-ariela-szarona",
+      "description": "Nie wiemy, czy plan Donalda Trumpa przyniesie Izraelczykom i Palestyńczykom trwały pokój. Tym bardziej że już premier Ariel Szaron próbował tego dokonać na początku XXI wieku. Dlaczego to mu się nie udało?",
+      "pubDate": "Thu, 23 Oct 2025 21:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/795f0cb3ba3cb1eb5ef15d6e267fc494/?t=resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
     },
     {
@@ -3842,19 +3858,19 @@
       "source": "Antyweb"
     },
     {
-      "title": "Keeper Review (2025): Enterprise-Level Password Management for Everyone",
-      "link": "https://www.wired.com/review/keeper-password-manager-2025/",
-      "description": "Keeper Unlimited brings enterprise-level security to all your devices if you’re willing to pay for the privilege.",
-      "pubDate": "Thu, 23 Oct 2025 10:30:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/68f96b164e35e840b8b8a16b/master/pass/Review-%20Keeper%20Password%20Manager.png",
-      "source": "Wired"
-    },
-    {
       "title": "ChatGPT’s Horny Era Could Be Its Stickiest Yet",
       "link": "https://www.wired.com/story/chatgpt-horny-era/",
       "description": "OpenAI will soon let adults create erotic content in ChatGPT. Experts say that could lead to “emotional commodification,” or horniness as a revenue stream.",
       "pubDate": "Thu, 23 Oct 2025 10:30:00 +0000",
       "imageUrl": "https://media.wired.com/photos/68f8ff84afe80bf740804453/master/pass/gear-chatgpt-horny-961105954.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "Keeper Review (2025): Enterprise-Level Password Management for Everyone",
+      "link": "https://www.wired.com/review/keeper-password-manager-2025/",
+      "description": "Keeper Unlimited brings enterprise-level security to all your devices if you’re willing to pay for the privilege.",
+      "pubDate": "Thu, 23 Oct 2025 10:30:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/68f96b164e35e840b8b8a16b/master/pass/Review-%20Keeper%20Password%20Manager.png",
       "source": "Wired"
     },
     {
@@ -6656,14 +6672,6 @@
       "pubDate": "Tue, 21 Oct 2025 18:00:00 +0200",
       "imageUrl": "",
       "source": "Benchmark.pl"
-    },
-    {
-      "title": "Forget SEO. Welcome to the World of Generative Engine Optimization",
-      "link": "https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/",
-      "description": "This holiday season, more shoppers are expected to use chatbots to figure out what to buy. ‘Tis the season for GEO.",
-      "pubDate": "Tue, 21 Oct 2025 16:00:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/68f6a93ad0fc611fc4919adc/master/pass/Model-Behavior-Santas-Helper-is-an-LLM-Business.jpg",
-      "source": "Wired"
     },
     {
       "title": "Jeszcze jedna podwyżka. Twoje ulubione seriale będą znowu droższe.",
