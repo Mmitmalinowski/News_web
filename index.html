@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>RSS Aggregator — Czytnik Wiadomości</title>
+  <title>NewsHub — Najświeższe artykuły ze świata</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -51,6 +51,11 @@
               </div>
             </div>
           </div>
+          <!-- Saved articles button -->
+          <button id="showSavedBtn" type="button" style="width:100%;margin-top:8px;padding:10px 12px;border-radius:8px;border:1px solid var(--input-border);background:var(--input-bg);color:var(--text-primary);cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;gap:8px">
+            <span>📌</span>
+            <span>Zapisane (<span id="savedCount">0</span>)</span>
+          </button>
           <!-- Refresh status info -->
           <div id="refreshStatus" style="padding:8px 0;color:#6b7280;font-size:11px;line-height:1.4;display:none">
             <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:4px;gap:3px">

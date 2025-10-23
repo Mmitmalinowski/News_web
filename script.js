@@ -79,6 +79,8 @@ const pageStatus = document.getElementById('pageStatus');
 
 let allArticles = [];
 let readArticles = JSON.parse(localStorage.getItem('readArticles') || '{}');
+let savedArticles = JSON.parse(localStorage.getItem('savedArticles') || '[]');
+let showingSaved = false;
 const KNOWN_GOOD_KEY = 'knownFeedUrls';
 let knownGood = JSON.parse(localStorage.getItem(KNOWN_GOOD_KEY) || '{}');
 const FEEDS_KEY = 'userFeeds';
@@ -545,6 +547,18 @@ function createCard(a){
   card.className = 'card' + (readArticles[a.link] ? ' read' : '');
   const inner = document.createElement('div'); inner.className = 'card-inner';
 
+  // Przycisk zapisywania
+  const saveBtn = document.createElement('button');
+  saveBtn.className = 'save-article-btn';
+  const isSaved = savedArticles.some(saved => saved.link === a.link);
+  saveBtn.textContent = isSaved ? '📌' : '🔖';
+  if(isSaved) saveBtn.classList.add('saved');
+  saveBtn.title = isSaved ? 'Usuń z zapisanych' : 'Zapisz na później';
+  saveBtn.onclick = (e) => {
+    e.stopPropagation();
+    toggleSaveArticle(a, saveBtn);
+  };
+
   const img = document.createElement('img');
   // inline SVG placeholder to avoid external DNS/HTTP requests
   const svgPlaceholder = 'data:image/svg+xml;utf8,' + encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180"><rect width="100%" height="100%" fill="#e9eef6"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#6b7280" font-family="Arial,Helvetica,sans-serif" font-size="16">Brak zdjęcia</text></svg>`);
@@ -561,6 +575,7 @@ function createCard(a){
   ex.textContent = decodedPlain.length > 200 ? decodedPlain.slice(0,200) + '…' : decodedPlain;
 
   content.appendChild(h); content.appendChild(meta); content.appendChild(ex);
+  inner.appendChild(saveBtn);
   inner.appendChild(img); inner.appendChild(content);
   card.appendChild(inner);
 
@@ -632,6 +647,53 @@ function escapeHtml(s){
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+// Saved articles functions
+function toggleSaveArticle(article, btnEl) {
+  const index = savedArticles.findIndex(a => a.link === article.link);
+  if (index > -1) {
+    // Usuń z zapisanych
+    savedArticles.splice(index, 1);
+    btnEl.textContent = '🔖';
+    btnEl.classList.remove('saved');
+    btnEl.title = 'Zapisz na później';
+  } else {
+    // Zapisz artykuł (pełne dane)
+    savedArticles.push({
+      title: article.title,
+      link: article.link,
+      description: article.description,
+      pubDate: article.pubDate,
+      imageUrl: article.imageUrl,
+      source: article.source,
+      savedAt: new Date().toISOString()
+    });
+    btnEl.textContent = '📌';
+    btnEl.classList.add('saved');
+    btnEl.title = 'Usuń z zapisanych';
+  }
+  localStorage.setItem('savedArticles', JSON.stringify(savedArticles));
+  updateSavedCount();
+}
+
+function updateSavedCount() {
+  const countEl = document.getElementById('savedCount');
+  if (countEl) {
+    countEl.textContent = savedArticles.length;
+  }
+}
+
+function showSavedArticles() {
+  showingSaved = true;
+  renderArticles(savedArticles);
+  document.getElementById('sourceDropdownLabel').textContent = 'Zapisane artykuły';
+}
+
+function showAllArticles() {
+  showingSaved = false;
+  applyFilters();
+  document.getElementById('sourceDropdownLabel').textContent = 'Wszystkie źródła';
+}
+
 // Events
 searchInput.addEventListener('input', () => applyFilters());
 if(refreshBtn){
@@ -648,6 +710,20 @@ if (themeToggle) {
     document.documentElement.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
     updateThemeIcon(newTheme);
+  });
+}
+
+// Saved articles toggle
+const showSavedBtn = document.getElementById('showSavedBtn');
+if (showSavedBtn) {
+  showSavedBtn.addEventListener('click', () => {
+    if (showingSaved) {
+      showAllArticles();
+      showSavedBtn.style.background = '';
+    } else {
+      showSavedArticles();
+      showSavedBtn.style.background = 'var(--dropdown-hover)';
+    }
   });
 }
 
@@ -700,6 +776,9 @@ window.addEventListener('DOMContentLoaded', async () => {
     // Obsługa dropdownu do filtrowania źródeł
     document.addEventListener('DOMContentLoaded', () => {
       console.log("Inicjalizacja obsługi dropdown");
+      
+      // Update saved articles count
+      updateSavedCount();
       
       const dropdown = document.getElementById('sourceDropdown');
       const panel = document.getElementById('sourcePanel');
