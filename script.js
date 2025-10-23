@@ -580,9 +580,18 @@ function createCard(a){
   card.appendChild(inner);
 
   card.addEventListener('click', (e) => {
-    if(e.target.closest('a')) return;
+    if(e.target.closest('a') || e.target.closest('.save-article-btn')) return;
     markAsRead(a.link, card);
     window.open(a.link,'_blank');
+  });
+
+  // Middle mouse button (scroll wheel click) opens in new tab
+  card.addEventListener('auxclick', (e) => {
+    if(e.button === 1 && !e.target.closest('.save-article-btn')) { // button 1 = middle click
+      e.preventDefault();
+      markAsRead(a.link, card);
+      window.open(a.link,'_blank');
+    }
   });
 
   return card;
@@ -719,10 +728,10 @@ if (showSavedBtn) {
   showSavedBtn.addEventListener('click', () => {
     if (showingSaved) {
       showAllArticles();
-      showSavedBtn.style.background = '';
+      showSavedBtn.classList.remove('active');
     } else {
       showSavedArticles();
-      showSavedBtn.style.background = 'var(--dropdown-hover)';
+      showSavedBtn.classList.add('active');
     }
   });
 }

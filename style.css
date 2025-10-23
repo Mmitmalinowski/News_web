@@ -237,6 +237,10 @@ body{
 #showSavedBtn:hover{
   background:var(--dropdown-hover);
 }
+#showSavedBtn.active{
+  background:var(--dropdown-hover);
+  border-color:var(--accent);
+}
 .site-footer{text-align:center;padding:18px;color:var(--muted)}
 @media (max-width:920px){
   .news-grid{grid-template-columns: repeat(auto-fill,minmax(280px,1fr));}
