@@ -212,8 +212,20 @@ body{
 
 @media (max-width:768px){
   .news-grid{
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
     gap: 12px;
+  }
+  .controls input{
+    min-width: 0;
+  }
+  .source-dropdown-label{
+    min-width: 0 !important;
+  }
+  .source-panel{
+    min-width: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
   }
 }
 
@@ -261,9 +273,6 @@ body{
   }
   .main-content{
     width:100%;
-  }
-  .news-grid{
-    grid-template-columns: 1fr;
   }
 }
 
