@@ -579,29 +579,50 @@ function createCard(a){
   inner.appendChild(img); inner.appendChild(content);
   card.appendChild(inner);
 
-  // Handle both left click and middle click
+  // Prevent autoscroll on middle click
   card.addEventListener('mousedown', (e) => {
+    if(e.button === 1 && !e.target.closest('.save-article-btn')) {
+      e.preventDefault();
+    }
+  });
+
+  // Handle middle click
+  card.addEventListener('mouseup', (e) => {
     if(e.target.closest('.save-article-btn')) return;
     
-    // Middle mouse button (button 1) - create temporary link and click it
+    // Middle mouse button (button 1)
     if(e.button === 1) {
       e.preventDefault();
+      e.stopPropagation();
       markAsRead(a.link, card);
       
-      // Create invisible link and trigger middle click behavior
+      // Create invisible link and simulate Ctrl+Click for background tab
       const tempLink = document.createElement('a');
       tempLink.href = a.link;
       tempLink.target = '_blank';
       tempLink.rel = 'noopener noreferrer';
-      tempLink.style.display = 'none';
+      tempLink.style.position = 'absolute';
+      tempLink.style.left = '-9999px';
       document.body.appendChild(tempLink);
-      tempLink.click();
-      document.body.removeChild(tempLink);
+      
+      // Simulate Ctrl+Click which opens in background tab
+      const clickEvent = new MouseEvent('click', {
+        bubbles: true,
+        cancelable: true,
+        view: window,
+        ctrlKey: true,
+        metaKey: true // For Mac
+      });
+      tempLink.dispatchEvent(clickEvent);
+      
+      setTimeout(() => document.body.removeChild(tempLink), 100);
+      return false;
     }
   });
 
   card.addEventListener('click', (e) => {
     if(e.target.closest('a') || e.target.closest('.save-article-btn')) return;
+    if(e.button !== 0) return; // Only left click
     markAsRead(a.link, card);
     window.open(a.link,'_blank');
   });
