@@ -579,19 +579,31 @@ function createCard(a){
   inner.appendChild(img); inner.appendChild(content);
   card.appendChild(inner);
 
+  // Handle both left click and middle click
+  card.addEventListener('mousedown', (e) => {
+    if(e.target.closest('.save-article-btn')) return;
+    
+    // Middle mouse button (button 1) - create temporary link and click it
+    if(e.button === 1) {
+      e.preventDefault();
+      markAsRead(a.link, card);
+      
+      // Create invisible link and trigger middle click behavior
+      const tempLink = document.createElement('a');
+      tempLink.href = a.link;
+      tempLink.target = '_blank';
+      tempLink.rel = 'noopener noreferrer';
+      tempLink.style.display = 'none';
+      document.body.appendChild(tempLink);
+      tempLink.click();
+      document.body.removeChild(tempLink);
+    }
+  });
+
   card.addEventListener('click', (e) => {
     if(e.target.closest('a') || e.target.closest('.save-article-btn')) return;
     markAsRead(a.link, card);
     window.open(a.link,'_blank');
-  });
-
-  // Middle mouse button (scroll wheel click) opens in new tab
-  card.addEventListener('auxclick', (e) => {
-    if(e.button === 1 && !e.target.closest('.save-article-btn')) { // button 1 = middle click
-      e.preventDefault();
-      markAsRead(a.link, card);
-      window.open(a.link,'_blank');
-    }
   });
 
   return card;
