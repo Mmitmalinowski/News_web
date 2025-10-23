@@ -1,3 +1,20 @@
+// Dark mode handling
+(function initTheme() {
+  const savedTheme = localStorage.getItem('theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const theme = savedTheme || (prefersDark ? 'dark' : 'light');
+  
+  document.documentElement.setAttribute('data-theme', theme);
+  updateThemeIcon(theme);
+})();
+
+function updateThemeIcon(theme) {
+  const icon = document.getElementById('themeIcon');
+  if (icon) {
+    icon.textContent = theme === 'dark' ? '☀️' : '🌙';
+  }
+}
+
 // Prosty RSS aggregator — fetch -> parse XML -> render
 // zastąp CORS_PROXY pojedynczym stringiem listą (jeśli używasz starego CORS_PROXY, możesz go usunąć)
 const PROXIES = [
@@ -619,6 +636,19 @@ function escapeHtml(s){
 searchInput.addEventListener('input', () => applyFilters());
 if(refreshBtn){
   refreshBtn.addEventListener('click', async () => { resetPagination(); showSpinner(); if(loadingMessage){ loadingMessage.style.display='block'; loadingMessage.textContent='Odświeżanie...'; } await fetchAllFeeds(); hideSpinner(); });
+}
+
+// Theme toggle
+const themeToggle = document.getElementById('themeToggle');
+if (themeToggle) {
+  themeToggle.addEventListener('click', () => {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    updateThemeIcon(newTheme);
+  });
 }
 
 // Start
