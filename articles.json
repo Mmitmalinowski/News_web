@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2025-10-25T15:28:00.093Z",
+  "generatedAt": "2025-10-25T15:39:31.240Z",
   "items": [
+    {
+      "title": "Met Police reviewing 9,000 grooming cases ",
+      "link": "https://www.bbc.com/news/articles/cvgv5vdqzdko?at_medium=RSS&at_campaign=rss",
+      "description": "A review of 9,000 cases of child sexual exploitation is being undertaken, the Met Police says.",
+      "pubDate": "Sat, 25 Oct 2025 15:30:58 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a1c/live/51a4f150-b1b0-11f0-9cab-2d0a3e089522.jpg",
+      "source": "BBC News"
+    },
+    {
+      "title": "Krzysztof Ibisz ujawnia sekret. Rekordowe nagrody w \"Awanturze o kasę\"",
+      "link": "https://geekweek.interia.pl/lifestyle/news-krzysztof-ibisz-ujawnia-sekret-emocje-i-rekordowe-nagrody-w,nId,22434751",
+      "description": "W najnowszym odcinku \"Awantury o kasę\" drużyny zmierzyły się w emocjonującej walce o najwyższą stawkę, odpowiadając na pytania z chemii, astronomii oraz wielu innych dziedzin. Niebiescy dzięki śmiałej grze zdobyli wyraźną przewagę i zakończyli z imponującą sumą nagrody. Dodatkową niespodzianką był sekret Krzysztofa Ibisza, który tym razem przyciągnął zainteresowanie widzów, ujawniając własnoręcznie kiszone ogórki jako atrakcję programu.",
+      "pubDate": "Sat, 25 Oct 2025 15:30:02 GMT",
+      "imageUrl": "https://i.iplsc.com/-/000LT3414KMCVFFY-C321.webp",
+      "source": "GeekWeek"
+    },
     {
       "title": "Kurski zaczął mówić i nagle go zbesztano. \"Jeśli mogę cię poprosić\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-kurski-zaczal-mowic-i-nagle-go-zbesztano-jesli-moge-cie-popr,nId,22435390",
@@ -8,14 +24,6 @@
       "pubDate": "Sat, 25 Oct 2025 15:22:07 GMT",
       "imageUrl": "https://i.iplsc.com/-/000LTALVW7BYYVIY-C321.webp",
       "source": "Interia"
-    },
-    {
-      "title": "Australia crush England in first Ashes match for 22 years",
-      "link": "https://www.bbc.com/sport/rugby-league/articles/ceq0r4vg1j1o?at_medium=RSS&at_campaign=rss",
-      "description": "Twenty-two years later, same story. Australia have picked up where they left off in their domination of the rugby league Ashes.",
-      "pubDate": "Sat, 25 Oct 2025 15:21:50 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c385/live/5b6b7ed0-b1af-11f0-aa13-0b0479f6f42a.jpg",
-      "source": "BBC News"
     },
     {
       "title": "Zmiana czasu na zimowy. Jest stanowczy głos Kosiniaka-Kamysza",
@@ -28,7 +36,7 @@
     {
       "title": "Rybak przerwał ćwiczenia NATO. Absurdalny powód",
       "link": "https://wiadomosci.onet.pl/swiat/rybak-przerwal-cwiczenia-nato-absurdalny-powod/2f73eqw",
-      "description": "Norweski rybak przerwał w ubiegłym tygodniu ćwiczenia wojskowe NATO wpływając w strefę manewrów. Jak informuje dziennik \"Kyst og Fjord\", mężczyzna z wyspy Andoeya chciał w ten sposób domagać się dostępu do zamkniętych przez armię łowisk.",
+      "description": "Norweski rybak przerwał w ubiegłym tygodniu ćwiczenia wojskowe NATO, wpływając w strefę manewrów. Jak informuje dziennik \"Kyst og Fjord\", mężczyzna z wyspy Andoeya chciał w ten sposób domagać się dostępu do zamkniętych przez armię łowisk.",
       "pubDate": "Sat, 25 Oct 2025 15:19:33 GMT",
       "imageUrl": "https://cdn.wiadomosci.onet.pl/1/kS-k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82ZmU3MjA0MWZlMjVhYzU5MjU1ZTgwODg0ZjAxMzhmOC5qcGeSlQMAdc0Nuc0HupMFzQlgzQZA3gACoTAHoTEE",
       "source": "Onet"
@@ -104,6 +112,14 @@
       "pubDate": "Sat, 25 Oct 2025 15:00:25 +0000",
       "imageUrl": "https://cdn.oko.press/cdn-cgi/image/fit=cover,width=580,height=260,quality=75/https://cdn.oko.press/2025/10/SP230227_282618.jpg",
       "source": "OKO.press"
+    },
+    {
+      "title": "Stany Zjednoczone szykują kolejne sankcje wobec Rosji. Ale czekają na ruch Europy",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43236501-stany-zjednoczone-szykuja-kolejne-sankcje-wobec-rosji-ale-czekaja-na-ruch-europy",
+      "description": "USA przygotowują nowe sankcje wymierzone w rosyjską gospodarkę, które mają zmusić Rosję do zakończenia wojny na Ukrainie. USA oczekują jednak, że zanim Amerykanie zdecydują się na dalsze kroki, najpierw Europa zaostrzy własne restrykcje wobec Moskwy - pisze Reuters.",
+      "pubDate": "Sat, 25 Oct 2025 17:00:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/a0e0430d718ecb33e950a5a3c960dbcb/?t=crop:3840:1679:nowe:0:441,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Psychoonkolog Adrianna Sobol: Przestańmy straszyć rakiem",
@@ -586,6 +602,14 @@
       "source": "TVN24"
     },
     {
+      "title": "King rewrites record books as Australia thrash South Africa",
+      "link": "https://www.bbc.com/sport/cricket/videos/cp8edj91myro?at_medium=RSS&at_campaign=rss",
+      "description": "Alana King takes a stunning 7-18 - a record at a Women's World Cup - as Australia bowl South Africa out for 97, before chasing down their target with seven wickets in hand in Indore.",
+      "pubDate": "Sat, 25 Oct 2025 13:33:29 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e8/live/3a8011f0-b1a4-11f0-aa13-0b0479f6f42a.jpg",
+      "source": "BBC News"
+    },
+    {
       "title": "How to cancel your Spotify subscription",
       "link": "https://www.engadget.com/apps/how-to-cancel-your-spotify-subscription-133022215.html?src=rss",
       "description": "<p>Spotify recently <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.avclub.com/spotify-stands-by-ice-recruitment-ads\">came under fire</a> for running recruitment ads for ICE, which ask users to \"join the mission to protect America\" and to \"fulfill [their] mission,\" in the US. Despite music labels calling on the streaming service to stop serving ICE recruitment ads, Spotify doubled down. A spokesperson for the company told <a data-i13n=\"elm:affiliate_link;sellerN:The Independent;elmt:;cpos:2;pos:1\" href=\"https://shopping.yahoo.com/rdlw?merchantId=9b10ec1f-8e62-4410-8957-c54f7db63bfc&siteId=us-engadget&pageId=1p-autolink&contentUuid=ddc4d161-c193-4ff7-b214-cebb6c5121a0&featureId=text-link&merchantName=The+Independent&linkText=The+Independent&custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay9uZXdzL3dvcmxkL2FtZXJpY2FzL3VzLXBvbGl0aWNzL2ljZS1yZWNydWl0bWVudC1hZHMtc3BvdGlmeS1zdHJlYW1pbmctYjI4NDY2MzQuaHRtbCIsImNvbnRlbnRVdWlkIjoiZGRjNGQxNjEtYzE5My00ZmY3LWIyMTQtY2ViYjZjNTEyMWEwIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay9uZXdzL3dvcmxkL2FtZXJpY2FzL3VzLXBvbGl0aWNzL2ljZS1yZWNydWl0bWVudC1hZHMtc3BvdGlmeS1zdHJlYW1pbmctYjI4NDY2MzQuaHRtbCJ9&signature=AQAAATqU-9ErkCyATqpLVa9x7ETZ3ozNJFxiVmg2MLnA2eeA&gcReferrer=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fworld%2Famericas%2Fus-politics%2Fice-recruitment-ads-spotify-streaming-b2846634.html\" class=\"rapid-with-clickid\" data-original-link=\"https://www.independent.co.uk/news/world/americas/us-politics/ice-recruitment-ads-spotify-streaming-b2846634.html\"><em>The Independent</em></a> that the ads are \"part of a broad campaign\" by the US government running across different channels and that they do not violate its policies. The spokesperson advised users to just mark ads with a thumbs up or down so that the app can learn their preferences. </p>\n<p>In addition, several artists have <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.rollingstone.com/music/music-features/artists-left-spotify-ceo-daniel-ek-military-tech-1235425098/\">pulled their music</a> from Spotify recently over its CEO's, Daniel EK's, investments in European defense tech firm Helsing. The defense company builds drones, aircraft and submarines, and it also sells AI software that can analyze sensor and weapons data from battlefields. Spotify has been facing backlash for its <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.engadget.com/entertainment/music/spotify-tries-to-defend-its-artist-payout-rates-120021659.html\">payout rates</a>, which artists argue are unfair and lower than what other services pay, over the past few years as well. </p>\n<span id=\"end-legacy-contents\"></span><p>So if you want to <a data-i13n=\"cpos:5;pos:1\" href=\"https://www.engadget.com/apps/how-to-find-and-cancel-your-unused-subscriptions-130036314.html\">cancel</a> Spotify, whether for any those reasons or another one altogether, you can follow the instructions below. </p>\n<h2 id=\"jump-link-how-to-cancel-via-web\">How to cancel via web:</h2>\n<p></p>\n<p>1. Log into your Spotify account in your browser. </p>\n<p>2. Go to Account in the dropdown menu that shows up when you click on your Profile. </p>\n<p>3. Find Cancel Subscription under the Subscription section. </p>\n<p>4. Spotify will tell you that you'll hear ads every 15 minutes on a free account, along with the date when your premium access will end. Click \"Continue to cancel\" at the bottom of the screen. </p>\n<p>If you're on mobile, make sure to request the desktop site after you log into your account on your mobile browser. Take note that if you're part of a Spotify Family or Duo plan, only the plan manager will be able to cancel your subscription altogether. If you follow the same steps above as a member, you'll only remove your account from the plan, but the manager will continue paying for it. </p>\n<h2 id=\"jump-link-how-to-cancel-via-third-party-provider\">How to cancel via third-party provider:</h2>\n<p>If you pay for your subscription through third-party providers, you can follow these instructions instead.</p>\n<h3 id=\"jump-link-cancel-via-google\">Cancel via Google</h3>\n<p>1. Fire up the Google Play app and tap on the icon for the account you use. </p>\n<p>2. Go to Payments & subscriptions. </p>\n<p>3. Tap on Subscriptions. </p>\n<p>4. Find Spotify among your subscriptions and tap on it. </p>\n<p>5. Tap on Cancel Subscription at the bottom of the screen, select a reason for cancellation and confirm it. </p>\n<h3 id=\"jump-link-cancel-via-apple\">Cancel via Apple</h3>\n<p>1. Go to Settings in your iPhone or iPad. </p>\n<p>2. Tap on your name and go to Subscriptions. </p>\n<p>3. Find Spotify and go through the cancellation process. </p>\n<h3 id=\"jump-link-cancel-via-carrier\">Cancel via carrier</h3>\n<p>Instructions for this may vary, depending on your carrier. Generally, however, you can follow these steps. </p>\n<p>1. Log into your carrier account on its website. </p>\n<p>2. Find the option to manage your subscriptions under your account. </p>\n<p>3. Find Spotify and go through the cancellation process. </p>\n<h2 id=\"jump-link-what-happens-after-you-cancel\">What happens after you cancel</h2>\n<p>You'll still have access to Spotify's premium features until your next billing cycle begins. That means you still won't encounter ads and will have access to offline downloads, as well as unlimited skips and higher audio quality. You'll be able to access your Spotify library even with a free account, but if you want to find another streaming service to pay for, you can check Engadget's list of <a data-i13n=\"cpos:6;pos:1\" href=\"https://www.engadget.com/entertainment/music/best-music-streaming-service-130046189.html\">best music streaming services in 2025</a>. </p>This article originally appeared on Engadget at https://www.engadget.com/apps/how-to-cancel-your-spotify-subscription-133022215.html?src=rss",
@@ -672,14 +696,6 @@
       "pubDate": "Sat, 25 Oct 2025 15:17:00 +0200",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "King takes 7-18 as Australia thrash South Africa",
-      "link": "https://www.bbc.com/sport/cricket/articles/cwyn65d04q6o?at_medium=RSS&at_campaign=rss",
-      "description": "Alana King returns the best figures in Women's World Cup history as Australia hammer South Africa by seven wickets to set up a semi-final meeting with India.",
-      "pubDate": "Sat, 25 Oct 2025 13:16:12 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde3/live/1ba5f8e0-b199-11f0-aa13-0b0479f6f42a.jpg",
-      "source": "BBC News"
     },
     {
       "title": "Giertych pozywa sędziego Drajewicza. \"Dość bezkarności nominatów PiS\"",
@@ -1394,19 +1410,19 @@
       "source": "Bankier.pl"
     },
     {
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "link": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "pubDate": "Sat, 25 Oct 2025 11:00:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/68fc258076014c584f77ed1b/master/pass/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "source": "Wired"
-    },
-    {
       "title": "The 55 Best Shows on Netflix Right Now (October 2025)",
       "link": "https://www.wired.com/story/netflix-best-shows-this-week/",
       "description": "Wayward, Haunted Hotel, and House of Guinness are just a few of the shows you need to watch on Netflix this month.",
       "pubDate": "Sat, 25 Oct 2025 11:00:00 +0000",
       "imageUrl": "https://media.wired.com/photos/68f2c6cbd9a83ae21d13c682/master/pass/Netflix-Show-Guide-Wayward-Culture-TCDWAYW_ZX007.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "link": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "pubDate": "Sat, 25 Oct 2025 11:00:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/68fc258076014c584f77ed1b/master/pass/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "source": "Wired"
     },
     {
@@ -1944,14 +1960,6 @@
       "pubDate": "Sat, 25 Oct 2025 08:40:02 GMT",
       "imageUrl": "https://i.iplsc.com/-/000I4SIDUNQPEU56-C321.webp",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Po co muzeum getta francuski pejzaż? Spór o wylicytowany obraz",
-      "link": "https://www.rp.pl/kraj/art43231711-po-co-muzeum-getta-francuski-pejzaz-spor-o-wylicytowany-obraz",
-      "description": "Nowo powstające muzeum za 360 tys. zł wylicytowało na aukcji obraz Romana Kramsztyka, malarza, który zmarł w getcie. Zgody nie wydał jednak główny historyk muzeum. Wątpliwości budzi zarówno cena, jak i sens zakupu.",
-      "pubDate": "Sat, 25 Oct 2025 10:38:41 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/964fe3069313711c27bd173a4629c7b2/obraz-romana-kramsztyka-pejzaz-z-collioure?t=crop:1500:656:nowe:0:191.64655172414,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Fatalna pomyłka i obława na Wyspach. Przestępca wypuszczony na wolność",
@@ -6160,14 +6168,6 @@
       "pubDate": "Thu, 23 Oct 2025 13:30:12 GMT",
       "imageUrl": "https://static.antyweb.pl/img/w_full/wp-content/uploads/2025/10/markus-winkler-FjyseC7iV3k-unsplash.jpg",
       "source": "Antyweb"
-    },
-    {
-      "title": "Wielkie ćwiczenia. Awaryjne lądowanie samolotu i akcja służb na Wiśle",
-      "link": "https://geekweek.interia.pl/lotnictwo/news-samolot-wodowal-na-wisle-wielkie-cwiczenia-ratownikow,nId,22434565",
-      "description": "Wisła w podkrakowskim Tyńcu stała się dziś sceną symulacji ratunkowej. Pod kryptonimem \"Bird Strike 2025\" służby ćwiczyły awaryjne wodowanie samolotu na rzece. Akcja była błyskawiczna: nurkowie i grupy specjalistyczne ewakuowały poszkodowanych, podczas gdy zespoły chemiczne walczyły z symulowanym wyciekiem substancji ropopochodnych. Takie ćwiczenia przygotowują ratowników na najgorszy scenariusz.",
-      "pubDate": "Thu, 23 Oct 2025 13:28:36 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000LT0UT11292JMG-C321.webp",
-      "source": "GeekWeek"
     },
     {
       "title": "Miało być tanio, a jest drogo. Nowe procesory AMD Ryzen już w Polsce",
