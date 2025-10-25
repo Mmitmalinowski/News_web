@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2025-10-25T10:26:33.975Z",
+  "generatedAt": "2025-10-25T10:40:18.278Z",
   "items": [
+    {
+      "title": "Geely Starray EM-i: Drugie, to właściwe otwarcie",
+      "link": "https://moto.rp.pl/ten-pierwszy-raz/art43230761-geely-starray-em-i-drugie-to-wlasciwe-otwarcie",
+      "description": "Geely w Polsce wystartowało w maju, ale dopiero teraz pokaże, na co stać chińską markę, która po wprowadzeniu do oferty modelu Starray staje się poważnym konkurentem nie tylko dla chińskich, ale i europejskich i azjatyckich marek.",
+      "pubDate": "Sat, 25 Oct 2025 12:38:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/9b463d9135be83bef97cff2c9cec9829/?t=crop:2200:962:nowe:0:164,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kontrowersyjny sekret przetrwania naszych przodków. Jedli padlinę",
+      "link": "https://geekweek.interia.pl/historia/news-kontrowersyjny-sekret-przetrwania-naszych-przodkow-jedli-pad,nId,22433954",
+      "description": "Najnowsze badania hiszpańskich naukowców wykazały, że spożywanie padliny przez naszych przodków stanowiło nie tylko alternatywne, ale też często niezawodne źródło pożywienia, zwłaszcza w trudnych czasach. Dzięki przystosowaniom takim jak kwaśne pH żołądka, umiejętności wytwarzania narzędzi i użytkowanie ognia, mogli oni efektywnie wykorzystywać padlinę, minimalizując ryzyko zakażeń i maksymalizując korzyści energetyczne.",
+      "pubDate": "Sat, 25 Oct 2025 10:35:04 GMT",
+      "imageUrl": "https://i.iplsc.com/-/000KRRIVKY3HAXTD-C321.webp",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "W część Polski uderzy wichura. W tych regionach IMGW może wydać alerty",
+      "link": "https://wiadomosci.onet.pl/pogoda/wichura-moze-uderzyc-w-znaczny-obszar-polski-imgw-planuje-wydanie-alertow/f09z7bm",
+      "description": "Niedziela w części kraju może przynieść niebezpieczną pogodę. Wszystko z powodu bardzo silnego wiatru, który w porywach może osiągnąć nawet 80 km na godz. Instytut Meteorologii i Gospodarki Wodnej (IMGW) wydał prognozę zagrożeń, z której wynika, że wichura może objąć znaczną część kraju.",
+      "pubDate": "Sat, 25 Oct 2025 10:31:50 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/TJFk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lNWQ1MzYxM2FkYjE4ZjdkYTg4YTEwN2Y1YmQ3NjMyMC5wbmeSlQMAzJzNE4jNCvyTBc0JYM0GQN4AAqEwB6ExBA",
+      "source": "Onet"
+    },
+    {
+      "title": "Gryphon bez kompromisów. Słuchałem systemu audio za niemal 2 mln zł",
+      "link": "https://spidersweb.pl/2025/10/gryphon-audio-designs-kodo.html",
+      "description": "<p><img src=\"https://cdn-sw.spidersweb.pl/2025/10/gryphon-audio-designs-kodo-5.jpg\" alt=\"\" class=\"type:primaryImage\" /></p>\n      <br/><br/><a href=\"https://spidersweb.pl/2025/10/gryphon-audio-designs-kodo.html\">Gryphon bez kompromisów. Słuchałem systemu audio za niemal 2 mln zł</a>",
+      "pubDate": "Sat, 25 Oct 2025 12:30:29 +0200",
+      "imageUrl": "https://cdn-sw.spidersweb.pl/2025/10/gryphon-audio-designs-kodo-5.jpg",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Gorąca polityczna sobota. Donald Tusk ogłosi nowy projekt polityczny [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/kraj/goraca-polityczna-sobota-tusk-oglosi-nowy-projekt-polityczny-relacja-na-zywo/l39j95m",
+      "description": "W Warszawie rozpoczęła się konwencja krajowa PO, podczas której ma dojść do zmiany statutu tej partii. — Dzisiaj jednoczymy się, ponieważ rozumiemy, że tu nie chodzi tylko o walkę o władzę, o przyszłe wybory. Nie, tu chodzi o absolutnie fundamentalne rzeczy: o to, czy Polska będzie państwem suwerennym i czy Polacy utrzymają wolność uzyskaną w 1989 r. wbrew zagrożeniom, wbrew manipulacjom i naciskom od wewnątrz i z zewnątrz — przekonywał premier Donald Tusk podczas swojego wystąpienia. Od piątku trwa także w Katowicach drugi i ostatni dzień konwencji Prawa i Sprawiedliwości pod hasłem \"Myśląc Polska\", gdzie prezentowany jest program partii przed wyborami w 2027 r. Wieczorem planowane jest wystąpienie prezesa PiS Jarosława Kaczyńskiego. Zapraszamy do śledzenia relacji na żywo w Onecie z najważniejszych wydarzeń w krajowej polityce!",
+      "pubDate": "Sat, 25 Oct 2025 10:30:10 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/Ldqk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82Zjc3MGJjOTBkOTY0MzJkNWJlZWY3MDEyZDdkMTU0NS5qcGeSlQMEzQFBzRFLzQm8kwXNCWDNBkDeAAKhMAehMQQ",
+      "source": "Onet"
+    },
+    {
+      "title": "Amazon Explains How Its AWS Outage Took Down the Web",
+      "link": "https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/",
+      "description": "Plus: The Jaguar Land Rover hack sets an expensive new record, OpenAI’s new Atlas browser raises security fears, Starlink cuts off scam compounds, and more.",
+      "pubDate": "Sat, 25 Oct 2025 10:30:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/68fc1047d10add0e2ec330ea/master/pass/security_roundup_aws_outage.gif",
+      "source": "Wired"
+    },
+    {
+      "title": "How to Keep Squirrels Off Bird Feeders (2025)",
+      "link": "https://www.wired.com/story/how-to-keep-squirrels-off-bird-feeders/",
+      "description": "Whether you’re new to feeding birds or have been at your wits’ end for years, here are some tried-and-true tips on how to foil these wily rodents.",
+      "pubDate": "Sat, 25 Oct 2025 10:30:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/68fc0e0ad10add0e2ec330e8/master/pass/How%20to%20Keep%20Squirrels%20Off%20Bird%20Feeders.png",
+      "source": "Wired"
+    },
+    {
+      "title": "\"Przeganiamy Japonię\". Nowa Koalicja Obywatelska ma być filarem gospodarczej siły Polski",
+      "link": "https://www.money.pl/gospodarka/przeganiamy-japonie-nowa-koalicja-obywatelska-ma-byc-filarem-gospodarczej-sily-polski-7214644989131424a.html",
+      "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ecc0005e-99fc-4894-b10a-0708b82e3456\" width=\"308\" /> – Właśnie przeganiamy Japonię, jeśli chodzi o dochód narodowy per capita. Wolni Polacy umieją budować dobrobyt i wolne państwo – mówił Donald Tusk, otwierając konwencję, na której Platforma Obywatelska, Nowoczesna i Inicjatywa Polska rozpoczęły proces połączenia sił.  ",
+      "pubDate": "Sat, 25 Oct 2025 12:28:58 +0200",
+      "imageUrl": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/ecc0005e-99fc-4894-b10a-0708b82e3456",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Sufit w łóżku, grzyb na ścianach. \"Tak się mieszka w budynku państwowej spółki\"",
+      "link": "https://tvn24.pl/lodz/kutno-sufit-w-lozku-grzyb-na-scianach-i-strych-jak-z-horroru-tak-sie-mieszka-w-budynku-panstwowej-spolki-st8717093?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-6061998-na-lozko-schorowanej-kobiety-spadl-fragment-sufitu-ph8717004/alternates/LANDSCAPE_1280\" alt=\"Sufit w łóżku, grzyb na ścianach. \"Tak się mieszka w budynku państwowej spółki\"\" />\n    Sufit runął na łóżko schorowanej kobiety, dach jest dziurawy, pękają ściany, a okna są przykręcone na stałe wkrętami. Tak wygląda należący do PKP budynek przy ulicy Sienkiewicza w Kutnie. Mieszkająca tam od pół wieku schorowana kobieta z córką poprosiły firmę o zmianę lokalu na inny. Mieszkanie się znalazło. Blisko 200 kilometrów dalej - pod Radomiem.\n    ",
+      "pubDate": "Sat, 25 Oct 2025 10:26:01 GMT",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-6061998-na-lozko-schorowanej-kobiety-spadl-fragment-sufitu-ph8717004/alternates/LANDSCAPE_1280",
+      "source": "TVN24"
+    },
+    {
+      "title": "PO, Nowoczesna i Inicjatywa Polska się zjednoczyły. Tusk: Dobro zwycięża zło, ale musi być silne",
+      "link": "https://www.rp.pl/polityka/art43235171-po-nowoczesna-i-inicjatywa-polska-sie-zjednoczyly-tusk-dobro-zwycieza-zlo-ale-musi-byc-silne",
+      "description": "W południe ruszyła konwencja krajowa Platformy Obywatelskiej, która rozpoczęła proces tworzenia nowego ugrupowania wraz z Nowoczesną i Inicjatywą Polską. - Dziś łączymy nasze siły, bo wiemy, że podobnie jak w październiku 2023 r., nic nie jest rozstrzygnięte. Poprosiłem, żeby nasze zjednoczenie odbyło się w dzień, w którym nasi przeciwnicy zastanawiają się, jak nas podzielić - powiedział podczas wydarzenia premier Donald Tusk.",
+      "pubDate": "Sat, 25 Oct 2025 12:26:00 +0200",
+      "imageUrl": "https://i.gremicdn.pl/image/free/e9732fad556fa63d887c5c89cee1cc89/?t=crop:4000:1749:nowe:0:462,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Konwencja programowa KO: „Dobrzy ludzie, jeśli są zjednoczeni, są nie do pokonania” [OGLĄDAJ NA ŻYWO]",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/konwencja-programowa-ko-tusk-przemowienie",
+      "description": "<div><img src=\"https://cdn.oko.press/cdn-cgi/image/fit=cover,width=580,height=260,quality=75/https://cdn.oko.press/2025/10/tusk.png\" width=\"580\" height=\"260\" alt=\"Donald Tusk na konwencji programowej KO, Warszawa, 25.10.25\" /></div>      <p>Donald Tusk przemawia na konwencji programowej Koalicji Obywatelskiej. Na konwencji ogłoszone zostanie połączenie Platformy Obywatelskiej, Inicjatywy Polskiej i Nowoczesnej.</p>      <p>Artykuł <a rel=\"nofollow\" href=\"https://oko.press/na-zywo/na-zywo-relacja/konwencja-programowa-ko-tusk-przemowienie\">Konwencja programowa KO: „Dobrzy ludzie, jeśli są zjednoczeni, są nie do pokonania” [OGLĄDAJ NA ŻYWO]</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://oko.press\">oko.press</a>.</p>",
+      "pubDate": "Sat, 25 Oct 2025 10:25:00 +0000",
+      "imageUrl": "https://cdn.oko.press/cdn-cgi/image/fit=cover,width=580,height=260,quality=75/https://cdn.oko.press/2025/10/tusk.png",
+      "source": "OKO.press"
+    },
     {
       "title": "Catherine Connolly takes clear lead in Ireland’s presidential election race",
       "link": "https://www.theguardian.com/world/2025/oct/25/catherine-connolly-ireland-presidential-election-leftwing",
@@ -62,13 +150,13 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-koniec-platformy-obywatelskiej-tusk-przedstawia-nowe-ugrupow,nId,22435328",
       "description": "Po blisko ćwierć wieku w polityce Platforma Obywatelska zmienia nazwę. Decyzja zostanie ogłoszona podczas rozpoczynającej się krajowej konwencji w Warszawie. W trakcie wydarzenia głos zabrał lider ugrupowania Donald Tusk. - Ludzie zjednoczeni są nie do pokonania - powiedział premier.",
       "pubDate": "Sat, 25 Oct 2025 10:11:21 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000KG06X0HHW50L2-C321.webp",
+      "imageUrl": "https://i.iplsc.com/-/000LT9KR5QA8CYTA-C321.webp",
       "source": "Interia"
     },
     {
-      "title": "Donald Tusk otworzył konwencję KO. \"Chcę powiedzieć kilka słów prawdy\"",
-      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-otworzyl-konwencje-ko-chce-powiedziec-kilka-slow-prawdy/3jkhmpf",
-      "description": "— Chcę dzisiaj powiedzieć kilka słów prawdy, o co naprawdę nam chodzi. Takiej dobitnej prawdy, która coraz częściej bywa zagłuszana: przez negatywne emocje, przez złowrogie sygnały, krzyki, wrzaski — powiedział premier Donald Tusk, otwierając konwencję Platformy Obywatelskiej.",
+      "title": "Donald Tusk otworzył konwencję KO. \"To dlatego się dziś jednoczymy\"",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-otworzyl-konwencje-ko-dlatego-sie-dzis-jednoczymy/3jkhmpf",
+      "description": "— Dzisiaj jednoczymy się, ponieważ rozumiemy, że tu nie chodzi tylko o walkę o władzę, o przyszłe wybory. Nie, tu chodzi o absolutnie fundamentalne rzeczy: o to, czy Polska będzie państwem suwerennym i czy Polacy utrzymają wolność uzyskaną w 1989 r. wbrew zagrożeniom, wbrew manipulacjom i naciskom od wewnątrz i z zewnątrz — powiedział premier Donald Tusk, otwierając konwencję Platformy Obywatelskiej. PO łączy się z Nowoczesną i Inicjatywą Polską Barbary Nowackiej.",
       "pubDate": "Sat, 25 Oct 2025 10:11:02 GMT",
       "imageUrl": "https://cdn.wiadomosci.onet.pl/1/ZS6k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8zMTVhMWZjNWI0MGQ0MjFiZjlkZWVmYTI2ODhkYTFjOC5wbmeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
       "source": "Onet"
@@ -232,14 +320,6 @@
       "pubDate": "Sat, 25 Oct 2025 09:37:30 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/26bdc9f6a5be0febf86c6b3bb30855b178e4b54c/416_0_2697_2160/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=9e7ed9d85e5a201d6c231e188a7936a8",
       "source": "The Guardian"
-    },
-    {
-      "title": "Gorąca polityczna sobota. Donald Tusk ogłosi nowy projekt polityczny [RELACJA NA ŻYWO]",
-      "link": "https://wiadomosci.onet.pl/kraj/goraca-polityczna-sobota-tusk-oglosi-nowy-projekt-polityczny-relacja-na-zywo/l39j95m",
-      "description": "Dziś w Warszawie odbywa się konwencja krajowa PO, podczas której ma dojść do zmiany statutu tej partii. Nie będzie już Platformy Obywatelskiej, Nowoczesnej i Inicjatywy Polskiej, ponieważ na sobotnim kongresie zjednoczeniowym formacje te formalnie połączą się w jedno ugrupowanie. Może zmienić się też nazwa. Od piątku trwa także w Katowicach drugi i ostatni dzień konwencji Prawa i Sprawiedliwości pod hasłem \"Myśląc Polska\", gdzie prezentowany jest program partii przed wyborami w 2027 r. Wieczorem planowane jest wystąpienie prezesa PiS Jarosława Kaczyńskiego. Zapraszamy do śledzenia relacji na żywo w Onecie z najważniejszych wydarzeń w krajowej polityce!",
-      "pubDate": "Sat, 25 Oct 2025 09:36:10 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/Ldqk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy82Zjc3MGJjOTBkOTY0MzJkNWJlZWY3MDEyZDdkMTU0NS5qcGeSlQMEzQFBzRFLzQm8kwXNCWDNBkDeAAKhMAehMQQ",
-      "source": "Onet"
     },
     {
       "title": "Charyzmatyczna osobowość, niesamowity głos. Gdy umierała, ludzie mijali ją obojętnie",
@@ -498,8 +578,8 @@
       "source": "TVN24"
     },
     {
-      "title": "Joanna Ćwiek-Świdecka: Rzeczpospolita Babska – czy tylko kobiety odpowiadają ze niską dzietność?",
-      "link": "https://www.rp.pl/opinie-polityczno-spoleczne/art43232951-joanna-cwiek-swidecka-rzeczpospolita-babska-czy-tylko-kobiety-odpowiadaja-ze-niska-dzietnosc",
+      "title": "Joanna Ćwiek-Świdecka: Rzeczpospolita Babska – czy tylko kobiety odpowiadają za niską dzietność?",
+      "link": "https://www.rp.pl/opinie-polityczno-spoleczne/art43232951-joanna-cwiek-swidecka-rzeczpospolita-babska-czy-tylko-kobiety-odpowiadaja-za-niska-dzietnosc",
       "description": "Moment przejścia na emeryturę kobiet uzależniony od liczby urodzonych dzieci? Pójdźmy w tym dalej, premiujmy te matki, które mają córki. Bo choć podobno do tanga trzeba dwojga, wydaje się, że w Polsce za szorującą po dnie dzietność odpowiadają wyłącznie kobiety.",
       "pubDate": "Sat, 25 Oct 2025 10:45:00 +0200",
       "imageUrl": "https://i.gremicdn.pl/image/free/3025790883b217c34b64b7a74d8e2c5a/?t=crop:2000:874:nowe:0:229,resize:fill:600:300,enlarge:1",
@@ -1218,14 +1298,6 @@
       "source": "Interia"
     },
     {
-      "title": "Tak Trump ma nazwać salę balową przy Białym Domu",
-      "link": "https://tvn24.pl/swiat/tak-donald-trump-ma-nazwac-sale-balowa-przy-bialym-domu-st8718871?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-612936-wizualizacja-nowej-sali-balowej-w-bialym-domu-ph8581338/alternates/LANDSCAPE_1280\" alt=\"Tak Trump ma nazwać salę balową przy Białym Domu\" />\n    Prezydent Donald Trump nie ogłosił publicznie, jak będzie nazywać się powstająca sala balowa przy Białym Domu, jednak jest znany z tego, że lubi nazywać obiekty swoim imieniem. Wygląda na to, że tym razem też tak będzie - podała stacja ABC News. \n    ",
-      "pubDate": "Sat, 25 Oct 2025 06:51:10 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-612936-wizualizacja-nowej-sali-balowej-w-bialym-domu-ph8581338/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
-    },
-    {
       "title": "Venezuela's Maduro says US 'fabricating war' as it deploys world's largest warship",
       "link": "https://www.bbc.com/news/articles/c891gzx7xn4o?at_medium=RSS&at_campaign=rss",
       "description": "The deployment of the USS Gerald R Ford marks a major escalation in what the US says is a campaign to target drug traffickers.",
@@ -1272,14 +1344,6 @@
       "pubDate": "Sat, 25 Oct 2025 06:34:11 GMT",
       "imageUrl": "https://cdn.wiadomosci.onet.pl/1/P3Vk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yZGYzYTUxYzE0OGI5N2MzMmE1ZjBjZDk0NzU4YWQxOC5qcGeSlQMAzLvNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA",
       "source": "Onet"
-    },
-    {
-      "title": "Meksyk. Ponad 80 ofiar powodzi i lawin błotnych",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/meksyk-powodzie-burze-ulewy-lawiny-blotne-ponad-80-ofiar-trwa-usuwanie-skutkow-katastrofy-st8718867?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-2763207-ulewne-deszcze-w-meksyku-ph8695227/alternates/LANDSCAPE_1280\" alt=\"Meksyk. Ponad 80 ofiar powodzi i lawin błotnych\" />\n    Ponad 80 osób zginęło na skutek powodzi, które nawiedziły Meksyk. Los osiemnastu zaginionych nadal jest nieznany. Władze wciąż likwidują skutki katastrofy. \n    ",
-      "pubDate": "Sat, 25 Oct 2025 06:33:46 GMT",
-      "imageUrl": "https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-2763207-ulewne-deszcze-w-meksyku-ph8695227/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
     },
     {
       "title": "\"Dam wam znać za pół roku\". Donald Trump blefuje czy trzyma asa w rękawie? Tymi słowami może spędzić Putinowi sen z powiek",
@@ -1770,14 +1834,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Donald Trump o relacjach z Rosją. \"Chciałbym, aby Chiny nam pomogły\"",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-o-relacjach-z-rosja-chcialbym-aby-chiny-nam-pomogly/vdw0fpw",
-      "description": "Prezydent USA Donald Trump zadeklarował w piątek, że oczekuje od Chin wsparcia w relacjach z Rosją. Słowa te padły podczas lotu do Azji, gdzie kluczowym punktem podróży będą rozmowy handlowe z przywódcą Chin Xi Jinpingiem. Jednocześnie potwierdził gotowość spotkania z przywódcą Korei Północnej Kim Dzong Unem.",
-      "pubDate": "Sat, 25 Oct 2025 04:43:07 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/eO_k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9lMjY0OTg4YmYyNWVhODBkNjQ4NjM4NzQ4MWMyMGQ0My5qcGeSlQMAzJzNE4jNCvyTBc0JYM0GQN4AAqEwB6ExBA",
-      "source": "Onet"
-    },
-    {
       "title": "Ruszyły wypłaty dopłat bezpośrednich za 2025 rok. Jak sprawdzić ich status?",
       "link": "https://biznes.interia.pl/finanse/news-miliardy-zlotych-dla-rolnikow-sprawdz-kiedy-pieniadze-z-dopl,nId,22432947",
       "description": "Od połowy października Agencja Restrukturyzacji i Modernizacji Rolnictwa (ARiMR) rozpoczęła przelewy zaliczek dopłat bezpośrednich. To dobra wiadomość dla rolników, którzy czekają na środki wspierające płynność finansową gospodarstw. W tym roku wypłaty są realizowane w dwóch etapach: najpierw zaliczki, a później płatności końcowe. Sprawdź, jak w prosty sposób dowiedzieć się przez internet, kiedy i w jakiej kwocie możesz spodziewać się przelewu. Warto to zrobić, by zareagować, jeśli status wniosku budzi wątpliwości. ",
@@ -1834,12 +1890,28 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Krach liberalnego porządku: jak to się stało?",
+      "link": "https://krytykapolityczna.pl/swiat/dlaczego-zalamal-sie-liberalny-porzadek-swiata-jacobin/",
+      "description": "<p>Prawicowa kontrrewolucja trwa w najlepsze. Ale właściwie dlaczego liberalny, powojenny porządek świata tak łatwo upadł? Odpowiedź przynosi tekst opublikowany niedawno w magazynie <a href=\"https://jacobin.com/2025/09/liberals-conservatives-international-order-crisis\">Jacobin</a>.</p>\n<p>The post <a href=\"https://krytykapolityczna.pl/swiat/dlaczego-zalamal-sie-liberalny-porzadek-swiata-jacobin/\">Krach liberalnego porządku: jak to się stało?</a> first appeared on <a href=\"https://krytykapolityczna.pl\">Krytyka Polityczna</a>.</p>",
+      "pubDate": "Sat, 25 Oct 2025 04:02:00 +0000",
+      "imageUrl": "",
+      "source": "Krytyka Polityczna"
+    },
+    {
       "title": "Obowiązkowe windy w budynkach to nie wszystko. Nowe przepisy dotyczą także umywalek",
       "link": "https://gospodarka.dziennik.pl/news/artykuly/10565033,obowiazkowe-windy-w-budynkach-to-nie-wszystko-nowe-przepisy-dotycza-takze-umywalek.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/6rNktkuTURBXy82Y2EyMDRjZC1kMjgxLTQwZGYtOGM5MC00OTE4Yjc1NzVlYWQuanBlZ5GTBc0BHcyg\" align=\"right\" />Zmieniają się przepisy dotyczące budownictwa wielorodzinnego. Nowe rozporządzenie ministra rozwoju i technologii ma ułatwić osobom z różnymi niepełnosprawnościami korzystanie z budynków i ich wyposażenia. Skorzystają na tym również osoby starsze oraz rodzice z małymi dziećmi.",
       "pubDate": "2025-10-25T04:01:00.000Z",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/6rNktkuTURBXy82Y2EyMDRjZC1kMjgxLTQwZGYtOGM5MC00OTE4Yjc1NzVlYWQuanBlZ5GTBc0BHcyg",
       "source": "Dziennik.pl"
+    },
+    {
+      "title": "Swifties, zasługujecie na więcej",
+      "link": "https://krytykapolityczna.pl/kultura/taylor-swift-life-of-a-showgirl-recenzja/",
+      "description": "<p>„The Life of a Showgirl”, najnowszy album Taylor Swift, nie musi bronić się muzyką – wystarczy, że istnieje. I w tym tkwi problem.</p>\n<p>The post <a href=\"https://krytykapolityczna.pl/kultura/taylor-swift-life-of-a-showgirl-recenzja/\">Swifties, zasługujecie na więcej</a> first appeared on <a href=\"https://krytykapolityczna.pl\">Krytyka Polityczna</a>.</p>",
+      "pubDate": "Sat, 25 Oct 2025 04:01:00 +0000",
+      "imageUrl": "",
+      "source": "Krytyka Polityczna"
     },
     {
       "title": "Zawsze jest ktoś, kto nas potrzebuje, ale czasem nie da się tego znieść",
@@ -1930,25 +2002,9 @@
       "source": "Krytyka Polityczna"
     },
     {
-      "title": "Swifties, zasługujecie na więcej",
-      "link": "https://krytykapolityczna.pl/kultura/taylor-swift-life-of-a-showgirl-recenzja/",
-      "description": "<p>„The Life of a Showgirl”, najnowszy album Taylor Swift, nie musi bronić się muzyką – wystarczy, że istnieje. I w tym tkwi problem.</p>\n<p>The post <a href=\"https://krytykapolityczna.pl/kultura/taylor-swift-life-of-a-showgirl-recenzja/\">Swifties, zasługujecie na więcej</a> first appeared on <a href=\"https://krytykapolityczna.pl\">Krytyka Polityczna</a>.</p>",
-      "pubDate": "Sat, 25 Oct 2025 04:00:00 +0000",
-      "imageUrl": "",
-      "source": "Krytyka Polityczna"
-    },
-    {
       "title": "Przyjaźń jako utopia praktyczna",
       "link": "https://krytykapolityczna.pl/kultura/przyjazn-jako-utopia-rozmowa-z-geoffroyem-de-lagasnerie/",
       "description": "<p>O tym, jak przyjaźń może stać się spełnieniem lewicowych utopii relacyjnych, dać odpór systemowi i przynieść nadzieję, opowiada autor książki „We trzech. Dążenie, by wyjść poza”.</p>\n<p>The post <a href=\"https://krytykapolityczna.pl/kultura/przyjazn-jako-utopia-rozmowa-z-geoffroyem-de-lagasnerie/\">Przyjaźń jako utopia praktyczna</a> first appeared on <a href=\"https://krytykapolityczna.pl\">Krytyka Polityczna</a>.</p>",
-      "pubDate": "Sat, 25 Oct 2025 04:00:00 +0000",
-      "imageUrl": "",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Krach liberalnego porządku: jak to się stało?",
-      "link": "https://krytykapolityczna.pl/swiat/dlaczego-zalamal-sie-liberalny-porzadek-swiata-jacobin/",
-      "description": "<p>Prawicowa kontrrewolucja trwa w najlepsze. Ale właściwie dlaczego liberalny, powojenny porządek świata tak łatwo upadł? Odpowiedź przynosi tekst opublikowany niedawno w magazynie <a href=\"https://jacobin.com/2025/09/liberals-conservatives-international-order-crisis\">Jacobin</a>.</p>\n<p>The post <a href=\"https://krytykapolityczna.pl/swiat/dlaczego-zalamal-sie-liberalny-porzadek-swiata-jacobin/\">Krach liberalnego porządku: jak to się stało?</a> first appeared on <a href=\"https://krytykapolityczna.pl\">Krytyka Polityczna</a>.</p>",
       "pubDate": "Sat, 25 Oct 2025 04:00:00 +0000",
       "imageUrl": "",
       "source": "Krytyka Polityczna"
@@ -2330,14 +2386,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "USA wszczynają dochodzenie w sprawie przestrzegania przez Chiny umowy handlowej z 2020 r.",
-      "link": "https://www.rp.pl/handel/art43233371-usa-wszczynaja-dochodzenie-w-sprawie-przestrzegania-przez-chiny-umowy-handlowej-z-2020-r",
-      "description": "Na dzień przed wznowieniem rozmów handlowych między USA a Chinami Biały Dom wytoczył nowe działo. Stany Zjednoczone wszczynają dochodzenie celne w sprawie przestrzegania przez Chiny umowy handlowej „Fazy Pierwszej” z 2020 roku.",
-      "pubDate": "Fri, 24 Oct 2025 22:25:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/eb2ecb301e5fa0756f2cf07d8b47ef47/?t=crop:3020:1320:nowe:0:194.16666666667,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Litwa zamyka lotniska i przejścia graniczne. W tle akcja Białorusi",
       "link": "https://wydarzenia.interia.pl/zagranica/news-litwa-zamyka-lotniska-i-przejscia-graniczne-w-tle-akcja-bial,nId,22435275",
       "description": "Lotniska w Wilnie i Kownie zostały tymczasowo zamknięte w piątek wieczorem - poinformował litewskie Ministerstwo Transportu. Powodem są nadlatujące znad Białorusi balony meteorologiczne. W związku z incydentem o co najmniej kilka godzin zostanie opóźniony również lot do Warszawy. W odpowiedzi Litwa zamknęła tymczasowo dwa przejścia graniczne z Białorusią. ",
@@ -2408,14 +2456,6 @@
       "pubDate": "Fri, 24 Oct 2025 20:00:44 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/da026c5f4b1605f761989d8e40f447f5dfa89252/232_0_2353_1884/master/2353.jpg?width=140&quality=85&auto=format&fit=max&s=b0393269f1f5a082d2b88fec4486b22d",
       "source": "The Guardian"
-    },
-    {
-      "title": "Konwencja Nowoczesnej podjęła decyzję. Partia przechodzi do historii",
-      "link": "https://www.rp.pl/polityka/art43233351-konwencja-nowoczesnej-podjela-decyzje-partia-przechodzi-do-historii",
-      "description": "Partia Nowoczesna podjęła oficjalną decyzję o rozwiązaniu swojej działalności politycznej po dziesięciu latach istnienia. W głosowaniu podczas piątkowej konwencji większość poparła rozwiązanie ugrupowania.",
-      "pubDate": "Fri, 24 Oct 2025 22:00:00 +0200",
-      "imageUrl": "https://i.gremicdn.pl/image/free/7d74a57aeb065e0d5e7ee2dca3340fe5/?t=crop:3840:1679:nowe:0:438,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Mouse: P.I. for Hire arrives in March 2026",
@@ -5290,14 +5330,6 @@
       "source": "Biznes.interia.pl"
     },
     {
-      "title": "Podwyżki podatków. Co zrobi Nawrocki? Doradca prezydenta zabiera głos",
-      "link": "https://www.money.pl/gospodarka/podwyzki-podatkow-co-zrobi-nawrocki-doradca-prezydenta-zabiera-glos-7214198299011744a.html",
-      "description": " <img src=\"https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/538b6088-2383-4f91-9929-de5366fc0373\" width=\"308\" /> - Skutki prezydenckiego weta do ustaw podwyższających podatki nie będą decydujące dla poziomu deficytu finansów publicznych. Rząd może ograniczać deficyt, zwiększając dochody w inny sposób - ocenia Leszek Skiba, doradca prezydenta, były wiceminister finansów i prezes Instytutu Sobieskiego w piątkowej rozmowie z \"Pulsem Biznesu\": ",
-      "pubDate": "Fri, 24 Oct 2025 06:22:51 +0200",
-      "imageUrl": "https://i.wpimg.pl/308x/filerepo.grupawp.pl/api/v1/display/embed/538b6088-2383-4f91-9929-de5366fc0373",
-      "source": "Money.pl"
-    },
-    {
       "title": "Podwójne meteory zachwyciły internet. Prawda nie jest przyjemna",
       "link": "https://spidersweb.pl/2025/10/podwojne-meteory-usa-iluzja-kamera.html",
       "description": "<p><img src=\"https://cdn-sw.spidersweb.pl/2025/10/meteoryt-iluzja-kamera-wyjasnienie.jpg\" alt=\"\" class=\"type:primaryImage\" /></p>\n      <br/><br/><a href=\"https://spidersweb.pl/2025/10/podwojne-meteory-usa-iluzja-kamera.html\">Podwójne meteory zachwyciły internet. Prawda nie jest przyjemna</a>",
@@ -5922,14 +5954,6 @@
       "source": "Antyweb"
     },
     {
-      "title": "iPhone jak puderniczka. Gdzieś to już widziałem",
-      "link": "https://spidersweb.pl/2025/10/iphone-jak-puderniczka-gdzies-to-juz-widzialem.html",
-      "description": "<p><img src=\"https://cdn-sw.spidersweb.pl/2025/10/skladany-iphone-puderniczka-1.jpg\" alt=\"\" class=\"type:primaryImage\" /></p>\n      <br/><br/><a href=\"https://spidersweb.pl/2025/10/iphone-jak-puderniczka-gdzies-to-juz-widzialem.html\">iPhone jak puderniczka. Gdzieś to już widziałem</a>",
-      "pubDate": "Thu, 23 Oct 2025 17:17:28 +0200",
-      "imageUrl": "https://cdn-sw.spidersweb.pl/2025/10/skladany-iphone-puderniczka-1.jpg",
-      "source": "Spider's Web"
-    },
-    {
       "title": "Najszybszy pociąg komercyjny pobił rekord świata. Wkrótce wejdzie do użytku",
       "link": "https://geekweek.interia.pl/technologia/news-najszybszy-pociag-komercyjny-pobil-rekord-swiata-wkrotce-wej,nId,22434391",
       "description": "CR450 to najszybszy komercyjny pociąg świata, nad którym Chińczycy pracowali przez lata. Pojazd ustanowił rekord prędkości i rozpędził się do ponad 450 km/h. Wkrótce zostanie wprowadzony do użytku. CR450 będzie jeździł z pasażerami z prędkością o 100 km/h wyższą w porównaniu do innych pociągów.",
@@ -6322,14 +6346,6 @@
       "source": "Wired"
     },
     {
-      "title": "Ważna zmiana w listach poleconych. Już nie dostaniesz awiza",
-      "link": "https://geekweek.interia.pl/technologia/news-wazna-zmiana-od-1-stycznia-2026-chodzi-o-listy-polecone,nId,22434435",
-      "description": "Już 1 stycznia 2026 roku wprowadzony zostanie obowiązek korzystania z e-Doręczeń jako podstawowego kanału doręczania korespondencji do obywateli i firm. Koniec papierowych awizów.",
-      "pubDate": "Thu, 23 Oct 2025 10:01:04 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000KAFA3RB9FA63W-C321.webp",
-      "source": "GeekWeek"
-    },
-    {
       "title": "O tych produktach będzie głośno. Nowy producent prezentuje swoje portfolio w Polsce!",
       "link": "https://antyweb.pl/o-tych-produktach-bedzie-glosno-nowy-producent-debiutuje-w-polsce",
       "description": "Hiszpańska marka Cecotec oficjalnie zadebiutowała w Polsce! I to weszła z hukiem, prezentując na start swoje niezwykle szerokie i różnorodne portfolio.",
@@ -6400,6 +6416,14 @@
       "pubDate": "Thu, 23 Oct 2025 08:00:43 GMT",
       "imageUrl": "https://static.antyweb.pl/img/w_full/wp-content/uploads/2024/11/skywalker.webp",
       "source": "Antyweb"
+    },
+    {
+      "title": "Zatrzymania w Nowym Sączu, informacja o zarzutach i wpis prezydenta. \"Wracamy do pracy\"",
+      "link": "https://tvn24.pl/krakow/zatrzymania-w-nowym-saczu-informacja-o-zarzutach-i-wpis-prezydenta-wracamy-do-pracy-st8715039?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-6028441-nowy-sacz-ph8715077/alternates/LANDSCAPE_1280\" alt=\"Zatrzymania w Nowym Sączu, informacja o zarzutach i wpis prezydenta. \"Wracamy do pracy\"\" />\n    Agenci CBA zatrzymali między innymi prezydenta i wiceprezydenta Nowego Sącza. Prokuratura Europejska (EPPO), która nadzoruje postępowanie prowadzone przez Centralne Biuro Antykorupcyjne, potwierdziła zatrzymanie i zarzuty dla sześciu osób, w tym czterech urzędników Urzędu Miasta w Nowym Sączu. W mediach społecznościowych prezydent w sobotę zamieścił krótki komunikat.\n    ",
+      "pubDate": "Thu, 23 Oct 2025 07:52:59 GMT",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-6028441-nowy-sacz-ph8715077/alternates/LANDSCAPE_1280",
+      "source": "TVN24"
     },
     {
       "title": "Chiny chciały skopiować maszynę do produkcji procesorów, ale ją popsuły",
@@ -6642,14 +6666,6 @@
       "source": "Tabletowo"
     },
     {
-      "title": "The Long Tail of the AWS Outage",
-      "link": "https://www.wired.com/story/aws-cloud-outage-long-tail/",
-      "description": "Experts say outages like the one that Amazon experienced this week are almost inevitable given the complexity and scale of cloud technology—but the duration serves as a warning.",
-      "pubDate": "Wed, 22 Oct 2025 16:31:33 +0000",
-      "imageUrl": "https://media.wired.com/photos/68f797ba47df21d17483d0ea/master/pass/sec-aws-outage-2161832042.jpg",
-      "source": "Wired"
-    },
-    {
       "title": "Xbox nie ma litości. Ceny o 1/3 w górę",
       "link": "https://antyweb.pl/xbox-nie-ma-litosci-ceny-nawet-o-1-3-w-gore",
       "description": "Microsoft nie ma litości i ZNOWU podbija stawki. Tym razem do góry poszybowały ceny zestawów deweloperskich do konsol Xbox Series X/S. A podwyżka jest sroga: bo mowa tu o skoku z 1500 dolarów, do 2000 dolarów. Mowa zatem o podwyżce na poziomie aż 33%! I patrząc na ostatnie ruchy Microsoftu, można mówić o KOLEJNEJ podwyżce. Po wcześniejszym podniesieniu cen konsol oraz subskrypcji Xbox Game Pass, gdzie - w zależności od rynku - mowa o podwyżkach rzędu nawet 50%.",
@@ -6664,14 +6680,6 @@
       "pubDate": "Wed, 22 Oct 2025 16:15:02 GMT",
       "imageUrl": "https://static.antyweb.pl/img/w_full/wp-content/uploads/2025/10/capsule_616x353.jpg",
       "source": "Antyweb"
-    },
-    {
-      "title": "This Open Source Robot Brain Thinks in 3D",
-      "link": "https://www.wired.com/story/this-open-source-robot-brain-thinks-in-3d/",
-      "description": "Open source language models are crucial to AI innovation. Can open robotics models do the same for physical machines?",
-      "pubDate": "Wed, 22 Oct 2025 16:00:42 +0000",
-      "imageUrl": "https://media.wired.com/photos/68f806f7302a4fd65a7729eb/master/pass/Robot-3D-Thinking-Business.jpg",
-      "source": "Wired"
     },
     {
       "title": "Przełomowy katalizator zapoczątkuje erę wodoru? Nauka trzyma kciuki",
