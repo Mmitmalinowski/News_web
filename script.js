@@ -182,9 +182,9 @@ function parseFeedXml(xmlText, sourceName){
 // Decode HTML entities (e.g. numeric &#x119; -> ę). Uses browser parsing which safely handles entities.
 function decodeHtmlEntities(str){
   if(!str) return '';
-  // Use DOM to decode entities. Textarea is widely supported.
+  // Security: Use textContent instead of innerHTML to prevent XSS
   const txt = document.createElement('textarea');
-  txt.innerHTML = str;
+  txt.textContent = str;
   return txt.value;
 }
 
