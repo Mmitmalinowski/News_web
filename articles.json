@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-26T23:46:03.384Z",
+  "generatedAt": "2025-10-26T23:55:38.018Z",
   "items": [
     {
       "title": "Rebel group claims capture of key city in Sudan ",
@@ -90,19 +90,19 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Między gigantycznymi inwestycjami a społecznym lękiem",
-      "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43239251-miedzy-gigantycznymi-inwestycjami-a-spolecznym-lekiem",
-      "description": "Polska energetyka stoi przed historycznym wyzwaniem: jak sfinansować warte setki miliardów złotych inwestycje w transformację, nie obniżając przy tym konkurencyjności gospodarki i nie tracąc społecznego poparcia dla tych zmian. To nie jest dyskusja o tym, czy się zmieniać, ale jak uniknąć pułapek na tej drodze.",
-      "pubDate": "Mon, 27 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/5a110be0fc7a3ebdc37a4a0c82d10712/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Przewidywalność prawa to podstawa",
       "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43239181-przewidywalnosc-prawa-to-podstawa",
       "description": "Chcemy móc prowadzić działalność w sposób umożliwiający planowanie przynajmniej w perspektywie kilku lat, zamiast ciągle dostosowywać strategie do zmieniających się przepisów – mówi Marek Górski, prezydent Konfederacji Lewiatan.",
       "pubDate": "Mon, 27 Oct 2025 00:00:00 +0100",
       "imageUrl": "https://i.gremicdn.pl/image/free/806f465530b8b555cb03adc0d68074df/?t=resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Między gigantycznymi inwestycjami a społecznym lękiem",
+      "link": "https://www.rp.pl/europejskie-forum-nowych-idei/art43239251-miedzy-gigantycznymi-inwestycjami-a-spolecznym-lekiem",
+      "description": "Polska energetyka stoi przed historycznym wyzwaniem: jak sfinansować warte setki miliardów złotych inwestycje w transformację, nie obniżając przy tym konkurencyjności gospodarki i nie tracąc społecznego poparcia dla tych zmian. To nie jest dyskusja o tym, czy się zmieniać, ale jak uniknąć pułapek na tej drodze.",
+      "pubDate": "Mon, 27 Oct 2025 00:00:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/5a110be0fc7a3ebdc37a4a0c82d10712/?t=resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
     },
     {
@@ -278,7 +278,7 @@
       "link": "https://www.bbc.com/sport/formula1/articles/cj97v2v9vv1o?at_medium=RSS&at_campaign=rss",
       "description": "Lando Norris storms to a dominant victory in the Mexico City Grand Prix to boost his world championship hopes.",
       "pubDate": "Sun, 26 Oct 2025 21:55:51 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b09b/live/6ddd6d80-b2b8-11f0-ba75-093eca1ac29b.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/2a394370-b2c6-11f0-ba75-093eca1ac29b.jpg",
       "source": "BBC News"
     },
     {
@@ -286,7 +286,7 @@
       "link": "https://www.bbc.com/sport/formula1/articles/cj97v2v9vv1o?at_medium=RSS&at_campaign=rss",
       "description": "Lando Norris storms to a dominant victory in the Mexico City Grand Prix to boost his world championship hopes.",
       "pubDate": "Sun, 26 Oct 2025 21:55:51 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b09b/live/6ddd6d80-b2b8-11f0-ba75-093eca1ac29b.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/2a394370-b2c6-11f0-ba75-093eca1ac29b.jpg",
       "source": "BBC News"
     },
     {
@@ -728,6 +728,14 @@
       "pubDate": "Sun, 26 Oct 2025 18:35:01 GMT",
       "imageUrl": "https://i.iplsc.com/-/000K2QK6QA89OM5S-C321.webp",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Bellingham scores El Clasico winner",
+      "link": "https://www.bbc.com/sport/football/videos/cj0emrp5gv1o?at_medium=RSS&at_campaign=rss",
+      "description": "Jude Bellingham assists the first goal and scores the second for Real Madrid as they beat Barcelona 2-1 in the first Clasico of the La Liga season.",
+      "pubDate": "Sun, 26 Oct 2025 18:34:03 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2203/live/2c1e5b20-b29a-11f0-ba75-093eca1ac29b.jpg",
+      "source": "BBC News"
     },
     {
       "title": "Pogoda zaskoczyła kierowców przy granicy z Czechami. Spadł śnieg",
