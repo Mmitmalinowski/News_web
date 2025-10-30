@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2025-10-30T03:36:52.851Z",
+  "generatedAt": "2025-10-30T03:58:12.788Z",
   "items": [
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1345",
+      "link": "https://www.rp.pl/swiat/art43259131-wojna-rosji-z-ukraina-dzien-1345",
+      "description": "24 lutego 2022 roku Rosja rozpoczęła pełnowymiarową inwazję na Ukrainę. W nocy z 29 na 30 października Ukraina była celem zmasowanego ataku powietrznego Rosji.",
+      "pubDate": "Thu, 30 Oct 2025 04:55:37 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/e14388a1cac4481103c33c039ac8b222/ukrainski-zolnierz?t=crop:2048:895:nowe:0:115.8275862069,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556]",
+      "link": "https://sekurak.pl/bledy-w-implementacji-krzywej-fourq-od-cloudflare-pozwalaly-na-odzyskanie-klucza-prywatnego-cve-2025-8556/",
+      "description": "<p>Na początku października 2025 r. badacze bezpieczeństwa z firmy Botanica Technologists opublikowali raport z analizy audytu OSS (Open Source Software) Elliptic Curve. Wyniki badań są niepokojące, ponieważ został wykryty szereg błędów kryptograficznych, związanych z nieprawidłową implementacją krzywej eliptycznej FourQ w bibliotece CIRCL (Cloudflare Interoperable, Reusable Cryptographic Library). Jeden z błędów...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/bledy-w-implementacji-krzywej-fourq-od-cloudflare-pozwalaly-na-odzyskanie-klucza-prywatnego-cve-2025-8556/\">Błędy w implementacji krzywej FourQ od Cloudflare pozwalały na odzyskanie klucza prywatnego [CVE-2025-8556]</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
+      "pubDate": "Thu, 30 Oct 2025 03:54:36 +0000",
+      "imageUrl": "",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Dutch centrist liberals neck and neck with populist Wilders in tight election",
+      "link": "https://www.bbc.com/news/articles/cpwvy4w875vo?at_medium=RSS&at_campaign=rss",
+      "description": "Rob Jetten's D66 party celebrates but with 90% of votes counted the result is too close to call.",
+      "pubDate": "Thu, 30 Oct 2025 03:47:52 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d16/live/c2c37c50-b514-11f0-ba75-093eca1ac29b.jpg",
+      "source": "BBC News"
+    },
+    {
+      "title": "Rosjanie kontrolują ruch autobusowy z Polską. Dziennik prezentuje skalę",
+      "link": "https://wiadomosci.onet.pl/kraj/polaczenia-krolewiec-warszawa-pod-kontrola-rosyjskich-firm-dziennik-ujawnia/jn4xhqt",
+      "description": "Główny Inspektor Ruchu Drogowego wydał w tym roku zgodę na dwa nowe połączenia autobusowe Królewiec-Warszawa. Przewozy te powinny być prowadzone przez spółki z obu krajów. Tak się jednak nie dzieje, a linie te są kontrolowane przez Rosjan, którzy zarejestrowali firmy w Polsce — donosi czwartkowa \"Rzeczpospolita\".",
+      "pubDate": "Thu, 30 Oct 2025 03:46:26 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/DEfk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy83ODIzNzljNDI2ZWJjOGM5MDg5MjMxNTc0MmY1NzJkZS5qcGeSlQMAzKDNFADNC0CTBc0JYM0GQN4AAqEwB6ExBA",
+      "source": "Onet"
+    },
+    {
+      "title": "Trump traci poparcie. Nawet wierni wyborcy odwracają się od prezydenta USA",
+      "link": "https://wiadomosci.dziennik.pl/swiat/artykuly/10569706,trump-traci-poparcie-nawet-wierni-wyborcy-odwracaja-sie-od-prezydenta.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/Qi-ktkuTURBXy8xMDNkMzViMi00MTQxLTQzYmMtOWY5Ni04ZjE3ZmExMTg1MzkuanBlZ5GTBc0BHcyg\" align=\"right\" />Działania prezydenta USA Donalda Trumpa pozytywnie ocenia jedynie 39 proc., zaś negatywnie 58 proc. wyborców - wynika z opublikowanego w środę sondażu YouGov dla pisma The Economist. To najgorsze notowania podczas jego drugiej kadencji i kolejne już podobne badanie wskazujące na spadek poparcia.",
+      "pubDate": "2025-10-30T03:45:04.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/Qi-ktkuTURBXy8xMDNkMzViMi00MTQxLTQzYmMtOWY5Ni04ZjE3ZmExMTg1MzkuanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "Australia politics live: Bridget McKenzie accuses PM of ‘bullying’ Senate chamber as extended question time threatens to erupt",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb",
+      "description": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Australians should be ‘alarmed’ if Labor negotiates with Greens on environment bill</strong></p><p>I told you it would be environment-heavy didn’t I!</p><p>I think Australians should be alarmed at the thought that Labor would go to the Greens and do a deal on this, because our country would be much worse off. Let’s look at the wealth of our nation and where that wealth has come from. Let’s look at where the money goes from mining into the coffers of state governments, and how they then deliver on hospitals and schools around their nation and infrastructure … We are a long way from doing a deal with Labor on this.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb\">Continue reading...</a>",
+      "pubDate": "Thu, 30 Oct 2025 03:45:01 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/7a1e3591ec66a29e0adb708d7e2b85fe59dd14c2/1563_14_5939_4752/master/5939.jpg?width=140&quality=85&auto=format&fit=max&s=3beb28270761d9a6bff2bb827966b05d",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Milczenie urzędu będzie oznaczało zgodę. Jest ważny projekt",
+      "link": "https://www.rp.pl/w-sadzie-i-w-urzedzie/art43253221-milczenie-urzedu-bedzie-oznaczalo-zgode-jest-wazny-projekt",
+      "description": "Gdy podatnik będzie wnioskował np. o umorzenie zaległości podatkowych, to jeśli po 60 dniach urząd skarbowy nie zareaguje – będzie to oznaczało zgodę na takie umorzenie. Rząd chce, by w siedemnastu różnych procedurach administracyjnych milczenie urzędu oznaczało zgodę na to, czego domaga się obywatel.",
+      "pubDate": "Thu, 30 Oct 2025 04:45:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/ff0af95df079771795fa092cfce1a1df/?t=crop:2048:895:nowe:0:201,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Donald Trump and Xi Jinping hold meeting in South Korea amid hopes for trade deal – live updates",
+      "link": "https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates",
+      "description": "<p>Summit on sidelines of Apec is the first between the leaders of US and China since 2019, and comes after tensions have been strained by Trump’s trade war</p><p>In the days leading up to the Trump-Xi meeting, American officials signalled that the US president did not intend to make good on a recent threat to impose an additional 100% import tax on Chinese goods.</p><p>Also that China had shown signs it is willing to relax its export controls on rare earths as well as revive buying soybeans from the US.</p><p>The relationship with China is very good.</p><p>Because of the tremendous destructive power, I HATED to do it, but had no choice! Russia is second, and China is a distant third, but will be even within 5 years.</p><p>Because of other countries testing programs, I have instructed the Department of War to start testing our Nuclear Weapons on an equal basis. That process will begin immediately.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates\">Continue reading...</a>",
+      "pubDate": "Thu, 30 Oct 2025 03:43:04 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/bd1c513361c5ea2ab97bd963b56b8b81e60cde38/0_1161_5159_4127/master/5159.jpg?width=140&quality=85&auto=format&fit=max&s=d60f051377f22d7154677299f52bee8b",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Donald Trump praises ‘great’ Washington meeting with Anthony Albanese as leaders dine at Apec",
+      "link": "https://www.theguardian.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea",
+      "description": "<p>US president tells reporters he and Australian PM ‘working on a lot of things together’ </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>After waiting a long time to meet Donald Trump, Anthony Albanese has now done so twice in 10 days, as his US counterpart talks up cooperation on rare earths and other issues.</p><p>Albanese followed last week’s trip to Washington by sitting next to the US president on Wednesday evening at the Asia-Pacific Economic Cooperation (Apec) summit dinner in Gyeongju, South Korea.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea\">Continue reading...</a>",
+      "pubDate": "Thu, 30 Oct 2025 03:40:46 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/5e06c03ae5c9830ed44568fb92a1ef4e62f87fd4/0_88_2702_2163/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=2455f4a762f5b51091c714328a171caa",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Paweł Rochowicz: Ray Charles też potrzebował asystenta",
+      "link": "https://www.rp.pl/opinie-prawne/art43253691-pawel-rochowicz-ray-charles-tez-potrzebowal-asystenta",
+      "description": "Osoby z niepełnosprawnościami mogą stać się gwiazdami, choć w ich cieniu pozostaną ich asystenci. Trzeba zadbać o ten cień.",
+      "pubDate": "Thu, 30 Oct 2025 04:40:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/e769be3793bcae940955d758de031079/?t=crop:5471:2392:nowe:1.0730390271888E-12:388.10344487791,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Szykuje się weto do ustawy o rynku kryptoaktywów. Nowy projekt furtką dla prezydenta?",
+      "link": "https://www.rp.pl/prawo-w-polsce/art43252201-szykuje-sie-weto-do-ustawy-o-rynku-kryptoaktywow-nowy-projekt-furtka-dla-prezydenta",
+      "description": "Jeśli z ustawy o rynku kryptoaktywów nie zniknie m.in. zapis o KNF-ie jako instytucji mającej kontrolować branżę, prezydent Karol Nawrocki najpewniej ją zawetuje – wynika z nieoficjalnych informacji „Rzeczpospolitej”. Furtką dla niego może okazać się nowy, powstający w gronie ekspertów projekt.",
+      "pubDate": "Thu, 30 Oct 2025 04:37:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/5ec52afac4fbf8f6c8d0e86349125ad3/?t=crop:6048:2644:nowe:0:694,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Plan Waldemara Żurka na Krajową Radę Sądownictwa. Zmiany w projekcie na ostatniej prostej",
       "link": "https://www.rp.pl/sady-i-trybunaly/art43252781-plan-waldemara-zurka-na-krajowa-rade-sadownictwa-zmiany-w-projekcie-na-ostatniej-prostej",
@@ -20,18 +108,10 @@
     {
       "title": "Tit-for-tat tariffs, a shaky truce and turmoil: How we got to the Trump-Xi meeting",
       "link": "https://www.bbc.com/news/articles/c986j98qmj1o?at_medium=RSS&at_campaign=rss",
-      "description": "US President Donald Trump and Chinese leader Xi Jinping are set to meet to discuss a trade deal.  ",
+      "description": "US President Donald Trump and Chinese leader Xi Jinping are meeting to discuss a trade deal.  ",
       "pubDate": "Thu, 30 Oct 2025 03:30:38 GMT",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/2a65dc40-b538-11f0-b2a1-6f537f66f9aa.jpg",
       "source": "BBC News"
-    },
-    {
-      "title": "Australia politics live: Barnaby Joyce denies allegations of ‘verbal tirade’ after formal complaint lodged by Nationals staffer; question time under way",
-      "link": "https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb",
-      "description": "<p>Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Australians should be ‘alarmed’ if Labor negotiates with Greens on environment bill</strong></p><p>I told you it would be environment-heavy didn’t I!</p><p>I think Australians should be alarmed at the thought that Labor would go to the Greens and do a deal on this, because our country would be much worse off. Let’s look at the wealth of our nation and where that wealth has come from. Let’s look at where the money goes from mining into the coffers of state governments, and how they then deliver on hospitals and schools around their nation and infrastructure … We are a long way from doing a deal with Labor on this.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb\">Continue reading...</a>",
-      "pubDate": "Thu, 30 Oct 2025 03:29:11 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/07d491846e02ff98bbfe184d802bd2dbc3174a58/331_0_4131_3305/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=4eb64c42b06b7df1c0ae1219cbb1e41a",
-      "source": "The Guardian"
     },
     {
       "title": "Donald Tusk przejmuje inicjatywę i ma plan, który może pomieszać PiS-owi szyki",
@@ -40,14 +120,6 @@
       "pubDate": "Thu, 30 Oct 2025 04:27:00 +0100",
       "imageUrl": "https://i.gremicdn.pl/image/free/0fb3dd9eca0ddabc405268d53ce2ed12/donald-tusk?t=crop:4667:2040:nowe:0:538,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Donald Trump and Xi Jinping hold meeting in South Korea amid hopes for trade deal – live updates",
-      "link": "https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates",
-      "description": "<p>Summit on sidelines of Apec is the first between the leaders of US and China since 2019, and comes after tensions have been strained by Trump’s trade war</p><p>In the days leading up to the Trump-Xi meeting, American officials signalled that the US president did not intend to make good on a recent threat to impose an additional 100% import tax on Chinese goods.</p><p>Also that China had shown signs it is willing to relax its export controls on rare earths as well as revive buying soybeans from the US.</p><p>The relationship with China is very good.</p><p>Because of the tremendous destructive power, I HATED to do it, but had no choice! Russia is second, and China is a distant third, but will be even within 5 years.</p><p>Because of other countries testing programs, I have instructed the Department of War to start testing our Nuclear Weapons on an equal basis. That process will begin immediately.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/30/donald-trump-xi-jinping-meeting-live-updates\">Continue reading...</a>",
-      "pubDate": "Thu, 30 Oct 2025 03:26:40 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/bd1c513361c5ea2ab97bd963b56b8b81e60cde38/0_1161_5159_4127/master/5159.jpg?width=140&quality=85&auto=format&fit=max&s=d60f051377f22d7154677299f52bee8b",
-      "source": "The Guardian"
     },
     {
       "title": "Sandy R.Y. Wang: Wchodzimy do Europy przez Polskę, bo tu trwa transformacja energetyczna",
@@ -306,6 +378,62 @@
       "source": "Onet"
     },
     {
+      "title": "Nowy front Putina? Kolejna wojna w Europie? Eksperci: To \"faza zero\" przed konfliktem",
+      "link": "https://wiadomosci.dziennik.pl/ciekawostki/artykuly/10496087,nowy-front-putina-kolejna-wojna-w-europie-eksperci-to-faza-zero-p.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/JCtktkuTURBXy9kMDVmYjk2My1iYzgyLTQyMjAtOGIxMC0wODgwMjQ3YmJmOTYuanBlZ5GTBc0BHcyg\" align=\"right\" />Rosja wraca do sprawdzonych wzorców manipulacji informacyjnej. Analitycy z Amerykańskiego Instytutu Badań nad Wojną (ISW) alarmują, że teraz Łotwa staje się kolejnym celem kampanii propagandowej, która łudząco przypomina narracje towarzyszące wcześniejszym agresjom na Ukrainę, Gruzję i Mołdawię.",
+      "pubDate": "2025-10-30T02:46:28.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/JCtktkuTURBXy9kMDVmYjk2My1iYzgyLTQyMjAtOGIxMC0wODgwMjQ3YmJmOTYuanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "Mobilizacja w Polsce. Kto trafi do wojska, a kto zostanie zwolniony?",
+      "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/10496302,mobilizacja-w-polsce-kto-trafi-do-wojska-a-kto-zostanie-zwolniony.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/rS6ktkuTURBXy85MjRhNTI4Ni03NGViLTRjZTMtYTZmZC1kODU5MmFhMmU4MDEuanBlZ5GTBc0BHcyg\" align=\"right\" />W obliczu narastających zagrożeń hybrydowych ze strony Rosji oraz incydentów z udziałem dronów przekraczających polską granicę, w przestrzeni publicznej ponownie pojawiają się pytania: co stanie się w razie wojny? Jakie są zasady powoływania obywateli do armii i kto znajdzie się na celowniku mobilizacji?",
+      "pubDate": "2025-10-30T02:43:09.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/rS6ktkuTURBXy85MjRhNTI4Ni03NGViLTRjZTMtYTZmZC1kODU5MmFhMmU4MDEuanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "Merkury wszedł do Strzelca. 4 znaki poczują, że znowu żyją",
+      "link": "https://edukacja.dziennik.pl/aktualnosci/artykuly/10566627,merkury-wchodzi-do-strzelca-4-znaki-poczuja-ze-znowu-zyja.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/yNAktkuTURBXy82N2RhMzhiMS0zMWFhLTQzOWMtOTJlZi0xY2IyMDA4M2Q2ODAuanBlZ5GTBc0BHcyg\" align=\"right\" />W środę 29 października 2025 roku, dokładnie o 12.01, Merkury skończył swoją podróż przez głębokiego i podejrzliwego Skorpiona i wkroczył w otwarty, szczery i ognisty świat Strzelca. To astrologiczny zwrot, który zmienia klimat myślenia, komunikacji i podejścia do codziennych spraw. Czas przestać się rozgrzebywać w emocjach i zacząć patrzeć szerzej – horyzont właśnie się rozszerza.",
+      "pubDate": "2025-10-30T02:41:39.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/yNAktkuTURBXy82N2RhMzhiMS0zMWFhLTQzOWMtOTJlZi0xY2IyMDA4M2Q2ODAuanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "Pełnia Księżyca w listopadzie 2025. Kiedy wypada i co nam przyniesie?",
+      "link": "https://wiadomosci.dziennik.pl/ciekawostki/artykuly/10566609,pelnia-ksiezyca-w-listopadzie-2025-kiedy-wypada-i-co-nam-przyniesie.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/f3_ktkuTURBXy80NWYyODQ5YS05MjRmLTRiNDktODUzNi04MmZlMTljNjllNTguanBlZ5GTBc0BHcyg\" align=\"right\" />Listopad 2025 roku zapowiada się magicznie – zarówno dla miłośników nocnego nieba, jak i dla osób wrażliwych na kosmiczne energie. Na początku miesiąca czeka nas rekordowy superksiężyc, znany jako Bobrzy Księżyc, który rozświetli niebo wyjątkowym blaskiem.",
+      "pubDate": "2025-10-30T02:41:08.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/f3_ktkuTURBXy80NWYyODQ5YS05MjRmLTRiNDktODUzNi04MmZlMTljNjllNTguanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "Po 80 latach wrócił do Polski. Zaginiony skarb Czartoryskich odnaleziono w Ameryce",
+      "link": "https://wiadomosci.dziennik.pl/ciekawostki/artykuly/10568612,po-80-latach-wrocil-do-polski-zaginiony-skarb-czartoryskich-odnalezio.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/vfPktktTURBXy9jYTljODlmZC1lZjIwLTQxYzEtOTgyNy1hZTQ1OGZiYjI2N2EucG5nkZMFzQEdzKA\" align=\"right\" />Po dekadach nieobecności do Polski powraca cenny fragment rzymskiego szkła zdobionego złotem, pochodzący z IV wieku. Niegdyś stanowił ozdobę zamku w Gołuchowie, będącego częścią kolekcji Izabelli Czartoryskiej. Zabytek odnaleziono w prywatnej kolekcji w Stanach Zjednoczonych — informuje Gazeta Wyborcza.",
+      "pubDate": "2025-10-30T02:40:51.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/vfPktktTURBXy9jYTljODlmZC1lZjIwLTQxYzEtOTgyNy1hZTQ1OGZiYjI2N2EucG5nkZMFzQEdzKA",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "Gdzie uciekać w razie wojny? Najbezpieczniejsze miejsca w Polsce [LISTA MIAST]",
+      "link": "https://wiadomosci.dziennik.pl/ciekawostki/artykuly/10548588,gdzie-uciekac-w-razie-wojny-najbezpieczniejsze-miasta-w-polsce-lista.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/Z3uktkuTURBXy9lOWU1MThkZS1lOTJiLTQ4MDUtOWI5OC05ZDkzYjA3MWNiNWYuanBlZ5GTBc0BHcyg\" align=\"right\" />Raport Banku Gospodarstwa Krajowego pokazuje, że poziom bezpieczeństwa w Polsce mocno się różni w zależności od regionu. Eksperci ocenili odporność gmin na wojnę, katastrofy naturalne, kryzysy zdrowotne i humanitarne.",
+      "pubDate": "2025-10-30T02:40:30.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/Z3uktkuTURBXy9lOWU1MThkZS1lOTJiLTQ4MDUtOWI5OC05ZDkzYjA3MWNiNWYuanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
+      "title": "85 proc. absolwentów oblewa test na 10 pytaniu. Stolice państw Europy",
+      "link": "https://edukacja.dziennik.pl/aktualnosci/quizy/10566026,85-proc-absolwentow-oblewa-test-na-10-pytaniu-stolice-panstw-europy.html",
+      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/ltTktkuTURBXy9mOWFjZDZiNC04Mjk1LTQ3ZTUtOWE4Ny0xY2Y4OTc2MmI2NDEuanBlZ5GTBc0BHcyg\" align=\"right\" />Uważasz, że znasz stolice Europy? Sprawdź się teraz – powodzenia!",
+      "pubDate": "2025-10-30T02:39:34.000Z",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/ltTktkuTURBXy9mOWFjZDZiNC04Mjk1LTQ3ZTUtOWE4Ny0xY2Y4OTc2MmI2NDEuanBlZ5GTBc0BHcyg",
+      "source": "Dziennik.pl"
+    },
+    {
       "title": "Teenage cricketer dies in Melbourne after being hit by ball  ",
       "link": "https://www.bbc.com/news/articles/c0rp0w5y0zko?at_medium=RSS&at_campaign=rss",
       "description": "The 17-year-old was rushed to hospital on Tuesday and placed on life support but died on Wednesday.",
@@ -330,14 +458,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "Donald Trump nakazał  wznowienie prób broni jądrowej. \"Proces ten rozpocznie się natychmiast\"",
-      "link": "https://wiadomosci.onet.pl/swiat/ameryka-wraca-do-prob-broni-jadrowej-donald-trump-zamiescil-wpis/j23rwr5",
-      "description": "W nocy ze środy na czwartek Donald Trump zamieścił w mediach społecznościowych wpis, w którym poinformował, że \"ze względu na programy testowe innych krajów polecił Departamentowi Wojny rozpoczęcie testów naszej [amerykańskiej] broni jądrowej na równych zasadach\".",
-      "pubDate": "Thu, 30 Oct 2025 02:12:24 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/f_0k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80YmFmMGIxNzM0YWY1ZTJkMGE5MGUwMDI2ODM1NTU3Zi5qcGeSlQMAY80Hrc0EUZMFzQlgzQZA3gACoTAHoTEE",
-      "source": "Onet"
-    },
-    {
       "title": "Cruise operator 'failed' woman who was left on island and died, family says",
       "link": "https://www.bbc.com/news/articles/cwyndvj3640o?at_medium=RSS&at_campaign=rss",
       "description": "Katherine Rees said her mum, 80, had fallen ill during a hike on a remote Australian island and was told to return to the ship by herself.",
@@ -354,7 +474,7 @@
       "source": "Wired"
     },
     {
-      "title": "Starmer rules out inquiry as Reeves apologises for breaking housing rules",
+      "title": "Starmer rules out investigation as Reeves apologises for breaking housing rules",
       "link": "https://www.bbc.com/news/articles/cd04d0yxnrvo?at_medium=RSS&at_campaign=rss",
       "description": "The PM says an investigation is not \"necessary\" as the chancellor admits \"error\" when renting out home.",
       "pubDate": "Thu, 30 Oct 2025 02:07:53 GMT",
@@ -538,14 +658,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Centrist liberals head for shock victory  in Dutch election, exit poll says",
-      "link": "https://www.bbc.com/news/articles/cpwvy4w875vo?at_medium=RSS&at_campaign=rss",
-      "description": "Rob Jetten's D66 party celebrates, two years after his party languished in fifth place in the last vote.",
-      "pubDate": "Wed, 29 Oct 2025 23:49:32 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d16/live/c2c37c50-b514-11f0-ba75-093eca1ac29b.jpg",
-      "source": "BBC News"
-    },
-    {
       "title": "Rachel Reeves admits breaking rules by renting out her house without a licence",
       "link": "https://www.theguardian.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence",
       "description": "<p>Chancellor is backed by prime minister after saying she ‘inadvertently’ failed to pay fee required by London council</p><p>Rachel Reeves has admitted to “inadvertently” breaking housing rules by renting out her south London home without the specific £945 licence required by the local council.</p><p>The chancellor admitted the error to the prime minister, Keir Starmer, and to parliamentary ethics officers, after it was first disclosed by the Daily Mail.</p> <a href=\"https://www.theguardian.com/politics/2025/oct/29/rachel-reeves-admits-breaking-rules-by-renting-out-her-house-without-a-licence\">Continue reading...</a>",
@@ -570,35 +682,11 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Kalendarium - czwartek 29 października",
-      "link": "https://pro.rp.pl/kalendarium/art43257251-kalendarium-czwartek-29-pazdziernika",
+      "title": "Kalendarium - czwartek 30 października",
+      "link": "https://pro.rp.pl/kalendarium/art43257251-kalendarium-czwartek-30-pazdziernika",
       "description": "Co dziś nowego w prawie i gospodarce? Co opublikowano w Dzienniku Ustaw, jakie akty prawne wchodzą w życie, jakie ważne interpretacje wydały sądy, co ogłosił GUS, a co zapowiedział rząd? Oto subiektywne kalendarium dla profesjonalistów.",
       "pubDate": "Thu, 30 Oct 2025 00:07:00 +0100",
       "imageUrl": "https://i.gremicdn.pl/image/free/5f9704dd8f83d1a535b361cf30491bbd/zolnierze-wojsk-obrony-cyberprzestrzeni?t=crop:1920:839:nowe:0:30,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Między transparentnością a ochroną przed nadużyciami",
-      "link": "https://www.rp.pl/biznes/art43255781-miedzy-transparentnoscia-a-ochrona-przed-naduzyciami",
-      "description": "Transparentność nie może być bronią przeciwko spółkom. Równowaga między prawami akcjonariuszy a interesem spółek jest niezbędna dla funkcjonowania zdrowego rynku kapitałowego – uznali uczestnicy debaty „Rzeczpospolitej”.",
-      "pubDate": "Thu, 30 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/bd26f38b840796a369dab84ad5bb1e50/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "11 wież Eiffla czekolady rocznie",
-      "link": "https://www.rp.pl/biznes/art43255831-11-wiez-eiffla-czekolady-rocznie",
-      "description": "Dzięki potężnym inwestycjom nasz zakład pod Sochaczewem stanie się drugą pod względem wielkości fabryką wyrobów czekoladowych Mars w Europie – mówi Maxime Limpens, dyrektor fabryki Mars w Janaszówku.",
-      "pubDate": "Thu, 30 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/318be5063dc2556622cdc5e2e8e81e54/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Najwyższy czas na układy zbiorowe",
-      "link": "https://www.rp.pl/kraj/art43255681-najwyzszy-czas-na-uklady-zbiorowe",
-      "description": "Jeżeli mamy się czymś chwalić po 35 latach transformacji ustrojowej, to na pewno nie dbałością o rozwój praw zbiorowych pracowników – pisze przedstawiciel NSZZ „Solidarność”.",
-      "pubDate": "Thu, 30 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/1b188cfa5ca65710db379e52eaa93f76/?t=crop:482:211:nowe:0:135,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
     },
     {
@@ -762,14 +850,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Adidas bez Yeezy: spadek sprzedaży w USA, rekordowe wyniki globalne",
-      "link": "https://www.rp.pl/handel/art43257271-adidas-bez-yeezy-spadek-sprzedazy-w-usa-rekordowe-wyniki-globalne",
-      "description": "Sprzedaż Adidasa w Ameryce Północnej spadła w trzecim kwartale o 5 procent. Niemiecki producent obuwia twierdzi, że to efekt zakończenia w ubiegłym roku popularnej linii sneakersów Yeezy oraz niestabilnej sytuacji gospodarczej związanej z amerykańskimi taryfami celnymi.",
-      "pubDate": "Wed, 29 Oct 2025 22:41:22 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/308860b14ddf7b3dcf2141f87fa33b41/?t=crop:5093:2227:nowe:4.9950594841466E-13:951.67318365142,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Wybory w Holandii wygrali socjalliberałowie albo skrajna prawica",
       "link": "https://oko.press/wybory-w-holandii-wygrali-socjalliberalowie-albo-skrajna-prawica",
       "description": "<div><img src=\"https://cdn.oko.press/cdn-cgi/image/fit=cover,width=580,height=260,quality=75/https://cdn.oko.press/2025/10/AFP__20251029__82EA2QY__v1__MidRes__NetherlandsPoliticsVoteElection.jpg\" width=\"580\" height=\"260\" alt=\"Pieszy przechodzi obok plakatów holenderskich partii politycznych w Hadze 29 października 2025 r., w dniu wyborów do Izby Reprezentantów. 29 października 2025 r. Holendrzy udali się do urn wyborczych, aby wziąć udział w przedterminowych wyborach, które były postrzegane jako papierkiem lakmusowym siły skrajnej prawicy, która odniosła potężne sukcesy w całej Europie.\" /></div>      <p>Według badania exit poll przedterminowe wybory parlamentarne w Holandii wygrała proeuropejska, centrowa partia Demokraci 66, ale jej przewaga nad skrajnie prawicową Partią Wolności Geerta Wildersa jest niewielka.</p>      <p>Artykuł <a rel=\"nofollow\" href=\"https://oko.press/wybory-w-holandii-wygrali-socjalliberalowie-albo-skrajna-prawica\">Wybory w Holandii wygrali socjalliberałowie albo skrajna prawica</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://oko.press\">oko.press</a>.</p>",
@@ -848,14 +928,6 @@
       "pubDate": "Wed, 29 Oct 2025 20:56:04 +0000",
       "imageUrl": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2FRoutine_teaser.jpg&resize=1400%2C788&client=19f2b5e49a271b2bde77&signature=d117dc7c2999cff30491cff203d948ccb46be9da",
       "source": "Engadget"
-    },
-    {
-      "title": "Donald Trump praises ‘great’ Washington meeting with Anthony Albanese as leaders dine at Apec",
-      "link": "https://www.theguardian.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea",
-      "description": "<p>US president tells reporters he and Australian PM ‘working on a lot of things together’ </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2025/oct/30/anthony-albanese-donald-trump-meeting-murray-watt-epbc-nature-laws-press-club-parliament-labor-coalition-sussan-ley-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>After waiting a long time to meet Donald Trump, Anthony Albanese has now done so twice in 10 days, as his US counterpart talks up cooperation on rare earths and other issues.</p><p>Albanese followed last week’s trip to Washington by sitting next to the US president on Wednesday evening at the Asia-Pacific Economic Cooperation (Apec) summit dinner in Gyeongju, South Korea.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/30/donald-trump-anthony-albanese-apec-dinner-gyeongju-south-korea\">Continue reading...</a>",
-      "pubDate": "Wed, 29 Oct 2025 20:54:07 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/5e06c03ae5c9830ed44568fb92a1ef4e62f87fd4/0_88_2702_2163/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=2455f4a762f5b51091c714328a171caa",
-      "source": "The Guardian"
     },
     {
       "title": "Od tego zależy przyszłość wojny w Ukrainie. \"Putin stanie wtedy przed wyborem\"",
@@ -3354,14 +3426,6 @@
       "source": "Dziennik.pl"
     },
     {
-      "title": "Piersi z kaczki po polsku - świetne danie na rodzinny, uroczysty obiad",
-      "link": "https://gotowanie.dziennik.pl/przepisy/artykuly/10569137,kaczka-pieczona-po-polsku-swietne-danie-na-rodzinny-uroczysty-obiad.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/FSSktkuTURBXy85YjBlY2U3Mi0xNGQyLTQ0ODktYTJiYS05MzI3NmQ4ZjhkYTEuanBlZ5GTBc0BHcyg\" align=\"right\" />Kaczka pieczona po polsku to przepyszne i eleganckie pieczyste. W sam raz na uroczysty obiad w gronie znajomych i rodziny. Warto sobie o niej przypomnieć. Panuje obiegowa opinia, że trudno przyrządzić kaczę tak, by mięso było kruche i soczyste. Podajemy wskazówki, jak to zrobić i pewien trik Magdy Gessler.",
-      "pubDate": "2025-10-29T13:17:33.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/FSSktkuTURBXy85YjBlY2U3Mi0xNGQyLTQ0ODktYTJiYS05MzI3NmQ4ZjhkYTEuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
-    },
-    {
       "title": "Google TV na dopalaczach. Będzie jeszcze lepsze",
       "link": "https://antyweb.pl/google-tv-na-dopalaczach-bedzie-jeszcze-lepsze",
       "description": "Gemini już za kilka miesięcy trafi na urządzenia z Google TV, gdzie zastąpi klasycznego asystenta. Będzie oferować więcej funkcji, a także pamiętać kontekst poprzednich konwersacji.",
@@ -3426,14 +3490,6 @@
       "source": "Engadget"
     },
     {
-      "title": "Nadchodzi niezwykły polski film. \"Różni się od tego, co na co dzień oglądamy w kinie\"",
-      "link": "https://film.dziennik.pl/news/artykuly/10565159,szwagier-nowy-polski-film-kiedy-gdzie-ogladac.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/IrPktkuTURBXy83NWEwMzczZi04NzEwLTRmZTEtYjU5OC02YzJjMDI5YzRiOWMuanBlZ5GTBc0BHcyg\" align=\"right\" />Trwają zdjęcia do filmu \"Szwagier\" z Pauliną Gałązką, Aleksandrą Adamską, Aleksandrą Konieczną, Maciejem Kosiackim, Arkadiuszem Detmerem i Tomaszem Sobczakiem. Obraz w reżyserii Szymona Jakubowskiego to film o typowej polskiej rodzinie, jednak opowiedziany w nietypowy sposób. Kiedy i gdzie będzie można obejrzeć film?",
-      "pubDate": "2025-10-29T13:00:00.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/IrPktkuTURBXy83NWEwMzczZi04NzEwLTRmZTEtYjU5OC02YzJjMDI5YzRiOWMuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
-    },
-    {
       "title": "Best MacBooks (2025): Which Apple Laptop Should You Buy?",
       "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
       "description": "With the new M5 MacBook Pro, it's more complicated than ever to figure out the right MacBook for you.",
@@ -3448,14 +3504,6 @@
       "pubDate": "Wed, 29 Oct 2025 12:55:29 GMT",
       "imageUrl": "https://i.iplsc.com/-/000LTZASAWQYOHCB-C321.webp",
       "source": "Interia"
-    },
-    {
-      "title": "Cenne działki Obajtka pod elektrownię atomową. KOWR mógł odkupić, ale nie chciał",
-      "link": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/10569142,cenne-dzialki-obajtka-pod-elektrownie-atomowa-kowr-mogl-odkupic-ale.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/l6MktkuTURBXy83N2I2NTIwNy1mZmYxLTQwOGMtYTEzYi00NDc4ODhkMmEyMDUuanBlZ5GTBc0BHcyg\" align=\"right\" />Kolejne, bardzo interesujące doniesienia na temat majątku byłego szefa Orlenu i obecnego europosła, Daniela Obajtka. KOWR nie skorzystał z prawa pierwokupu działek w okolicy planowanej elektrowni atomowej. Syn Daniela Obajtka w grudniu 2023 r. uzyskał zgodę na przekazanie ośmiu działek do fundacji rodzinnej - ustalił dziennikarz Radia ZET. W sprawie ominięto procedury.",
-      "pubDate": "2025-10-29T12:55:04.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/l6MktkuTURBXy83N2I2NTIwNy1mZmYxLTQwOGMtYTEzYi00NDc4ODhkMmEyMDUuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
     },
     {
       "title": "Kiedyś produkowali Nokie. Teraz zrobili coś takiego z Afrykanami",
@@ -3528,22 +3576,6 @@
       "pubDate": "Wed, 29 Oct 2025 12:39:06 +0000",
       "imageUrl": "https://cdn.oko.press/cdn-cgi/image/fit=cover,width=580,height=260,quality=75/https://cdn.oko.press/2025/10/47A8701.jpg",
       "source": "OKO.press"
-    },
-    {
-      "title": "Zachwyca w hicie HBO Max. \"Dodałem Trepie ciemną stronę\" [WIDEO]",
-      "link": "https://film.dziennik.pl/news/artykuly/10569134,zachwyca-w-hicie-hbo-max-dodalem-trepie-ciemna-strone.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/ww4ktkuTURBXy82MTk2MTQ2Ni1mZGE5LTRkY2YtYjI0MC0zNTNmMWIxYzdiNWMuanBlZ5GTBc0BHcyg\" align=\"right\" />Kolejny sezon serialu \"Odwilż\" miał swoją premierę na platformie HBO Max w połowie października. Bartłomiej Kotschedoff wciela się w nim w rolę Trepy. \"Jest bardziej autonomiczny i pokazuje zęby\" - mówi aktor o swojej postaci w rozmowie z Dziennik.pl. Co było dla niego największym wyzwaniem na planie 3. sezonu \"Odwilży\"? \"Robiliśmy to pierwszy raz\" - stwierdza. O czym dokładnie mówi?",
-      "pubDate": "2025-10-29T12:38:11.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/ww4ktkuTURBXy82MTk2MTQ2Ni1mZGE5LTRkY2YtYjI0MC0zNTNmMWIxYzdiNWMuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
-    },
-    {
-      "title": "Polski paszport bije na głowę ten amerykański. Te państwa nadal mają najpotężniejsze dokumenty",
-      "link": "https://podroze.dziennik.pl/aktualnosci/artykuly/10569133,polski-paszport-bije-na-glowe-ten-amerykanski-te-panstwa-nadal-maja-n.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/v3YktkuTURBXy81ODA5OTZmOC05YmFlLTRiZDAtOTU4Yy1mZGUxNGVhMzFmMjIuanBlZ5GTBc0BHcyg\" align=\"right\" />W czasach praktycznie nieskrępowanego podróżowania po całym świecie wielkie znaczenie mają te paszporty, które pozwalają na ruch bez wizy. Nie każdy kraj jest jednak na świecie traktowany tak samo przez cały świat, stąd też wzięło się pojęcie \"silnego\" lub \"słabego\" paszportu. Które miejsce na globalnej liście zajmuje Polska?",
-      "pubDate": "2025-10-29T12:37:35.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/v3YktkuTURBXy81ODA5OTZmOC05YmFlLTRiZDAtOTU4Yy1mZGUxNGVhMzFmMjIuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
     },
     {
       "title": "Krajobraz jak z apokalipsy. Najpotężniejsze uderzenie w historii wyspy",
@@ -3642,14 +3674,6 @@
       "source": "Interia"
     },
     {
-      "title": "Kiedy zaczynamy dokarmiać ptaki? Karmniki wieszamy nieco wcześniej",
-      "link": "https://ogrod.dziennik.pl/artykuly/10569117,kiedy-zaczynamy-dokarmiac-ptaki-karmniki-wieszamy-nieco-wczesniej.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/jtVktkuTURBXy9iM2EzYWJmYi1hMDgwLTQ0OGMtYjQ1Yi1mYjMyNjgxOTA1MTIuanBlZ5GTBc0BHcyg\" align=\"right\" />Dokarmianie dzikich ptaków powinno być odpowiedzialne. Są pewne zasady, których trzeba przestrzegać. Należy wiedzieć, kiedy zacząć karmić ptaki. Dokarmianie ich przez cały rok nie jest dobrym pomysłem. Pamiętaj, aby nieco wcześniej powiesić karmniki.",
-      "pubDate": "2025-10-29T12:16:54.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/jtVktkuTURBXy9iM2EzYWJmYi1hMDgwLTQ0OGMtYjQ1Yi1mYjMyNjgxOTA1MTIuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
-    },
-    {
       "title": "Gigantyczna tarcza blokuje centrum miasta. Czas na plan awaryjny",
       "link": "https://spidersweb.pl/2025/10/tarcza-pod-ziemia-blokuje-miasto.html",
       "description": "<p><img src=\"https://cdn-sw.spidersweb.pl/2025/10/lodz-krajobraz.jpg\" alt=\"\" class=\"type:primaryImage\" /></p>\n      <br/><br/><a href=\"https://spidersweb.pl/2025/10/tarcza-pod-ziemia-blokuje-miasto.html\">Gigantyczna tarcza blokuje centrum miasta. Czas na plan awaryjny</a>",
@@ -3664,22 +3688,6 @@
       "pubDate": "Wed, 29 Oct 2025 13:13:00 +0100",
       "imageUrl": "//cdn.benchmark.pl/thumbs/uploads/article/99208/MODERNICON/f3a754dde4b5b3d755c4955272b5fa56719099b2.jpg/300x0x1.jpg",
       "source": "Benchmark.pl"
-    },
-    {
-      "title": "Tyjesz, z pozoru bez powodu? Brzuch menopauzalny to nie tylko estetyczny problem",
-      "link": "https://kobieta.dziennik.pl/porady/artykuly/10561227,tyjesz-z-pozoru-bez-powodu-brzuch-menopauzalny-to-nie-tylko-estetyczny-problem.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/LoQktkuTURBXy9mMzhjNTE2NS0xMWMzLTQ1NGQtYTZlNy0zODdiMTMxYWEyZGEuanBlZ5GTBc0BHcyg\" align=\"right\" />Brzuch menopauzalny to problem, z którym zmaga się wiele kobiet po 45. roku życia. Zmiany hormonalne, spowolniony metabolizm i stres sprawiają, że nawet szczupłe dotąd kobiety zauważają, że talia znika, a spodnie nagle stają się zbyt ciasne. Na szczęście to nie jest proces nieodwracalny. Ważne jest, by zrozumieć jego przyczyny i działać mądrze, a nie z wyrzutami sumienia.",
-      "pubDate": "2025-10-29T12:09:34.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/LoQktkuTURBXy9mMzhjNTE2NS0xMWMzLTQ1NGQtYTZlNy0zODdiMTMxYWEyZGEuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
-    },
-    {
-      "title": "Wypadek w \"Dzień dobry TVN\". Widzowie i ekipa zadrżeli [WIDEO]",
-      "link": "https://zyciegwiazd.dziennik.pl/news/artykuly/10569099,wypadek-w-dzien-dobry-tvn-widzowie-i-ekipa-zadrzeli-wideo.html",
-      "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/H61ktkuTURBXy8yMGM2NTVmOC0zMmZjLTQxNGQtYWU0MC0wZmZhY2VmZjc1MTYuanBlZ5GTBc0BHcyg\" align=\"right\" />Podczas środowego wydania \"Dzień dobry TVN\" doszło do wypadku z udziałem Marcina Prokopa. W trakcie prezentowania magicznej sztuczki nagle załamało się krzesełko, na którym siedział.",
-      "pubDate": "2025-10-29T12:08:02.000Z",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/H61ktkuTURBXy8yMGM2NTVmOC0zMmZjLTQxNGQtYWU0MC0wZmZhY2VmZjc1MTYuanBlZ5GTBc0BHcyg",
-      "source": "Dziennik.pl"
     },
     {
       "title": "Huragan Melissa poraża siłą. Tak wygląda na tle rekordowych burz",
@@ -7598,14 +7606,6 @@
       "link": "https://sekurak.pl/nawet-5-mln-dolarow-za-znalezienie-krytycznej-luki-w-produktach-apple-ciekawa-aktualizacja-programu-security-bounty/",
       "description": "<p>Programy Bug Bounty są często organizowane przez duże korporacje, aby zachęcić społeczność badaczy cyberbezpieczeństwa do poszukiwania luk i podatności w oferowanych produktach i usługach. Za znalezione błędy wydawane są nagrody, często w postaci środków pieniężnych. Wysokość nagrody zależy od wielu czynników, jednym z nich jest wpływ wykrytej luki na rzeczywiste...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/nawet-5-mln-dolarow-za-znalezienie-krytycznej-luki-w-produktach-apple-ciekawa-aktualizacja-programu-security-bounty/\">Nawet 5 mln dolarów za znalezienie krytycznej luki w produktach Apple – ciekawa aktualizacja programu Security Bounty</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
       "pubDate": "Wed, 15 Oct 2025 03:45:22 +0000",
-      "imageUrl": "",
-      "source": "Sekurak"
-    },
-    {
-      "title": "Brickstorm – backdoor po cichu wykradający dane z systemów amerykańskich organizacji",
-      "link": "https://sekurak.pl/brickstorm-backdoor-po-cichu-wykradajacy-dane-z-systemow-amerykanskich-organizacji/",
-      "description": "<p>Brickstorm to backdoor napisany w Go. Pierwsze wzmianki o nim pojawiły się w kwietniu 2024 roku. Malware pełnił funkcję serwera WWW, narzędzia do manipulacji plikami, droppera, przekaźnika SOCKS oraz narzędzia do wykonywania poleceń powłoki. Badacze przypisali te ataki klastrowi aktywności grupy UNC5221, znanej z wykorzystywania podatności typu zero-day w produktach...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/brickstorm-backdoor-po-cichu-wykradajacy-dane-z-systemow-amerykanskich-organizacji/\">Brickstorm – backdoor po cichu wykradający dane z systemów amerykańskich organizacji</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
-      "pubDate": "Wed, 15 Oct 2025 03:42:58 +0000",
       "imageUrl": "",
       "source": "Sekurak"
     },
