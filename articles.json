@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-31T20:48:37.883Z",
+  "generatedAt": "2025-10-31T20:58:00.196Z",
   "items": [
     {
       "title": "Samsung na prowadzeniu. Istotny skok dostaw",
@@ -16,6 +16,54 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/eUBk9kpTURBXy83NGEzY2Y2OWM0OWI4YTk5YzFmOWU3ZjdmYTNlMmQzZi5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
+    },
+    {
+      "title": "Bluesky experiments with dislikes and 'social proximity' to improve conversations",
+      "link": "https://www.engadget.com/social-media/bluesky-experiments-with-dislikes-and-social-proximity-to-improve-conversations-205226194.html?src=rss",
+      "description": "<p>Bluesky is adding a dislike button as a way to signal the kind of posts you don't want to see in your Discover feed. The experiment is part of <a target=\"_blank\" class=\"link\" href=\"https://bsky.social/about/blog/10-31-2025-building-healthier-social-media-update\" data-i13n=\"cpos:1;pos:1\">several new ideas</a> Bluesky is exploring to a improve conversations on its platform.</p><p>The new experiments Bluesky is running are primarily built around the notion of \"social proximity.\" The company says it's aiming to build a system that maps your place in a \"social neighborhood\" of \"people you already interact with or would likely enjoy knowing.\" By prioritizing replies and posts from the people in your general \"neighborhood,\" the company believes it can make conversations \"feel more relevant, familiar, and less prone to misunderstandings.\" Following that logic, the beta test of the dislike button (which sounds private, rather than public-facing) will \"help the system understand what kinds of posts you’d prefer to see less of,\" but could also affect reply rankings in your threads and in the threads of other people in your social neighborhood. </p><p>The social platform already offers a way to limit replies to only people who follow you, as Bluesky CTO Paul Frazee <a target=\"_blank\" class=\"link\" href=\"https://bsky.app/profile/pfrazee.com/post/3m4jbxyp3ms2l\" data-i13n=\"cpos:2;pos:1\">noted in a recent post</a>, but the company doesn’t “want to make that the only option.” Bluesky is also experimenting with adjusting how the Reply button works by making you see the whole thread first when you tap the button, rather than dumping straight into a new blank post. Combined with a new model for detecting bad replies, the company thinks it’ll improve the general social climate.</p><p>Charitably, these tweaks sound like another way Bluesky is trying to give users more control over what they see on the platform, in the same way it does with <a target=\"_blank\" class=\"link\" href=\"https://www.engadget.com/apps/bluesky-is-finally-adding-more-ways-to-filter-notifications-185542105.html\" data-i13n=\"cpos:3;pos:1\">things like notifications</a>. Less charitably, you could read the \"social neighborhood\" concept as a way to entrench users in their \"filter bubble\" rather than address larger moderation issues.</p><p>Recently, Bluesky <a target=\"_blank\" class=\"link\" href=\"https://techcrunch.com/2024/12/13/bluesky-is-at-a-crossroads-as-users-petition-to-ban-jesse-singal-over-anti-trans-views-harassment/\" data-i13n=\"cpos:4;pos:1\">has been criticized by users</a> for failing to remove the accounts of people who allegedly violate the company's community guidelines. Ensconced in a social neighborhood, those critics wouldn't necessarily see offensive posts, nor would a poster see their critics. That might lead to less conflict overall, but it could also impact more productive forms of disagreement in the process.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/bluesky-experiments-with-dislikes-and-social-proximity-to-improve-conversations-205226194.html?src=rss",
+      "pubDate": "Fri, 31 Oct 2025 20:52:26 +0000",
+      "imageUrl": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F1ff3aab355270d0b174b5c4a2c216a3d&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=b6f8a0635b5c7059ca7e90248fb900895374ad9a",
+      "source": "Engadget"
+    },
+    {
+      "title": "Democratic representative urges former prince Andrew to testify over Epstein",
+      "link": "https://www.theguardian.com/us-news/2025/oct/31/prince-andrew-testify-congress-ro-khanna",
+      "description": "<p>Ro Khanna, member of the House oversight panel, said Windsor Mountbatten should provide information</p><p>A Democratic congressman on Friday called for the former prince Andrew Mountbatten Windsor to testify before the US House of Representatives committee that is conducting an inquiry into the government’s handling of the Jeffrey Epstein case.</p><p>The statement from Ro Khanna, a California Democratic representative, who serves on the investigative House oversight committee, comes after the UK trade minister, Chris Bryant, <a href=\"https://www.theguardian.com/uk-news/2025/oct/31/ex-prince-andrew-should-answer-us-questions-on-epstein-if-asked-uk-minister-says\">suggested</a> that since Mountbatten Windsor has been stripped of his royal titles, he should answer demands for information about his dealings with Epstein, an alleged sex trafficker who died by suicide while in federal custody six years ago.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/31/prince-andrew-testify-congress-ro-khanna\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 20:52:00 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/966119b82ed9b3bd7935028173318e2c72db156e/546_0_4248_3398/master/4248.jpg?width=140&quality=85&auto=format&fit=max&s=3e4e5a9ff492b7a8e009423e95a0e71a",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Judge blocks suspension of Snap food aid during shutdown – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates",
+      "description": "<p>Federal court ruling comes hours before more than 40 million Americans could lose food stamps benefits</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/31/judge-blocks-trump-snap-suspension\">Trump officials blocked from suspending Snap benefits</a> </p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/30/us-government-shutdown-snap-health-insurance\">How will shutdown affect your access to food or health insurance</a></p></li></ul><p>US House Speaker Mike Johnson reiterated this morning that he will not bring the chamber back into session until the government shutdown ends.</p><p><a href=\"https://bsky.app/profile/atrupar.com/post/3m4iico77ou2p\">Speaking </a>to Fox News on Friday, Johnson said: “We are anxious to get the house back to regular legislative session, but we have to get the lights turned back on. Chuck Schumer and the Democrats in the Senate have got to reopen the government. Again, it’s the most fundamental responsibility of congress is to have the government operate and work for the people. That’s the number one priority right now and we cannot deviate from that.”</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 20:45:55 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/07b229d1eac114f30d6758b19b617cbe5a13903d/421_0_6569_5254/master/6569.jpg?width=140&quality=85&auto=format&fit=max&s=84dc1667ab0b188062730e9dd2952ac8",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report",
+      "link": "https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/",
+      "description": "At an airport in South Carolina on Thursday, representative Nancy Mace called police officers “fucking incompetent” and berated them repeatedly, according to an incident report.",
+      "pubDate": "Fri, 31 Oct 2025 20:45:30 +0000",
+      "imageUrl": "https://media.wired.com/photos/6904dfbef259dcdee4c046a1/master/pass/Nancy-Mace-TSA-Politics-AP24324592046983.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "Zderzenie osobówek i zablokowana droga. Lądował śmigłowiec LPR",
+      "link": "https://tvn24.pl/polska/zlotniki-kujawskie-zderzenie-osobowek-i-zablokowana-droga-kilka-osob-poszkodowanych-st8730849?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-2833469-wypadek-w-zlotnikach-kujawskich-ph8730855/alternates/LANDSCAPE_1280\" alt=\"Zderzenie osobówek i zablokowana droga. Lądował śmigłowiec LPR\" />\n    W miejscowości Złotniki Kujawskie (województwo kujawsko-pomorskie) doszło do zderzenia samochodów, w wyniku którego rannych zostało sześć osób - poinformował starszy kapitan Jarosław Skotnicki z Państwowej Straży Pożarnej w Inowrocławiu.\n    ",
+      "pubDate": "Fri, 31 Oct 2025 20:44:09 GMT",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-2833469-wypadek-w-zlotnikach-kujawskich-ph8730855/alternates/LANDSCAPE_1280",
+      "source": "TVN24"
+    },
+    {
+      "title": "Man jailed after sending ‘menacing’ messages to Labour MP",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/31/man-jailed-after-sending-menacing-messages-to-labour-mp",
+      "description": "<p>Lee White from Cambridgeshire given 23-month prison sentence after emailing threats to Rosena Allin-Khan</p><p>A man who threatened to kill the prime minister and sent a flurry of “menacing” messages to a Labour MP has been jailed for 23 months.</p><p>Cambridgeshire police said Lee White sent the messages to Dr Rosena Allin-Khan, the MP for Tooting in south London, over a four-day period between 29 August and 1 September 2024.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/31/man-jailed-after-sending-menacing-messages-to-labour-mp\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 20:43:07 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/b273f547e8b9a678d24f613c25f4f6853e10349e/138_37_1820_1455/master/1820.jpg?width=140&quality=85&auto=format&fit=max&s=8c8b9404adc6d275ccbce8b57829c84b",
+      "source": "The Guardian"
     },
     {
       "title": "Ryanair wprowadza cyfrowe karty pokładowe. Odprawa tylko w aplikacji",
@@ -136,14 +184,6 @@
       "pubDate": "Fri, 31 Oct 2025 20:09:59 GMT",
       "imageUrl": "https://tvn24.pl/tvnmeteo/najnowsze/cdn-zdjecie-3897820-uganda-ph8730788/alternates/LANDSCAPE_1280",
       "source": "TVN24"
-    },
-    {
-      "title": "Judge blocks suspension of Snap food aid during shutdown – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates",
-      "description": "<p>Federal court ruling comes hours before more than 40 million Americans could lose food stamps benefits</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/31/judge-blocks-trump-snap-suspension\">Trump officials blocked from suspending Snap benefits</a> </p></li><li><p><a href=\"https://www.theguardian.com/us-news/2025/oct/30/us-government-shutdown-snap-health-insurance\">How will shutdown affect your access to food or health insurance</a></p></li></ul><p>US House Speaker Mike Johnson reiterated this morning that he will not bring the chamber back into session until the government shutdown ends.</p><p><a href=\"https://bsky.app/profile/atrupar.com/post/3m4iico77ou2p\">Speaking </a>to Fox News on Friday, Johnson said: “We are anxious to get the house back to regular legislative session, but we have to get the lights turned back on. Chuck Schumer and the Democrats in the Senate have got to reopen the government. Again, it’s the most fundamental responsibility of congress is to have the government operate and work for the people. That’s the number one priority right now and we cannot deviate from that.”</p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 20:09:04 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/07b229d1eac114f30d6758b19b617cbe5a13903d/421_0_6569_5254/master/6569.jpg?width=140&quality=85&auto=format&fit=max&s=84dc1667ab0b188062730e9dd2952ac8",
-      "source": "The Guardian"
     },
     {
       "title": "PiS uderza w Mentzena i Konfederację. Wyciekł \"przekaz dnia\". W nim o spisku z Tuskiem i \"wspieraniu banderyzmu\"",
@@ -1106,14 +1146,6 @@
       "source": "Gazeta.pl"
     },
     {
-      "title": "No high-level US representatives will go to UN climate talks, Trump officials say",
-      "link": "https://www.theguardian.com/environment/2025/oct/31/cop30-climate-us-officials",
-      "description": "<p>Decision to stay away from Cop30 meeting in Brazil underscores administration’s hostility to climate action</p><p>The Trump administration has confirmed that no high-level representatives will be sent by the US to upcoming UN climate talks in Brazil, underscoring the administration’s hostile stance towards action on the climate crisis.</p><p>The US has always sent delegations of various sizes to UN climate summits over the past three decades, even during periods under George W Bush and in Donald Trump’s first term, where there was scant desire to address the global heating crisis.</p> <a href=\"https://www.theguardian.com/environment/2025/oct/31/cop30-climate-us-officials\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 17:24:26 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/0bbe67d3b8e706cf35eb65a831771ca184e002b6/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=bbb14e2107c9d3981cac8b47383ca914",
-      "source": "The Guardian"
-    },
-    {
       "title": "Bezprawnie przetrzymywał i wykorzystywał kobietę. Pomagała mu żona i koleżanka",
       "link": "https://wiadomosci.onet.pl/krakow/przetrzymywal-i-wykorzystywal-kobiete-odpowie-on-i-trzy-inne-osoby/cf15c2m",
       "description": "Policjanci zatrzymali mężczyznę, który bezprawnie przez kilka dni przetrzymywał w różnych miejscach Krakowa kobietę, stosując wobec niej przemoc, groźby pozbawienia życia oraz wykorzystując seksualnie. We wszystkim pomagała mu żona oraz koleżanka. Wszyscy usłyszeli zarzuty i grozi im pozbawienie wolności. Przed sądem odpowie także mężczyzna, w którego mieszkaniu znaleziono poszukiwanego 34-latka. Jemu również grozi więzienie.",
@@ -1392,14 +1424,6 @@
       "pubDate": "Fri, 31 Oct 2025 16:36:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/7f/de/1e/z32370047IHG,Donald-Trump.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Ministers’ claims to have helped JLR in doubt as £1.5bn support left untouched",
-      "link": "https://www.theguardian.com/business/2025/oct/31/jaguar-land-rover-ministers-claims-15bn-support-untouched",
-      "description": "<p><strong>Exclusive</strong>: No cyber-attack assistance cash has gone into carmaker’s accounts or to struggling suppliers</p><p>Jaguar Land Rover has not drawn down any of a £1.5bn loan facility guaranteed by the government, with suppliers expressing anger over ministers’ claims to have supported the carmaker’s supply chain after a crippling hack.</p><p>Britain’s biggest automotive employer was forced to shut down all of its wholly owned factories from 1 September for more than a month, after <a href=\"https://www.theguardian.com/business/2025/sep/20/jaguar-land-rover-hack-factories-cybersecurity-jlr\">cyber-attackers compromised key computer systems</a>.</p> <a href=\"https://www.theguardian.com/business/2025/oct/31/jaguar-land-rover-ministers-claims-15bn-support-untouched\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 16:35:46 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/f0147f482dd8bfe02070b9399c81a00f0dd866bd/556_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2043b96ec770568950162c7904d13ee0",
-      "source": "The Guardian"
     },
     {
       "title": "Chantelle Cameron gives up world boxing title in equality row over length of bouts",
@@ -4586,14 +4610,6 @@
       "source": "Biznes.interia.pl"
     },
     {
-      "title": "Mus owocowy ze zdjęciem Roberta Telusa i faktura. \"Nie zgadza się nic\"",
-      "link": "https://tvn24.pl/polska/mus-owocowy-ze-zdjeciem-roberta-telusa-kupilem-zaplacilem-wp-nic-na-fakturach-sie-nie-zgadza-st8728847?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-9320360-robert-telus-ph8722291/alternates/LANDSCAPE_1280\" alt=\"Mus owocowy ze zdjęciem Roberta Telusa i faktura. \"Nie zgadza się nic\"\" />\n    Spółka Dawtona, której wiceprezes kupił działkę przeznaczoną na cele Centralnego Portu Komunikacyjnego, wyprodukowała specjalnie dla polityków PiS serię tubek z musami owocowymi - napisała w piątek Wirtualna Polska. Podała, że na fakturach za te kampanijne gadżety \"nie zgadza się nic\". W czwartek były minister rolnictwa Robert Telus został zapytany przez dziennikarza redakcji Radia Nowy Świat o \"gadżet kampanijny\", czyli mus owocowy z jego zdjęciem. \"Kupiłem, zapłaciłem i wszystko rozliczyłem\" - odpowiedział. \n    ",
-      "pubDate": "Fri, 31 Oct 2025 05:05:07 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-9320360-robert-telus-ph8722291/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
-    },
-    {
       "title": "System kaucyjny zrobi z nas \"zbieraczy śmieci\". \"Ogarnia mnie śmiech\"",
       "link": "https://biznes.interia.pl/gospodarka/news-czekaja-nas-podwyzki-oplat-system-kaucyjny-zrobi-z-nas-zbier,nId,22449390",
       "description": "Od 1 do 3 zł miesięcznie (od osoby) mogłaby wynieść podwyżka opłat za odbiór i wywóz śmieci, jeżeli gminy zdecydowałyby się w przyszłym roku przenieść na mieszkańców bezpośredni \"koszt\" wprowadzenia systemu kaucyjnego. Klamka zapadła - system kaucyjny mamy od października, choć na razie trudno znaleźć na sklepowych półkach plastikowe butelki ze znakiem kaucji. - System kaucyjny zrobi z nas zbieraczy śmieci, ale zrozumiemy to dopiero, gdy zderzymy się z nim w przyszłym roku - nie bez gorzkiej ironii mówi w rozmowie z Interią Karol Wójcik z Izby Branży Komunalnej.",
@@ -6042,14 +6058,6 @@
       "source": "Antyweb"
     },
     {
-      "title": "Meta will add a 'huge corpus' of AI content into its recommendation system",
-      "link": "https://www.engadget.com/social-media/meta-will-add-a-huge-corpus-of-ai-content-into-its-recommendation-system-113027353.html?src=rss",
-      "description": "<p>It looks like <a data-i13n=\"cpos:1;pos:1\" href=\"https://www.engadget.com/meta-now-has-a-feed-for-ai-slop-205751808.html\">Meta's Vibes</a> feed is just the start of the company's pivot toward AI slop. In an <a data-i13n=\"cpos:2;pos:1\" href=\"https://s21.q4cdn.com/399680738/files/doc_financials/2025/q3/META-Q3-2025-Earnings-Call-Transcript.pdf\">earnings call</a>, CEO Mark Zuckerberg said that \"we're going to add yet another huge corpus of content\" to Meta's recommendation system, via AI's ability to create and remix content — so you're likely to see even more AI generated posts on Facebook and Instagram. </p>\n<p>\"Social media has gone through two eras so far. First was when all content was from friends, family, and accounts that you followed directly. The second was when we added all the creator content,\" he said, seemingly suggesting that AI content will be the third era.  </p>\n<span id=\"end-legacy-contents\"></span><p>Zuckerberg added that recommendation systems that \"deeply\" understand AI content are \"increasingly valuable\" since they can \"help you achieve your goals.\" </p>\n<p>He then nodded to Vibes, calling it an example of a new type of content enabled by AI. Retention on the feed \"is looking good so far, and its usage keeps growing quickly week over week,\" he proclaimed. Furthermore, there are more opportunities to build \"many more novel types of content aheads, as our new models become ready,\" Zuckerberg added. To put some numbers to Vibes takeup, Meta CFO Susan Li said that users have generated over 20 billion images in the feed to date. </p>\n<p>Meta has already introduced a number of AI features across its social media platforms. Those include in-app photo and video editing <a data-i13n=\"cpos:3;pos:1\" href=\"https://www.engadget.com/social-media/instagram-stories-is-getting-new-ai-powered-editing-tools-175500693.html\">via text prompts</a> directly in Instagram Stories, <a data-i13n=\"cpos:4;pos:1\" href=\"https://www.engadget.com/social-media/meta-has-introduced-revised-guardrails-for-its-ai-chatbots-to-prevent-inappropriate-conversations-with-children-200444230.html\">AI chatbots</a> across WhatsApp, Messenger, and Instagram, and a <a data-i13n=\"cpos:5;pos:1\" href=\"https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/\">standalone Meta AI app</a> that includes an AI assistant and discovery feed. </p>This article originally appeared on Engadget at https://www.engadget.com/social-media/meta-will-add-a-huge-corpus-of-ai-content-into-its-recommendation-system-113027353.html?src=rss",
-      "pubDate": "Thu, 30 Oct 2025 11:30:27 +0000",
-      "imageUrl": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2Fbbcaf8c0-b55e-11f0-bb7f-0d7771bf9c91&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=d73d3327d4c7bedc070aad7eeaf27d24f95e02b4",
-      "source": "Engadget"
-    },
-    {
       "title": "Creative Stage Pro Review: A Great Soundbar for Small Spaces",
       "link": "https://www.wired.com/review/creative-stage-pro/",
       "description": "It’s hard to beat this dual-purpose, budget-friendly soundbar in small spaces.",
@@ -6616,14 +6624,6 @@
       "pubDate": "Wed, 29 Oct 2025 17:44:04 GMT",
       "imageUrl": "https://static.antyweb.pl/img/w_full/wp-content/uploads/2025/10/leapmotor-c10-front.jpg",
       "source": "Antyweb"
-    },
-    {
-      "title": "How to Keep Subways and Trains Cool in an Ever Hotter World",
-      "link": "https://www.wired.com/story/how-to-keep-trains-cool-hot-world-global-warming-subway-london-underground-tube/",
-      "description": "As temperatures increase, trains and subways are becoming unendurable. Potential solutions include everything from cooling tunnels with water to painting rolling stock—but there’s no magic fix.",
-      "pubDate": "Wed, 29 Oct 2025 17:25:01 +0000",
-      "imageUrl": "https://media.wired.com/photos/690215c275c6bc17b7178eab/master/pass/GettyImages-2222288940.jpg",
-      "source": "Wired"
     },
     {
       "title": "Ile należy chodzić, by żyć długo? Pytanie powinno brzmieć: \"jak\"",
