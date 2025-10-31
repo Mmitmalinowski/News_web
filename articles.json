@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-31T03:31:13.576Z",
+  "generatedAt": "2025-10-31T03:57:26.789Z",
   "items": [
     {
       "title": "Rewolucja w chirurgii",
@@ -8,6 +8,78 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/eUBk9kpTURBXy83NGEzY2Y2OWM0OWI4YTk5YzFmOWU3ZjdmYTNlMmQzZi5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1346",
+      "link": "https://www.rp.pl/swiat/art43267251-wojna-rosji-z-ukraina-dzien-1346",
+      "description": "24 lutego 2022 roku Rosja rozpoczęła pełnowymiarową inwazję na Ukrainę. W rejonie Kupiańska ukraińska Gwardia Narodowa zniszczyła jedną z wyrzutni rakiet, które Rosji miała przekazać Korea Północna.",
+      "pubDate": "Fri, 31 Oct 2025 04:55:25 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/4f625fb6c19443e603c1ebbaff5d5d7c/ukrainscy-zolnierze?t=crop:2048:895:nowe:0:105.50450985058,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "QNAP ostrzega o… krytycznej podatności w ASP.NET",
+      "link": "https://sekurak.pl/qnap-ostrzega-o-krytycznej-podatnosci-w-asp-net/",
+      "description": "<p>Kestrel to domyślny i lekki serwer HTTP wykorzystywany przez aplikacje w technologii ASP.NET Core. Do jego zalet można zaliczyć między innymi wieloplatformowość i wydajność. Dokładając do tego fakt, że jest to rozwiązanie dostępne “z pudełka”, otrzymujemy bardzo popularną zależność (od angielskiego dependency). Duża popularność tego rozwiązania, powoduje że atakujący stosunkowo...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/qnap-ostrzega-o-krytycznej-podatnosci-w-asp-net/\">QNAP ostrzega o… krytycznej podatności w ASP.NET</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
+      "pubDate": "Fri, 31 Oct 2025 03:55:06 +0000",
+      "imageUrl": "",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Letting agent apologises for 'oversight' on Reeves rental licence",
+      "link": "https://www.bbc.com/news/articles/cx2p55ejy88o?at_medium=RSS&at_campaign=rss",
+      "description": "The company says its property manager offered to apply for the required licence but this never happened.",
+      "pubDate": "Fri, 31 Oct 2025 03:52:59 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c3/live/b122fec0-b5c9-11f0-b2a1-6f537f66f9aa.jpg",
+      "source": "BBC News"
+    },
+    {
+      "title": "Robert Gwiazdowski: Podatnik ma prawo nie wiedzieć, urzędnik wiedzieć musi",
+      "link": "https://www.rp.pl/opinie-prawne/art43261221-robert-gwiazdowski-podatnik-ma-prawo-nie-wiedziec-urzednik-wiedziec-musi",
+      "description": "Sposób wykładni prawa, który naprawiłby ewidentne szkody wyrządzone podatnikom wskutek wcześniejszej, błędnej wykładni prawa, nie może się jakoś przyjąć.",
+      "pubDate": "Fri, 31 Oct 2025 04:50:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/0c2fef1c411f2b5f699248c3c696c4ce/?t=crop:5568:3453:nowe:0:129,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Grokipedia: Elon Musk stworzył pierwszą encyklopedię AI",
+      "link": "https://sekurak.pl/grokipedia-elon-musk-stworzyl-pierwsza-encyklopedie-ai/",
+      "description": "<p>Firma Elona Muska xAI uruchomiła projekt Grokipedia, encyklopedię AI, która ma być konkurencją dla popularnej Wikipedii. O starcie portalu Musk poinformował na swoim profilu X 28.10.2025 r. Obecnie Grokipedia ma 885 279 artykułów i ich liczba ciągle rośnie. W przeciwieństwie do Wikipedii, której artykuły są pisane i recenzowane przez ludzi,...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/grokipedia-elon-musk-stworzyl-pierwsza-encyklopedie-ai/\">Grokipedia: Elon Musk stworzył pierwszą encyklopedię AI</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
+      "pubDate": "Fri, 31 Oct 2025 03:48:03 +0000",
+      "imageUrl": "",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Dobry prawnik nie musi pisać długich, ani zbyt krótkich pism",
+      "link": "https://www.rp.pl/sady-i-trybunaly/art43260071-dobry-prawnik-nie-musi-pisac-dlugich-ani-zbyt-krotkich-pism",
+      "description": "Sąd Najwyższy nie zasądził stronie wygrywającej proces kosztów na pokrycie wydatków na prawnika, bo jego pismo zawierało jedynie trzy zdania.",
+      "pubDate": "Fri, 31 Oct 2025 04:36:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/86e854e19ab10b2dd85bff887417b2c5/?t=crop:5616:2455:nowe:0:644,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Protesty w Rydze po decyzji parlamentu. Łotwa wypowiada Konwencję Stambulską",
+      "link": "https://wiadomosci.onet.pl/swiat/lotwa-wypowiada-konwencje-stambulska-decyzja-sejmu-zapadla/ryt0bv4",
+      "description": "Sejm Łotwy podjął decyzję o wypowiedzeniu konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, tzw. Konwencji Stambulskiej. Decyzję, która zapadła w czwartek wieczorem, poprzedziła wielogodzinna debata. Wniosek w tej sprawie, który został złożony przez opozycję, zyskał poparcie części rządowej koalicji.",
+      "pubDate": "Fri, 31 Oct 2025 03:35:42 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/rTBk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80MTg1MmVlOTQ1MmE4NWEyNjllNzE1ZDVkZDc0N2U0MC5qcGeSlQMABc0UG80LT5MFzQlgzQZA3gACoTAHoTEE",
+      "source": "Onet"
+    },
+    {
+      "title": "Australia news live: Ley says nuclear a technology ‘we should consider for the future’ after Coalition’s net zero meeting",
+      "link": "https://www.theguardian.com/australia-news/live/2025/oct/31/australia-news-live-politics-parliament-coalition-labor-net-zero-anthony-albanese-sussan-ley-epbc-nature-laws-ntwnfb",
+      "description": "<p>Follow the latest news live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2025/oct/31/gareth-ward-sentenced-for-sexually-abusing-two-men-ntwnfb\">Former NSW MP Gareth Ward sentenced to almost six years in prison for sexually abusing two men</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>National children’s commissioner says work still needed to fix ‘accountability gaps that are obvious wherever we look’</strong></p><p><strong>Anne Hollonds</strong>, the national children’s commissioner, spoke to RN Breakfast this morning on the eve of finishing her five-year term in the role.</p><p>I think there’s a growing recognition that the old ways of thinking about how we deal with child safety and wellbeing is no longer working and that we need to work together across the federation.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/31/australia-news-live-politics-parliament-coalition-labor-net-zero-anthony-albanese-sussan-ley-epbc-nature-laws-ntwnfb\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 03:33:16 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/09719c98cf89cab2321405f962f5ab96b47b95cb/349_0_5685_4548/master/5685.jpg?width=140&quality=85&auto=format&fit=max&s=7dcc7a4c6a3b261a2b21acec50da6b6a",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Gwiazdor freak fightów pozwał polityków PiS. Sebastian Kaleta straci immunitet?",
+      "link": "https://www.rp.pl/polityka/art43261341-gwiazdor-freak-fightow-pozwal-politykow-pis-sebastian-kaleta-straci-immunitet",
+      "description": "Jeden z najbarwniejszych epizodów kampanii prezydenckiej znajdzie swój finał w sądzie. Jacek Murański, na którego powołał się Donald Tusk, masowo pozywa swoich krytyków, a pierwszy wniosek o uchylenie immunitetu trafił już do Sejmu.",
+      "pubDate": "Fri, 31 Oct 2025 04:31:00 +0100",
+      "imageUrl": "https://i.gremicdn.pl/image/free/e9c35de10b59b98fd965e874d6259468/?t=crop:3999:1749:nowe:0:0,resize:fill:600:300,enlarge:1",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Marek Krajewski: Historia pewnego demona. Zaczęło się od „Egzorcysty\"",
@@ -226,14 +298,6 @@
       "source": "Onet"
     },
     {
-      "title": "Australia news live: Ley says nuclear a technology ‘we should consider for the future’ after Coalition’s net zero meeting",
-      "link": "https://www.theguardian.com/australia-news/live/2025/oct/31/australia-news-live-politics-parliament-coalition-labor-net-zero-anthony-albanese-sussan-ley-epbc-nature-laws-ntwnfb",
-      "description": "<p>Follow the latest news live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2025/oct/31/gareth-ward-sentenced-for-sexually-abusing-two-men-ntwnfb\">Former NSW MP Gareth Ward sentenced to almost six years in prison for sexually abusing two men</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>National children’s commissioner says work still needed to fix ‘accountability gaps that are obvious wherever we look’</strong></p><p><strong>Anne Hollonds</strong>, the national children’s commissioner, spoke to RN Breakfast this morning on the eve of finishing her five-year term in the role.</p><p>I think there’s a growing recognition that the old ways of thinking about how we deal with child safety and wellbeing is no longer working and that we need to work together across the federation.</p> <a href=\"https://www.theguardian.com/australia-news/live/2025/oct/31/australia-news-live-politics-parliament-coalition-labor-net-zero-anthony-albanese-sussan-ley-epbc-nature-laws-ntwnfb\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 02:55:27 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/09719c98cf89cab2321405f962f5ab96b47b95cb/349_0_5685_4548/master/5685.jpg?width=140&quality=85&auto=format&fit=max&s=7dcc7a4c6a3b261a2b21acec50da6b6a",
-      "source": "The Guardian"
-    },
-    {
       "title": "Australia’s first formal treaty with Indigenous traditional owners passed in Victoria",
       "link": "https://www.theguardian.com/australia-news/2025/oct/31/australia-first-formal-treaty-indigenous-traditional-owners-passed-victoria",
       "description": "<p>Step towards reconciliation hailed as ‘a historic moment’ with premier Jacinta Allan saying it gives Aboriginal Australians the power to shape policies that affect their lives</p><p>The Australian state of Victoria has taken a historic step towards reconciliation, passing the nation’s first formal treaty with Indigenous traditional owners.</p><p>After two days of debate, the upper house of Victoria’s parliament passed the <a href=\"https://www.theguardian.com/australia-news/2025/sep/09/victoria-treaty-traditional-owners-aboriginal-truth-telling-indigenous-legislation-parliament\">statewide treaty bill</a> without amendment by 21 votes to 16, just before 9pm on Thursday.</p> <a href=\"https://www.theguardian.com/australia-news/2025/oct/31/australia-first-formal-treaty-indigenous-traditional-owners-passed-victoria\">Continue reading...</a>",
@@ -264,14 +328,6 @@
       "pubDate": "Fri, 31 Oct 2025 03:07:00 +0100",
       "imageUrl": "https://i.gremicdn.pl/image/free/834c0adbd78b5a16c4205ce810531904/?t=crop:5746:2512:nowe:0:660,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Zderzenie pojazdów na A4. Zablokowany jeden pas ruchu",
-      "link": "https://wiadomosci.onet.pl/wroclaw/zderzenie-pojazdow-na-a4-na-dolnym-slasku-zablokowany-pas-ruchu/t113m7m",
-      "description": "W nocy z czwartku na piątek na dolnośląskim odcinku autostrady A4 między Kątami Wrocławskimi a Legnicą doszło do zderzenia dwóch pojazdów. Jak informuje Generalna Dyrekcja Dróg Krajowych i Autostrad, zablokowany został lewy pas ruchu.",
-      "pubDate": "Fri, 31 Oct 2025 02:03:59 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/tJ9k9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hNDljMWRjZTJhNWM5NjEyODk0ODg2YjNkNWJiZWI0MS5qcGeSlQMAA80IAM0EgJMFzQlgzQZA3gACoTAHoTEE",
-      "source": "Onet"
     },
     {
       "title": "Wystarczą proste rozwiązania, by uregulować najem krótkoterminowy mieszkań",
@@ -490,14 +546,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "Letting agent apologises for 'oversight' on Reeves rental licence",
-      "link": "https://www.bbc.com/news/articles/cx2p55ejy88o?at_medium=RSS&at_campaign=rss",
-      "description": "The company says its property manager offered to apply for the required licence but this never happened.",
-      "pubDate": "Thu, 30 Oct 2025 23:26:53 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c3/live/b122fec0-b5c9-11f0-b2a1-6f537f66f9aa.jpg",
-      "source": "BBC News"
-    },
-    {
       "title": "Giant Home Depot Skeletons Are on Crazy Sale Right Now (2025)",
       "link": "https://www.wired.com/story/home-depot-halloween-sale-2025/",
       "description": "I covet big animatronic skeletons for no good reason. Finally, I can justify the impulse buy.",
@@ -538,14 +586,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Kalendarium - piątek 31 października",
-      "link": "https://pro.rp.pl/kalendarium/art43263851-kalendarium-piatek-31-pazdziernika",
-      "description": "Co dziś nowego w prawie i gospodarce? Co opublikowano w Dzienniku Ustaw, jakie akty prawne wchodzą w życie, jakie ważne interpretacje wydały sądy, co ogłosił GUS, a co zapowiedział rząd? Oto subiektywne kalendarium dla profesjonalistów.",
-      "pubDate": "Fri, 31 Oct 2025 00:07:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/f216079ea8b2f010198cc34c36e40702/?t=crop:2000:1240:nowe:0:123,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Dramat Legii Warszawa. Obrońcy trofeum odpali z Pucharu Polski",
       "link": "https://sport.dziennik.pl/pilka-nozna/ekstraklasa/artykuly/10570619,dramat-legii-warszawa-obroncy-trofeum-odpali-z-pucharu-polski.html",
       "description": "<img hspace=\"5\" src=\"https://ocdn.eu/pulscms-transforms/1/F78ktkuTURBXy81YjIwODFhMy1jMzE0LTQzYjctYjM5Ny1jZjBiOTE4NTVlMjkuanBlZ5GTBc0BHcyg\" align=\"right\" />Legia Warszawa w jest w bardzo trudnej sytuacji. Stołeczna drużyna fatalnie spisuje się w Ekstraklasie, a z rozgrywek Pucharu Polski odpadła już w 1/16 finału. Obrońców trofeum wyeliminowała Pogoń Szczecin, która po dogrywce wygrała przy Łazienkowskiej 2:1.",
@@ -560,30 +600,6 @@
       "pubDate": "Thu, 30 Oct 2025 23:00:20 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/72d484cad2637cb82e89a9c5c7e89e1472d19581/352_0_3450_2760/master/3450.jpg?width=140&quality=85&auto=format&fit=max&s=c14b3721dad4635e3d650b2489805af7",
       "source": "The Guardian"
-    },
-    {
-      "title": "Gospodarka odpadami na miarę XXI wieku",
-      "link": "https://klimat.rp.pl/odpady/art43263221-gospodarka-odpadami-na-miare-xxi-wieku",
-      "description": "Jak w wielu dziedzinach, także w sferze cyrkularności kluczową rolę odgrywają rozwiązania cyfrowe. To efekt zarówno przyrostu liczby odpadów oraz poziomów zbiórki, jak i idące za nimi kolejne nowe rygory dla poszczególnych branż.",
-      "pubDate": "Fri, 31 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/7166e81e740fb0bfce34675473f87505/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Energetyka idzie pod rękę z AI",
-      "link": "https://www.rp.pl/analizy-rzeczpospolitej/art43263171-energetyka-idzie-pod-reke-z-ai",
-      "description": "Przewidywanie popytu, optymalizacja przepływu energii czy lepsze zarządzanie zapasami – to branżowe trendy.",
-      "pubDate": "Fri, 31 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/7ecd0d739c1bfa26b84b16f3e54e4fa1/?t=resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Inwestorzy parków handlowych nie powiedzieli ostatniego słowa",
-      "link": "https://www.rp.pl/nieruchomosci/art43252531-inwestorzy-parkow-handlowych-nie-powiedzieli-ostatniego-slowa",
-      "description": "Polski rynek parków handlowych wciąż rośnie. Zyskują mniejsze miasta i lokalni najemcy. Takie obiekty wpisują się w koncepcję 15-minutowych miast.",
-      "pubDate": "Fri, 31 Oct 2025 00:00:00 +0100",
-      "imageUrl": "https://i.gremicdn.pl/image/free/2373f844f0dd1bccdd32bcc11a4489be/?t=crop:3778:1652:nowe:0:591,resize:fill:600:300,enlarge:1",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Trump ally Stephen Miller at heart of FBI agent purge, new book reveals",
@@ -1818,11 +1834,11 @@
       "source": "Bankier.pl"
     },
     {
-      "title": "MSZ przyjęło nowego ambasadora. \"Polska i USA to partnerzy sojusznicy i przyjaciele\" ",
-      "link": "https://tvn24.pl/polska/msz-przyjelo-nowego-ambasadora-polska-i-usa-to-partnerzy-sojusznicy-i-przyjaciele-st8728216?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-2817643-thomas-rose-i-robert-kupiecki-ph8728377/alternates/LANDSCAPE_1280\" alt=\"MSZ przyjęło nowego ambasadora. \"Polska i USA to partnerzy sojusznicy i przyjaciele\" \" />\n    Nowy ambasador USA w Polsce, Thomas Rose, spotkał się z wiceministrem spraw zagranicznych. Wizyta ta stanowi pierwszy etap procedury obejmowania przez niego urzędu. Oficjalnie rozpocznie swoją misję po złożeniu listów uwierzytelniających na ręce prezydenta RP.\n    ",
+      "title": "\"To moment, w którym inwestorzy przestają kupować obietnicę\"",
+      "link": "https://tvn24.pl/biznes/tech/giganci-technologiczni-po-wynikach-inwestorzy-ostrozni-st8728117?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-9877878-nyse-ph8469844/alternates/LANDSCAPE_1280\" alt=\"\"To moment, w którym inwestorzy przestają kupować obietnicę\"\" />\n    Alphabet, Meta i Microsoft opublikowały wyczekiwane wyniki kwartalne, ujawniając jednocześnie plany drastycznego zwiększenia wydatków na sztuczną inteligencję. Inwestorzy zareagowali różnie - akcje Alphabet poszybowały w górę, podczas gdy Meta i Microsoft zaliczyły spadki. Wszystkie trzy firmy odnotowały solidny wzrost przychodów, lecz na Wall Street coraz głośniej słychać pytania o to, czy miliardowe inwestycje w AI przełożą się na proporcjonalne zyski.\n    ",
       "pubDate": "Thu, 30 Oct 2025 16:59:40 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-2817643-thomas-rose-i-robert-kupiecki-ph8728377/alternates/LANDSCAPE_1280",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-9877878-nyse-ph8469844/alternates/LANDSCAPE_1280",
       "source": "TVN24"
     },
     {
@@ -7610,14 +7626,6 @@
       "source": "Sekurak"
     },
     {
-      "title": "CamoLeak – jak tworząc własny alfabet zdobyć dane z repozytoriów GitHub przez Copilot Chat?",
-      "link": "https://sekurak.pl/camoleak-jak-tworzac-wlasny-alfabet-zdobyc-dane-z-repozytoriow-github-przez-copilot-chat/",
-      "description": "<p>Nie tak dawno temu pisaliśmy o podatności w Microsoft 365 Copilot, zgrabnie nazwanej EchoLeak. Umożliwiała ona – przez wysyłkę spreparowanego maila – wyciek danych z organizacji bez ingerencji użytkownika. Nowa podatność o równie wdzięcznej nazwie – CamoLeak – choć wykryta w podobnym czasie, dopiero niedawno została upubliczniona. TLDR: Badacz z...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/camoleak-jak-tworzac-wlasny-alfabet-zdobyc-dane-z-repozytoriow-github-przez-copilot-chat/\">CamoLeak – jak tworząc własny alfabet zdobyć dane z repozytoriów GitHub przez Copilot Chat?</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
-      "pubDate": "Thu, 23 Oct 2025 01:17:01 +0000",
-      "imageUrl": "",
-      "source": "Sekurak"
-    },
-    {
       "title": "Thailand to let Myanmar refugees work to counter aid cuts and labour shortages",
       "link": "https://www.theguardian.com/global-development/2025/oct/22/thailand-to-let-myanmar-refugees-work-aid-cuts-labour-shortages",
       "description": "<p>The move, welcomed by UN, will allow thousands of people living in camps to support themselves and their families</p><p>Thailand is setting a regional precedent this month by <a href=\"https://www.hrw.org/news/2025/08/27/thailand-allows-myanmar-refugees-in-camps-to-work-legally\">giving refugees permission to work in the country</a> in an effort to tackle aid cuts and its own labour shortages.</p><p><a href=\"https://www.theborderconsortium.org/\">More than 87,000 refugees</a> living in nine refugee camps along Thailand’s border with Myanmar have been totally reliant on handouts of food and foreign aid.</p> <a href=\"https://www.theguardian.com/global-development/2025/oct/22/thailand-to-let-myanmar-refugees-work-aid-cuts-labour-shortages\">Continue reading...</a>",
@@ -7640,14 +7648,6 @@
       "pubDate": "Tue, 21 Oct 2025 09:11:18 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/073bbb0274bf2afd588029a3f5a5b9292c4ed909/2190_743_5379_4303/master/5379.jpg?width=140&quality=85&auto=format&fit=max&s=85ad65da60a8eb2cdbb27a95c2dc4173",
       "source": "The Guardian"
-    },
-    {
-      "title": "PyPI, Ruby, npm – atak na popularne łańcuchy dostaw z wykorzystaniem Discorda",
-      "link": "https://sekurak.pl/pypi-ruby-npm-atak-na-popularne-lancuchy-dostaw-z-wykorzystaniem-discorda/",
-      "description": "<p>To nie pierwszy raz kiedy atakujący obierają za cel łańcuchy dostaw. Nie tak dawno informowaliśmy o ataku na listę otwartych bibliotek npm, a już pojawia się kolejne zagrożenie – malware ukryty w pakietach PyPI, Ruby oraz wspomnianym wyżej npm. TLDR: Badacze bezpieczeństwa z Socket.dev zidentyfikowali szereg pakietów zainfekowanych złośliwym oprogramowaniem,...</p>\n<p>Artykuł <a rel=\"nofollow\" href=\"https://sekurak.pl/pypi-ruby-npm-atak-na-popularne-lancuchy-dostaw-z-wykorzystaniem-discorda/\">PyPI, Ruby, npm – atak na popularne łańcuchy dostaw z wykorzystaniem Discorda</a> pochodzi z serwisu <a rel=\"nofollow\" href=\"https://sekurak.pl\">Sekurak</a>.</p>\n",
-      "pubDate": "Tue, 21 Oct 2025 03:39:53 +0000",
-      "imageUrl": "",
-      "source": "Sekurak"
     },
     {
       "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
