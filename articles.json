@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-31T10:46:11.889Z",
+  "generatedAt": "2025-10-31T10:56:36.124Z",
   "items": [
     {
       "title": "Rewolucja w chirurgii",
@@ -10,12 +10,108 @@
       "source": "Newsweek Polska"
     },
     {
+      "title": "Tragedia w hotelu. 72-latka odnalazł wnuk, \"to nie był wypadek\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tragedia-w-hotelu-72-latka-odnalazl-wnuk-to-nie-byl-wypadek,nId,22449546",
+      "description": "Rodzina 72-letniego Terrila Johnsona z Los Angeles złożyła pozew o spowodowanie śmierci ich bliskiego. Według dokumentu mężczyzna miał umrzeć na skutek poparzenia gorącą wodą, gdy w prysznicu hotelowym temperatura wody sięgnęła ponad 56 st. C. ",
+      "pubDate": "Fri, 31 Oct 2025 10:50:16 GMT",
+      "imageUrl": "https://i.iplsc.com/-/000LUY86UGP977EG-C321.webp",
+      "source": "Interia"
+    },
+    {
+      "title": "Nvidia strikes bumper AI deals with Asia tech giants",
+      "link": "https://www.bbc.com/news/articles/cyv862r7l2ro?at_medium=RSS&at_campaign=rss",
+      "description": "Fresh from $5 trillion valuation, global chips giant Nvidia has signed deals with LG, Hyundai and Samsung",
+      "pubDate": "Fri, 31 Oct 2025 10:49:34 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c91/live/e06b16b0-b60d-11f0-98f8-3b97e25aeb29.jpg",
+      "source": "BBC News"
+    },
+    {
+      "title": "Ukraine reports fresh Russian attacks and says Moscow has used ‘secret’ missile in recent months – Europe live",
+      "link": "https://www.theguardian.com/world/live/2025/oct/31/ukraine-russian-attacks-secret-missile-netherlands-dutch-elections-europe-live-latest-news-updates",
+      "description": "<p>The development of the 9M729 cruise missile prompted Donald Trump to abandon a nuclear arms control pact with Moscow during his first term</p><p>Meanwhile in <strong>Serbia</strong>, <strong>thousands of students are walking from the capital, Belgrade, to Novi Sad to mark the first anniversary of a deadly train station disaster</strong>, which killed 16 people and triggered a year of mass protests against perceived state corruption under president <strong>Aleksandar Vučić.</strong></p><p>They have been <strong>demanding accountability for the disaster,</strong> and an early parliamentary election that they hope will oust <strong>Vučić’s</strong> populist government from power, AP said.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/31/ukraine-russian-attacks-secret-missile-netherlands-dutch-elections-europe-live-latest-news-updates\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 10:48:30 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/97b92369719435dfe021905cda7094521b5b4592/279_0_1187_950/master/1187.jpg?width=140&quality=85&auto=format&fit=max&s=f0cda836df1b61b0c4b364c220b313c3",
+      "source": "The Guardian"
+    },
+    {
+      "title": "\"Nad ten staw już nie wrócimy\". Co dalej ze sprawą Karoliny Wróbel?",
+      "link": "https://wydarzenia.interia.pl/slaskie/news-nad-ten-staw-juz-nie-wrocimy-co-dalej-ze-sprawa-karoliny-wro,nId,22449513",
+      "description": "Mimo intensywnych poszukiwań nadal nie odnaleziono Karoliny Wróbel. Zarzut zabójstwa postawiono Patrykowi B., współlokatorowi i znajomemu zaginionej, który choć początkowo przyznał się do zbrodni, to potem wycofał swoje zeznania. Śledczy wciąż nie wiedzą, co stało się z dziewczyną. Czy po tym jak umorzono podejrzanemu tymczasowy areszt i po bezowocnym osuszeniu stawu Błaskowice, śledztwo utknęło w martwym punkcie? Sprawdzamy, jakie kroki zamierzają podjąć śledczy.",
+      "pubDate": "Fri, 31 Oct 2025 10:47:19 GMT",
+      "imageUrl": "https://i.iplsc.com/-/000LUY0IGCAHI42Y-C321.webp",
+      "source": "Interia"
+    },
+    {
+      "title": "Z pieczęcią Białego Domu. Trump rozdał dzieciom cukierki ",
+      "link": "https://tvn24.pl/swiat/donald-trump-rozdal-dzieciom-cukierki-st8729024?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-1308981-donald-i-melania-trump-ph8728916/alternates/LANDSCAPE_1280\" alt=\"Z pieczęcią Białego Domu. Trump rozdał dzieciom cukierki \" />\n    Donald Trump i jego żona Melania rozdali w czwartek słodycze setkom dzieci na corocznej imprezie w Białym Domu z okazji Halloween, które są organizowane od 1958 roku. Tradycję zapoczątkowała żona prezydenta Dwighta Eisenhowera Mary \"Mamie\".\n    ",
+      "pubDate": "Fri, 31 Oct 2025 10:47:08 GMT",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-1308981-donald-i-melania-trump-ph8728916/alternates/LANDSCAPE_1280",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nielegalne hostele w Tajlandii. Polka wśród 12 zatrzymanych",
+      "link": "https://wiadomosci.onet.pl/swiat/nielegalne-hostele-w-tajlandii-polka-wsrod-12-zatrzymanych/7mgq5wt",
+      "description": "Policja zorganizowała naloty na dwa nielegalne hostele na tajskiej wyspie Phangan. Aresztowano 12 osób, w tym trzech obywateli Hiszpanii, dwóch obywateli Tajlandii, Argentyńczyka, Polkę i pięciu pracowników z Mjanmy za prowadzenie nielegalnej działalności związanej z zakwaterowaniem — podaje anglojęzyczny serwis Khaosod.",
+      "pubDate": "Fri, 31 Oct 2025 10:45:51 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/beRk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81NTZkZjA1YzhkNWVkZDQzMTZkNWJjOTQwNmQ1YzdjNC5wbmeSlQMABs0Dtc0CFZMFzQlgzQZA3gACoTAHoTEE",
+      "source": "Onet"
+    },
+    {
+      "title": "Viktor Orban w potrzasku. USA i UE dokręcają śrubę. \"Węgry muszą zdecydować: albo są członkami UE, albo wspierają rosyjską agresję\"",
+      "link": "https://wiadomosci.onet.pl/politico/viktor-orban-w-potrzasku-usa-i-ue-dokrecaja-srube-wegry-musza-zdecydowac-albo-sa/rmk1qet",
+      "description": "Po latach zależności od Moskwy Węgry znalazły się pod ścianą. Amerykańskie sankcje wobec rosyjskiej ropy, które grożą odcięciem dostaw dla tego kraju, nie pozostawiają Budapesztowi innego wyboru, jak zwrócić się do sąsiada, z którym od dawna utrzymywał chłodne stosunki: Chorwacji. Viktor Orban twierdzi jednak, że alternatywne dostawy z tego kraju są drogie i nie są w stanie zaspokoić jego potrzeb. A węgierski minister spraw zagranicznych oskarża Zagrzeb o to, że \"próbuje czerpać zyski z wojny w Ukrainie\". — To kompletna bzdura — uważa Tamas Pletser, analityk ds. ropy i gazu w banku Erste.",
+      "pubDate": "Fri, 31 Oct 2025 10:45:24 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/tKqk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8yMmZjNWQwZmYyYjNiMWFkMTBiN2Q3ZjBkNDlmZjIxYS5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
+      "source": "Onet"
+    },
+    {
+      "title": "Ośmiu zatrzymanych, w tym adwokat i 126 zarzutów ",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-mazowieckie-krakow-osmiu-zatrzymanych-za-kradzieze-samochodow-i-paserstwo-uslyszeli-zarzuty-st8729312?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-2673637-przedmioty-zabezpieczone-przez-policje-ph8729357/alternates/LANDSCAPE_1280\" alt=\"Ośmiu zatrzymanych, w tym adwokat i 126 zarzutów \" />\n    W Warszawie, okolicznych powiatach oraz w Krakowie policjanci zatrzymali osiem osób. Są podejrzane o udział w zorganizowanej grupie przestępczej zajmującej się kradzieżami z włamaniem do pojazdów i paserstwem części samochodowych. W sumie postawiono 126 zarzutów. \n    ",
+      "pubDate": "Fri, 31 Oct 2025 10:45:09 GMT",
+      "imageUrl": "https://tvn24.pl/tvnwarszawa/najnowsze/cdn-zdjecie-2673637-przedmioty-zabezpieczone-przez-policje-ph8729357/alternates/LANDSCAPE_1280",
+      "source": "TVN24"
+    },
+    {
       "title": "Kup smartfon lub tablet Samsunga, a nie pożałujesz",
       "link": "https://www.tabletowo.pl/kup-smartfon-lub-tablet-samsunga-a-nie-pozalujesz/",
       "description": "<img width=\"2000\" height=\"1333\" src=\"https://www.tabletowo.pl/wp-content/uploads/2020/03/samsung-galaxy-z-flip-recenzja-tabletowo-10.jpg\" class=\"attachment-full size-full wp-post-image\" alt=\"Samsung logo\" style=\"margin-bottom:10px;\" decoding=\"async\" fetchpriority=\"high\" />Promocja Samsunga sprawi, że posiadacze jego smartfonów i tabletów będą zadowoleni. Można bowiem otrzymać cenny prezent, który na pewno przyda się na co dzień.<p><strong>Przeczytaj pełny artykuł tutaj:</strong> <a href=\"https://www.tabletowo.pl/kup-smartfon-lub-tablet-samsunga-a-nie-pozalujesz/\">Kup smartfon lub tablet Samsunga, a nie pożałujesz</a></p>",
       "pubDate": "Fri, 31 Oct 2025 10:44:55 +0000",
       "imageUrl": "https://www.tabletowo.pl/wp-content/uploads/2020/03/samsung-galaxy-z-flip-recenzja-tabletowo-10.jpg",
       "source": "Tabletowo"
+    },
+    {
+      "title": "Trump calls for Senate to scrap filibuster in order to force end to month-long government shutdown – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates",
+      "description": "<p>Snap food benefits are set to run out this weekend as shutdown comes close to matching the record of 2018-2019</p><p>President <strong>Donald Trump</strong> is calling on the <strong>Senate</strong> to scrap the filibuster, so that the Republican majority can bypass Democrats and reopen the federal government.<br><br>\n Trump posted Thursday night on his social media site, Truth Social:</p><p>THE CHOICE IS CLEAR – INITIATE THE ‘NUCLEAR OPTION,’ GET RID OF THE FILIBUSTER.</p><p>It is now time for the Republicans to play their “TRUMP CARD,” and go for what is called the Nuclear Option – Get rid of the Filibuster, and get rid of it, NOW!</p><p><strong>A (small) handful of US Senate Republicans issued a legislative rebuke to president Donald Trump’s world-rattling trade tariffs in a rare alignment with their Democratic counterparts. </strong>Four Republicans – Susan Collins of Maine, Mitch McConnell and Rand Paul of Kentucky, and Lisa Murkowski of Alaska – joined the opposition party, voting 51-47 on a resolution to end the base-level tariffs on more than 100 nations that the president put into place via executive order.</p><p><strong>The <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> is going to restrict the number of refugees it admits into the United States next year to the token level of just 7,500 – and those spots will mostly be filled by white South Africans. </strong>The low number represents a dramatic drop after the US previously allowed in hundreds of thousands of people fleeing war and persecution from around the world.</p><p><strong>New York’s governor, Kathy Hochul, on Thursday declared a state of emergency to free up funds so that she could issue $65m in assistance to food banks because federal funding for the national food stamp program is <a href=\"https://www.theguardian.com/us-news/2025/oct/24/government-shutdown-food-stamps-snap\">set to lapse</a> on 1 November. </strong>Oregon and Virginia have also issued emergency declarations to release state cash to go towards emergency food assistance as the federal <a href=\"https://www.theguardian.com/us-news/us-federal-government-shutdown-2025\">government shutdown</a> imperils Supplemental Nutrition Assistance Program (Snap) benefits for nearly 42 million Americans.</p><p><strong>More than half of Americans disapprove of Trump’s demolition of the White House’s East Wing and the construction of a new ballroom, <a href=\"https://www.washingtonpost.com/documents/1d305cca-df33-44a8-ba8d-c98790a67f99.pdf?itid=lk_inline_manual_2\">according to a new poll</a> from the Washington Post, ABC News and Ipsos. </strong>The survey was conducted between 24 and 28 October and indicates 56% of the respondents disagree with Trump’s recent move while 28% are in favor of it. Most of the survey’s respondents were white, one-third of them voted for <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> and another third for Kamala Harris in the 2024 election.</p><p><strong>JB Pritzker, the governor of <a href=\"https://www.theguardian.com/us-news/illinois\">Illinois</a>, has urged the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> to suspend its immigration crackdown in his state from Friday to Sunday, to allow children to “spend Halloween weekend without fear”.</strong></p> <a href=\"https://www.theguardian.com/us-news/live/2025/oct/31/donald-trump-filibuster-shutdown-snap-food-refugees-drug-boats-latest-news-updates\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 10:44:32 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/e4fa98b006ecd4a9554d3cae08825d75d3582b91/915_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=4938631ce68dbb9090e980b0dd0f86a2",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Żołnierz uciekł, ostrzelał cywilne auto. Nowe informacje prokuratury",
+      "link": "https://wydarzenia.interia.pl/warminsko-mazurskie/news-zolnierz-uciekl-ostrzelal-cywilne-auto-nowe-informacje-proku,nId,22449517",
+      "description": "Prokuratura chce umieszczenia w zakładzie psychiatrycznym żołnierza, który strzelał w Mielniku (woj. warmińsko-mazurskie) do cywilnego auta. - Biegli ocenili, iż mężczyzna w chwili popełnienia czynu był niepoczytalny - podała Prokuratura Okręgowa w Olsztynie. Dodano też, że 25-latek został wydalony z wojska.",
+      "pubDate": "Fri, 31 Oct 2025 10:44:08 GMT",
+      "imageUrl": "https://i.iplsc.com/-/000LUY0PP98D81E1-C321.webp",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Rzutki i rześki\". Żurek o Ziobrze i jego kondycji w obliczu zarzutów",
+      "link": "https://wiadomosci.gazeta.pl/polityka/7,198012,32368572,rzutki-i-rzeski-zurek-o-ziobrze-i-jego-kondycji-w-obliczu.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
+      "description": "<img src='https://bi.im-g.pl/im/6c/de/1e/z32368748IHG,Waldemar-Zurek-i-Zbigniew-Ziobro.jpg' align='left' hspace='4' vspace='2'>- Minister Ziobro na ten moment jest bardzo aktywnym politykiem. Jak szedł do sądu czy prokuratury (...), to zazwyczaj był wtedy chory - tak stan zdrowia swojego poprzednik komentował w Radiu ZET minister sprawiedliwości. Waldemar Żurek dodał, że na konferencjach Ziobro jest \"rzutki i rześki\".",
+      "pubDate": "Fri, 31 Oct 2025 10:44:00 GMT",
+      "imageUrl": "https://bi.im-g.pl/im/6c/de/1e/z32368748IHG,Waldemar-Zurek-i-Zbigniew-Ziobro.jpg",
+      "source": "Gazeta.pl"
+    },
+    {
+      "title": "Wszystkich Świętych 2025. Ile kosztuje miejsce na cmentarzu i jak je wykupić?",
+      "link": "https://wiadomosci.onet.pl/kraj/ile-kosztuje-wykupienie-miejsca-na-cmentarzu-i-co-wplywa-na-cene/bnddyzc",
+      "description": "Koszty związane z pochówkiem nie ograniczają się wyłącznie do organizacji pogrzebu, trumny, a później nagrobka. Bardzo ważnym wydatkiem jest również opłata za miejsce na cmentarzu. Warto pamiętać, że nie jest to jednorazowy wydatek, ale płatność, którą powtarzać trzeba po upłynięciu terminu, który najczęściej określony jest w regulaminie danej nekropolii.",
+      "pubDate": "Fri, 31 Oct 2025 10:42:46 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/u-gk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy84YTBhOWE2Yy1jYjNlLTRmYzEtODU1Ny02NGFkNzMyMGQyMTguanBlZ5KVAwBVzRGUzQnjkwXNCWDNBkDeAAKhMAehMQQ",
+      "source": "Onet"
     },
     {
       "title": "Atak nożownika w Sulęcinie. Zatrzymany mężczyzna",
@@ -82,6 +178,14 @@
       "source": "Polsat News"
     },
     {
+      "title": "Grzeczny jak inflacja w strefie euro. Miało być 2% i jest niewiele więcej",
+      "link": "https://www.bankier.pl/wiadomosc/Inflacja-w-strefie-euro-w-pazdzierniku-2025-pozostala-stabilna-choc-powyzej-2-9033227.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "description": "<p><img width=\"945\" height=\"560\" class=\"webfeedsFeaturedVisual\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" src=\"http://galeria.bankier.pl/p/f/f/2f4c279c55be72-948-567-5-62-995-596.jpg\" alt=\"\" align=\"left\" />Inflacja HICP w strefie euro w październiku 2025 roku nieznacznie spadła i utrzymała się bardzo blisko 2-procentowego celu inflacyjnego\nEuropejskiego Banku Centralnego.</p>",
+      "pubDate": "Fri, 31 Oct 2025 11:35:00 +0100",
+      "imageUrl": "http://galeria.bankier.pl/p/f/f/2f4c279c55be72-948-567-5-62-995-596.jpg",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "\"Przekaz dnia\" PiS? Konfederacja ma \"konserwować wpływy Tuska\", a Mentzen jest \"niewiarygodny\"",
       "link": "https://tvn24.pl/polska/wp-o-przekazie-dnia-pis-konfederacja-ma-konserwowac-wplywy-tuska-a-slawomir-mentzen-jest-niewiarygodny-st8729094?source=rss",
       "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-7362157-poslowie-konfederacji-krzysztof-bosak-i-slawomir-mentzen-na-sali-obrad-sejmu-w-warszawie-ph8012636/alternates/LANDSCAPE_1280\" alt=\"\"Przekaz dnia\" PiS? Konfederacja ma \"konserwować wpływy Tuska\", a Mentzen jest \"niewiarygodny\"\" />\n    Wirtualna Polska dotarła do \"przekazu dnia\" polityków Prawa i Sprawiedliwości, w którym wiele miejsca poświęcono Konfederacji i Sławomirowi Mentzenowi. Jak pisze WP, fragment przekazu mówi o tym, że \"Konfederacja ma odegrać rolę nowej Trzeciej Drogi, aby konserwować wpływy Tuska i jego ludzi\", a Mentzen jest \"niepoważny i niewiarygodny\". W notatce miały znaleźć się także cytaty na inny temat.\n    ",
@@ -128,6 +232,14 @@
       "pubDate": "Fri, 31 Oct 2025 10:28:00 +0000",
       "imageUrl": "",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Odciążą jednostki na granicy. Szef MON zatwierdził koncepcję utworzenia Komponentu Obrony Pogranicza w WOT",
+      "link": "https://www.bankier.pl/wiadomosc/Odciaza-jednostki-na-granicy-Szef-MON-zatwierdzil-koncepcje-utworzenia-Komponentu-Obrony-Pogranicza-w-WOT-9033237.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "description": "<p><img width=\"945\" height=\"560\" class=\"webfeedsFeaturedVisual\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" src=\"http://galeria.bankier.pl/p/4/9/3dc7c2fb7d0663-948-568-0-708-1611-966.jpg\" alt=\"\" align=\"left\" />Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował w piątek o zatwierdzeniu koncepcji utworzenia Komponentu Obrony Pogranicza z czterech brygad Wojsk Obrony Terytorialnej rozmieszczonych przy wschodniej granicy. Zadaniem KOP będzie m.in. odciążenie innych jednostek obecnych na granicy.</p>",
+      "pubDate": "Fri, 31 Oct 2025 11:28:00 +0100",
+      "imageUrl": "http://galeria.bankier.pl/p/4/9/3dc7c2fb7d0663-948-568-0-708-1611-966.jpg",
+      "source": "Bankier.pl"
     },
     {
       "title": "\"Dziś algorytymy rządzą mediami i widzami\". Czego dowiedzieliśmy się z konferencji PSPR Day 2025?",
@@ -226,14 +338,6 @@
       "source": "Onet"
     },
     {
-      "title": "Ukraine reports fresh Russian attacks and says Moscow has used ‘secret’ missile in recent months – Europe live",
-      "link": "https://www.theguardian.com/world/live/2025/oct/31/ukraine-russian-attacks-secret-missile-netherlands-dutch-elections-europe-live-latest-news-updates",
-      "description": "<p>The development of the 9M729 cruise missile prompted Donald Trump to abandon a nuclear arms control pact with Moscow during his first term</p><p>Over in Lithuania, <strong>Vilnius airport had to briefly close again last night after more smuggling balloons were reported, causing further disruption for passengers</strong> – just days after the Lithuanian government vowed to do whatever it takes to stop them from coming.</p><p>The <strong>restrictions were in place for around three hours</strong>, disrupting several flights; the fifth incident in the last 10 days.</p> <a href=\"https://www.theguardian.com/world/live/2025/oct/31/ukraine-russian-attacks-secret-missile-netherlands-dutch-elections-europe-live-latest-news-updates\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 10:19:29 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/97b92369719435dfe021905cda7094521b5b4592/279_0_1187_950/master/1187.jpg?width=140&quality=85&auto=format&fit=max&s=f0cda836df1b61b0c4b364c220b313c3",
-      "source": "The Guardian"
-    },
-    {
       "title": "Rusza akcja \"Znicz\". Apel policji o rozwagę na Wszystkich Świętych",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-10-31/rusza-akcja-znicz-apel-policji-o-rozwage-na-wszystkich-swietych/",
       "description": "W związku z dniem Wszystkich Świętych ponad 5 tys. policjantów ruchu drogowego będzie czuwać nad bezpieczeństwem na drogach. Akcja Znicz potrwa od piątku do końca weekendu. W rozmowie z Polsat News podinsp. Robert Opas zauważa, że problem nietrzeźwych kierowców w Polsce jest wciąż duży.",
@@ -284,7 +388,7 @@
     {
       "title": "First Thing: US to limit refugee numbers to 7,500 with priority for white South Africans",
       "link": "https://www.theguardian.com/us-news/2025/oct/31/first-thing-us-to-limit-refugee-numbers-to-7500-with-priority-for-white-south-africans",
-      "description": "<p>US refugee groups say move ‘lowers our moral standing.’ Plus, unionized Starbucks workers to vote on strikes over pay and conditions</p><p>Good morning.</p><p>The Trump administration is going to <a href=\"https://www.theguardian.com/us-news/2025/oct/30/trump-refugee-restrictions-white-south-africans\">restrict the number of refugees</a> it admits into the US next year to the token level of just 7,500 – and those spots will mostly be filled by white South Africans.</p><p><strong>What reason has been given for prioritizing white South Africans?</strong> The Trump administration has repeatedly claimed that the South African government is implementing anti-white policies through a new land expropriation law. The South African government has called the claims false.</p><p><strong>What was the other shooting by ICE agents in LA recently?</strong> Last week, federal agents shot an LA man who livestreams immigration enforcement operations on social media. Officials said at the time that Carlitos Ricardo Parias, a TikTok creator with a large following, attempted to ram federal agents’ vehicles after agents surrounded him and boxed in his car.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/31/first-thing-us-to-limit-refugee-numbers-to-7500-with-priority-for-white-south-africans\">Continue reading...</a>",
+      "description": "<p>US refugee groups say move ‘lowers our moral standing.’ Plus, unionized Starbucks workers to vote on strikes over pay and conditions</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\"><strong>Don’t already get First Thing in your inbox? Sign up here</strong></a></p></li></ul><p>Good morning.</p><p>The Trump administration is going to <a href=\"https://www.theguardian.com/us-news/2025/oct/30/trump-refugee-restrictions-white-south-africans\">restrict the number of refugees</a> it admits into the US next year to the token level of just 7,500 – and those spots will mostly be filled by white South Africans.</p><p><strong>What reason has been given for prioritizing white South Africans?</strong> The Trump administration has repeatedly claimed that the South African government is implementing anti-white policies through a new land expropriation law. The South African government has called the claims false.</p><p><strong>What was the other shooting by ICE agents in LA recently?</strong> Last week, federal agents shot an LA man who livestreams immigration enforcement operations on social media. Officials said at the time that Carlitos Ricardo Parias, a TikTok creator with a large following, attempted to ram federal agents’ vehicles after agents surrounded him and boxed in his car.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/31/first-thing-us-to-limit-refugee-numbers-to-7500-with-priority-for-white-south-africans\">Continue reading...</a>",
       "pubDate": "Fri, 31 Oct 2025 10:16:34 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/842a79a618012ac871e131964f5684ae7d22c156/341_0_4358_3486/master/4358.jpg?width=140&quality=85&auto=format&fit=max&s=5ae26434261c2a9dcd4f819362c4be76",
       "source": "The Guardian"
@@ -423,14 +527,6 @@
       "description": "<p>Indiana Jones star calls US president one history’s greatest criminals for attacks on science and boosting of fossil fuels</p><p><a href=\"https://www.theguardian.com/film/harrisonford\">Harrison Ford</a> has said that <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s assault upon measures to address the climate crisis “scares the shit out of me” and makes the US president among the worst criminals in history.</p><p>In a blistering attack upon the president, Ford told the Guardian that Trump “doesn’t have any policies, he has whims. It scares the shit out of me. The ignorance, the hubris, the lies, the perfidy. [Trump] knows better, but he’s an instrument of the status quo and he’s making money, hand over fist, while the world goes to hell in a handbasket.”</p> <a href=\"https://www.theguardian.com/environment/2025/oct/31/harrison-ford-donald-trump-climate-crisis\">Continue reading...</a>",
       "pubDate": "Fri, 31 Oct 2025 10:00:23 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/6f7055f9ed67a49980b6d16efaeac22ccc96fc9e/506_0_4995_3996/master/4995.jpg?width=140&quality=85&auto=format&fit=max&s=66c2e690a35e9c2d3bc44b456c9059bf",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The ex-CIA scientist brothers perfecting Halloween",
-      "link": "https://www.theguardian.com/us-news/2025/oct/31/cia-scientist-brothers-halloween",
-      "description": "<p>Jeff and Brian Park spent 40 years working in secret at a CIA lab – but science is just one part of their lives </p><p><br>\n Crowley Place is a sleepy street in the Waynewood area of south Alexandria, Virginia, a suburb 30 minutes from DC. The unassuming homes are well-tended, and it’s a quick walk to six different churches.</p><p>But each year at Halloween the police shut down the street as thousands of visitors flock to the area. It’s all due to two ageing brothers who spent 40 years working together in secret at a laboratory in the CIA.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/31/cia-scientist-brothers-halloween\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 10:00:22 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/2dd66fce55cec64533915ee0eed11265139811ed/350_0_1750_1400/master/1750.jpg?width=140&quality=85&auto=format&fit=max&s=6d5dafd9ec9ec97fd6cadca3c22a738a",
       "source": "The Guardian"
     },
     {
@@ -596,7 +692,7 @@
     {
       "title": "Ciało nastolatka w przepuście. \"Wyglądało, jakby próbował uciekać\". Lekarz nie wyklucza udziału osób trzecich",
       "link": "https://wiadomosci.onet.pl/rzeszow/cialo-18-latka-w-miejscowosci-zablotce-ojciec-mowil-ze-ktos-mu-grozil/jxjt0qc",
-      "description": "W Zabłotcach koło Sanoka odnaleziono ciało 18-latka. Jak podaje TVN24, lekarz, który oglądał zwłoki, nie wykluczył udziału osób trzecich. Ojciec nastolatka w rozmowie z lokalnymi mediami powiedział, że jego syn otrzymywał groźby. Dziś w Przemyślu zostanie wykonana sekcja zwłok.",
+      "description": "W miejscowości Zabłotce koło Sanoka odnaleziono ciało 18-latka. Jak podaje TVN24, lekarz, który oglądał zwłoki, nie wykluczył udziału osób trzecich. Ojciec nastolatka w rozmowie z lokalnymi mediami powiedział, że jego syn otrzymywał groźby. Dziś w Przemyślu zostanie wykonana sekcja zwłok.",
       "pubDate": "Fri, 31 Oct 2025 09:38:57 GMT",
       "imageUrl": "https://cdn.wiadomosci.onet.pl/1/4sZk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9hYTEzZWE1MjM3YWJhOWZlY2E0M2ZkOGEzODQzNDEwMy5qcGeSlQMAZ80SZ80KXJMFzQlgzQZA3gACoTAHoTEE",
       "source": "Onet"
@@ -766,7 +862,7 @@
       "link": "https://wiadomosci.onet.pl/warszawa/dramat-pod-warszawa-w-szambie-znaleziono-44-latke-obok-stalo-dziecko/nl9n5vr",
       "description": "We wsi Chrzęsne pod Warszawą doszło do makabrycznego odkrycia. W szambie znaleziono ciało 44-letniej kobiety. Tuż obok stało 7-letnie dziecko. Było wychłodzone i potrzebowało pomocy.",
       "pubDate": "Fri, 31 Oct 2025 09:18:50 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/7SIk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9kYWEwOWY1ZTcwYmY0ZThhMTJjMTZmMGUwYjBiYTZiYS5qcGeSlQMAzQFmzQ_AzQjckwXNCWDNBkDeAAKhMAehMQQ",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/Zomk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy9mYjZiOGMwODA5YjBhNzM5MzBlOWRjZjI1NzM5YzM4Mi5qcGeSlQMAzOHND8DNCNyTBc0JYM0GQN4AAqEwB6ExBA",
       "source": "Onet"
     },
     {
@@ -1042,14 +1138,6 @@
       "source": "Rzeczpospolita"
     },
     {
-      "title": "Więził i wykorzystywał seksualnie kobietę. Akcja krakowskiej policji, 34-latek zatrzymany we Wrocławiu",
-      "link": "https://wiadomosci.onet.pl/wroclaw/wiezil-i-wykorzystywal-seksualnie-kobiete-w-krakowie-34-latek-zatrzymany-we-wroclawiu/4plp7c3",
-      "description": "Policjanci z Krakowa, we współpracy z wrocławskimi funkcjonariuszami, zatrzymali mężczyznę, który \"w różnych miejscach na terenie Krakowa kilkukrotnie przetrzymywał kobietę wbrew jej woli przez kilka dni\". W tym czasie, jak informuje policja, podejrzany miał znęcać się nad ofiarą, wykorzystywać seksualnie i grozić jej utratą życia. Policjantów zawiadomiła znajoma kobiety.",
-      "pubDate": "Fri, 31 Oct 2025 08:49:31 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/erwk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85OWQxN2ZhMjlhNjI1ZmIzZjAxNDBkZWM2ODg5ZDhmOC5wbmeSlQMAAM0DF80BvJMFzQlgzQZA3gACoTAHoTEE",
-      "source": "Onet"
-    },
-    {
       "title": "Ciało jednoznacznie reaguje na wizytę w galerii sztuki. Zaskakujące odkrycie naukowców",
       "link": "https://kobieta.rp.pl/nauka/art43253671-cialo-jednoznacznie-reaguje-na-wizyte-w-galerii-sztuki-zaskakujace-odkrycie-naukowcow",
       "description": "Oglądanie oryginalnych dzieł sztuki w galeriach pozytywnie wpływa na układ odpornościowy, nerwowy i hormonalny oraz może pomóc w łagodzeniu stresu – dowodzi najnowsze badanie. Naukowcy porównali w nim reakcje ludzkiego organizmu na oglądanie oryginalnych dzieł sztuki w galerii z reakcjami na reprodukcje.",
@@ -1170,14 +1258,6 @@
       "source": "Press.pl"
     },
     {
-      "title": "Minister zapowiada koniec nazwy CPK. \"Została skompromitowana\"",
-      "link": "https://wiadomosci.onet.pl/kraj/minister-zapowiada-koniec-nazwy-cpk-zostala-skompromitowana/0qpcc6q",
-      "description": "Nazwa CPK zostanie zmieniona, ponieważ projekt został zmieniony, ma poprawione parametry, jest bardziej funkcjonalny, nie jest scentralizowany — powiedział w piątek minister infrastruktury Dariusz Klimczak.",
-      "pubDate": "Fri, 31 Oct 2025 08:31:17 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/IJVk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy85YjhhNDZhMC05NWM1LTRmODMtYjVmOC1jZTEyYTRiZmQzYTIuanBlZ5KVAwDMic0RRM0JtpMFzQlgzQZA3gACoTAHoTEE",
-      "source": "Onet"
-    },
-    {
       "title": "To najważniejszy test tego roku. NASA szykuje się na Marsa",
       "link": "https://antyweb.pl/to-najwazniejszy-test-tego-roku-nasa-szykuje-sie-na-marsa",
       "description": "Blue Origin przygotowuje się do misji na Marsa. Rakieta New Glenn pomyślnie przeszła test silników, co przybliża nas do startu programu ESCAPADE.",
@@ -1232,14 +1312,6 @@
       "pubDate": "Fri, 31 Oct 2025 09:27:29 +0100",
       "imageUrl": "https://i.gremicdn.pl/image/free/63383c81352018c6d4ceca233f658db0/otwarcie-linii-produkcyjnej-w-zakladzie-dawtona-w-milejowie-osadzie-w-wydarzeniu-wzieli-udzial-politycy-pis-m-in-robert-telus-artur-sobon-i-zbigniew-chmielowiec?t=crop:2654:1160:nowe:746.98857939845:101.37704661223,resize:fill:600:300,enlarge:1",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Japończycy oprotestowali decyzję Donalda Trumpa. \"Absolutnie niedopuszczalna\"",
-      "link": "https://wiadomosci.onet.pl/swiat/japonczycy-oprotestowali-decyzje-donalda-trumpa-absolutnie-niedopuszczalna/w7yq57e",
-      "description": "Japońska organizacja zrzeszająca ofiary zrzucenia bomb atomowych, Nihon Hidankyo, skierowała do ambasady USA w Tokio list protestacyjny, w którym uznała za \"absolutnie niedopuszczalne\" ogłoszone przez prezydenta USA Donalda Trumpa wznowienie testów broni jądrowej.",
-      "pubDate": "Fri, 31 Oct 2025 08:26:04 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/KPCk9lGaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy81N2FmZjBkYS03NWExLTQ5YTctOGZkZC1jNjEzOGIyMTE3MzkuanBlZ5KVAwBezQvwzQa4kwXNCWDNBkDeAAKhMAehMQQ",
-      "source": "Onet"
     },
     {
       "title": "Trzech miliarderów spotkało się na kolacji. Stawiali kurczaki i rozdawali autografy",
@@ -1368,14 +1440,6 @@
       "pubDate": "Fri, 31 Oct 2025 09:13:27 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/a2Qk9kpTURBXy9mNGMxYzdiNzA4YzRiNjMyNGM4YzE4NWY4OTM4ZWMxYS5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
-    },
-    {
-      "title": "Konrad Berkowicz zatrzymany w sklepie Ikea. Włodzimierz Czarzasty: pomyśl człowieku chwilę",
-      "link": "https://tvn24.pl/polska/konrad-berkowicz-zatrzymany-w-sklepie-ikea-wlodzimierz-czarzasty-pomysl-czlowieku-chwile-st8728990?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-3087289-konrad-berkowicz-ph8723429/alternates/LANDSCAPE_1280\" alt=\"Konrad Berkowicz zatrzymany w sklepie Ikea. Włodzimierz Czarzasty: pomyśl człowieku chwilę\" />\n    Jeżeli taka sytuacja pomyłki by się zdarzyła Ukraińcowi albo komuś z zagranicy, to co byś, bracie, zrobił? - zwrócił się Włodzimierz Czarzasty do Konrada Berkowicza. Nawiązał do zakupów posła Konfederacji, które zakończyły się mandatem. \n    ",
-      "pubDate": "Fri, 31 Oct 2025 08:13:26 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-3087289-konrad-berkowicz-ph8723429/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
     },
     {
       "title": "Australian man dies while attempting to climb Himalayan mountain",
@@ -1562,14 +1626,6 @@
       "source": "OKO.press"
     },
     {
-      "title": "\"Technologie są kluczowe w rywalizacji USA-Chiny\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/ustalenia-ze-spotkania-przywodcow-usa-chiny-ocenia-ekspert-st8729011?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/biznes/najnowsze/cdn-zdjecie-5354998-prezydent-usa-donald-trump-w-gabinecie-owalnym-ph8659191/alternates/LANDSCAPE_1280\" alt=\"\"Technologie są kluczowe w rywalizacji USA-Chiny\"\" />\n    Tymczasowy rozejm, a nie przełom - tak porozumienie ogłoszone w czwartek po spotkaniu przywódców USA i Chin ocenia Qiheng Chen, analityk instytutu Asia Society (AS). Poczas \"niezwykłego spotkania\", jak określił je Trump\", uzgodniono między innymi zawieszenie na rok chińskich kontroli eksportu metali ziem rzadkich. Prawdziwa stawka, zdaniem eksperta, toczy się o technologie.\n    ",
-      "pubDate": "Fri, 31 Oct 2025 07:54:36 GMT",
-      "imageUrl": "https://tvn24.pl/biznes/najnowsze/cdn-zdjecie-5354998-prezydent-usa-donald-trump-w-gabinecie-owalnym-ph8659191/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
-    },
-    {
       "title": "Na wrocławskim cmentarzu wprowadzono nietypowy zakaz. \"Decyzja wojska\"",
       "link": "https://wiadomosci.gazeta.pl/polska/7,198072,32367542,na-wroclawskim-cmentarzu-wprowadzono-nietypowy-zakaz-decyzja.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
       "description": "<img src='https://bi.im-g.pl/im/12/de/1e/z32367634IHG,Cmentarz-Osobowicki-we-Wroclawiu--zdjecie-ilustrac.jpg' align='left' hspace='4' vspace='2'>Osoby odwiedzające w tym roku Cmentarz Osobowicki we Wrocławiu będą musiały pamiętać o zasłonięciu kamerek samochodowych i innych rejestratorów obrazu. Dotyczy to tych, którzy zdecydują się zostawić pojazd na pobliskim parkingu wojskowym. Dlaczego?",
@@ -1624,14 +1680,6 @@
       "pubDate": "Fri, 31 Oct 2025 07:49:23 +0000",
       "imageUrl": "https://www.tabletowo.pl/wp-content/uploads/2025/10/smartwatch-rollme-edge-zrodlo-rollme-1.jpg",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Łotwa chce wypowiedzieć konwencję stambulską, protesty na ulicach",
-      "link": "https://tvn24.pl/swiat/lotwa-parlament-za-wypowiedzeniem-konwencji-stambulskiej-protesty-na-ulicach-st8728986?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-ngr1tf-ryga-lotwa-zima-shutterstock_1681366414-ph6791003/alternates/LANDSCAPE_1280\" alt=\"Łotwa chce wypowiedzieć konwencję stambulską, protesty na ulicach\" />\n    Łotewski parlament w czwartek wieczorem przegłosował wypowiedzenie konwencji stambulskiej o zwalczaniu przemocy domowej. Sprawa wywołała protesty mieszkańców, a w Rydze odbyła się największa demonstracja od lat.\n    ",
-      "pubDate": "Fri, 31 Oct 2025 07:44:23 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-ngr1tf-ryga-lotwa-zima-shutterstock_1681366414-ph6791003/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
     },
     {
       "title": "Minister: Nazwa CPK została skompromitowana. Zostanie zmieniona",
@@ -2258,19 +2306,19 @@
       "source": "Bankier.pl"
     },
     {
-      "title": "Head of UK government’s anti-Islamophobia partner ‘refused service in shop for being Muslim’",
-      "link": "https://www.theguardian.com/uk-news/2025/oct/31/government-anti-islamophobia-refused-service-shop-muslim",
-      "description": "<p>Akeela Ahmed, of British Muslim Trust, says experience is part of a wider rise in anti-Muslim hatred</p><p>The chief executive of the government’s new official partner in tackling Islamophobia has spoken about being refused service in a shop for being Muslim, amid concerns about a rise in insidious anti-Muslim “microaggressions”.</p><p>The British Muslim Trust (BMT) is launching a government-backed telephone and online reporting service for hate crimes. In July, the trust was selected as a recipient of the government’s <a href=\"https://www.gov.uk/government/publications/combatting-hate-against-muslims-fund-prospectus/combatting-hate-against-muslims-fund-prospectus\">“combating hate against Muslims fund”</a>, and in the months since its chief executive, <a href=\"https://www.theguardian.com/uk-news/2025/jul/21/new-trust-to-monitor-anti-muslim-hatred-in-uk-after-funding-to-tell-mama-paused\">Akeela Ahmed</a>, has been meeting members of Muslim communities, including in Bradford in West Yorkshire, East Sussex, Greater London and Greater Manchester.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/31/government-anti-islamophobia-refused-service-shop-muslim\">Continue reading...</a>",
-      "pubDate": "Fri, 31 Oct 2025 06:00:19 GMT",
-      "imageUrl": "https://i.guim.co.uk/img/media/288b5e265ed5723237d01f47d91d8a4b28abd817/501_62_999_799/master/999.jpg?width=140&quality=85&auto=format&fit=max&s=3c1a78f57db1681a857e019d274418fa",
-      "source": "The Guardian"
-    },
-    {
       "title": "Charities and stars call on UK government to set child poverty reduction targets",
       "link": "https://www.theguardian.com/society/2025/oct/31/celebrities-mps-charities-government-child-poverty-targets-emilia-clarke",
       "description": "<p>Signatories of open letter include National Children’s Bureau, Barnardo’s and celebrities such as  Emilia Clarke</p><p>Celebrities, MPs and children’s charities are among dozens of signatories to an open letter ramping up pressure on the government to set targets for reducing child poverty in the UK.</p><p>The actor Emilia Clarke, the broadcaster Chris Packham and the presenter George Clarke have put their names to the letter, coordinated by the Big Issue founder John Bird, stating that the government’s reluctance to set binding child poverty reduction targets has “rung alarm bells”.</p> <a href=\"https://www.theguardian.com/society/2025/oct/31/celebrities-mps-charities-government-child-poverty-targets-emilia-clarke\">Continue reading...</a>",
       "pubDate": "Fri, 31 Oct 2025 06:00:19 GMT",
       "imageUrl": "https://i.guim.co.uk/img/media/109eb7a96d6f361dee5f0a39dbcbf96c58823967/0_0_11811_9449/master/11811.jpg?width=140&quality=85&auto=format&fit=max&s=8b0d92085831c629c6d3c4289ee34b5e",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Head of UK government’s anti-Islamophobia partner ‘refused service in shop for being Muslim’",
+      "link": "https://www.theguardian.com/uk-news/2025/oct/31/government-anti-islamophobia-refused-service-shop-muslim",
+      "description": "<p>Akeela Ahmed, of British Muslim Trust, says experience is part of a wider rise in anti-Muslim hatred</p><p>The chief executive of the government’s new official partner in tackling Islamophobia has spoken about being refused service in a shop for being Muslim, amid concerns about a rise in insidious anti-Muslim “microaggressions”.</p><p>The British Muslim Trust (BMT) is launching a government-backed telephone and online reporting service for hate crimes. In July, the trust was selected as a recipient of the government’s <a href=\"https://www.gov.uk/government/publications/combatting-hate-against-muslims-fund-prospectus/combatting-hate-against-muslims-fund-prospectus\">“combating hate against Muslims fund”</a>, and in the months since its chief executive, <a href=\"https://www.theguardian.com/uk-news/2025/jul/21/new-trust-to-monitor-anti-muslim-hatred-in-uk-after-funding-to-tell-mama-paused\">Akeela Ahmed</a>, has been meeting members of Muslim communities, including in Bradford in West Yorkshire, East Sussex, Greater London and Greater Manchester.</p> <a href=\"https://www.theguardian.com/uk-news/2025/oct/31/government-anti-islamophobia-refused-service-shop-muslim\">Continue reading...</a>",
+      "pubDate": "Fri, 31 Oct 2025 06:00:19 GMT",
+      "imageUrl": "https://i.guim.co.uk/img/media/288b5e265ed5723237d01f47d91d8a4b28abd817/501_62_999_799/master/999.jpg?width=140&quality=85&auto=format&fit=max&s=3c1a78f57db1681a857e019d274418fa",
       "source": "The Guardian"
     },
     {
@@ -2364,9 +2412,9 @@
     {
       "title": "Tłumy na zabawie w Białym Domu. Uczestniczył w niej Donald Trump",
       "link": "https://wydarzenia.interia.pl/zagranica/news-tlumy-na-zabawie-w-bialym-domu-uczestniczyl-w-niej-donald-tr,nId,22449429",
-      "description": "Donald Trump uczestniczył w tradycyjnej zabawie Halloween w Białym Domu, rozdając dzieciom słodycze w otoczeniu setek rodzin i barwnie przebranych gości. Wielu uczestników miało niecodzienne kostiumy nawiązujące do popkultury czy wizerunku prezydenta USA i pierwszej damy. Na wydarzeniu pojawiła się także grupa Polaków.",
+      "description": "Donald Trump uczestniczył w tradycyjnej zabawie Halloween w Białym Domu, rozdając najmłodszym słodycze w otoczeniu setek rodzin i barwnie przebranych gości. Wielu uczestników miało niecodzienne kostiumy nawiązujące do popkultury czy wizerunku prezydenta USA i pierwszej damy. Na wydarzeniu pojawiła się także grupa Polaków.",
       "pubDate": "Fri, 31 Oct 2025 05:44:08 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000LUWLLERMT8Q23-C321.webp",
+      "imageUrl": "https://i.iplsc.com/-/000LUYLEAOJMJWWS-C321.webp",
       "source": "Interia"
     },
     {
@@ -2666,14 +2714,6 @@
       "source": "Bankier.pl"
     },
     {
-      "title": "Zakupy złota: budzą się uśpione banki centralne. NBP kupił najwięcej, ale nikt nie przewiduje spadku rezerw",
-      "link": "https://www.bankier.pl/wiadomosc/Zloto-budza-sie-uspione-banki-centralne-Polska-i-Kazachstan-kupily-najwiecej-metalu-9032633.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "description": "<p><img width=\"945\" height=\"560\" class=\"webfeedsFeaturedVisual\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" src=\"http://galeria.bankier.pl/p/1/f/ddebbb918836f5-948-568-0-0-2450-1469.jpg\" alt=\"\" align=\"left\" />Światowa Rada Złota podała, że trzeci kwartał 2025 r. wygenerował rekordowy popyt na złoto w historii zbierania danych. Ogromne zakupy sztabek i monet przekroczyły 300 ton, a do tego 222 ton kupiły złote ETF-y. Silny pozostał popyt ze strony banków centralnych, wśród których największym kupującym pozostał polski NBP, a do grona kupujących dołączyły nowe banki.</p>",
-      "pubDate": "Fri, 31 Oct 2025 06:00:00 +0100",
-      "imageUrl": "http://galeria.bankier.pl/p/1/f/ddebbb918836f5-948-568-0-0-2450-1469.jpg",
-      "source": "Bankier.pl"
-    },
-    {
       "title": "Chińskie auta biorą szturmem polski rynek. Tyle trzeba zapłacić, by mieć „chińczyka” z salonu",
       "link": "https://www.bankier.pl/wiadomosc/Chinskie-auta-biora-szturmem-polski-rynek-Tyle-trzeba-zaplacic-by-miec-chinczyka-z-salonu-9032700.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "description": "<p><img width=\"945\" height=\"560\" class=\"webfeedsFeaturedVisual\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" src=\"http://galeria.bankier.pl/p/c/2/55cf00c11e2f20-948-568-0-133-1977-1186.jpg\" alt=\"\" align=\"left\" />W III kw. 2025 r. Polacy zarejestrowali ponad 12,3 tys. nowych aut chińskich marek. W samym tylko wrześniu na Polskich drogach przybyło ponad 4,4 tys. z nich a ich udział w rynku wzrósł do 8,9 proc. – wynika z danych Polskiego Związku Przemysłu Motoryzacyjnego. Sprawdzamy, które chińskie auta cieszą się w polskich salonach największym powodzeniem i ile kosztują.</p>",
@@ -2834,14 +2874,6 @@
       "source": "Sekurak"
     },
     {
-      "title": "Barcelona's Sagrada Família becomes world's tallest church",
-      "link": "https://www.bbc.com/news/articles/ce9dr45g49yo?at_medium=RSS&at_campaign=rss",
-      "description": "The Gaudí-designed architectural marvel now stands at an impressive 162.91 metres.",
-      "pubDate": "Fri, 31 Oct 2025 02:40:47 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/314e/live/e88bd5e0-b62c-11f0-aa13-0b0479f6f42a.jpg",
-      "source": "BBC News"
-    },
-    {
       "title": "Radio Free Asia suspends news operations amid cuts and US government shutdown",
       "link": "https://www.theguardian.com/us-news/2025/oct/31/radio-free-asia-suspends-news-operations-amid-cuts-us-government-shutdown",
       "description": "<p>RFA will begin closing overseas bureaus, as well as laying off and paying severance to staff members, with the hope that it could return in the future</p><p>Radio Free Asia (RFA) has said it is <a href=\"https://www.rfa.org/english/about/releases/2025/10/29/rfa-suspends-remaining-editorial-operations/\">suspending its news operations</a> due to the US government shutdown and the Trump administration’s <a href=\"https://www.theguardian.com/media/2025/mar/18/chinese-state-media-celebrates-trumps-cuts-to-voice-of-america-and-radio-free-asia\">cuts to government-funded news services</a>.</p><p>“RFA has been forced to suspend all remaining news content production – for the first time in its 29 years of existence,” said Bay Fang, RFA’s president and CEO, in a statement.</p> <a href=\"https://www.theguardian.com/us-news/2025/oct/31/radio-free-asia-suspends-news-operations-amid-cuts-us-government-shutdown\">Continue reading...</a>",
@@ -2903,6 +2935,14 @@
       "description": "How To Be Human finds the star grappling with grief and heartbreak, instead of murdering celebrities.",
       "pubDate": "Fri, 31 Oct 2025 00:33:01 GMT",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b838/live/8b942290-b4ef-11f0-ab86-b5f654e70621.jpg",
+      "source": "BBC News"
+    },
+    {
+      "title": "£420m bill cut for heavy industry as union attacks 'obscene' energy profits",
+      "link": "https://www.bbc.com/news/articles/c5ype0gp7lgo?at_medium=RSS&at_campaign=rss",
+      "description": "UK Steel said while the increased support was welcomed, the government could have gone further. ",
+      "pubDate": "Fri, 31 Oct 2025 00:10:19 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa74/live/4c95fb10-b628-11f0-ba75-093eca1ac29b.jpg",
       "source": "BBC News"
     },
     {
@@ -4354,14 +4394,6 @@
       "source": "Spider's Web"
     },
     {
-      "title": "Polacy podejrzewani o kradzież w Niemczech. Mieli wziąć setki pralek, Porsche i fortepian",
-      "link": "https://wiadomosci.gazeta.pl/swiat/7,198076,32366427,polacy-podejrzewani-o-kradziez-w-niemczech-mieli-wziac-setki.html?utm_source=RSS&utm_medium=RSS&utm_campaign=10199882",
-      "description": "<img src='https://bi.im-g.pl/im/ea/d3/1e/z32325098IHG,Niemiecka-policja--zdjecie-ilustracyjne-.jpg' align='left' hspace='4' vspace='2'>Do transportu skonfiskowanych przedmiotów policja w Hamburgu potrzebowała siedmiu ciężarówek.",
-      "pubDate": "Thu, 30 Oct 2025 14:16:00 GMT",
-      "imageUrl": "https://bi.im-g.pl/im/ea/d3/1e/z32325098IHG,Niemiecka-policja--zdjecie-ilustracyjne-.jpg",
-      "source": "Gazeta.pl"
-    },
-    {
       "title": "Najbogatsza gmina chce wyprzedzić swoje czasy. Poznajcie Kleszczów i przemysł 5.0",
       "link": "https://android.com.pl/tech/984793-kleszczow-i-przemysl-5-0-set-forum-2/",
       "description": "<p>Kleszczów od lat jest najbogatszą gminą w Polsce. Przyczyniło się do tego sąsiedztwo zagłębia energetycznego, jednego z najważniejszych dla bezpieczeństwa kraju, ale nie tylko ono. Gmina już od dawna myśli o swojej przyszłości: dlatego od lat na jej terenie i wokół funkcjonują strefy przemysłowe. A teraz wręcz spogląda w przyszłość i przygotowuje kolejną strefę pod […]</p>\n<p>Artykuł <a href=\"https://android.com.pl/tech/984793-kleszczow-i-przemysl-5-0-set-forum-2/\">Najbogatsza gmina chce wyprzedzić swoje czasy. Poznajcie Kleszczów i przemysł 5.0</a> pochodzi z serwisu <a href=\"https://android.com.pl\">ANDROID.COM.PL - społeczność entuzjastów technologii</a>.</p>\n",
@@ -4634,28 +4666,12 @@
       "source": "GeekWeek"
     },
     {
-      "title": "Walki o Pokrowsk nie ustają. \"Rosjanie zwiększają aktywność\"",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-walki-o-pokrowsk-nie-ustaja-rosjanie-zwiekszaja-aktywnosc,nId,22449159",
-      "description": "Rosjanie zwiększają aktywność w okolicach Pokrowska w obwodzie donieckim - oświadczył w czwartek naczelny dowódca Sił Zbrojnych Ukrainy generał Ołeksandr Syrski. Wojskowy uspokajał jednak, że \"nie ma mowy o okrążeniu wojsk ukraińskich w tym rejonie\".",
-      "pubDate": "Thu, 30 Oct 2025 13:13:53 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000LUTIJFEPG3223-C321.webp",
-      "source": "Interia"
-    },
-    {
       "title": "If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead",
       "link": "https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/",
       "description": "At a time when nuclear threats feel more alarming than ever, Netflix’s doomsday film falls frustratingly flat. A 1964 masterpiece tells a much better cautionary tale.",
       "pubDate": "Thu, 30 Oct 2025 13:10:36 +0000",
       "imageUrl": "https://media.wired.com/photos/69025131e0f83b65806efb17/master/pass/Fail-Safe-1964-film-obliterates-A-House-of-Dynamite-Culture-MCDHOOF_ZX025.jpg",
       "source": "Wired"
-    },
-    {
-      "title": "Poseł KO przełamie złą passę w Szczecinie? \"Trzeba podejmować rękawice\"",
-      "link": "https://wydarzenia.interia.pl/zachodniopomorskie/news-cicha-kampania-juz-ruszyla-posel-ko-chce-wygrac-w-miescie-wo,nId,22437597",
-      "description": "W tym miejscu kampania wyborcza będzie trwała rekordowo długo. Na prawie cztery lata przed wyborami zgłosił się kandydat na nowego prezydenta Szczecina, który może przerwać trwające dwie dekady rządy. - Trzeba podejmować rękawice - mówi w rozmowie z Interią wiceminister infrastruktury Arkadiusz Marchewka z Koalicji Obywatelskiej.",
-      "pubDate": "Thu, 30 Oct 2025 13:08:28 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000LTYUX4CCQPAAN-C321.webp",
-      "source": "Interia"
     },
     {
       "title": "14 Best Lego Gifts for Brick Builders (2025)",
@@ -4704,14 +4720,6 @@
       "pubDate": "Thu, 30 Oct 2025 12:57:41 +0000",
       "imageUrl": "https://cdn.oko.press/cdn-cgi/image/fit=cover,width=580,height=260,quality=75/https://cdn.oko.press/2025/10/DZ251030_020216.jpg",
       "source": "OKO.press"
-    },
-    {
-      "title": "\"Zniknie z mapy\". Dmitrij Miedwiediew grozi krajowi NATO, minister odpowiada",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-zniknie-z-mapy-miedwiediew-grozi-krajowi-nato-minister-odpow,nId,22449135",
-      "description": "\"Rosyjski tyran nigdy nie przestaje grozić i obrażać\" kontra \"zmazanie Belgii z mapy\". Tak wygląda kłótnia między belgijskim ministrem obrony Theo Franckenem a przewodniczącym Rady Bezpieczeństwa Rosji Dmitrijem Miedwiediewem. Wszystko zaczęło się od krótkiego komentarza. ",
-      "pubDate": "Thu, 30 Oct 2025 12:57:28 GMT",
-      "imageUrl": "https://i.iplsc.com/-/000LUSYKMJTI3V66-C321.webp",
-      "source": "Interia"
     },
     {
       "title": "Plus prezentuje nowe pakiety roamingu. To nie koniec nowości",
