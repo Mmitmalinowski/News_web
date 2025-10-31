@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-31T23:38:27.054Z",
+  "generatedAt": "2025-10-31T23:48:26.193Z",
   "items": [
     {
       "title": "Samsung na prowadzeniu. Istotny skok dostaw",
@@ -16,6 +16,14 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/eUBk9kpTURBXy83NGEzY2Y2OWM0OWI4YTk5YzFmOWU3ZjdmYTNlMmQzZi5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
+    },
+    {
+      "title": "Hamas przekazał Izraelowi fragmenty ciał trzech niezidentyfikowanych osób",
+      "link": "https://wiadomosci.onet.pl/swiat/hamas-przekazal-izraelowi-fragmenty-cial-trzech-niezidentyfikowanych-osob/hf5r6by",
+      "description": "Hamas wydał w piątek wieczorem fragmenty ciał trzech osób. Szczątki zostały przekazane Izraelowi w celu identyfikacji — poinformował Międzynarodowy Komitet Czerwonego Krzyża (ICRC). Kwestia zwrotu zwłok zakładników wywołuje napięcia podczas obowiązującego od 10 października rozejmu w Strefie Gazy.",
+      "pubDate": "Fri, 31 Oct 2025 23:41:41 GMT",
+      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/31sk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy80ZDBkYmZlNjc4N2JhNmU5OWJhMGRkMDBiMmY2MmNkNS5qcGeSlQMAzLvNF3DNDS-TBc0JYM0GQN4AAqEwB6ExBA",
+      "source": "Onet"
     },
     {
       "title": "Trump administration blocked from suspending Snap benefits for millions of Americans",
@@ -106,14 +114,6 @@
       "source": "TVN24"
     },
     {
-      "title": "America Blisters with Hate and Violence - B2",
-      "link": "https://www.newsweek.pl/learning-english/charlie-kirk-assassination-shooting-raises-concerns-about-campus-safety/n21e6vk",
-      "description": "The fatal shooting of Charlie Kirk at Utah Valley University immediately ratcheted up nationwide alarm amid a spam of shocking acts of violence.",
-      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/ld6k9kpTURBXy9jZDZlYWQ4YjVjOGI4MmM1MWM0ZWQ5MmIzNjkxMTM3MS5qcGeRkwXMyMyF3gABoTAF",
-      "source": "Newsweek Polska"
-    },
-    {
       "title": "How Ultra-Running Star Hunter Leininger Is Pushing Limits - B2",
       "link": "https://www.newsweek.pl/learning-english/how-ultra-running-star-hunter-leininger-is-pushing-limits-b2/sp0s2zt",
       "description": "Ultra-runner Hunter Leininger on how he keeps smiling through blisters and sickness on his extreme adventures.",
@@ -130,6 +130,14 @@
       "source": "Newsweek Polska"
     },
     {
+      "title": "Moon Mining Takes Giant Leap Forward - C1",
+      "link": "https://www.newsweek.pl/learning-english/moon-mining-takes-giant-leap-forward/vzjt5vg",
+      "description": "Interlune hopes to mine the rare helium-3 isotope from the lunar surface. Customers are already lining up, including the U.S. government.",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/LN1k9kqTURBXy9jNmUwMjY5N2Q0NmNhZjdjYTljNDBmZDc3MzhjZjQzZS5qcGVnkZMFzMjMhd4AAaEwAQ",
+      "source": "Newsweek Polska"
+    },
+    {
       "title": "The Way People Walk in Cities Has Changed - B1",
       "link": "https://www.newsweek.pl/learning-english/the-way-people-walk-in-cities-has-changed-b1/xlj3r95",
       "description": "Comparing footage of city life from the 1980s and 2010, researchers found significant changes in how fast we walk and how we interact in public spaces.",
@@ -138,11 +146,11 @@
       "source": "Newsweek Polska"
     },
     {
-      "title": "Moon Mining Takes Giant Leap Forward - C1",
-      "link": "https://www.newsweek.pl/learning-english/moon-mining-takes-giant-leap-forward/vzjt5vg",
-      "description": "Interlune hopes to mine the rare helium-3 isotope from the lunar surface. Customers are already lining up, including the U.S. government.",
+      "title": "America Blisters with Hate and Violence - B2",
+      "link": "https://www.newsweek.pl/learning-english/charlie-kirk-assassination-shooting-raises-concerns-about-campus-safety/n21e6vk",
+      "description": "The fatal shooting of Charlie Kirk at Utah Valley University immediately ratcheted up nationwide alarm amid a spam of shocking acts of violence.",
       "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/LN1k9kqTURBXy9jNmUwMjY5N2Q0NmNhZjdjYTljNDBmZDc3MzhjZjQzZS5qcGVnkZMFzMjMhd4AAaEwAQ",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/ld6k9kpTURBXy9jZDZlYWQ4YjVjOGI4MmM1MWM0ZWQ5MmIzNjkxMTM3MS5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
     },
     {
@@ -154,27 +162,27 @@
       "source": "Newsweek Polska"
     },
     {
-      "title": "F-35 Myths Debunked - C1",
-      "link": "https://www.newsweek.pl/learning-english/f-35-myths-debunked/jqqvslv",
-      "description": "Rumors of a “kill switch” dented foreign faith in the aircraft. Its wartime capabilities, shown in Israel’s June attacks on Iran, prove the jet is unrivaled.",
-      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/o7Mk9kpTURBXy9jMTQ4ZGZiOGRmZTc2OTIzZDI0NTg2OTY3MjczOGU0ZS5qcGeRkwXMyMyF3gABoTAF",
-      "source": "Newsweek Polska"
-    },
-    {
-      "title": "America Has a New Type of Millionaire - B2",
-      "link": "https://www.newsweek.pl/learning-english/america-has-a-new-type-of-millionaire-b2/cclgldv",
-      "description": "Over 1,000 Americans cross into the seven-figure class each day, but most belong to a non-stereotypical group of “everyday millionaires.”",
-      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/fLwk9kpTURBXy8yNGMxNDUwZTkxMTY3ZGE2N2UzYmFhNGU2YWRkMjdlYi5qcGeRkwXMyMyF3gABoTAF",
-      "source": "Newsweek Polska"
-    },
-    {
       "title": "80 Years After Nagasaki - C1",
       "link": "https://www.newsweek.pl/learning-english/80-years-after-nagasaki/mjr9f18",
       "description": "Eighty years after the U.S. dropped the atomic bomb on Nagasaki amid the rationale that it would save lives, a new book tells the survivors’ stories.",
       "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/n7Xk9kpTURBXy80NDQzMzkzNTQ0MWFhNmEwODg3OTI2M2M2ZGFhNmQ3My5qcGeRkwXMyMyF3gABoTAF",
+      "source": "Newsweek Polska"
+    },
+    {
+      "title": "Helen Mirren on Success on Her Terms - C1",
+      "link": "https://www.newsweek.pl/learning-english/helen-mirren-on-success-on-her-terms/vnyencc",
+      "description": "The key to actor Helen Mirren’s career is standing by her choices — which have led to award winning success.",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/6IEk9kpTURBXy83MzlmYWExYWMxMzg5ZTE2ODc2ZTM5ZmI4NWYyMzcxNS5qcGeRkwXMyMyF3gABoTAF",
+      "source": "Newsweek Polska"
+    },
+    {
+      "title": "F-35 Myths Debunked - C1",
+      "link": "https://www.newsweek.pl/learning-english/f-35-myths-debunked/jqqvslv",
+      "description": "Rumors of a “kill switch” dented foreign faith in the aircraft. Its wartime capabilities, shown in Israel’s June attacks on Iran, prove the jet is unrivaled.",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/o7Mk9kpTURBXy9jMTQ4ZGZiOGRmZTc2OTIzZDI0NTg2OTY3MjczOGU0ZS5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
     },
     {
@@ -1768,14 +1776,6 @@
       "pubDate": "Fri, 31 Oct 2025 16:31:48 +0000",
       "imageUrl": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-10%2F95905b60-b675-11f0-9e7a-290ef3d9afe4&resize=1400%2C959&client=19f2b5e49a271b2bde77&signature=c9d4c2efc5f7a3ffb4d0e720514d883da516f29f",
       "source": "Engadget"
-    },
-    {
-      "title": "Na karaibskie plaże wypływają zwęglone ciała. To efekt brutalnego pokazu siły Donalda Trumpa. \"Robią, co im się podoba\"",
-      "link": "https://wiadomosci.onet.pl/politico/zweglone-ciala-na-karaibach-trump-robi-co-chce-a-europa-umywa-rece/w4nsj2b",
-      "description": "Bycie przywódcą na Karaibach w erze Donalda Trumpa oznacza bycie synonimem bezsilności — i zwiastunem nadejścia bezlitosnego porządku światowego, w którym o władzy decyduje siła, a mniejsze państwa nie mają praw na arenie międzynarodowej. To prosta droga do tego, by świat stał się o wiele bardziej brutalny — taki, w którym wielkie mocarstwa będą miażdżyć mniejsze, a ich losy będą zależeć od tego, który z tyranów zgłosi roszczenia do ich regionu.",
-      "pubDate": "Fri, 31 Oct 2025 16:31:47 GMT",
-      "imageUrl": "https://cdn.wiadomosci.onet.pl/1/lJQk9lBaHR0cHM6Ly9vY2RuLmV1L3B1bHNjbXMvTURBXy8wODc0NjIzZGRhYzczOGM5ZWMzMzc4NmU2Y2UzYzY2Ni5qcGeSlQMAAM0HgM0EOJMFzQlgzQZA3gACoTAHoTEE",
-      "source": "Onet"
     },
     {
       "title": "Konkurent Photoshopa totalnie za darmo. Kusi jak diabli",
