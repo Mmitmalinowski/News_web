@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-01T03:49:09.266Z",
+  "generatedAt": "2025-11-01T04:00:03.457Z",
   "items": [
     {
       "title": "Samsung na prowadzeniu. Istotny skok dostaw",
@@ -16,6 +16,14 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/eUBk9kpTURBXy83NGEzY2Y2OWM0OWI4YTk5YzFmOWU3ZjdmYTNlMmQzZi5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
+    },
+    {
+      "title": "Play now",
+      "link": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+      "description": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+      "pubDate": "Sat, 01 Nov 2025 03:57:37 GMT",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
+      "source": "BBC News"
     },
     {
       "title": "Narrow Dodgers win sets up World Series decider",
@@ -418,22 +426,6 @@
       "source": "TVN24"
     },
     {
-      "title": "How Ultra-Running Star Hunter Leininger Is Pushing Limits - B2",
-      "link": "https://www.newsweek.pl/learning-english/how-ultra-running-star-hunter-leininger-is-pushing-limits-b2/sp0s2zt",
-      "description": "Ultra-runner Hunter Leininger on how he keeps smiling through blisters and sickness on his extreme adventures.",
-      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/syWk9kpTURBXy84MDMyODc4Njk5MmQwZGEwN2JjYmYwYWU1ODUxMDdmNS5qcGeRkwXMyMyF3gABoTAF",
-      "source": "Newsweek Polska"
-    },
-    {
-      "title": "Europe’s New Military Power - C1",
-      "link": "https://www.newsweek.pl/learning-english/europes-new-military-power/78s6sbp",
-      "description": "Newsweek sat down with Polish Foreign Minister and Deputy Prime Minister Radek Sikorski in Washington for a candid conversation.",
-      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/FZik9kpTURBXy8wZDVhMjU0OThkMWM0MjRlMDYxMTUxOWM2ZjAzYmY3ZC5qcGeRkwXMyMyF3gABoTAF",
-      "source": "Newsweek Polska"
-    },
-    {
       "title": "Moon Mining Takes Giant Leap Forward - C1",
       "link": "https://www.newsweek.pl/learning-english/moon-mining-takes-giant-leap-forward/vzjt5vg",
       "description": "Interlune hopes to mine the rare helium-3 isotope from the lunar surface. Customers are already lining up, including the U.S. government.",
@@ -450,19 +442,27 @@
       "source": "Newsweek Polska"
     },
     {
+      "title": "How Ultra-Running Star Hunter Leininger Is Pushing Limits - B2",
+      "link": "https://www.newsweek.pl/learning-english/how-ultra-running-star-hunter-leininger-is-pushing-limits-b2/sp0s2zt",
+      "description": "Ultra-runner Hunter Leininger on how he keeps smiling through blisters and sickness on his extreme adventures.",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/syWk9kpTURBXy84MDMyODc4Njk5MmQwZGEwN2JjYmYwYWU1ODUxMDdmNS5qcGeRkwXMyMyF3gABoTAF",
+      "source": "Newsweek Polska"
+    },
+    {
+      "title": "Europe’s New Military Power - C1",
+      "link": "https://www.newsweek.pl/learning-english/europes-new-military-power/78s6sbp",
+      "description": "Newsweek sat down with Polish Foreign Minister and Deputy Prime Minister Radek Sikorski in Washington for a candid conversation.",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/FZik9kpTURBXy8wZDVhMjU0OThkMWM0MjRlMDYxMTUxOWM2ZjAzYmY3ZC5qcGeRkwXMyMyF3gABoTAF",
+      "source": "Newsweek Polska"
+    },
+    {
       "title": "The Way People Walk in Cities Has Changed - B1",
       "link": "https://www.newsweek.pl/learning-english/the-way-people-walk-in-cities-has-changed-b1/xlj3r95",
       "description": "Comparing footage of city life from the 1980s and 2010, researchers found significant changes in how fast we walk and how we interact in public spaces.",
       "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/O85k9kpTURBXy83OTk2NTcxMTM3YTJmODc5MTY2ZTI2MjFjMTA0ZGE2MC5qcGeRkwXMyMyF3gABoTAF",
-      "source": "Newsweek Polska"
-    },
-    {
-      "title": "80 Years After Nagasaki - C1",
-      "link": "https://www.newsweek.pl/learning-english/80-years-after-nagasaki/mjr9f18",
-      "description": "Eighty years after the U.S. dropped the atomic bomb on Nagasaki amid the rationale that it would save lives, a new book tells the survivors’ stories.",
-      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
-      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/n7Xk9kpTURBXy80NDQzMzkzNTQ0MWFhNmEwODg3OTI2M2M2ZGFhNmQ3My5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
     },
     {
@@ -487,6 +487,14 @@
       "description": "Mr. Armani, thank you for letting me be a small part of your world. Thank you for showing me that true elegance never ages, and that discipline plus imagination plus a deep business sense equals a legacy.",
       "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/Pcck9kpTURBXy8zZTRkNTA5YTAwYWZhYjdmODdhZmFhMGM5MTMyY2M4MS5qcGeRkwXMyMyF3gABoTAF",
+      "source": "Newsweek Polska"
+    },
+    {
+      "title": "Helen Mirren on Success on Her Terms - C1",
+      "link": "https://www.newsweek.pl/learning-english/helen-mirren-on-success-on-her-terms/vnyencc",
+      "description": "The key to actor Helen Mirren’s career is standing by her choices — which have led to award winning success.",
+      "pubDate": "Fri, 31 Oct 2025 23:00:00 +0100",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/6IEk9kpTURBXy83MzlmYWExYWMxMzg5ZTE2ODc2ZTM5ZmI4NWYyMzcxNS5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
     },
     {
@@ -3562,19 +3570,19 @@
       "source": "Antyweb"
     },
     {
-      "title": "How Do Metal Detectors Work?",
-      "link": "https://www.wired.com/story/how-do-metal-detectors-work/",
-      "description": "What sneaky invisible forces enable these instruments to locate buried treasure?",
-      "pubDate": "Fri, 31 Oct 2025 11:00:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/6903ebe44fb31210770e4c31/master/pass/GettyImages-86284305.jpg",
-      "source": "Wired"
-    },
-    {
       "title": "Epson EcoTank ET-2980 Printer Review: Topped Up",
       "link": "https://www.wired.com/review/epson-ecotank-et-2980/",
       "description": "Epson's latest ink tank printer made me forget about cartridges.",
       "pubDate": "Fri, 31 Oct 2025 11:00:00 +0000",
       "imageUrl": "https://media.wired.com/photos/6903f0b16f942fe6b61c2004/master/pass/Review-%20Epson%20EcoTank%20ET-2980%20Printer.png",
+      "source": "Wired"
+    },
+    {
+      "title": "How Do Metal Detectors Work?",
+      "link": "https://www.wired.com/story/how-do-metal-detectors-work/",
+      "description": "What sneaky invisible forces enable these instruments to locate buried treasure?",
+      "pubDate": "Fri, 31 Oct 2025 11:00:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/6903ebe44fb31210770e4c31/master/pass/GettyImages-86284305.jpg",
       "source": "Wired"
     },
     {
@@ -4480,14 +4488,6 @@
       "pubDate": "Fri, 31 Oct 2025 07:08:00 +0100",
       "imageUrl": "",
       "source": "Polsat News"
-    },
-    {
-      "title": "Play now",
-      "link": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
-      "description": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
-      "pubDate": "Fri, 31 Oct 2025 06:07:39 GMT",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png",
-      "source": "BBC News"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 31.10.2025",
