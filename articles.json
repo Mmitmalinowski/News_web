@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-01T07:28:13.774Z",
+  "generatedAt": "2025-11-01T07:39:00.867Z",
   "items": [
     {
       "title": "Samsung na prowadzeniu. Istotny skok dostaw",
@@ -16,6 +16,14 @@
       "pubDate": "Tue, 04 Nov 2025 08:00:00 +0100",
       "imageUrl": "https://ocdn.eu/pulscms-transforms/1/eUBk9kpTURBXy83NGEzY2Y2OWM0OWI4YTk5YzFmOWU3ZjdmYTNlMmQzZi5qcGeRkwXMyMyF3gABoTAF",
       "source": "Newsweek Polska"
+    },
+    {
+      "title": "Po jednym jeżdżą auta, na innym stoją bloki. Stworzyli mapę nieistniejących cmentarzy ",
+      "link": "https://tvn24.pl/poznan/po-jednym-jezdza-auta-na-innym-stoja-bloki-powstala-mapa-nieistniejacych-cmentarzy-st8712806?source=rss",
+      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecied41d8cd98f00b204e9800998ecf8427e-park-dabrowskiego-ph1921539/alternates/LANDSCAPE_1280\" alt=\"Po jednym jeżdżą auta, na innym stoją bloki. Stworzyli mapę nieistniejących cmentarzy \" />\n    Poznań skrywa pod ziemią wiele zapomnianych cmentarzy. - Na terenie parków nadal znajdują się szczątki wielu tysięcy dawnych mieszkańców miasta - mówi Paweł Skrzypalik, autor Cyfrowego Lapidarium Poznania. Na tych nekropoliach leżą między innymi Hipolit Cegielski i prezydent Niemiec Paul von Hindenburg. Właśnie powstała mapa, na której je oznaczono.\n    ",
+      "pubDate": "Sat, 01 Nov 2025 07:33:47 GMT",
+      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecied41d8cd98f00b204e9800998ecf8427e-park-dabrowskiego-ph1921539/alternates/LANDSCAPE_1280",
+      "source": "TVN24"
     },
     {
       "title": "Meet the 'silver influencers' taking TikTok and Instagram by storm",
@@ -1856,14 +1864,6 @@
       "pubDate": "Fri, 31 Oct 2025 19:42:00 GMT",
       "imageUrl": "https://bi.im-g.pl/im/fd/de/1e/z32370429IHG,Donald-Trump--zdjecie-archiwalne-.jpg",
       "source": "Gazeta.pl"
-    },
-    {
-      "title": "Ziobro \"skrywa się u najbliższego współpracownika Putina\"",
-      "link": "https://tvn24.pl/polska/ryszard-petru-mam-obawe-czy-zbigniew-ziobro-wroci-z-wegier-skrywa-sie-u-najblizszego-wspolpracownika-wladimira-putina-st8730790?source=rss",
-      "description": "\n    <img src=\"https://tvn24.pl/najnowsze/cdn-zdjecie-8412457-viktor-orban-wladimir-putin-ph7991842/alternates/LANDSCAPE_1280\" alt=\"Ziobro \"skrywa się u najbliższego współpracownika Putina\"\" />\n    Ryszard Petru ma poważne obawy, czy Zbigniew Ziobro wróci do Polski z Węgier. W \"Faktach po Faktach\" TVN24 poseł Polski 2050 stwierdził, że Ziobro \"skrywa się u najbliższego współpracownika Putina\". Drugi gość programu, poseł KO Michał Kołodziejczak, podkreślił, że wolałby mówić o polityce, \"która idzie do przodu\", niż o rozliczeniach.\n    ",
-      "pubDate": "Fri, 31 Oct 2025 19:38:29 GMT",
-      "imageUrl": "https://tvn24.pl/najnowsze/cdn-zdjecie-8412457-viktor-orban-wladimir-putin-ph7991842/alternates/LANDSCAPE_1280",
-      "source": "TVN24"
     },
     {
       "title": "Niepokój na Bliskim Wschodzie. Hezbollah ma odbudowywać arsenał",
@@ -4026,19 +4026,19 @@
       "source": "Antyweb"
     },
     {
-      "title": "Epson EcoTank ET-2980 Printer Review: Topped Up",
-      "link": "https://www.wired.com/review/epson-ecotank-et-2980/",
-      "description": "Epson's latest ink tank printer made me forget about cartridges.",
-      "pubDate": "Fri, 31 Oct 2025 11:00:00 +0000",
-      "imageUrl": "https://media.wired.com/photos/6903f0b16f942fe6b61c2004/master/pass/Review-%20Epson%20EcoTank%20ET-2980%20Printer.png",
-      "source": "Wired"
-    },
-    {
       "title": "How Do Metal Detectors Work?",
       "link": "https://www.wired.com/story/how-do-metal-detectors-work/",
       "description": "What sneaky invisible forces enable these instruments to locate buried treasure?",
       "pubDate": "Fri, 31 Oct 2025 11:00:00 +0000",
       "imageUrl": "https://media.wired.com/photos/6903ebe44fb31210770e4c31/master/pass/GettyImages-86284305.jpg",
+      "source": "Wired"
+    },
+    {
+      "title": "Epson EcoTank ET-2980 Printer Review: Topped Up",
+      "link": "https://www.wired.com/review/epson-ecotank-et-2980/",
+      "description": "Epson's latest ink tank printer made me forget about cartridges.",
+      "pubDate": "Fri, 31 Oct 2025 11:00:00 +0000",
+      "imageUrl": "https://media.wired.com/photos/6903f0b16f942fe6b61c2004/master/pass/Review-%20Epson%20EcoTank%20ET-2980%20Printer.png",
       "source": "Wired"
     },
     {
